@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004129098143354889"
+      ],
+      "media_source_tweet_id": [
+        "2004129109799325954"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2004215729718222932",
+    "created_at": "2025-12-25T15:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T16:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004215729718222932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1139502847949565953",
+          "start": 3,
+          "username": "U_summer07192"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jBTLsMGcDG",
+          "end": 44,
+          "expanded_url": "https://x.com/U_summer07192/status/2004129109799325954/photo/1",
+          "media_key": "3_2004129098143354889",
+          "start": 21,
+          "url": "https://t.co/jBTLsMGcDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004215729718222932",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004129109799325954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @U_summer07192: ❄ https://t.co/jBTLsMGcDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004129098143354889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AYy-Lb0AkSQeo.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004129098143354889"
+          ],
+          "media_source_tweet_id": [
+            "2004129109799325954"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2004215729718222932",
+        "created_at": "2025-12-25T15:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T16:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004215729718222932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1139502847949565953",
+              "start": 3,
+              "username": "U_summer07192"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBTLsMGcDG",
+              "end": 44,
+              "expanded_url": "https://x.com/U_summer07192/status/2004129109799325954/photo/1",
+              "media_key": "3_2004129098143354889",
+              "start": 21,
+              "url": "https://t.co/jBTLsMGcDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004215729718222932",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004129109799325954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @U_summer07192: ❄ https://t.co/jBTLsMGcDG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004129098143354889"
+          ]
+        },
+        "author_id": "1139502847949565953",
+        "conversation_id": "2004129109799325954",
+        "created_at": "2025-12-25T09:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004129109799325954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBTLsMGcDG",
+              "end": 25,
+              "expanded_url": "https://x.com/U_summer07192/status/2004129109799325954/photo/1",
+              "media_key": "3_2004129098143354889",
+              "start": 2,
+              "url": "https://t.co/jBTLsMGcDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004129109799325954",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 389,
+          "impression_count": 38128,
+          "like_count": 4094,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "❄ https://t.co/jBTLsMGcDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1131,
+          "like_count": 22862,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5691
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-14T12:00:24.000Z",
+        "description": "絵◆うちの子 エルム アシュリク 【FA 🏷 #うさ太郎へ】*.｡🌕💍💫【お題箱 https://t.co/8Vi1QsdctZ】 【@U_summer071922(サブ)】✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡【✉️usummer07192@gmail.com】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 23,
+                "tag": "うさ太郎へ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "U_summer071922"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/U_summer07192",
+                "end": 64,
+                "expanded_url": "https://odaibako.net/u/U_summer07192",
+                "start": 41,
+                "url": "https://t.co/8Vi1QsdctZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/37245617",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/37245617",
+                "start": 0,
+                "url": "https://t.co/4WjKgbtThg"
+              }
+            ]
+          }
+        },
+        "id": "1139502847949565953",
+        "name": "うさまー🍉",
+        "pinned_tweet_id": "1999064113952313604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601979751081865216/cuDzUtpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91350,
+          "following_count": 374,
+          "like_count": 17880,
+          "listed_count": 445,
+          "media_count": 1092,
+          "tweet_count": 11695
+        },
+        "url": "https://t.co/4WjKgbtThg",
+        "username": "U_summer07192",
+        "verified": true
+      }
+    ]
+  }
+}

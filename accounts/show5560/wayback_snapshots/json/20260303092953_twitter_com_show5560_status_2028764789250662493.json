@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2028754253863628912",
+    "created_at": "2026-03-03T09:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T10:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028764789250662493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1954155147267125248",
+          "start": 0,
+          "username": "kunkundawangCwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028764789250662493",
+    "in_reply_to_user_id": "1954155147267125248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028763776535978440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kunkundawangCwO 咬你哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2028754253863628912",
+        "created_at": "2026-03-03T09:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028764789250662493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1954155147267125248",
+              "start": 0,
+              "username": "kunkundawangCwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028764789250662493",
+        "in_reply_to_user_id": "1954155147267125248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028763776535978440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkundawangCwO 咬你哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954155147267125248",
+        "conversation_id": "2028754253863628912",
+        "created_at": "2026-03-03T09:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028763776535978440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028763776535978440",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028754253863628912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 杂鱼～❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg 坐标:深圳  🚪50",
+        "id": "1465701247021838341",
+        "name": "绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1133,
+          "like_count": 23250,
+          "listed_count": 4,
+          "media_count": 937,
+          "tweet_count": 5775
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T12:18:17.000Z",
+        "description": "",
+        "id": "1954155147267125248",
+        "name": "困困困",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954156211273932800/YVnVI58A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 172,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "kunkundawangCwO",
+        "verified": false
+      }
+    ]
+  }
+}

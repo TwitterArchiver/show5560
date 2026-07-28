@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920042790312116224"
+      ],
+      "media_source_tweet_id": [
+        "1920042793160057091"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1920174232648192492",
+    "created_at": "2025-05-07T17:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T18:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920174232648192492"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 16,
+          "tag": "ArknightsFanArt"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "ミヅキ"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "水月"
+        },
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "Mizuki"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725863732507746304",
+          "start": 3,
+          "username": "Ame_yuu_02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Y8oQT3EFU",
+          "end": 73,
+          "expanded_url": "https://x.com/Ame_yuu_02/status/1920042793160057091/photo/1",
+          "media_key": "3_1920042790312116224",
+          "start": 50,
+          "url": "https://t.co/6Y8oQT3EFU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920174232648192492",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920042793160057091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ame_yuu_02: #ArknightsFanArt #ミヅキ #水月 #Mizuki https://t.co/6Y8oQT3EFU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920042790312116224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqVcvrYagAAv169.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920042790312116224"
+          ],
+          "media_source_tweet_id": [
+            "1920042793160057091"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1920174232648192492",
+        "created_at": "2025-05-07T17:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T18:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920174232648192492"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 16,
+              "tag": "ArknightsFanArt"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "ミヅキ"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "水月"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "Mizuki"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725863732507746304",
+              "start": 3,
+              "username": "Ame_yuu_02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Y8oQT3EFU",
+              "end": 73,
+              "expanded_url": "https://x.com/Ame_yuu_02/status/1920042793160057091/photo/1",
+              "media_key": "3_1920042790312116224",
+              "start": 50,
+              "url": "https://t.co/6Y8oQT3EFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920174232648192492",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920042793160057091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ame_yuu_02: #ArknightsFanArt #ミヅキ #水月 #Mizuki https://t.co/6Y8oQT3EFU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920042790312116224"
+          ]
+        },
+        "author_id": "1725863732507746304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1920042793160057091",
+        "created_at": "2025-05-07T09:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920042793160057091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "ArknightsFanArt"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "ミヅキ"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "水月"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "Mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Y8oQT3EFU",
+              "end": 57,
+              "expanded_url": "https://x.com/Ame_yuu_02/status/1920042793160057091/photo/1",
+              "media_key": "3_1920042790312116224",
+              "start": 34,
+              "url": "https://t.co/6Y8oQT3EFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920042793160057091",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 4710,
+          "like_count": 519,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "#ArknightsFanArt #ミヅキ #水月 #Mizuki https://t.co/6Y8oQT3EFU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟ 想成为一个大魔法师✟ 已经无糖哩（断糖之后不知道做什么了）  ♡ 真的真的很喜欢很爱咱家的宇宙超级豪华至尊无敌第一的希汐公主殿下@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1162,
+          "like_count": 23573,
+          "listed_count": 4,
+          "media_count": 911,
+          "tweet_count": 5597
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T13:09:21.000Z",
+        "description": "感谢各位！",
+        "id": "1725863732507746304",
+        "name": "アメ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920136934409809920/74-mmDEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 111,
+          "like_count": 86,
+          "listed_count": 7,
+          "media_count": 72,
+          "tweet_count": 88
+        },
+        "username": "Ame_yuu_02",
+        "verified": false
+      }
+    ]
+  }
+}

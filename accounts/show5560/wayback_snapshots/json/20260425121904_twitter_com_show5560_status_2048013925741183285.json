@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047993640300302781",
+    "created_at": "2026-04-25T12:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048013925741183285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048013925741183285",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047993640300302781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 啊？话说这啥）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2047993620255678464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvvWM2bIAApAJL.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047993640300302781",
+        "created_at": "2026-04-25T12:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048013925741183285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048013925741183285",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047993640300302781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 啊？话说这啥）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047993620255678464"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2047993640300302781",
+        "created_at": "2026-04-25T10:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047993640300302781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzfx6mCpjq",
+              "end": 26,
+              "expanded_url": "https://x.com/_ropu/status/2047993640300302781/photo/1",
+              "media_key": "3_2047993620255678464",
+              "start": 3,
+              "url": "https://t.co/fzfx6mCpjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047993640300302781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈！ https://t.co/fzfx6mCpjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 1661,
+          "like_count": 26726,
+          "listed_count": 7,
+          "media_count": 644,
+          "tweet_count": 6479
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| お姉さん： @Cchang3243 || CN/EN/JP/KR ○ || タグ：#まのさば #ヨグソトースの庭 #NeedyGirlOverdose ||",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "まのさば"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 78,
+                "start": 60,
+                "tag": "NeedyGirlOverdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Cchang3243"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロ Ropu プ",
+        "pinned_tweet_id": "2035368636328878543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041579235350077440/8fAzCTT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28833,
+          "following_count": 4156,
+          "like_count": 13778,
+          "listed_count": 28,
+          "media_count": 4620,
+          "tweet_count": 32869
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

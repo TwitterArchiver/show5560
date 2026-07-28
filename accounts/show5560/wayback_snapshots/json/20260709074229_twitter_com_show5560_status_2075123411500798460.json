@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2074487511657963911",
+    "created_at": "2026-07-09T07:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075123411500798460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2840236608",
+          "start": 0,
+          "username": "MilkSU_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075123411500798460",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075079564532052097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkSU_Official 阿巴阿巴阿巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2074487511657963911",
+        "created_at": "2026-07-09T07:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075123411500798460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075123411500798460",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075079564532052097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 阿巴阿巴阿巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2074487511657963911",
+        "created_at": "2026-07-09T04:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075079564532052097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075079564532052097",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074884639269998722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 ww你也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4744,
+          "following_count": 1729,
+          "like_count": 30584,
+          "listed_count": 11,
+          "media_count": 2127,
+          "tweet_count": 9834
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 116,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4814,
+          "following_count": 2658,
+          "like_count": 40596,
+          "listed_count": 18,
+          "media_count": 1572,
+          "tweet_count": 13578
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

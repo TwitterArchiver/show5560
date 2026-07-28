@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068462713693671424"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2068786031961477443",
+    "created_at": "2026-06-21T20:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T21:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068786031961477443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/22TArZo63R",
+          "end": 29,
+          "expanded_url": "https://x.com/show5560/status/2068786031961477443/photo/1",
+          "media_key": "3_2068462713693671424",
+          "start": 6,
+          "url": "https://t.co/22TArZo63R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068786031961477443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真卫生吗😁 https://t.co/22TArZo63R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2068462713693671424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSn4QDaEAAz7q_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068462713693671424"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2068786031961477443",
+        "created_at": "2026-06-21T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068786031961477443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/22TArZo63R",
+              "end": 29,
+              "expanded_url": "https://x.com/show5560/status/2068786031961477443/photo/1",
+              "media_key": "3_2068462713693671424",
+              "start": 6,
+              "url": "https://t.co/22TArZo63R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068786031961477443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真卫生吗😁 https://t.co/22TArZo63R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2068669002805903399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 1696,
+          "like_count": 29046,
+          "listed_count": 9,
+          "media_count": 1701,
+          "tweet_count": 8332
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

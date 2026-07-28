@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047253715464466743",
+    "created_at": "2026-04-23T10:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047261830834483388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736356235484803072",
+          "start": 0,
+          "username": "yuuaoi771806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047261830834483388",
+    "in_reply_to_user_id": "1736356235484803072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047253715464466743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuaoi771806 wow，猫猫好可爱！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11435,
+        "height": 1920,
+        "media_key": "13_2047253646044434432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047253646044434432/img/WjzxJJF4PLvdj_xY.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047253646044434432/vid/avc1/480x852/McO1P2MiVq7doTWl.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047253646044434432/vid/avc1/1080x1920/UD2hLY47nwoJrOVC.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047253646044434432/vid/avc1/320x568/QWHr7ic55CGq8Iz9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047253646044434432/vid/avc1/720x1280/el2xtVhXgX1-B17N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047253646044434432/pl/nMFZ3DIVuA8lk-V-.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047253715464466743",
+        "created_at": "2026-04-23T10:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047261830834483388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736356235484803072",
+              "start": 0,
+              "username": "yuuaoi771806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047261830834483388",
+        "in_reply_to_user_id": "1736356235484803072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047253715464466743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuaoi771806 wow，猫猫好可爱！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047253646044434432"
+          ]
+        },
+        "author_id": "1736356235484803072",
+        "conversation_id": "2047253715464466743",
+        "created_at": "2026-04-23T09:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047253715464466743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMzOZWICVb",
+              "end": 35,
+              "expanded_url": "https://x.com/yuuaoi771806/status/2047253715464466743/video/1",
+              "media_key": "13_2047253646044434432",
+              "start": 12,
+              "url": "https://t.co/vMzOZWICVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047253715464466743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他应该是怕我掉马桶🚽里 https://t.co/vMzOZWICVb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2961,
+          "following_count": 1628,
+          "like_count": 26299,
+          "listed_count": 7,
+          "media_count": 606,
+          "tweet_count": 6259
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T12:02:51.000Z",
+        "description": "|MTF|✨|小证|含🍥女|单亲、缺乏父爱、癫痫史|想变可爱捏✨|欢迎互fo☺️\ntg频道: https://t.co/aWOsynoRhO\n闲聊：https://t.co/4R4UKXdTIM\n本喵用的vpn: https://t.co/uHBZa7gbCb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+KvHsA15kzR5lN…",
+                "end": 70,
+                "expanded_url": "https://t.me/+KvHsA15kzR5lNjM1",
+                "start": 47,
+                "url": "https://t.co/aWOsynoRhO"
+              },
+              {
+                "display_url": "t.me/naimiacc",
+                "end": 97,
+                "expanded_url": "https://t.me/naimiacc",
+                "start": 74,
+                "url": "https://t.co/4R4UKXdTIM"
+              },
+              {
+                "display_url": "vip16888.com/signup.html?co…",
+                "end": 130,
+                "expanded_url": "https://www.vip16888.com/signup.html?code=OEH5A",
+                "start": 107,
+                "url": "https://t.co/uHBZa7gbCb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/naimiaocc",
+                "end": 23,
+                "expanded_url": "https://t.me/naimiaocc",
+                "start": 0,
+                "url": "https://t.co/hs0cu1gHgM"
+              }
+            ]
+          }
+        },
+        "id": "1736356235484803072",
+        "location": "0.1km",
+        "name": "小奈喵🍥",
+        "pinned_tweet_id": "2045459590612160904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819653605252911104/HTENPAWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4950,
+          "following_count": 424,
+          "like_count": 565,
+          "listed_count": 14,
+          "media_count": 336,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/hs0cu1gHgM",
+        "username": "yuuaoi771806",
+        "verified": true
+      }
+    ]
+  }
+}

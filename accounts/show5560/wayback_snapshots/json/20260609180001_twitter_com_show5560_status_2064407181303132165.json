@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064367396979417088"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2064407181303132165",
+    "created_at": "2026-06-09T18:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064407181303132165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bX10goBn8m",
+          "end": 32,
+          "expanded_url": "https://x.com/show5560/status/2064407181303132165/photo/1",
+          "media_key": "3_2064367396979417088",
+          "start": 9,
+          "url": "https://t.co/bX10goBn8m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064407181303132165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这简直就是我啊😭 https://t.co/bX10goBn8m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1618,
+        "media_key": "3_2064367396979417088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYbNcbbIAA4uIX.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064367396979417088"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2064407181303132165",
+        "created_at": "2026-06-09T18:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064407181303132165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bX10goBn8m",
+              "end": 32,
+              "expanded_url": "https://x.com/show5560/status/2064407181303132165/photo/1",
+              "media_key": "3_2064367396979417088",
+              "start": 9,
+              "url": "https://t.co/bX10goBn8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064407181303132165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这简直就是我啊😭 https://t.co/bX10goBn8m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘 162cm/58kg /普通长相/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪70",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4387,
+          "following_count": 1696,
+          "like_count": 28413,
+          "listed_count": 8,
+          "media_count": 1392,
+          "tweet_count": 7840
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

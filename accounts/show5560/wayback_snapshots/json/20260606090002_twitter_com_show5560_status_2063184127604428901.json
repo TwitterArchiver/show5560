@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062930450583318528"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2063184127604428901",
+    "created_at": "2026-06-06T09:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063184127604428901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wut8PgtSju",
+          "end": 41,
+          "expanded_url": "https://x.com/show5560/status/2063184127604428901/photo/1",
+          "media_key": "3_2062930450583318528",
+          "start": 18,
+          "url": "https://t.co/wut8PgtSju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063184127604428901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有这功夫干这个，干什么都会成功的😁 https://t.co/wut8PgtSju"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_2062930450583318528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEAUJ9a8AAVHX6.png",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062930450583318528"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2063184127604428901",
+        "created_at": "2026-06-06T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063184127604428901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wut8PgtSju",
+              "end": 41,
+              "expanded_url": "https://x.com/show5560/status/2063184127604428901/photo/1",
+              "media_key": "3_2062930450583318528",
+              "start": 18,
+              "url": "https://t.co/wut8PgtSju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063184127604428901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有这功夫干这个，干什么都会成功的😁 https://t.co/wut8PgtSju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4375,
+          "following_count": 1691,
+          "like_count": 28223,
+          "listed_count": 8,
+          "media_count": 1320,
+          "tweet_count": 7726
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

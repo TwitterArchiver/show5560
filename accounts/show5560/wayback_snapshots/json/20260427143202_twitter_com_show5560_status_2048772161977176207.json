@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2048733910327230907",
+    "created_at": "2026-04-27T14:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048772161977176207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "269898426",
+          "start": 0,
+          "username": "kuchiruhane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048772161977176207",
+    "in_reply_to_user_id": "269898426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048768984041083283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuchiruhane 我都喜欢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2048733910327230907",
+        "created_at": "2026-04-27T14:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048772161977176207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "269898426",
+              "start": 0,
+              "username": "kuchiruhane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048772161977176207",
+        "in_reply_to_user_id": "269898426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048768984041083283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuchiruhane 我都喜欢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "269898426",
+        "conversation_id": "2048733910327230907",
+        "created_at": "2026-04-27T14:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048768984041083283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048768984041083283",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048733910327230907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 百事和可口相比，我觉得雪碧喝起来更爽口（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2048248982653321657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3635,
+          "following_count": 1673,
+          "like_count": 26876,
+          "listed_count": 8,
+          "media_count": 676,
+          "tweet_count": 6585
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-21T17:07:40.000Z",
+        "description": "倒霉小男娘，号还没起来就被封了。来自重庆，163cm52kg，欢迎关注(￣O￣)ノ",
+        "id": "269898426",
+        "name": "朽羽",
+        "pinned_tweet_id": "2048268030220894280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034946201028796416/L0akCgRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 52,
+          "like_count": 60,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 29
+        },
+        "username": "kuchiruhane",
+        "verified": true
+      }
+    ]
+  }
+}

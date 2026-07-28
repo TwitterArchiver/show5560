@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1835318903603687704",
+    "created_at": "2024-09-15T17:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T18:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835363233143890016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "Cya_Ninnensuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835363233143890016",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835339364336832832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya_Ninnensuki 好~我可以试试！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1835318903603687704",
+        "created_at": "2024-09-15T17:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T18:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835363233143890016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "Cya_Ninnensuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835363233143890016",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835339364336832832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya_Ninnensuki 好~我可以试试！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "1835318903603687704",
+        "created_at": "2024-09-15T15:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T16:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835339364336832832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835339364336832832",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835339097172525308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 我喜欢羽衣ビーム所以想你复刻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△想成为一个大魔法师△ @runamusaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "runamusaki"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "☆暮暮★",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835284829782552576/Hm1IWadl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 1125,
+          "like_count": 23597,
+          "listed_count": 3,
+          "tweet_count": 5143
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "mtx・OCD治疗中・169㎝49+㎏・一直是果然多・生活无趣",
+        "id": "1586779015574327296",
+        "name": "鹿野里的茶酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829875144665317380/mCNRtUSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 180,
+          "like_count": 6598,
+          "listed_count": 2,
+          "tweet_count": 6693
+        },
+        "username": "Cya_Ninnensuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046862207099748737",
+    "created_at": "2026-04-22T10:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046906228044079502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1384889091901181964",
+          "start": 0,
+          "username": "hyclove1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046906228044079502",
+    "in_reply_to_user_id": "1384889091901181964",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046862207099748737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyclove1 回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2046861925699801088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfqE6Gb0AAS8zG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046862207099748737",
+        "created_at": "2026-04-22T10:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046906228044079502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1384889091901181964",
+              "start": 0,
+              "username": "hyclove1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046906228044079502",
+        "in_reply_to_user_id": "1384889091901181964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046862207099748737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyclove1 回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046861925699801088"
+          ]
+        },
+        "author_id": "1384889091901181964",
+        "conversation_id": "2046862207099748737",
+        "created_at": "2026-04-22T08:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046862207099748737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/waFXJlWMAy",
+              "end": 41,
+              "expanded_url": "https://x.com/hyclove1/status/2046862207099748737/photo/1",
+              "media_key": "3_2046861925699801088",
+              "start": 18,
+              "url": "https://t.co/waFXJlWMAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046862207099748737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命啊，我说的不是这种 #蓝V互关 https://t.co/waFXJlWMAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2900,
+          "following_count": 1568,
+          "like_count": 26099,
+          "listed_count": 7,
+          "media_count": 591,
+          "tweet_count": 6099
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-21T15:18:00.000Z",
+        "description": "I wish I could hug you, but I'm just a line of text",
+        "id": "1384889091901181964",
+        "name": "hyclove",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723283700979539968/Eav4X2b4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 1968,
+          "like_count": 360,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1871
+        },
+        "username": "hyclove1",
+        "verified": true
+      }
+    ]
+  }
+}

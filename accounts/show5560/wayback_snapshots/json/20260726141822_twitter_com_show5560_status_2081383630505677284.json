@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2081350842905710785",
+    "created_at": "2026-07-26T14:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081383630505677284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081383630505677284",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081350842905710785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 被套路了呀（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_2081350835624439808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJxjrpbcAA7hYN.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2081350842905710785",
+        "created_at": "2026-07-26T14:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081383630505677284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081383630505677284",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081350842905710785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 被套路了呀（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081350835624439808"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2081350842905710785",
+        "created_at": "2026-07-26T12:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081350842905710785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrElhwVXNF",
+              "end": 36,
+              "expanded_url": "https://x.com/codyhunk/status/2081350842905710785/photo/1",
+              "media_key": "3_2081350835624439808",
+              "start": 13,
+              "url": "https://t.co/RrElhwVXNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081350842905710785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1062,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还没出社会，就被上了一课 https://t.co/RrElhwVXNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5296,
+          "following_count": 1735,
+          "like_count": 32582,
+          "listed_count": 14,
+          "media_count": 2552,
+          "tweet_count": 11860
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15004,
+          "following_count": 1124,
+          "like_count": 25107,
+          "listed_count": 46,
+          "media_count": 7078,
+          "tweet_count": 10545
+        },
+        "url": "",
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

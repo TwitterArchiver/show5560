@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055346584096002048"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2055543773984088382",
+    "created_at": "2026-05-16T07:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055543773984088382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2vDChUpT82",
+          "end": 139,
+          "expanded_url": "https://x.com/show5560/status/2055543773984088382/photo/1",
+          "media_key": "3_2055346584096002048",
+          "start": 116,
+          "url": "https://t.co/2vDChUpT82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055543773984088382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虚假的商战：公司摇摇欲坠处在破产边缘，对手穷凶极恶步步紧逼，公司眼看着回天乏术。此时主角淡淡地做出了一个决定，随即市场格局变换，谈笑间友商灰飞烟灭，一套操作下来让下属们纷纷投来崇拜的目光。 \n\n 真实的商战：买他店里商品退款给差评 https://t.co/2vDChUpT82"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_2055346584096002048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYO1Bta0AAPFme.jpg",
+        "width": 1383
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055346584096002048"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2055543773984088382",
+        "created_at": "2026-05-16T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055543773984088382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vDChUpT82",
+              "end": 139,
+              "expanded_url": "https://x.com/show5560/status/2055543773984088382/photo/1",
+              "media_key": "3_2055346584096002048",
+              "start": 116,
+              "url": "https://t.co/2vDChUpT82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055543773984088382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虚假的商战：公司摇摇欲坠处在破产边缘，对手穷凶极恶步步紧逼，公司眼看着回天乏术。此时主角淡淡地做出了一个决定，随即市场格局变换，谈笑间友商灰飞烟灭，一套操作下来让下属们纷纷投来崇拜的目光。 \n\n 真实的商战：买他店里商品退款给差评 https://t.co/2vDChUpT82"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3945,
+          "following_count": 1689,
+          "like_count": 27537,
+          "listed_count": 7,
+          "media_count": 993,
+          "tweet_count": 7031
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

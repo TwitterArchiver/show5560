@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2079038598071156944",
+    "created_at": "2026-07-21T13:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079555833659330772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079555833659330772",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079498241046167923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 是的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2079038598071156944",
+        "created_at": "2026-07-21T13:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079555833659330772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079555833659330772",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079498241046167923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 是的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844025283676094464",
+        "conversation_id": "2079038598071156944",
+        "created_at": "2026-07-21T09:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079498241046167923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079498241046167923",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079038598071156944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 好地雷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5201,
+          "following_count": 1741,
+          "like_count": 31889,
+          "listed_count": 13,
+          "media_count": 2427,
+          "tweet_count": 11234
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "独立社会研究员，一个理想主义的小说家，喜欢AI绘图的乐子人，头像为OC角色，生活号@yexinstory YouTube频道同名，搜索“枫糖小猫”，分享我的独立观点和观察到的社会百态https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 114,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 91,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/konekoutena",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/konekoutena",
+                "start": 0,
+                "url": "https://t.co/hP17kdZFez"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "喵星",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "2079140051070734399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062305837201383424/QmG_C6uk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17493,
+          "following_count": 2194,
+          "like_count": 15109,
+          "listed_count": 120,
+          "media_count": 7362,
+          "tweet_count": 28570
+        },
+        "url": "https://t.co/hP17kdZFez",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

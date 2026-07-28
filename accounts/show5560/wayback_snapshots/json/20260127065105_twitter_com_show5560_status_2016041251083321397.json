@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015514254187864064"
+      ],
+      "media_source_tweet_id": [
+        "2015514314871128283"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2016041251083321397",
+    "created_at": "2026-01-27T06:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016041251083321397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1958408688861118464",
+          "start": 3,
+          "username": "stemiomio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kL6sCQqSz2",
+          "end": 38,
+          "expanded_url": "https://x.com/stemiomio/status/2015514314871128283/photo/1",
+          "media_key": "3_2015514254187864064",
+          "start": 15,
+          "url": "https://t.co/kL6sCQqSz2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016041251083321397",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4950
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015514314871128283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stemiomio: https://t.co/kL6sCQqSz2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2015514254187864064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_iLiRiaoAAeLtC.jpg",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015514254187864064"
+          ],
+          "media_source_tweet_id": [
+            "2015514314871128283"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2016041251083321397",
+        "created_at": "2026-01-27T06:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016041251083321397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1958408688861118464",
+              "start": 3,
+              "username": "stemiomio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kL6sCQqSz2",
+              "end": 38,
+              "expanded_url": "https://x.com/stemiomio/status/2015514314871128283/photo/1",
+              "media_key": "3_2015514254187864064",
+              "start": 15,
+              "url": "https://t.co/kL6sCQqSz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016041251083321397",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4950
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015514314871128283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stemiomio: https://t.co/kL6sCQqSz2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015514254187864064"
+          ]
+        },
+        "author_id": "1958408688861118464",
+        "conversation_id": "2015514314871128283",
+        "created_at": "2026-01-25T19:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T20:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015514314871128283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kL6sCQqSz2",
+              "end": 23,
+              "expanded_url": "https://x.com/stemiomio/status/2015514314871128283/photo/1",
+              "media_key": "3_2015514254187864064",
+              "start": 0,
+              "url": "https://t.co/kL6sCQqSz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015514314871128283",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3267,
+          "impression_count": 355922,
+          "like_count": 43009,
+          "quote_count": 65,
+          "reply_count": 15,
+          "retweet_count": 4950
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kL6sCQqSz2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~想成为一个大魔法师---不想上班....... 不想再吵了.......还债中.jpg",
+        "id": "1465701247021838341",
+        "name": "暮绒球の萌？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015505548163321857/npDbeMlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1116,
+          "like_count": 22893,
+          "listed_count": 4,
+          "media_count": 964,
+          "tweet_count": 5723
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T06:00:03.000Z",
+        "description": "絵を描きます。無断転載・AI学習禁止・AI X \nご依頼の相談はこちらまで✉ figtree642■https://t.co/cbEd0BLdHQ (■→@)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 73,
+                "expanded_url": "http://gmail.com",
+                "start": 50,
+                "url": "https://t.co/cbEd0BLdHQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120273249",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120273249",
+                "start": 0,
+                "url": "https://t.co/GwXElhrv8e"
+              }
+            ]
+          }
+        },
+        "id": "1958408688861118464",
+        "location": "2026年3月〜⭕️",
+        "name": "甘草あめ",
+        "pinned_tweet_id": "1996228577340309899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981040115326525441/eofH5LR8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16062,
+          "following_count": 235,
+          "like_count": 893,
+          "listed_count": 98,
+          "media_count": 89,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/GwXElhrv8e",
+        "username": "stemiomio",
+        "verified": true
+      }
+    ]
+  }
+}

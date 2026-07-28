@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047933630450970750",
+    "created_at": "2026-04-25T13:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048032943642435716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836727530524684288",
+          "start": 0,
+          "username": "oanrt0208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048032943642435716",
+    "in_reply_to_user_id": "1836727530524684288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048028959359856737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oanrt0208 那可太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047933630450970750",
+        "created_at": "2026-04-25T13:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048032943642435716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836727530524684288",
+              "start": 0,
+              "username": "oanrt0208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048032943642435716",
+        "in_reply_to_user_id": "1836727530524684288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048028959359856737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oanrt0208 那可太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836727530524684288",
+        "conversation_id": "2047933630450970750",
+        "created_at": "2026-04-25T13:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048028959359856737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048028959359856737",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047933630450970750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 不是更好了嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3073,
+          "following_count": 1661,
+          "like_count": 26736,
+          "listed_count": 7,
+          "media_count": 645,
+          "tweet_count": 6489
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-19T11:22:30.000Z",
+        "description": "一個陽菜粉\n🎸 迷子でも進め。｜MyGO!!!!!\n💙 ♔ 青木陽菜 ♔｜推し",
+        "id": "1836727530524684288",
+        "name": "天田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971042663995670537/NxyJLFzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 120,
+          "like_count": 2129,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 97
+        },
+        "username": "oanrt0208",
+        "verified": true
+      }
+    ]
+  }
+}

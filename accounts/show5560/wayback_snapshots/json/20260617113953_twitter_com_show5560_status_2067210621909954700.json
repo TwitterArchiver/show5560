@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067210601030660096"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2067210621909954700",
+    "created_at": "2026-06-17T11:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067210621909954700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SLtltlti61",
+          "end": 44,
+          "expanded_url": "https://x.com/show5560/status/2067210621909954700/photo/1",
+          "media_key": "3_2067210601030660096",
+          "start": 21,
+          "url": "https://t.co/SLtltlti61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067210621909954700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类碰到猫猫会不自觉的发出喵喵喵的声音🥰 https://t.co/SLtltlti61"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2067210601030660096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA1Fs5asAAVm5w.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067210601030660096"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2067210621909954700",
+        "created_at": "2026-06-17T11:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067210621909954700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLtltlti61",
+              "end": 44,
+              "expanded_url": "https://x.com/show5560/status/2067210621909954700/photo/1",
+              "media_key": "3_2067210601030660096",
+              "start": 21,
+              "url": "https://t.co/SLtltlti61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067210621909954700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类碰到猫猫会不自觉的发出喵喵喵的声音🥰 https://t.co/SLtltlti61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4424,
+          "following_count": 1701,
+          "like_count": 28790,
+          "listed_count": 9,
+          "media_count": 1567,
+          "tweet_count": 8125
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

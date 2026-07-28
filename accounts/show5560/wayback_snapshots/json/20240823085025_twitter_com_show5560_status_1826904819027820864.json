@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1826269749933654053",
+    "created_at": "2024-08-23T08:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T09:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826904819027820864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480902038884130819",
+          "start": 0,
+          "username": "AyatamaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826904819027820864",
+    "in_reply_to_user_id": "1480902038884130819",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826270171482468715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyatamaNya 蹭蹭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1826269749933654053",
+        "created_at": "2024-08-23T08:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T09:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826904819027820864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480902038884130819",
+              "start": 0,
+              "username": "AyatamaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826904819027820864",
+        "in_reply_to_user_id": "1480902038884130819",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826270171482468715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyatamaNya 蹭蹭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480902038884130819",
+        "conversation_id": "1826269749933654053",
+        "created_at": "2024-08-21T14:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T15:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826270171482468715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826270171482468715",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826269749933654053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 摸摸暮，暮暮是超厉害！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△爆裂魔法师△\n🚪 66",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮暮",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816155627271643139/cK8GDv8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 1127,
+          "like_count": 23545,
+          "listed_count": 3,
+          "tweet_count": 5101
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T14:02:08.000Z",
+        "description": "是个笨蛋/INFP/永远17岁/虽然b人很多但我友好善良/单推沙月/萝莉控/猫控/喜欢一切可爱的东西/@shaganyaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "shaganyaa"
+              }
+            ]
+          }
+        },
+        "id": "1480902038884130819",
+        "location": "タイタニア界",
+        "name": "绫玉🍬🍫🍭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826246330936942592/2BPuijPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 443,
+          "like_count": 20477,
+          "listed_count": 3,
+          "tweet_count": 3818
+        },
+        "username": "AyatamaNya",
+        "verified": false
+      }
+    ]
+  }
+}

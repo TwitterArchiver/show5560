@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2042829213674377655",
+    "created_at": "2026-04-12T06:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043221537306894496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029494203315900416",
+          "start": 0,
+          "username": "Bunnynekoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043221537306894496",
+    "in_reply_to_user_id": "2029494203315900416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042829213674377655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunnynekoyo 老师，我qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2042829213674377655",
+        "created_at": "2026-04-12T06:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043221537306894496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029494203315900416",
+              "start": 0,
+              "username": "Bunnynekoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043221537306894496",
+        "in_reply_to_user_id": "2029494203315900416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042829213674377655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunnynekoyo 老师，我qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029494203315900416",
+        "conversation_id": "2042829213674377655",
+        "created_at": "2026-04-11T04:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042829213674377655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "premium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mxyzcdb/status…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/mxyzcdb/status/2042805254207492096",
+              "start": 68,
+              "url": "https://t.co/to4AAQcXkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042829213674377655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042805254207492096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兔兔也試試🥰\nKuma also wants to be noticed by each other!🥰\n#蓝v互关 #premium https://t.co/to4AAQcXkl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ #蓝v互关 喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "蓝v互关"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 1255,
+          "like_count": 24983,
+          "listed_count": 5,
+          "media_count": 443,
+          "tweet_count": 5565
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-05T09:48:31.000Z",
+        "description": "🍓 草莓兔嘰｜香港甜欲小偶像🇭🇰 💕\n📍廣州常出沒✨\n‼️16+限定｜自然可愛微整風\n🎀 Cos委托・約會・攝影・約妝・商務\n📩 關注後私信｜上艦解鎖專屬福利💕\n🗓 4.11生日會・5.1廣州漫展 等你來玩～🐇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bunnytownnn",
+                "end": 23,
+                "expanded_url": "https://t.me/bunnytownnn",
+                "start": 0,
+                "url": "https://t.co/t8AFrMmaG4"
+              }
+            ]
+          }
+        },
+        "id": "2029494203315900416",
+        "location": "粉丝频道✈️►►",
+        "name": "草莓兔嘰 Official🍓🐇",
+        "pinned_tweet_id": "2042218471703146551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040124082273017856/vPZEWEXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 126,
+          "like_count": 418,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/t8AFrMmaG4",
+        "username": "Bunnynekoyo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069702363133227008"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070099689157120354",
+    "created_at": "2026-06-25T11:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070099689157120354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ehIpH5riYR",
+          "end": 52,
+          "expanded_url": "https://x.com/show5560/status/2070099689157120354/photo/1",
+          "media_key": "3_2069702363133227008",
+          "start": 29,
+          "url": "https://t.co/ehIpH5riYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070099689157120354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么没有黄瓜和胡萝卜？凭什么假定素食主义者的取向？（） https://t.co/ehIpH5riYR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_2069702363133227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkPVWFXsAAZBuX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069702363133227008"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070099689157120354",
+        "created_at": "2026-06-25T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070099689157120354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehIpH5riYR",
+              "end": 52,
+              "expanded_url": "https://x.com/show5560/status/2070099689157120354/photo/1",
+              "media_key": "3_2069702363133227008",
+              "start": 29,
+              "url": "https://t.co/ehIpH5riYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070099689157120354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没有黄瓜和胡萝卜？凭什么假定素食主义者的取向？（） https://t.co/ehIpH5riYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4427,
+          "following_count": 1704,
+          "like_count": 29204,
+          "listed_count": 9,
+          "media_count": 1797,
+          "tweet_count": 8522
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

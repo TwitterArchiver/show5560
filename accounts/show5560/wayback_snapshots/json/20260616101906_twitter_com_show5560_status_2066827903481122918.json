@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2066819922563617072",
+    "created_at": "2026-06-16T10:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066827903481122918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 23,
+          "id": "1789631856721412096",
+          "start": 16,
+          "username": "0xSuBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066827903481122918",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066823601073057904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @0xSuBC 健康的是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066819922563617072",
+        "created_at": "2026-06-16T10:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066827903481122918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 23,
+              "id": "1789631856721412096",
+              "start": 16,
+              "username": "0xSuBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066827903481122918",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066823601073057904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @0xSuBC 健康的是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066819922563617072",
+        "created_at": "2026-06-16T10:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066823601073057904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1789631856721412096",
+              "start": 0,
+              "username": "0xSuBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066823601073057904",
+        "in_reply_to_user_id": "1789631856721412096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066822051147760092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xSuBC 環状線 1 月份的时候也有这个想法，不过后来听说大量互 fo 会导致账号健康度下降，就放弃了邪修的想法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡接线下喵 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4411,
+          "following_count": 1706,
+          "like_count": 28688,
+          "listed_count": 8,
+          "media_count": 1537,
+          "tweet_count": 8067
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6702,
+          "following_count": 870,
+          "like_count": 26442,
+          "listed_count": 11,
+          "media_count": 1519,
+          "tweet_count": 8187
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T12:21:07.000Z",
+        "description": "A Just Player | Cooking @INJ_Pass @CramSchoolClub | Ambassador @injective | 练习忍术中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "INJ_Pass"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "CramSchoolClub"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "injective"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xSuBC",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/0xSuBC",
+                "start": 0,
+                "url": "https://t.co/tIgDgMpAQl"
+              }
+            ]
+          }
+        },
+        "id": "1789631856721412096",
+        "name": "Su BC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056895437999861760/9f68Jdus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 913,
+          "like_count": 2113,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1238
+        },
+        "url": "https://t.co/tIgDgMpAQl",
+        "username": "0xSuBC",
+        "verified": true
+      }
+    ]
+  }
+}

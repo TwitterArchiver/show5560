@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061049134979989504"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2061372193213145523",
+    "created_at": "2026-06-01T09:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061372193213145523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nRJ3KO05fs",
+          "end": 32,
+          "expanded_url": "https://x.com/show5560/status/2061372193213145523/photo/1",
+          "media_key": "3_2061049134979989504",
+          "start": 9,
+          "url": "https://t.co/nRJ3KO05fs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061372193213145523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豆包这么全能吗） https://t.co/nRJ3KO05fs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2061049134979989504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpRRLMbwAAW4bK.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061049134979989504"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2061372193213145523",
+        "created_at": "2026-06-01T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061372193213145523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRJ3KO05fs",
+              "end": 32,
+              "expanded_url": "https://x.com/show5560/status/2061372193213145523/photo/1",
+              "media_key": "3_2061049134979989504",
+              "start": 9,
+              "url": "https://t.co/nRJ3KO05fs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061372193213145523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包这么全能吗） https://t.co/nRJ3KO05fs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4284,
+          "following_count": 1680,
+          "like_count": 27971,
+          "listed_count": 8,
+          "media_count": 1221,
+          "tweet_count": 7520
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

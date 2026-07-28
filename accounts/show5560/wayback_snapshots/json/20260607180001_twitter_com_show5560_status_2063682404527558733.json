@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063296127169163264"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2063682404527558733",
+    "created_at": "2026-06-07T18:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063682404527558733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NlIyxqnpcr",
+          "end": 32,
+          "expanded_url": "https://x.com/show5560/status/2063682404527558733/photo/1",
+          "media_key": "3_2063296127169163264",
+          "start": 9,
+          "url": "https://t.co/NlIyxqnpcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063682404527558733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个方法太棒啦！ https://t.co/NlIyxqnpcr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2063296127169163264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJM5VZbcAAvKJs.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063296127169163264"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2063682404527558733",
+        "created_at": "2026-06-07T18:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063682404527558733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlIyxqnpcr",
+              "end": 32,
+              "expanded_url": "https://x.com/show5560/status/2063682404527558733/photo/1",
+              "media_key": "3_2063296127169163264",
+              "start": 9,
+              "url": "https://t.co/NlIyxqnpcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063682404527558733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个方法太棒啦！ https://t.co/NlIyxqnpcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2063267097191604722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4380,
+          "following_count": 1693,
+          "like_count": 28296,
+          "listed_count": 8,
+          "media_count": 1354,
+          "tweet_count": 7770
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

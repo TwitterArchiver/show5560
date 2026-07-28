@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2035684736463696350",
+    "created_at": "2026-03-22T12:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T13:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035689319856529457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "917031360308510720",
+          "start": 0,
+          "username": "user670839245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035689319856529457",
+    "in_reply_to_user_id": "917031360308510720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035684736463696350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user670839245 啊？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2035684736463696350",
+        "created_at": "2026-03-22T12:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035689319856529457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "917031360308510720",
+              "start": 0,
+              "username": "user670839245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035689319856529457",
+        "in_reply_to_user_id": "917031360308510720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035684736463696350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user670839245 啊？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "917031360308510720",
+        "conversation_id": "2035684736463696350",
+        "created_at": "2026-03-22T11:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035684736463696350"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "自杀干预"
+            },
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "请重点关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/show5560/status/2035669451132272844",
+              "start": 13,
+              "url": "https://t.co/Yy0VQlwDqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035684736463696350",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035669451132272844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#自杀干预 #请重点关注 https://t.co/Yy0VQlwDqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 🚪50 接线下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1176,
+          "like_count": 24179,
+          "listed_count": 5,
+          "media_count": 952,
+          "tweet_count": 5921
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-08T14:18:08.000Z",
+        "description": "&gt;_&lt; | 喵喵喵喵喵？？",
+        "id": "917031360308510720",
+        "name": "User670",
+        "pinned_tweet_id": "1650211659913510913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561406835999244288/TsO3KvPy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 3908,
+          "like_count": 9123,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 10663
+        },
+        "username": "user670839245",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069131863898406912"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2069148417893253229",
+    "created_at": "2026-06-22T20:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T21:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069148417893253229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5LFOkIpBIB",
+          "end": 42,
+          "expanded_url": "https://x.com/show5560/status/2069148417893253229/photo/1",
+          "media_key": "3_2069131863898406912",
+          "start": 19,
+          "url": "https://t.co/5LFOkIpBIB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069148417893253229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了吃白食，真是什么借口都想的出来😅 https://t.co/5LFOkIpBIB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2069131863898406912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcId60bQAACOyB.jpg",
+        "width": 532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069131863898406912"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2069148417893253229",
+        "created_at": "2026-06-22T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069148417893253229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5LFOkIpBIB",
+              "end": 42,
+              "expanded_url": "https://x.com/show5560/status/2069148417893253229/photo/1",
+              "media_key": "3_2069131863898406912",
+              "start": 19,
+              "url": "https://t.co/5LFOkIpBIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069148417893253229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了吃白食，真是什么借口都想的出来😅 https://t.co/5LFOkIpBIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2068669002805903399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 1693,
+          "like_count": 29086,
+          "listed_count": 9,
+          "media_count": 1730,
+          "tweet_count": 8366
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

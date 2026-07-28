@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2079467318120517957",
+    "created_at": "2026-07-21T14:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079579093159567721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1781510736000274432",
+          "start": 0,
+          "username": "huantim7"
+        },
+        {
+          "end": 20,
+          "id": "1870377269371523072",
+          "start": 10,
+          "username": "Lrx518425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079579093159567721",
+    "in_reply_to_user_id": "1781510736000274432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079467318120517957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huantim7 @Lrx518425 好诶ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2079467233890516992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvAboYbwAAM90p.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2079467318120517957",
+        "created_at": "2026-07-21T14:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079579093159567721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1781510736000274432",
+              "start": 0,
+              "username": "huantim7"
+            },
+            {
+              "end": 20,
+              "id": "1870377269371523072",
+              "start": 10,
+              "username": "Lrx518425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079579093159567721",
+        "in_reply_to_user_id": "1781510736000274432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079467318120517957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huantim7 @Lrx518425 好诶ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079467233890516992"
+          ]
+        },
+        "author_id": "1781510736000274432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079467318120517957",
+        "created_at": "2026-07-21T07:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079467318120517957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870377269371523072",
+              "start": 1,
+              "username": "Lrx518425"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WL6uXt5oXk",
+              "end": 47,
+              "expanded_url": "https://x.com/huantim7/status/2079467318120517957/photo/1",
+              "media_key": "3_2079467233890516992",
+              "start": 24,
+              "url": "https://t.co/WL6uXt5oXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079467318120517957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "面@Lrx518425 \n人很好，长得很帅（） https://t.co/WL6uXt5oXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5201,
+          "following_count": 1741,
+          "like_count": 31924,
+          "listed_count": 13,
+          "media_count": 2428,
+          "tweet_count": 11265
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 798,
+          "like_count": 96488,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 6378
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T07:54:49.000Z",
+        "description": "10/中国/华北地区学生/只会中文/人很好只是有时候不知道说啥 /放假中/欢迎任何互动\n     希望大家都开开心心！\nQ2645541352（也推荐使用的www）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/aYOKvRH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/aYOKvRH",
+                "start": 0,
+                "url": "https://t.co/BgmY5DYBhx"
+              }
+            ]
+          }
+        },
+        "id": "1870377269371523072",
+        "location": "华北地区",
+        "name": "spark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949479104740483072/mS6hznPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 328,
+          "like_count": 5000,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/BgmY5DYBhx",
+        "username": "Lrx518425",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2071805929788682366",
+    "created_at": "2026-06-30T19:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T20:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072036487647125562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "6024922",
+          "start": 0,
+          "username": "jomasun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072036487647125562",
+    "in_reply_to_user_id": "6024922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072001397453889631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jomasun 有时候明明都对了）还要让你重复弄好几次（悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2071805929788682366",
+        "created_at": "2026-06-30T19:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072036487647125562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6024922",
+              "start": 0,
+              "username": "jomasun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072036487647125562",
+        "in_reply_to_user_id": "6024922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072001397453889631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jomasun 有时候明明都对了）还要让你重复弄好几次（悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "6024922",
+        "conversation_id": "2071805929788682366",
+        "created_at": "2026-06-30T16:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072001397453889631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072001397453889631",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 815,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071805929788682366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 是的 ，有时图片有够离谱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4508,
+          "following_count": 1719,
+          "like_count": 29764,
+          "listed_count": 11,
+          "media_count": 1927,
+          "tweet_count": 9007
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2007-05-14T06:16:34.000Z",
+        "description": "07年老网民误入X新手村 😂  \nAI工具狂热玩家 | Prompt Engineer | 每天拆解AI猫、AI狗、AI女人  \n工具测评·高效Prompt·爆笑生成失败案例  \n保持好奇心，欢迎互关交流！  \nBlue V｜ThinkPad@Gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nb.hk",
+                "end": 23,
+                "expanded_url": "http://nb.hk",
+                "start": 0,
+                "url": "https://t.co/eWbgFEkZko"
+              }
+            ]
+          }
+        },
+        "id": "6024922",
+        "location": "Usch, Deutschland",
+        "name": "☣ GBLW ",
+        "pinned_tweet_id": "2071082838833889708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767110785707495424/Nc_y55oj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 2281,
+          "like_count": 248,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 2410
+        },
+        "url": "https://t.co/eWbgFEkZko",
+        "username": "jomasun",
+        "verified": true
+      }
+    ]
+  }
+}

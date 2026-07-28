@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026088714439634944"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2026088717178622452",
+    "created_at": "2026-02-24T00:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T01:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026088717178622452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M8W3bfLIJg",
+          "end": 45,
+          "expanded_url": "https://x.com/show5560/status/2026088717178622452/photo/1",
+          "media_key": "3_2026088714439634944",
+          "start": 22,
+          "url": "https://t.co/M8W3bfLIJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026088717178622452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "化妆是对的，但是还不熟(  ⩌ - ⩌ ) https://t.co/M8W3bfLIJg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026088714439634944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB4c83uaMAAqfss.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026088714439634944"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2026088717178622452",
+        "created_at": "2026-02-24T00:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026088717178622452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8W3bfLIJg",
+              "end": 45,
+              "expanded_url": "https://x.com/show5560/status/2026088717178622452/photo/1",
+              "media_key": "3_2026088714439634944",
+              "start": 22,
+              "url": "https://t.co/M8W3bfLIJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026088717178622452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "化妆是对的，但是还不熟(  ⩌ - ⩌ ) https://t.co/M8W3bfLIJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1128,
+          "like_count": 23120,
+          "listed_count": 4,
+          "media_count": 930,
+          "tweet_count": 5742
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

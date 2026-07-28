@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015548189886296064"
+      ],
+      "media_source_tweet_id": [
+        "2015548195699671072"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2015677466980012401",
+    "created_at": "2026-01-26T06:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015677466980012401"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1411748019888746497",
+          "start": 3,
+          "username": "takoyaki_110721"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MdBrEq1aaV",
+          "end": 56,
+          "expanded_url": "https://x.com/takoyaki_110721/status/2015548195699671072/photo/1",
+          "media_key": "3_2015548189886296064",
+          "start": 33,
+          "url": "https://t.co/MdBrEq1aaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015677466980012401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1475
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015548195699671072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takoyaki_110721: #超かぐや姫\nやきもち https://t.co/MdBrEq1aaV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015548189886296064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_iqZl3asAAYEYH.jpg",
+        "width": 1413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015548189886296064"
+          ],
+          "media_source_tweet_id": [
+            "2015548195699671072"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2015677466980012401",
+        "created_at": "2026-01-26T06:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015677466980012401"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1411748019888746497",
+              "start": 3,
+              "username": "takoyaki_110721"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdBrEq1aaV",
+              "end": 56,
+              "expanded_url": "https://x.com/takoyaki_110721/status/2015548195699671072/photo/1",
+              "media_key": "3_2015548189886296064",
+              "start": 33,
+              "url": "https://t.co/MdBrEq1aaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015677466980012401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1475
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015548195699671072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takoyaki_110721: #超かぐや姫\nやきもち https://t.co/MdBrEq1aaV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015548189886296064"
+          ]
+        },
+        "author_id": "1411748019888746497",
+        "conversation_id": "2015548195699671072",
+        "created_at": "2026-01-25T22:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T23:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015548195699671072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdBrEq1aaV",
+              "end": 35,
+              "expanded_url": "https://x.com/takoyaki_110721/status/2015548195699671072/photo/1",
+              "media_key": "3_2015548189886296064",
+              "start": 12,
+              "url": "https://t.co/MdBrEq1aaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015548195699671072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1187,
+          "impression_count": 106809,
+          "like_count": 11649,
+          "quote_count": 15,
+          "reply_count": 30,
+          "retweet_count": 1475
+        },
+        "reply_settings": "everyone",
+        "text": "#超かぐや姫\nやきもち https://t.co/MdBrEq1aaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~想成为一个大魔法师---不想上班....... 不想再吵了.......还债中.jpg   爱的人@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "暮绒球の萌？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015505548163321857/npDbeMlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 1116,
+          "like_count": 22884,
+          "listed_count": 4,
+          "media_count": 964,
+          "tweet_count": 5718
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-04T18:06:01.000Z",
+        "description": "最近学マスにどっぷりハマっちゃってる人\n百合がめっちゃ好き 【ファンボ】https://t.co/8Mb0BXjxuM 【ファンティア】 https://t.co/jgSDX9r05M 【その他リンク集（通販など)】https://t.co/Nz5VvXlACt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yuzu0721.fanbox.cc",
+                "end": 59,
+                "expanded_url": "https://yuzu0721.fanbox.cc/",
+                "start": 36,
+                "url": "https://t.co/8Mb0BXjxuM"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/496419",
+                "end": 92,
+                "expanded_url": "https://fantia.jp/fanclubs/496419",
+                "start": 69,
+                "url": "https://t.co/jgSDX9r05M"
+              },
+              {
+                "display_url": "lit.link/shirota0721",
+                "end": 131,
+                "expanded_url": "https://lit.link/shirota0721",
+                "start": 108,
+                "url": "https://t.co/Nz5VvXlACt"
+              }
+            ]
+          }
+        },
+        "id": "1411748019888746497",
+        "name": "しろた",
+        "pinned_tweet_id": "2011370840483606652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880230646108545024/RcQtLvQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129177,
+          "following_count": 652,
+          "like_count": 8575,
+          "listed_count": 530,
+          "media_count": 386,
+          "tweet_count": 3917
+        },
+        "username": "takoyaki_110721",
+        "verified": true
+      }
+    ]
+  }
+}

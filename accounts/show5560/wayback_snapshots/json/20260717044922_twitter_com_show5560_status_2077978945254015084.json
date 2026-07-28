@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2077944660471984576",
+    "created_at": "2026-07-17T04:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077978945254015084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011975740808708099",
+          "start": 0,
+          "username": "Xingzhimiao233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077978945254015084",
+    "in_reply_to_user_id": "2011975740808708099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077944660471984576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xingzhimiao233 你很可爱，请和我交朋友（bushi）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077944361657249792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZXYzObMAAQMz8.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2077944660471984576",
+        "created_at": "2026-07-17T04:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077978945254015084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011975740808708099",
+              "start": 0,
+              "username": "Xingzhimiao233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077978945254015084",
+        "in_reply_to_user_id": "2011975740808708099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077944660471984576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xingzhimiao233 你很可爱，请和我交朋友（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077944361657249792"
+          ]
+        },
+        "author_id": "2011975740808708099",
+        "conversation_id": "2077944660471984576",
+        "created_at": "2026-07-17T02:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077944660471984576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rijnRZOJr9",
+              "end": 40,
+              "expanded_url": "https://x.com/Xingzhimiao233/status/2077944660471984576/photo/1",
+              "media_key": "3_2077944361657249792",
+              "start": 17,
+              "url": "https://t.co/rijnRZOJr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077944660471984576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "难道我其实真的很有当nn的天赋？ https://t.co/rijnRZOJr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5000,
+          "following_count": 1739,
+          "like_count": 31388,
+          "listed_count": 12,
+          "media_count": 2320,
+          "tweet_count": 10733
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-16T01:36:41.000Z",
+        "description": "165/44 男孩子\n🚪52\n我很可爱，请给我钱",
+        "id": "2011975740808708099",
+        "location": "再看吃了你",
+        "name": "星吱喵",
+        "pinned_tweet_id": "2074040588794822807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066231429483134976/URUfiKbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6968,
+          "following_count": 249,
+          "like_count": 699,
+          "listed_count": 26,
+          "media_count": 95,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "Xingzhimiao233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2071360757909123511",
+    "created_at": "2026-06-29T09:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071527661156155639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071527661156155639",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071360757909123511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe 那最好真是个冰柱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2071360737356988416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7znbfawAA16nM.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2071360757909123511",
+        "created_at": "2026-06-29T09:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071527661156155639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071527661156155639",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071360757909123511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 那最好真是个冰柱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071360737356988416"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2071360757909123511",
+        "created_at": "2026-06-28T22:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071360757909123511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RRlUe2IoCA",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2071360757909123511/photo/1",
+              "media_key": "3_2071360737356988416",
+              "start": 0,
+              "url": "https://t.co/RRlUe2IoCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071360757909123511",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 39068,
+          "like_count": 715,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RRlUe2IoCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4478,
+          "following_count": 1719,
+          "like_count": 29588,
+          "listed_count": 11,
+          "media_count": 1892,
+          "tweet_count": 8842
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36630,
+          "following_count": 371,
+          "like_count": 229,
+          "listed_count": 110,
+          "media_count": 16644,
+          "tweet_count": 16728
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

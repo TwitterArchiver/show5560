@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1794749440026357945",
+    "created_at": "2024-05-27T03:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T04:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794930522755682379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551123155908849664",
+          "start": 0,
+          "username": "Autodupenothing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794930522755682379",
+    "in_reply_to_user_id": "1551123155908849664",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794867315714183466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autodupenothing 哭不出来（悲）\n不过今天好多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1794749440026357945",
+        "created_at": "2024-05-27T03:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T04:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794930522755682379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551123155908849664",
+              "start": 0,
+              "username": "Autodupenothing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794930522755682379",
+        "in_reply_to_user_id": "1551123155908849664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794867315714183466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autodupenothing 哭不出来（悲）\n不过今天好多了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1551123155908849664",
+        "conversation_id": "1794749440026357945",
+        "created_at": "2024-05-26T23:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T00:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794867315714183466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794867315714183466",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794749440026357945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 不要憋住，哭出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△ 电子猫咪 △想当魔法师的mtx△慢慢变得好看△想要一直放松开心下去△ 当前形态-猫咪正太 ◁开始了发癫日常△  长时间穷 △  🚪 50",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮はい電子猫ちゃん",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794786472517877761/qvmfPoe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 1119,
+          "like_count": 23660,
+          "listed_count": 3,
+          "tweet_count": 4949
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T08:32:59.000Z",
+        "description": "🌌🌃🌆🌠BF:@miaowu075",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "miaowu075"
+              }
+            ]
+          }
+        },
+        "id": "1551123155908849664",
+        "location": "蔚蓝色的参宿七",
+        "name": "黎晓li💤",
+        "pinned_tweet_id": "1784787709204234515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693990843907211264/UeX2aw59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 153,
+          "like_count": 4645,
+          "listed_count": 1,
+          "tweet_count": 1009
+        },
+        "username": "Autodupenothing",
+        "verified": false
+      }
+    ]
+  }
+}

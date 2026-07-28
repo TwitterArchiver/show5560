@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047145946346381656",
+    "created_at": "2026-04-23T05:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047193160036786621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850468378949115904",
+          "start": 0,
+          "username": "2008456abc"
+        },
+        {
+          "end": 23,
+          "id": "1948391508970762240",
+          "start": 12,
+          "username": "ohouhou717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047193160036786621",
+    "in_reply_to_user_id": "1850468378949115904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047167934494277734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2008456abc @ohouhou717 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047145946346381656",
+        "created_at": "2026-04-23T05:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047193160036786621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850468378949115904",
+              "start": 0,
+              "username": "2008456abc"
+            },
+            {
+              "end": 23,
+              "id": "1948391508970762240",
+              "start": 12,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047193160036786621",
+        "in_reply_to_user_id": "1850468378949115904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047167934494277734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2008456abc @ohouhou717 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850468378949115904",
+        "conversation_id": "2047145946346381656",
+        "created_at": "2026-04-23T04:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047167934494277734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948391508970762240",
+              "start": 0,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047167934494277734",
+        "in_reply_to_user_id": "1948391508970762240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047145946346381656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohouhou717 看看我关你多久了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2938,
+          "following_count": 1601,
+          "like_count": 26222,
+          "listed_count": 7,
+          "media_count": 601,
+          "tweet_count": 6199
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-27T09:23:53.000Z",
+        "description": "《蓝V不互关就取关》运动🔔首发人丨未受洗信徒🔶区块链15年深耕者丨技术解决方案公司 💎 @FrameCommunity 💎 @FrameCorporate 丨 量子隐私钱包🔶 BlueV No Mutual = Unfollow 🔔 Founder",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "FrameCommunity"
+              },
+              {
+                "end": 77,
+                "start": 62,
+                "username": "FrameCorporate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "frame.community",
+                "end": 23,
+                "expanded_url": "https://www.frame.community/",
+                "start": 0,
+                "url": "https://t.co/OqXPaKgc5M"
+              }
+            ]
+          }
+        },
+        "id": "1850468378949115904",
+        "name": "北美大山 🔶 Da Shan",
+        "pinned_tweet_id": "2045988951572599259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988239808540667905/yIdSVnVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4667,
+          "following_count": 4413,
+          "like_count": 14270,
+          "listed_count": 2,
+          "media_count": 619,
+          "tweet_count": 6323
+        },
+        "url": "https://t.co/OqXPaKgc5M",
+        "username": "2008456abc",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T14:35:22.000Z",
+        "description": "Now！ \nYapping about crypto！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weilan69",
+                "end": 23,
+                "expanded_url": "https://t.me/weilan69",
+                "start": 0,
+                "url": "https://t.co/Cb7C0RUObx"
+              }
+            ]
+          }
+        },
+        "id": "1948391508970762240",
+        "name": "Weilan| 🤖ボッ Bird🕊️",
+        "pinned_tweet_id": "2046768436488143310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999801423761199104/dgwqRHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14224,
+          "following_count": 7993,
+          "like_count": 93399,
+          "listed_count": 62,
+          "media_count": 322,
+          "tweet_count": 93581
+        },
+        "url": "https://t.co/Cb7C0RUObx",
+        "username": "ohouhou717",
+        "verified": true
+      }
+    ]
+  }
+}

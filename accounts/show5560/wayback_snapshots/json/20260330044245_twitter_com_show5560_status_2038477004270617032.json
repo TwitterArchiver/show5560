@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2038249723942052064",
+    "created_at": "2026-03-30T04:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038477004270617032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835364330201870336",
+          "start": 0,
+          "username": "HuJiaxin18097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038477004270617032",
+    "in_reply_to_user_id": "1835364330201870336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038442190381441059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuJiaxin18097 笨蛋w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2038249723942052064",
+        "created_at": "2026-03-30T04:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038477004270617032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835364330201870336",
+              "start": 0,
+              "username": "HuJiaxin18097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038477004270617032",
+        "in_reply_to_user_id": "1835364330201870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038442190381441059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuJiaxin18097 笨蛋w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835364330201870336",
+        "conversation_id": "2038249723942052064",
+        "created_at": "2026-03-30T02:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038442190381441059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038442190381441059",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038429153092071789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 我要吃你的鸡鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2036763189522936178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 1185,
+          "like_count": 24723,
+          "listed_count": 5,
+          "media_count": 961,
+          "tweet_count": 5976
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T17:05:49.000Z",
+        "description": "我是欣欣，🚪50元整(如经济能力允许的话，希望还是能多给点)，说话请过脑子，并不接受任何闲聊",
+        "id": "1835364330201870336",
+        "location": "中国，四川省，南充市，蓬安县",
+        "name": "AWON Robin 🏳️‍⚧️（美天阳）",
+        "pinned_tweet_id": "2027321679593210086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032995767221366785/QtcoozOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 278
+        },
+        "username": "HuJiaxin18097",
+        "verified": false
+      }
+    ]
+  }
+}

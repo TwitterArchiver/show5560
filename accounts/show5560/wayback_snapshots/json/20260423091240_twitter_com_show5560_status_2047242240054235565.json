@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047182289864642945",
+    "created_at": "2026-04-23T09:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047242240054235565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1442507712227512320",
+          "start": 0,
+          "username": "chuxin06233297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047242240054235565",
+    "in_reply_to_user_id": "1442507712227512320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047182289864642945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuxin06233297 虽然很对不起，但是为什么有点像千早爱音"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11647,
+        "height": 960,
+        "media_key": "7_2047182259963490304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047182259963490304/pu/img/S6IXK_JgYE9g4Hls.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047182259963490304/pu/vid/avc1/320x426/0KBHTJn0VcL92Rey.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047182259963490304/pu/vid/avc1/480x640/0lImDA2vvI3Hpa4L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047182259963490304/pu/vid/avc1/720x960/6MaxCQH2XruuP47-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047182259963490304/pu/pl/d2kMViAfl0JhGVT4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047182289864642945",
+        "created_at": "2026-04-23T09:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047242240054235565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1442507712227512320",
+              "start": 0,
+              "username": "chuxin06233297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047242240054235565",
+        "in_reply_to_user_id": "1442507712227512320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047182289864642945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuxin06233297 虽然很对不起，但是为什么有点像千早爱音"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047182259963490304"
+          ]
+        },
+        "author_id": "1442507712227512320",
+        "conversation_id": "2047182289864642945",
+        "created_at": "2026-04-23T05:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047182289864642945"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "长夜月"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "三月七"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "cos"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rT5JLoJxLL",
+              "end": 50,
+              "expanded_url": "https://x.com/chuxin06233297/status/2047182289864642945/video/1",
+              "media_key": "7_2047182259963490304",
+              "start": 27,
+              "url": "https://t.co/rT5JLoJxLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047182289864642945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是啥子嘛？！\n#长夜月 #三月七 #cos #男娘 https://t.co/rT5JLoJxLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2960,
+          "following_count": 1619,
+          "like_count": 26267,
+          "listed_count": 7,
+          "media_count": 605,
+          "tweet_count": 6237
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-27T15:13:46.000Z",
+        "description": "是coser/摄影 |  男生  |  坐标武汉  |  \n略微有点小社恐；                  如果有同好来找我玩也是很开心的哇~                   |                 \n\n只是发点作品..喜欢可以关注",
+        "id": "1442507712227512320",
+        "name": "云初off~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045094463207542784/-UlYNJZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 62,
+          "like_count": 18,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 16
+        },
+        "username": "chuxin06233297",
+        "verified": false
+      }
+    ]
+  }
+}

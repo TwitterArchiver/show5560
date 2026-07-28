@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1838096960873738442",
+    "created_at": "2024-09-24T00:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T01:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838368482775437587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekoNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838368482775437587",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838306189257343388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekoNeko 喵？那你是嘛）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1838096960873738442",
+        "created_at": "2024-09-24T00:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T01:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838368482775437587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekoNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838368482775437587",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838306189257343388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekoNeko 喵？那你是嘛）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "1838096960873738442",
+        "created_at": "2024-09-23T19:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T20:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838306189257343388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838306189257343388",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838096960873738442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 有的有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只☆ 笨蛋一个 △想成为一个大魔法师△ ♡想要被独爱（如果有就好了）♡ 这是黄推，可以来看看，关注一下 @runamusaki ｜突然就没有什么生活的兴趣了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "runamusaki"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "即将死亡",
+        "name": "☆暮暮★",
+        "pinned_tweet_id": "1835518582966632454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835284829782552576/Hm1IWadl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1148,
+          "like_count": 23980,
+          "listed_count": 3,
+          "tweet_count": 5210
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "星喵私下称呼为星晚&叽翅。恋人厘米 @ganlongyu_ | Backend, Algorithm, Cybersecurity | Technical Leader | CS at @CUBoulder | ◂Ⓘ▸ 🎸, 🏹, 🏎️ | MtX | INFJ | ADHD BPD BD | 永久陪聊🚪¥88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "ganlongyu_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "CUBoulder"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com/profile_cn",
+                "end": 23,
+                "expanded_url": "https://starneko.com/profile_cn",
+                "start": 0,
+                "url": "https://t.co/I4Fg4JzM59"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島有時候在龍門",
+        "name": "Star Neko",
+        "pinned_tweet_id": "1831341304221249561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836939121790701568/p5mIrDJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 1143,
+          "like_count": 16308,
+          "listed_count": 7,
+          "tweet_count": 4969
+        },
+        "url": "https://t.co/I4Fg4JzM59",
+        "username": "StarNekoNeko",
+        "verified": false
+      }
+    ]
+  }
+}

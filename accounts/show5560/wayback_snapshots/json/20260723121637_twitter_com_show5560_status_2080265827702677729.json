@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2080073641660989556",
+    "created_at": "2026-07-23T12:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080265827702677729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080265827702677729",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080073641660989556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 有的，有的，韩国那边发展的更快，小孩子偶像都有成年女性叫欧巴了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1621,
+        "media_key": "3_2080073637705752576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3n8-obIAAfdEg.jpg",
+        "width": 960
+      },
+      {
+        "height": 1502,
+        "media_key": "3_2080073637881929729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3n8_SbYAEPjmg.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2080073641660989556",
+        "created_at": "2026-07-23T12:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080265827702677729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080265827702677729",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080073641660989556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 有的，有的，韩国那边发展的更快，小孩子偶像都有成年女性叫欧巴了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080073637705752576",
+            "3_2080073637881929729"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080073641660989556",
+        "created_at": "2026-07-22T23:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080073641660989556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0V5qDjmQk",
+              "end": 36,
+              "expanded_url": "https://x.com/jianlvup/status/2080073641660989556/photo/1",
+              "media_key": "3_2080073637705752576",
+              "start": 13,
+              "url": "https://t.co/E0V5qDjmQk"
+            },
+            {
+              "display_url": "pic.x.com/E0V5qDjmQk",
+              "end": 36,
+              "expanded_url": "https://x.com/jianlvup/status/2080073641660989556/photo/1",
+              "media_key": "3_2080073637881929729",
+              "start": 13,
+              "url": "https://t.co/E0V5qDjmQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080073641660989556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 147243,
+          "like_count": 667,
+          "quote_count": 2,
+          "reply_count": 273,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "原来日本真有小学生偶像啊 https://t.co/E0V5qDjmQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5218,
+          "following_count": 1737,
+          "like_count": 32157,
+          "listed_count": 13,
+          "media_count": 2477,
+          "tweet_count": 11481
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2080073641660989556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19399,
+          "following_count": 1581,
+          "like_count": 87642,
+          "listed_count": 67,
+          "media_count": 3862,
+          "tweet_count": 7506
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

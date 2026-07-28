@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2034605348536152386",
+    "created_at": "2026-03-19T12:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034605348536152386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "822329886257790976",
+          "start": 3,
+          "username": "LumidexNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034605348536152386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034560574114390285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LumidexNZ: 回来照镜子发现自己还是好男，打再多激素也没用了，也许该尝试着接受吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2034605348536152386",
+        "created_at": "2026-03-19T12:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034605348536152386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "822329886257790976",
+              "start": 3,
+              "username": "LumidexNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034605348536152386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034560574114390285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LumidexNZ: 回来照镜子发现自己还是好男，打再多激素也没用了，也许该尝试着接受吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822329886257790976",
+        "conversation_id": "2034560574114390285",
+        "created_at": "2026-03-19T09:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034560574114390285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034560574114390285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1355,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "回来照镜子发现自己还是好男，打再多激素也没用了，也许该尝试着接受吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 🚪50 接线下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1170,
+          "like_count": 24046,
+          "listed_count": 5,
+          "media_count": 950,
+          "tweet_count": 5905
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病挂壁老鼠人｜168cm/51kg｜大猫咪🐈@morisase｜匿名提问https://t.co/MkVyELXohF 同类互fo🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "morisase"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/11176781",
+                "end": 61,
+                "expanded_url": "http://ngl.link/11176781",
+                "start": 38,
+                "url": "https://t.co/MkVyELXohF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7JDKk"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 573,
+          "like_count": 4199,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1801
+        },
+        "url": "https://t.co/y8BdM7JDKk",
+        "username": "LumidexNZ",
+        "verified": false
+      }
+    ]
+  }
+}

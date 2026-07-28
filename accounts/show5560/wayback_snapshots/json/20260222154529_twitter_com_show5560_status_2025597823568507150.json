@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025182420950253568"
+      ],
+      "media_source_tweet_id": [
+        "2025541077600539090"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2025597823568507150",
+    "created_at": "2026-02-22T15:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025597823568507150"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432396674949791744",
+          "start": 3,
+          "username": "newda_AL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2iOQzid1MT",
+          "end": 44,
+          "expanded_url": "https://x.com/newda_AL/status/2025541077600539090/photo/1",
+          "media_key": "3_2025182420950253568",
+          "start": 21,
+          "url": "https://t.co/2iOQzid1MT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025597823568507150",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 293
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025541077600539090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @newda_AL: #超かぐや姫 https://t.co/2iOQzid1MT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2372,
+        "media_key": "3_2025182420950253568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrkrpYbAAAMJwK.jpg",
+        "width": 1912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025182420950253568"
+          ],
+          "media_source_tweet_id": [
+            "2025541077600539090"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2025597823568507150",
+        "created_at": "2026-02-22T15:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025597823568507150"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432396674949791744",
+              "start": 3,
+              "username": "newda_AL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iOQzid1MT",
+              "end": 44,
+              "expanded_url": "https://x.com/newda_AL/status/2025541077600539090/photo/1",
+              "media_key": "3_2025182420950253568",
+              "start": 21,
+              "url": "https://t.co/2iOQzid1MT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025597823568507150",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 293
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025541077600539090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @newda_AL: #超かぐや姫 https://t.co/2iOQzid1MT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025182420950253568"
+          ]
+        },
+        "author_id": "1432396674949791744",
+        "conversation_id": "2025541077600539090",
+        "created_at": "2026-02-22T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025541077600539090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iOQzid1MT",
+              "end": 30,
+              "expanded_url": "https://x.com/newda_AL/status/2025541077600539090/photo/1",
+              "media_key": "3_2025182420950253568",
+              "start": 7,
+              "url": "https://t.co/2iOQzid1MT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025541077600539090",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 19570,
+          "like_count": 2901,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "#超かぐや姫 https://t.co/2iOQzid1MT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1126,
+          "like_count": 23093,
+          "listed_count": 4,
+          "media_count": 929,
+          "tweet_count": 5739
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T17:36:21.000Z",
+        "description": "pixiv-  https://t.co/9M8nsciivs\n/💌 newdaal10@gmail.com\n🚫AI🚫",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/102860368",
+                "end": 31,
+                "expanded_url": "https://www.pixiv.net/users/102860368",
+                "start": 8,
+                "url": "https://t.co/9M8nsciivs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/mag48jbg50kivd…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/mag48jbg50kivde?t=r6F0Qy&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/7B1RWpxgLI"
+              }
+            ]
+          }
+        },
+        "id": "1432396674949791744",
+        "location": "美少女を叱る老人",
+        "name": "ニューダ/NEWDA 초카구야공주통판",
+        "pinned_tweet_id": "2024853881055072636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975518001593257984/RY3ftiYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8783,
+          "following_count": 204,
+          "like_count": 3212,
+          "listed_count": 47,
+          "media_count": 834,
+          "tweet_count": 14023
+        },
+        "url": "https://t.co/7B1RWpxgLI",
+        "username": "newda_AL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038178733790785536"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2038178739981570373",
+    "created_at": "2026-03-29T08:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038178739981570373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O5Fg5WO7We",
+          "end": 38,
+          "expanded_url": "https://x.com/show5560/status/2038178739981570373/photo/1",
+          "media_key": "3_2038178733790785536",
+          "start": 15,
+          "url": "https://t.co/O5Fg5WO7We"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038178739981570373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想买新女装，然后拍照）伪街 https://t.co/O5Fg5WO7We"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2038178733790785536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkQwnha8AAq66M.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038178733790785536"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2038178739981570373",
+        "created_at": "2026-03-29T08:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038178739981570373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5Fg5WO7We",
+              "end": 38,
+              "expanded_url": "https://x.com/show5560/status/2038178739981570373/photo/1",
+              "media_key": "3_2038178733790785536",
+              "start": 15,
+              "url": "https://t.co/O5Fg5WO7We"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038178739981570373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想买新女装，然后拍照）伪街 https://t.co/O5Fg5WO7We"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 1181,
+          "like_count": 24613,
+          "listed_count": 5,
+          "media_count": 960,
+          "tweet_count": 5969
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

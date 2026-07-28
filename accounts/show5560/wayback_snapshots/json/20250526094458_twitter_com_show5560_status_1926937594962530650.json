@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1926670251757871484",
+    "created_at": "2025-05-26T09:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T10:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926937594962530650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766025755161772032",
+          "start": 0,
+          "username": "Kiara939217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926937594962530650",
+    "in_reply_to_user_id": "1766025755161772032",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926670251757871484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiara939217 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1926670251757871484",
+        "created_at": "2025-05-26T09:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T10:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926937594962530650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766025755161772032",
+              "start": 0,
+              "username": "Kiara939217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926937594962530650",
+        "in_reply_to_user_id": "1766025755161772032",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926670251757871484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiara939217 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766025755161772032",
+        "conversation_id": "1926670251757871484",
+        "created_at": "2025-05-25T16:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926670251757871484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926670251757871484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5619,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "准备开始接线下圆角了\n目前打算是600一次1000一晚\n过🚪20详谈\n有人可以给我出出主意吗，可以陪你一晚哦ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘✟ 想成为一个大魔法师✟ 已经无糖哩（断糖之后不知道做什么了）✟生活能过的开心就是赢✟ 迷茫焦虑 ♡ 真的很喜欢希汐老师@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "✟焦虑の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1163,
+          "like_count": 23586,
+          "listed_count": 4,
+          "media_count": 916,
+          "tweet_count": 5617
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T08:58:57.000Z",
+        "description": "前次元斩大排档/打猎/ygo/kisskill/不鉴证/绝情道\n可以牺牲，但不能被牺牲\n被绑架你就眨眨眼",
+        "id": "1766025755161772032",
+        "location": "如果你想要，你得自己来拿，但规矩你懂的",
+        "name": "真夜迴-神楽坂扩张",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920505185467551744/5GlV5gFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 1476,
+          "like_count": 18701,
+          "listed_count": 0,
+          "media_count": 462,
+          "tweet_count": 4100
+        },
+        "username": "Kiara939217",
+        "verified": false
+      }
+    ]
+  }
+}

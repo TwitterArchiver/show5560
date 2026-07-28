@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042903049031815171"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2043162187288690973",
+    "created_at": "2026-04-12T03:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043162187288690973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zIg9JIVlN0",
+          "end": 61,
+          "expanded_url": "https://x.com/show5560/status/2043162187288690973/photo/1",
+          "media_key": "3_2042903049031815171",
+          "start": 38,
+          "url": "https://t.co/zIg9JIVlN0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043162187288690973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也凭借着自己的努力，成功的在某个超市里买下了一罐橘子罐头！\n超好吃owo https://t.co/zIg9JIVlN0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2042903049031815171",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnZf9QakAMsNSL.png",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042903049031815171"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2043162187288690973",
+        "created_at": "2026-04-12T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043162187288690973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zIg9JIVlN0",
+              "end": 61,
+              "expanded_url": "https://x.com/show5560/status/2043162187288690973/photo/1",
+              "media_key": "3_2042903049031815171",
+              "start": 38,
+              "url": "https://t.co/zIg9JIVlN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043162187288690973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也凭借着自己的努力，成功的在某个超市里买下了一罐橘子罐头！\n超好吃owo https://t.co/zIg9JIVlN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ #蓝v互关 喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "蓝v互关"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 1250,
+          "like_count": 24938,
+          "listed_count": 5,
+          "media_count": 440,
+          "tweet_count": 5558
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

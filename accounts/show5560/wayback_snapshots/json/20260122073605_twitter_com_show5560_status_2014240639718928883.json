@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013969927980601344"
+      ],
+      "media_source_tweet_id": [
+        "2013969977838076224"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2014240639718928883",
+    "created_at": "2026-01-22T07:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014240639718928883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1878419353898774528",
+          "start": 3,
+          "username": "mqd0rl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5eWwdfywTk",
+          "end": 35,
+          "expanded_url": "https://x.com/mqd0rl/status/2013969977838076224/photo/1",
+          "media_key": "3_2013969927980601344",
+          "start": 12,
+          "url": "https://t.co/5eWwdfywTk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014240639718928883",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013969977838076224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mqd0rl: https://t.co/5eWwdfywTk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3139,
+        "media_key": "3_2013969927980601344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MO-qGaUAAJVFd.jpg",
+        "width": 2515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013969927980601344"
+          ],
+          "media_source_tweet_id": [
+            "2013969977838076224"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2014240639718928883",
+        "created_at": "2026-01-22T07:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014240639718928883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1878419353898774528",
+              "start": 3,
+              "username": "mqd0rl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eWwdfywTk",
+              "end": 35,
+              "expanded_url": "https://x.com/mqd0rl/status/2013969977838076224/photo/1",
+              "media_key": "3_2013969927980601344",
+              "start": 12,
+              "url": "https://t.co/5eWwdfywTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014240639718928883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013969977838076224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mqd0rl: https://t.co/5eWwdfywTk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013969927980601344"
+          ]
+        },
+        "author_id": "1878419353898774528",
+        "conversation_id": "2013969977838076224",
+        "created_at": "2026-01-21T13:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013969977838076224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eWwdfywTk",
+              "end": 23,
+              "expanded_url": "https://x.com/mqd0rl/status/2013969977838076224/photo/1",
+              "media_key": "3_2013969927980601344",
+              "start": 0,
+              "url": "https://t.co/5eWwdfywTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013969977838076224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 14159,
+          "like_count": 1890,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5eWwdfywTk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg",
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014240203700109312/7Ytj8klm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1119,
+          "like_count": 22857,
+          "listed_count": 4,
+          "media_count": 963,
+          "tweet_count": 5712
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T12:30:53.000Z",
+        "description": "👁‍🗨 ⚠︎︎𝘴𝘱𝘰𝘪𝘭𝘦𝘳　sub▶︎@_m4Ol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 20,
+                "username": "_m4Ol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/dkcmws0ya…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/dkcmws0yahjjdveo/",
+                "start": 0,
+                "url": "https://t.co/NCujWwUMlo"
+              }
+            ]
+          }
+        },
+        "id": "1878419353898774528",
+        "location": "無断転載 / AI学習 禁止",
+        "name": "mdrn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883801386804207616/nxCJy4uP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 11,
+          "like_count": 261,
+          "listed_count": 6,
+          "media_count": 49,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/NCujWwUMlo",
+        "username": "mqd0rl",
+        "verified": false
+      }
+    ]
+  }
+}

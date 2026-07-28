@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075386169882492928"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2075386172554269113",
+    "created_at": "2026-07-10T01:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075386172554269113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zKlMdyIw8g",
+          "end": 46,
+          "expanded_url": "https://x.com/show5560/status/2075386172554269113/photo/1",
+          "media_key": "3_2075386169882492928",
+          "start": 23,
+          "url": "https://t.co/zKlMdyIw8g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075386172554269113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咕，来戳气球，祝我生日快乐！_(:з」∠)_ https://t.co/zKlMdyIw8g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075386169882492928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1AucOawAAmYx9.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075386169882492928"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075386172554269113",
+        "created_at": "2026-07-10T01:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075386172554269113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKlMdyIw8g",
+              "end": 46,
+              "expanded_url": "https://x.com/show5560/status/2075386172554269113/photo/1",
+              "media_key": "3_2075386169882492928",
+              "start": 23,
+              "url": "https://t.co/zKlMdyIw8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075386172554269113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咕，来戳气球，祝我生日快乐！_(:з」∠)_ https://t.co/zKlMdyIw8g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4750,
+          "following_count": 1730,
+          "like_count": 30693,
+          "listed_count": 12,
+          "media_count": 2147,
+          "tweet_count": 9932
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

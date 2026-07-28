@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051518654811099137"
+      ],
+      "media_source_tweet_id": [
+        "2052297381375553644"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052318978232709148",
+    "created_at": "2026-05-07T09:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052318978232709148"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "PARGMATA"
+        },
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "Diana"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ePKTg6BH7",
+          "end": 76,
+          "expanded_url": "https://x.com/YongQuan/status/2052297381375553644/video/1",
+          "media_key": "13_2051518654811099137",
+          "start": 53,
+          "url": "https://t.co/1ePKTg6BH7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052318978232709148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052297381375553644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: 那很带派了 #PARGMATA #Diana\n我觉得可以给黛安娜穿上花坎肩🤔 https://t.co/1ePKTg6BH7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29705,
+        "height": 1712,
+        "media_key": "13_2051518654811099137",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051518654811099137/img/tM1yFo03o-q6Ajm6.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051518654811099137/vid/avc1/480x680/tJ80Q7nmHpNY9Pz9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051518654811099137/vid/avc1/720x1022/vxRQDBCHBKa_TxX1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051518654811099137/vid/avc1/1206x1712/sXKe6qpRJ6rKoScs.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051518654811099137/vid/avc1/320x454/8ZnQ767JFcSR_uhq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051518654811099137/pl/vo-ZL4etXcYQl7_4.m3u8"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051518654811099137"
+          ],
+          "media_source_tweet_id": [
+            "2052297381375553644"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052318978232709148",
+        "created_at": "2026-05-07T09:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052318978232709148"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "PARGMATA"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "Diana"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ePKTg6BH7",
+              "end": 76,
+              "expanded_url": "https://x.com/YongQuan/status/2052297381375553644/video/1",
+              "media_key": "13_2051518654811099137",
+              "start": 53,
+              "url": "https://t.co/1ePKTg6BH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052318978232709148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052297381375553644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: 那很带派了 #PARGMATA #Diana\n我觉得可以给黛安娜穿上花坎肩🤔 https://t.co/1ePKTg6BH7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051518654811099137"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052297381375553644",
+        "created_at": "2026-05-07T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052297381375553644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "PARGMATA"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "Diana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ePKTg6BH7",
+              "end": 62,
+              "expanded_url": "https://x.com/YongQuan/status/2052297381375553644/video/1",
+              "media_key": "13_2051518654811099137",
+              "start": 39,
+              "url": "https://t.co/1ePKTg6BH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052297381375553644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那很带派了 #PARGMATA #Diana\n我觉得可以给黛安娜穿上花坎肩🤔 https://t.co/1ePKTg6BH7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3828,
+          "following_count": 1683,
+          "like_count": 27318,
+          "listed_count": 8,
+          "media_count": 828,
+          "tweet_count": 6824
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9462,
+          "following_count": 4201,
+          "like_count": 44622,
+          "listed_count": 29,
+          "media_count": 3209,
+          "tweet_count": 11796
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

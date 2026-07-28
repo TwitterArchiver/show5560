@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2041663790723559634",
+    "created_at": "2026-04-08T02:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041704029378781614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030455725374550016",
+          "start": 0,
+          "username": "AAcfun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041704029378781614",
+    "in_reply_to_user_id": "2030455725374550016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041663790723559634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAcfun 上课上困的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2041663790723559634",
+        "created_at": "2026-04-08T02:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041704029378781614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030455725374550016",
+              "start": 0,
+              "username": "AAcfun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041704029378781614",
+        "in_reply_to_user_id": "2030455725374550016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041663790723559634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAcfun 上课上困的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030455725374550016",
+        "conversation_id": "2041663790723559634",
+        "created_at": "2026-04-07T23:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T00:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041663790723559634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LovableMaomao/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/LovableMaomao/status/2041603893550051700",
+              "start": 8,
+              "url": "https://t.co/h9ECV9hNi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041663790723559634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041603893550051700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上课我就这样😋 https://t.co/h9ECV9hNi1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的或者我去搞个日常号（？/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 1125,
+          "like_count": 24616,
+          "listed_count": 5,
+          "media_count": 386,
+          "tweet_count": 5425
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "是男孩子 | 2007 | 超级社恐、胆小 | 不建政 不聊黄 | 精神状态不稳定 | 没情商(如果回复的不好 原谅我...)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aacfun.com",
+                "end": 23,
+                "expanded_url": "http://aacfun.com",
+                "start": 0,
+                "url": "https://t.co/Hbhg0NDgIG"
+              }
+            ]
+          }
+        },
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "AAcfun🏳️‍⚧️",
+        "pinned_tweet_id": "2041147956926218646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030455820924903424/W2qzunzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 113,
+          "like_count": 4320,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/Hbhg0NDgIG",
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

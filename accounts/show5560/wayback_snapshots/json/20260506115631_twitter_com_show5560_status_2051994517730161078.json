@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051777017243385856"
+      ],
+      "media_source_tweet_id": [
+        "2051988345333445077"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2051994517730161078",
+    "created_at": "2026-05-06T11:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051994517730161078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FQXkLGlpk1",
+          "end": 46,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2051988345333445077/photo/1",
+          "media_key": "3_2051777017243385856",
+          "start": 23,
+          "url": "https://t.co/FQXkLGlpk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051994517730161078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051988345333445077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 所以这是为什么 https://t.co/FQXkLGlpk1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2051777017243385856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlgU48aQAA0jg0.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051777017243385856"
+          ],
+          "media_source_tweet_id": [
+            "2051988345333445077"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2051994517730161078",
+        "created_at": "2026-05-06T11:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051994517730161078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQXkLGlpk1",
+              "end": 46,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2051988345333445077/photo/1",
+              "media_key": "3_2051777017243385856",
+              "start": 23,
+              "url": "https://t.co/FQXkLGlpk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051994517730161078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051988345333445077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 所以这是为什么 https://t.co/FQXkLGlpk1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051777017243385856"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2051988345333445077",
+        "created_at": "2026-05-06T11:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051988345333445077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQXkLGlpk1",
+              "end": 31,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2051988345333445077/photo/1",
+              "media_key": "3_2051777017243385856",
+              "start": 8,
+              "url": "https://t.co/FQXkLGlpk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051988345333445077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以这是为什么 https://t.co/FQXkLGlpk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 1681,
+          "like_count": 27262,
+          "listed_count": 8,
+          "media_count": 813,
+          "tweet_count": 6797
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8135,
+          "following_count": 2186,
+          "like_count": 28713,
+          "listed_count": 26,
+          "media_count": 1168,
+          "tweet_count": 4766
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

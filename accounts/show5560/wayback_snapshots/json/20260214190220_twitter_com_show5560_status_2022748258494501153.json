@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2020521134387556605",
+    "created_at": "2026-02-14T19:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T20:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022748258494501153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1770596076019765248",
+          "start": 0,
+          "username": "Sakurakouji319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022748258494501153",
+    "in_reply_to_user_id": "1770596076019765248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022691937195892985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakurakouji319 是哇qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2020521134387556605",
+        "created_at": "2026-02-14T19:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022748258494501153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770596076019765248",
+              "start": 0,
+              "username": "Sakurakouji319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022748258494501153",
+        "in_reply_to_user_id": "1770596076019765248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022691937195892985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakurakouji319 是哇qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770596076019765248",
+        "conversation_id": "2020521134387556605",
+        "created_at": "2026-02-14T15:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022691937195892985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022691937195892985",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020521134387556605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 肉腿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~没有梦想的咸鱼一条ovo/✟♡重度依赖♡✟----努力的还债中.jpg /营业？坐标:深圳/减肥中.jpg",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 1124,
+          "like_count": 23049,
+          "listed_count": 4,
+          "media_count": 977,
+          "tweet_count": 5777
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T23:39:43.000Z",
+        "description": "",
+        "id": "1770596076019765248",
+        "name": "桜小路ルナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770596470942740481/xXAl8IVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 1129,
+          "like_count": 25255,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 55911
+        },
+        "username": "Sakurakouji319",
+        "verified": false
+      }
+    ]
+  }
+}

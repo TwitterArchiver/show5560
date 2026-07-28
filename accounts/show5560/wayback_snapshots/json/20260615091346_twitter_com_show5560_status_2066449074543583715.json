@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066449067325132800"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066449074543583715",
+    "created_at": "2026-06-15T09:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066449074543583715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1eb1a7V2X8",
+          "end": 40,
+          "expanded_url": "https://x.com/show5560/status/2066449074543583715/photo/1",
+          "media_key": "3_2066449067325132800",
+          "start": 17,
+          "url": "https://t.co/1eb1a7V2X8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066449074543583715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉时间过得好快，一转眼都完结了 https://t.co/1eb1a7V2X8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2066449067325132800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2AemxaEAAugM7.jpg",
+        "width": 644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066449067325132800"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066449074543583715",
+        "created_at": "2026-06-15T09:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066449074543583715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1eb1a7V2X8",
+              "end": 40,
+              "expanded_url": "https://x.com/show5560/status/2066449074543583715/photo/1",
+              "media_key": "3_2066449067325132800",
+              "start": 17,
+              "url": "https://t.co/1eb1a7V2X8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066449074543583715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉时间过得好快，一转眼都完结了 https://t.co/1eb1a7V2X8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡接线下喵 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "pinned_tweet_id": "2066161712768929986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 1698,
+          "like_count": 28617,
+          "listed_count": 8,
+          "media_count": 1500,
+          "tweet_count": 8006
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

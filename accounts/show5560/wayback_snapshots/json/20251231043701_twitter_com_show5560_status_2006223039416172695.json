@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005834481106878464"
+      ],
+      "media_source_tweet_id": [
+        "2005834486534349077"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006223039416172695",
+    "created_at": "2025-12-31T04:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006223039416172695"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "ヒロちゃん",
+          "probability": 0.6563,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 38,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1190616523380912130",
+          "start": 3,
+          "username": "Maki_Aato"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YIlSWTmnos",
+          "end": 71,
+          "expanded_url": "https://x.com/Maki_Aato/status/2005834486534349077/photo/1",
+          "media_key": "3_2005834481106878464",
+          "start": 48,
+          "url": "https://t.co/YIlSWTmnos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006223039416172695",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 402
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005834486534349077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maki_Aato: 今年のラスト1枚！\nヒロちゃんダ——イスキ！\n#まのさば二次創作 https://t.co/YIlSWTmnos"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005834481106878464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Yn1UybAAAewn_.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005834481106878464"
+          ],
+          "media_source_tweet_id": [
+            "2005834486534349077"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006223039416172695",
+        "created_at": "2025-12-31T04:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006223039416172695"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "ヒロちゃん",
+              "probability": 0.6563,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1190616523380912130",
+              "start": 3,
+              "username": "Maki_Aato"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIlSWTmnos",
+              "end": 71,
+              "expanded_url": "https://x.com/Maki_Aato/status/2005834486534349077/photo/1",
+              "media_key": "3_2005834481106878464",
+              "start": 48,
+              "url": "https://t.co/YIlSWTmnos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006223039416172695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 402
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005834486534349077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maki_Aato: 今年のラスト1枚！\nヒロちゃんダ——イスキ！\n#まのさば二次創作 https://t.co/YIlSWTmnos"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005834481106878464"
+          ]
+        },
+        "author_id": "1190616523380912130",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005834486534349077",
+        "created_at": "2025-12-30T02:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T03:42:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005831928780337585",
+          "2005834486534349077"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "ヒロちゃん",
+              "probability": 0.6403,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIlSWTmnos",
+              "end": 56,
+              "expanded_url": "https://x.com/Maki_Aato/status/2005834486534349077/photo/1",
+              "media_key": "3_2005834481106878464",
+              "start": 33,
+              "url": "https://t.co/YIlSWTmnos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005834486534349077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 41181,
+          "like_count": 2923,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "今年のラスト1枚！\nヒロちゃんダ——イスキ！\n#まのさば二次創作 https://t.co/YIlSWTmnos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1131,
+          "like_count": 22861,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5699
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-02T13:08:05.000Z",
+        "description": "社会人 | ヘブバン&サマポケ&ごちうさ&東方Project＆まのさば&ブルアカ&ステラソラ | 小笠原緋雨 | 霧雨魔理沙 | 二階堂ヒロ | skeb：https://t.co/E5uGfI2Au9（興味があるタイトルのみ）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Maki_Aato",
+                "end": 101,
+                "expanded_url": "https://skeb.jp/@Maki_Aato",
+                "start": 78,
+                "url": "https://t.co/E5uGfI2Au9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16395703",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/16395703",
+                "start": 0,
+                "url": "https://t.co/pl0cPDmft4"
+              }
+            ]
+          }
+        },
+        "id": "1190616523380912130",
+        "name": "マキアート☕@異ノ祭A6",
+        "pinned_tweet_id": "1982377826298069117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981706905861926912/vZDKo8ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 134,
+          "like_count": 5028,
+          "listed_count": 34,
+          "media_count": 292,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/pl0cPDmft4",
+        "username": "Maki_Aato",
+        "verified": true
+      }
+    ]
+  }
+}

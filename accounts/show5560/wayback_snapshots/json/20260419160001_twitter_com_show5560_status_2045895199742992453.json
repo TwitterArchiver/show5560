@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045818176349634560"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045895199742992453",
+    "created_at": "2026-04-19T16:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045895199742992453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2j0UG8oWic",
+          "end": 53,
+          "expanded_url": "https://x.com/show5560/status/2045895199742992453/photo/1",
+          "media_key": "3_2045818176349634560",
+          "start": 30,
+          "url": "https://t.co/2j0UG8oWic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045895199742992453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝，你的好兄弟真的是完美的避孕体质🤓\n快去和你兄弟去试试吧 https://t.co/2j0UG8oWic"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2045818176349634560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ0ysxbgAAb7Bn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045818176349634560"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045895199742992453",
+        "created_at": "2026-04-19T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045895199742992453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2j0UG8oWic",
+              "end": 53,
+              "expanded_url": "https://x.com/show5560/status/2045895199742992453/photo/1",
+              "media_key": "3_2045818176349634560",
+              "start": 30,
+              "url": "https://t.co/2j0UG8oWic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045895199742992453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝，你的好兄弟真的是完美的避孕体质🤓\n快去和你兄弟去试试吧 https://t.co/2j0UG8oWic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2733,
+          "following_count": 1428,
+          "like_count": 25595,
+          "listed_count": 6,
+          "media_count": 548,
+          "tweet_count": 5817
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

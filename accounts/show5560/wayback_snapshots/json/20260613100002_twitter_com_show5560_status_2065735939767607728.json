@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065554491395764224"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2065735939767607728",
+    "created_at": "2026-06-13T10:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065735939767607728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KIIE0IHxIQ",
+          "end": 38,
+          "expanded_url": "https://x.com/show5560/status/2065735939767607728/photo/1",
+          "media_key": "3_2065554491395764224",
+          "start": 15,
+          "url": "https://t.co/KIIE0IHxIQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065735939767607728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁小时候不想要一个游泳池呢~ https://t.co/KIIE0IHxIQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2065554491395764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpS3bvbcAAuBQW.jpg",
+        "width": 883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065554491395764224"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2065735939767607728",
+        "created_at": "2026-06-13T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065735939767607728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KIIE0IHxIQ",
+              "end": 38,
+              "expanded_url": "https://x.com/show5560/status/2065735939767607728/photo/1",
+              "media_key": "3_2065554491395764224",
+              "start": 15,
+              "url": "https://t.co/KIIE0IHxIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065735939767607728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁小时候不想要一个游泳池呢~ https://t.co/KIIE0IHxIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 1694,
+          "like_count": 28539,
+          "listed_count": 8,
+          "media_count": 1463,
+          "tweet_count": 7965
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1842803875356753920"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1842803888073977865",
+    "created_at": "2024-10-06T05:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T06:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842803888073977865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FEYZ3R5YpP",
+          "end": 37,
+          "expanded_url": "https://x.com/show5560/status/1842803888073977865/photo/1",
+          "media_key": "16_1842803875356753920",
+          "start": 14,
+          "url": "https://t.co/FEYZ3R5YpP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842803888073977865",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开始有讨厌的人了dT-Tb https://t.co/FEYZ3R5YpP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842803888073977865].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842803888073977865",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842803888073977865"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_1842803875356753920",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GZL0XG1aQAAZ1XV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GZL0XG1aQAAZ1XV.mp4"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆ 笨蛋一个 △想成为一个大魔法师△ ♡想要被独爱（如果有就好了）♡ 消失的里世界₍˄·͈༝·͈˄*₎◞ ̑̑｜突然就没有什么生活的兴趣了",
+        "id": "1465701247021838341",
+        "location": "即将死亡",
+        "name": "☆暮暮★",
+        "pinned_tweet_id": "1835518582966632454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835284829782552576/Hm1IWadl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 1166,
+          "like_count": 24221,
+          "listed_count": 3,
+          "tweet_count": 5271
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

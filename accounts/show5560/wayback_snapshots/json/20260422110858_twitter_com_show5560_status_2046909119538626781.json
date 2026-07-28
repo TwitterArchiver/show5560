@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046639498424131678",
+    "created_at": "2026-04-22T11:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046909119538626781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717717662485327873",
+          "start": 0,
+          "username": "yanyan2567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046909119538626781",
+    "in_reply_to_user_id": "1717717662485327873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046639498424131678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyan2567 室友应该会很开心😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2046639492682207232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcfxmib0AAu41u.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046639498424131678",
+        "created_at": "2026-04-22T11:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046909119538626781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717717662485327873",
+              "start": 0,
+              "username": "yanyan2567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046909119538626781",
+        "in_reply_to_user_id": "1717717662485327873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046639498424131678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyan2567 室友应该会很开心😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046639492682207232"
+          ]
+        },
+        "author_id": "1717717662485327873",
+        "conversation_id": "2046639498424131678",
+        "created_at": "2026-04-21T17:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046639498424131678"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男娘"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "大黑塔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJMKGJUsl6",
+              "end": 57,
+              "expanded_url": "https://x.com/yanyan2567/status/2046639498424131678/photo/1",
+              "media_key": "3_2046639492682207232",
+              "start": 34,
+              "url": "https://t.co/OJMKGJUsl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046639498424131678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 803,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你要知道\n男生宿舍里面偶尔也会有坏坏的魔女出没的\n#男娘 #大黑塔 https://t.co/OJMKGJUsl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 1573,
+          "like_count": 26105,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 6113
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-27T01:39:54.000Z",
+        "description": "长期在福州忙学业，在读护士，假期回泉\n\n06年/男娘/捆绑/cosplay/R18/游戏\n喜欢的角色：索菲酱/遐蝶/流萤……\n\n想看绳图与约绳点这里→@eikst2567",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "eikst2567"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/baiyaya2567",
+                "end": 23,
+                "expanded_url": "https://t.me/baiyaya2567",
+                "start": 0,
+                "url": "https://t.co/VtivjUtwOV"
+              }
+            ]
+          }
+        },
+        "id": "1717717662485327873",
+        "location": "泉州",
+        "name": "白鸦鸦",
+        "pinned_tweet_id": "1978517690836017344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046651563306057728/_wHpp2jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5042,
+          "following_count": 828,
+          "like_count": 8644,
+          "listed_count": 17,
+          "media_count": 70,
+          "tweet_count": 2370
+        },
+        "url": "https://t.co/VtivjUtwOV",
+        "username": "yanyan2567",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2042970201248145458",
+    "created_at": "2026-04-11T15:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042982734658982002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HoroyoiBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042982734658982002",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042970201248145458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoroyoiBerry 好问题，不过直播比较难做起来，所以我一般都是播着玩，国内平台你直播没活没推流，暴死的qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2042970201248145458",
+        "created_at": "2026-04-11T15:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042982734658982002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HoroyoiBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042982734658982002",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042970201248145458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoroyoiBerry 好问题，不过直播比较难做起来，所以我一般都是播着玩，国内平台你直播没活没推流，暴死的qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021505488337416192",
+        "conversation_id": "2042970201248145458",
+        "created_at": "2026-04-11T14:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042970201248145458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042970201248145458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说我以后不打工了，纯靠游戏代练+直播收益+X的工资，能不能做到月入1万😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ #蓝v互关 喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "蓝v互关"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1246,
+          "like_count": 24918,
+          "listed_count": 5,
+          "media_count": 438,
+          "tweet_count": 5557
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "宝宝 @CyberKanjousen｜114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "CyberKanjousen"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "Kanagawa-ken, Japan",
+        "name": "微醺木莓アンアン",
+        "pinned_tweet_id": "2041914913158000654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042485159942111235/6RzcGbek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 460,
+          "like_count": 1827,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 308
+        },
+        "username": "HoroyoiBerry",
+        "verified": true
+      }
+    ]
+  }
+}

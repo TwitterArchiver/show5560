@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028499538026340352"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2028499546557603859",
+    "created_at": "2026-03-02T15:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028499546557603859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZJwoBp7oNG",
+          "end": 80,
+          "expanded_url": "https://x.com/show5560/status/2028499546557603859/photo/1",
+          "media_key": "3_2028499538026340352",
+          "start": 57,
+          "url": "https://t.co/ZJwoBp7oNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028499546557603859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点想下海了，呜呜\n找不到工作.....\n前段时间的工作因为嫌我身体素质太差了不要我了....\n要饿死了（扭曲） https://t.co/ZJwoBp7oNG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_2028499538026340352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCatlRcaoAAoUpY.jpg",
+        "width": 535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028499538026340352"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2028499546557603859",
+        "created_at": "2026-03-02T15:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028499546557603859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJwoBp7oNG",
+              "end": 80,
+              "expanded_url": "https://x.com/show5560/status/2028499546557603859/photo/1",
+              "media_key": "3_2028499538026340352",
+              "start": 57,
+              "url": "https://t.co/ZJwoBp7oNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028499546557603859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想下海了，呜呜\n找不到工作.....\n前段时间的工作因为嫌我身体素质太差了不要我了....\n要饿死了（扭曲） https://t.co/ZJwoBp7oNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg   🚪88",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1130,
+          "like_count": 23204,
+          "listed_count": 4,
+          "media_count": 935,
+          "tweet_count": 5762
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

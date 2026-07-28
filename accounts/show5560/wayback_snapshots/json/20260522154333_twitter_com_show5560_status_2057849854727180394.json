@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2057747092605694013",
+    "created_at": "2026-05-22T15:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057849854727180394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "UnkXyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057849854727180394",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057747092605694013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkXyn 比我好，羡慕qwq\n我这期已经连续一个星期没有10w了，和上一期天差地别，呜呜呜我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057747090126815232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6WE3iaQAAbt4K.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2057747092605694013",
+        "created_at": "2026-05-22T15:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057849854727180394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "UnkXyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057849854727180394",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057747092605694013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkXyn 比我好，羡慕qwq\n我这期已经连续一个星期没有10w了，和上一期天差地别，呜呜呜我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057747090126815232"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2057747092605694013",
+        "created_at": "2026-05-22T08:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057747092605694013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1sAa1AFu0",
+              "end": 50,
+              "expanded_url": "https://x.com/UnkXyn/status/2057747092605694013/photo/1",
+              "media_key": "3_2057747090126815232",
+              "start": 27,
+              "url": "https://t.co/i1sAa1AFu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057747092605694013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 844,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "为什么最近流量差得要命😭，就因为我之前被封了7天吗🥺 https://t.co/i1sAa1AFu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3977,
+          "following_count": 1691,
+          "like_count": 27721,
+          "listed_count": 7,
+          "media_count": 1072,
+          "tweet_count": 7219
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|oder💊|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|无游戏状态|二代目@XynUnk|https://t.co/gZ6bWdhM1A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 119,
+                "username": "XynUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/UnkXyn",
+                "end": 150,
+                "expanded_url": "http://t.me/UnkXyn",
+                "start": 127,
+                "url": "https://t.co/gZ6bWdhM1A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/UnkSleep",
+                "end": 23,
+                "expanded_url": "http://ngl.link/UnkSleep",
+                "start": 0,
+                "url": "https://t.co/Ai2CsCTwJh"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "name": "✟𝑼𝒏𝒌✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051684783588315136/Nkhjk1Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 1473,
+          "like_count": 17464,
+          "listed_count": 3,
+          "media_count": 491,
+          "tweet_count": 2720
+        },
+        "url": "https://t.co/Ai2CsCTwJh",
+        "username": "UnkXyn",
+        "verified": true
+      }
+    ]
+  }
+}

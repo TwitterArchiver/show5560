@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026164965762285568"
+      ],
+      "media_source_tweet_id": [
+        "2026165031663219108"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2026219128470876297",
+    "created_at": "2026-02-24T08:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026219128470876297"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3693666630",
+          "start": 3,
+          "username": "0_71_Rain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzxxfcOKYA",
+          "end": 55,
+          "expanded_url": "https://x.com/0_71_Rain/status/2026165031663219108/photo/1",
+          "media_key": "3_2026164965762285568",
+          "start": 32,
+          "url": "https://t.co/pzxxfcOKYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026219128470876297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1379
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026165031663219108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0_71_Rain: 全部教えてあげる😋\n#超かぐや姫 https://t.co/pzxxfcOKYA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_2026164965762285568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5iTSCaQAAuoT7.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026164965762285568"
+          ],
+          "media_source_tweet_id": [
+            "2026165031663219108"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2026219128470876297",
+        "created_at": "2026-02-24T08:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026219128470876297"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3693666630",
+              "start": 3,
+              "username": "0_71_Rain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzxxfcOKYA",
+              "end": 55,
+              "expanded_url": "https://x.com/0_71_Rain/status/2026165031663219108/photo/1",
+              "media_key": "3_2026164965762285568",
+              "start": 32,
+              "url": "https://t.co/pzxxfcOKYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026219128470876297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1379
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026165031663219108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0_71_Rain: 全部教えてあげる😋\n#超かぐや姫 https://t.co/pzxxfcOKYA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026164965762285568"
+          ]
+        },
+        "author_id": "3693666630",
+        "conversation_id": "2026165031663219108",
+        "created_at": "2026-02-24T05:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026165031663219108"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzxxfcOKYA",
+              "end": 40,
+              "expanded_url": "https://x.com/0_71_Rain/status/2026165031663219108/photo/1",
+              "media_key": "3_2026164965762285568",
+              "start": 17,
+              "url": "https://t.co/pzxxfcOKYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026165031663219108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1909,
+          "impression_count": 163470,
+          "like_count": 17891,
+          "quote_count": 81,
+          "reply_count": 22,
+          "retweet_count": 1379
+        },
+        "reply_settings": "everyone",
+        "text": "全部教えてあげる😋\n#超かぐや姫 https://t.co/pzxxfcOKYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1128,
+          "like_count": 23126,
+          "listed_count": 4,
+          "media_count": 930,
+          "tweet_count": 5744
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-26T15:08:11.000Z",
+        "description": "徜徉於愛之海中。 ◆✉️ hanaofhanashop@gmail.com ◆FanBox https://t.co/dsCHFzXTOM ◆Plurk: https://t.co/1hnwjlrStT ◆FB: 花小花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kokiku8.fanbox.cc",
+                "end": 69,
+                "expanded_url": "http://kokiku8.fanbox.cc",
+                "start": 46,
+                "url": "https://t.co/dsCHFzXTOM"
+              },
+              {
+                "display_url": "plurk.com/kikukiku599",
+                "end": 101,
+                "expanded_url": "https://plurk.com/kikukiku599",
+                "start": 78,
+                "url": "https://t.co/1hnwjlrStT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13155227",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/13155227",
+                "start": 0,
+                "url": "https://t.co/xaA9R7a2X8"
+              }
+            ]
+          }
+        },
+        "id": "3693666630",
+        "location": "電腦前面",
+        "name": "小菊8🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804697792591622144/sxPrO385_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51961,
+          "following_count": 4874,
+          "like_count": 27374,
+          "listed_count": 276,
+          "media_count": 865,
+          "tweet_count": 8350
+        },
+        "url": "https://t.co/xaA9R7a2X8",
+        "username": "0_71_Rain",
+        "verified": false
+      }
+    ]
+  }
+}

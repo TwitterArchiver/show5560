@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064708212595855360"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2065101756321927401",
+    "created_at": "2026-06-11T16:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065101756321927401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JoXUbU1aje",
+          "end": 42,
+          "expanded_url": "https://x.com/show5560/status/2065101756321927401/photo/1",
+          "media_key": "3_2064708212595855360",
+          "start": 19,
+          "url": "https://t.co/JoXUbU1aje"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065101756321927401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人被猫赶出家门的几率不高但绝不为零😇 https://t.co/JoXUbU1aje"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2064708212595855360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdRLhibkAAjHth.png",
+        "width": 789
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064708212595855360"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2065101756321927401",
+        "created_at": "2026-06-11T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065101756321927401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JoXUbU1aje",
+              "end": 42,
+              "expanded_url": "https://x.com/show5560/status/2065101756321927401/photo/1",
+              "media_key": "3_2064708212595855360",
+              "start": 19,
+              "url": "https://t.co/JoXUbU1aje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065101756321927401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人被猫赶出家门的几率不高但绝不为零😇 https://t.co/JoXUbU1aje"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4392,
+          "following_count": 1696,
+          "like_count": 28501,
+          "listed_count": 8,
+          "media_count": 1431,
+          "tweet_count": 7932
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042253865710669824"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2042253868051087808",
+    "created_at": "2026-04-09T14:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042253868051087808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/odmO1imnN5",
+          "end": 59,
+          "expanded_url": "https://x.com/show5560/status/2042253868051087808/photo/1",
+          "media_key": "3_2042253865710669824",
+          "start": 36,
+          "url": "https://t.co/odmO1imnN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042253868051087808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心理委员：我不能又当你的医生，又当你的妻子，又当你的女儿，又当你的妈妈 https://t.co/odmO1imnN5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2042253865710669824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeLEg7aUAAJXxJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042253865710669824"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2042253868051087808",
+        "created_at": "2026-04-09T14:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042253868051087808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/odmO1imnN5",
+              "end": 59,
+              "expanded_url": "https://x.com/show5560/status/2042253868051087808/photo/1",
+              "media_key": "3_2042253865710669824",
+              "start": 36,
+              "url": "https://t.co/odmO1imnN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042253868051087808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理委员：我不能又当你的医生，又当你的妻子，又当你的女儿，又当你的妈妈 https://t.co/odmO1imnN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2041722973317689367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2373,
+          "following_count": 1169,
+          "like_count": 24750,
+          "listed_count": 5,
+          "media_count": 409,
+          "tweet_count": 5482
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

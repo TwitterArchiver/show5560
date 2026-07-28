@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1877392228189876254",
+    "created_at": "2025-01-11T03:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T04:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877915060422746441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584567388439072770",
+          "start": 0,
+          "username": "sweetBa1cai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877915060422746441",
+    "in_reply_to_user_id": "1584567388439072770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877392228189876254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweetBa1cai 可以教教我变瘦吗qvq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1877392228189876254",
+        "created_at": "2025-01-11T03:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T04:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877915060422746441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584567388439072770",
+              "start": 0,
+              "username": "sweetBa1cai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877915060422746441",
+        "in_reply_to_user_id": "1584567388439072770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877392228189876254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetBa1cai 可以教教我变瘦吗qvq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877388538435743748"
+          ]
+        },
+        "author_id": "1584567388439072770",
+        "conversation_id": "1877392228189876254",
+        "created_at": "2025-01-09T16:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T17:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877392228189876254"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uAmZgOmk5S",
+              "end": 40,
+              "expanded_url": "https://x.com/sweetBa1cai/status/1877392228189876254/photo/1",
+              "media_key": "3_1877388538435743748",
+              "start": 17,
+              "url": "https://t.co/uAmZgOmk5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877392228189876254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 11405,
+          "like_count": 266,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "第一次cos！ \n#男娘 #伪娘 https://t.co/uAmZgOmk5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆喜欢玩cos★喜欢酷酷的衣服✟ 笨蛋一个 △想成为一个大魔法师△ ♡ 真的真的很喜欢很爱希汐★咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "★酥萌萌★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877292803178508290/u1ZN0s75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 1186,
+          "like_count": 24649,
+          "listed_count": 2,
+          "media_count": 875,
+          "tweet_count": 5442
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T15:28:50.000Z",
+        "description": "只是一个刚入门小男娘啦… 165cm/44kg 平时喜欢玩音游跟FPS类游戏，还会玩多人联机恐怖游戏 —  欢迎同好贴贴～\nB站： https://t.co/4ftrL31hym",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/1shaakn",
+                "end": 89,
+                "expanded_url": "https://b23.tv/1shaakn",
+                "start": 66,
+                "url": "https://t.co/4ftrL31hym"
+              }
+            ]
+          }
+        },
+        "id": "1584567388439072770",
+        "location": "In your heart",
+        "name": "甜心白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873046432250572801/4MnqHv6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 45,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "sweetBa1cai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067274443710418944"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2067274447778922590",
+    "created_at": "2026-06-17T15:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067274447778922590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vwSjeCG2P7",
+          "end": 34,
+          "expanded_url": "https://x.com/show5560/status/2067274447778922590/photo/1",
+          "media_key": "3_2067274443710418944",
+          "start": 11,
+          "url": "https://t.co/vwSjeCG2P7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067274447778922590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难道他真的是天才？！ https://t.co/vwSjeCG2P7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_2067274443710418944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvJ1aaUAAT5Xx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067274443710418944"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2067274447778922590",
+        "created_at": "2026-06-17T15:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067274447778922590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwSjeCG2P7",
+              "end": 34,
+              "expanded_url": "https://x.com/show5560/status/2067274447778922590/photo/1",
+              "media_key": "3_2067274443710418944",
+              "start": 11,
+              "url": "https://t.co/vwSjeCG2P7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067274447778922590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道他真的是天才？！ https://t.co/vwSjeCG2P7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 1700,
+          "like_count": 28801,
+          "listed_count": 9,
+          "media_count": 1573,
+          "tweet_count": 8133
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

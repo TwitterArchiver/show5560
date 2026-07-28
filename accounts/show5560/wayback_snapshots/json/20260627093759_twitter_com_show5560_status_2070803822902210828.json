@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2070646512628248603",
+    "created_at": "2026-06-27T09:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070803822902210828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070803822902210828",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070646512628248603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 边送边找客户吧（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_2070646507246854144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxqBw_aIAAjs_z.jpg",
+        "width": 554
+      },
+      {
+        "height": 643,
+        "media_key": "3_2070646507947413504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxqBzmb0AAlzoD.jpg",
+        "width": 510
+      },
+      {
+        "height": 809,
+        "media_key": "3_2070646509436321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxqB5JawAAdrJN.jpg",
+        "width": 554
+      },
+      {
+        "height": 918,
+        "media_key": "3_2070646510061264896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxqB7eaoAA0u6R.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2070646512628248603",
+        "created_at": "2026-06-27T09:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070803822902210828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070803822902210828",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070646512628248603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 边送边找客户吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070646507246854144",
+            "3_2070646507947413504",
+            "3_2070646509436321792",
+            "3_2070646510061264896"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070646512628248603",
+        "created_at": "2026-06-26T23:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070646512628248603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3k7O24qtp",
+              "end": 122,
+              "expanded_url": "https://x.com/jianlvup/status/2070646512628248603/photo/1",
+              "media_key": "3_2070646507246854144",
+              "start": 99,
+              "url": "https://t.co/O3k7O24qtp"
+            },
+            {
+              "display_url": "pic.x.com/O3k7O24qtp",
+              "end": 122,
+              "expanded_url": "https://x.com/jianlvup/status/2070646512628248603/photo/1",
+              "media_key": "3_2070646507947413504",
+              "start": 99,
+              "url": "https://t.co/O3k7O24qtp"
+            },
+            {
+              "display_url": "pic.x.com/O3k7O24qtp",
+              "end": 122,
+              "expanded_url": "https://x.com/jianlvup/status/2070646512628248603/photo/1",
+              "media_key": "3_2070646509436321792",
+              "start": 99,
+              "url": "https://t.co/O3k7O24qtp"
+            },
+            {
+              "display_url": "pic.x.com/O3k7O24qtp",
+              "end": 122,
+              "expanded_url": "https://x.com/jianlvup/status/2070646512628248603/photo/1",
+              "media_key": "3_2070646510061264896",
+              "start": 99,
+              "url": "https://t.co/O3k7O24qtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070646512628248603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4878,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这真是送外卖的吗？化浓妆穿短裙黑\n丝？?\n穿黑丝、豹纹、小高跟的送外卖美女，偶尔还玩“下衣消失”。而且送餐不慌不忙，不紧不慢，从进到出足有一个小时，是我跟不上时代了吗？现在送外卖必须穿成这样才行。 https://t.co/O3k7O24qtp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4451,
+          "following_count": 1706,
+          "like_count": 29431,
+          "listed_count": 11,
+          "media_count": 1844,
+          "tweet_count": 8695
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2070284704109236350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18578,
+          "following_count": 1526,
+          "like_count": 85026,
+          "listed_count": 65,
+          "media_count": 3617,
+          "tweet_count": 7143
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

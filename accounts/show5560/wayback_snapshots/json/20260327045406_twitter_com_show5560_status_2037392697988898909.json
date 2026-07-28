@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2037392697988898909",
+    "created_at": "2026-03-27T04:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T05:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037392697988898909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029891270861299712",
+          "start": 3,
+          "username": "JoelQinmetme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037392697988898909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036803471463379332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JoelQinmetme: 500fo到啦\nkoala给大家抽奖啦！ \n一等奖，1位，补佳乐（国补）一盒（折现30）\n二等奖，3位，45cm小鲨鲨一只（折现10）\n三等奖，5位，蓝粉白口罩10只（折现3r）\n参与条件：关注点赞评论转帖 \n4月1日用grok开奖 \n多多参…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2037392697988898909",
+        "created_at": "2026-03-27T04:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037392697988898909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029891270861299712",
+              "start": 3,
+              "username": "JoelQinmetme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037392697988898909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036803471463379332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JoelQinmetme: 500fo到啦\nkoala给大家抽奖啦！ \n一等奖，1位，补佳乐（国补）一盒（折现30）\n二等奖，3位，45cm小鲨鲨一只（折现10）\n三等奖，5位，蓝粉白口罩10只（折现3r）\n参与条件：关注点赞评论转帖 \n4月1日用grok开奖 \n多多参…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029891270861299712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2036803471463379332",
+        "created_at": "2026-03-25T13:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:48:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036802326825242944",
+          "2036803471463379332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "mtf"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "xyn"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "抽奖"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036803471463379332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6662,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 76,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "500fo到啦\nkoala给大家抽奖啦！ \n一等奖，1位，补佳乐（国补）一盒（折现30）\n二等奖，3位，45cm小鲨鲨一只（折现10）\n三等奖，5位，蓝粉白口罩10只（折现3r）\n参与条件：关注点赞评论转帖 \n4月1日用grok开奖 \n多多参与喵～\n若与沃的其他产品一起购买可以免运费喵\n#mtf #xyn #抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 🚪50 接线下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "pinned_tweet_id": "2036763189522936178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 1177,
+          "like_count": 24447,
+          "listed_count": 5,
+          "media_count": 959,
+          "tweet_count": 5957
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T12:06:37.000Z",
+        "description": "09高中生｜mtf｜含糖中｜第一次含糖 2026.02.18｜正式含糖2026.02.28｜互fo｜坐标上海｜生竞中｜175/46｜生产日期2009.05.26｜不建政不od｜小号@espakoala｜姐姐@ElysiumFengxuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "espakoala"
+              },
+              {
+                "end": 119,
+                "start": 103,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          }
+        },
+        "id": "2029891270861299712",
+        "name": "EspaKoala🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034823393179316679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 852,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 145
+        },
+        "username": "JoelQinmetme",
+        "verified": true
+      }
+    ]
+  }
+}

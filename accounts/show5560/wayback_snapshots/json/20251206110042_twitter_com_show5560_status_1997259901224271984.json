@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997259897822650369"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1997259901224271984",
+    "created_at": "2025-12-06T11:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T12:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997259901224271984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbJRlEbcEO",
+          "end": 36,
+          "expanded_url": "https://x.com/show5560/status/1997259901224271984/photo/1",
+          "media_key": "3_1997259897822650369",
+          "start": 13,
+          "url": "https://t.co/lbJRlEbcEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997259901224271984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是苦瓜大王~\n哇哈哈哈 https://t.co/lbJRlEbcEO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1997259897822650369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7exS43aIAE3tUP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997259897822650369"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1997259901224271984",
+        "created_at": "2025-12-06T11:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T12:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997259901224271984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbJRlEbcEO",
+              "end": 36,
+              "expanded_url": "https://x.com/show5560/status/1997259901224271984/photo/1",
+              "media_key": "3_1997259897822650369",
+              "start": 13,
+              "url": "https://t.co/lbJRlEbcEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997259901224271984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是苦瓜大王~\n哇哈哈哈 https://t.co/lbJRlEbcEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 1143,
+          "like_count": 22934,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5689
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032055163750662152"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2032055166162383319",
+    "created_at": "2026-03-12T11:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032055166162383319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/giOW3oVUPs",
+          "end": 43,
+          "expanded_url": "https://x.com/show5560/status/2032055166162383319/photo/1",
+          "media_key": "3_2032055163750662152",
+          "start": 20,
+          "url": "https://t.co/giOW3oVUPs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032055166162383319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点麻了，深圳租房好多骗子啊..... https://t.co/giOW3oVUPs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 238,
+        "media_key": "3_2032055163750662152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNPZ7dbQAgqcRf.jpg",
+        "width": 294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032055163750662152"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2032055166162383319",
+        "created_at": "2026-03-12T11:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032055166162383319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/giOW3oVUPs",
+              "end": 43,
+              "expanded_url": "https://x.com/show5560/status/2032055166162383319/photo/1",
+              "media_key": "3_2032055163750662152",
+              "start": 20,
+              "url": "https://t.co/giOW3oVUPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032055166162383319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点麻了，深圳租房好多骗子啊..... https://t.co/giOW3oVUPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "06 #男娘 mtf🍥猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 坐标:深圳  🚪50/接线下 #圆角  ♡ 另一个我@runamusaki",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "圆角"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "runamusaki"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1163,
+          "like_count": 23759,
+          "listed_count": 4,
+          "media_count": 958,
+          "tweet_count": 5892
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2076261459403927906",
+    "created_at": "2026-07-13T06:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076556697989198215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1844296703282925568",
+          "start": 0,
+          "username": "0xJoveXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076556697989198215",
+    "in_reply_to_user_id": "1844296703282925568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076261459403927906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xJoveXu 这种兄弟给我来一打"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2076261454001623040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBcyrqaUAAIY1V.jpg",
+        "width": 803
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2076261459403927906",
+        "created_at": "2026-07-13T06:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076556697989198215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076556697989198215",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076261459403927906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xJoveXu 这种兄弟给我来一打"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076261454001623040"
+          ]
+        },
+        "author_id": "1844296703282925568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076261459403927906",
+        "created_at": "2026-07-12T11:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076261459403927906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPnfnjSKLG",
+              "end": 31,
+              "expanded_url": "https://x.com/0xJoveXu/status/2076261459403927906/photo/1",
+              "media_key": "3_2076261454001623040",
+              "start": 8,
+              "url": "https://t.co/tPnfnjSKLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076261459403927906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 168531,
+          "like_count": 728,
+          "quote_count": 1,
+          "reply_count": 339,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "来个这样的兄弟 https://t.co/tPnfnjSKLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4876,
+          "following_count": 1734,
+          "like_count": 31023,
+          "listed_count": 12,
+          "media_count": 2225,
+          "tweet_count": 10285
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "推创作者\n联系方式：｜WeChat ID：JoveXuG｜https://t.co/FZJIW2uXIU\n社群频道：https://t.co/2O8fCj93XH\n工具推荐｜空投获取｜个人成长｜价值投资",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 52,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 29,
+                "url": "https://t.co/FZJIW2uXIU"
+              },
+              {
+                "display_url": "t.me/jovepindao",
+                "end": 81,
+                "expanded_url": "http://t.me/jovepindao",
+                "start": 58,
+                "url": "https://t.co/2O8fCj93XH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jove.sh",
+                "end": 23,
+                "expanded_url": "http://jove.sh",
+                "start": 0,
+                "url": "https://t.co/SITILsBNd7"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议，DYOR！",
+        "name": "Jove",
+        "pinned_tweet_id": "2071820894968922493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068489799300993024/RBrPI1BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27285,
+          "following_count": 7788,
+          "like_count": 41832,
+          "listed_count": 80,
+          "media_count": 1432,
+          "tweet_count": 38584
+        },
+        "url": "https://t.co/SITILsBNd7",
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066531544244842496"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2066531573592453607",
+    "created_at": "2026-06-15T14:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066531573592453607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BcYSxuHRiS",
+          "end": 32,
+          "expanded_url": "https://x.com/show5560/status/2066531573592453607/video/1",
+          "media_key": "7_2066531544244842496",
+          "start": 9,
+          "url": "https://t.co/BcYSxuHRiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066531573592453607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "勇次郎你太坏辣！ https://t.co/BcYSxuHRiS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14733,
+        "height": 790,
+        "media_key": "7_2066531544244842496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066531544244842496/pu/img/wLxfFiNoLFYslDq5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066531544244842496/pu/vid/avc1/320x352/k7BhBL7D48Ur7cBl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066531544244842496/pu/vid/avc1/480x528/TJ63OZZ-wZGFcQ1A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066531544244842496/pu/vid/avc1/716x790/QIdLrxXmSZQpS-xj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066531544244842496/pu/pl/-0i6xhgIK0qbSPvi.m3u8"
+          }
+        ],
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066531544244842496"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2066531573592453607",
+        "created_at": "2026-06-15T14:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066531573592453607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcYSxuHRiS",
+              "end": 32,
+              "expanded_url": "https://x.com/show5560/status/2066531573592453607/video/1",
+              "media_key": "7_2066531544244842496",
+              "start": 9,
+              "url": "https://t.co/BcYSxuHRiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066531573592453607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "勇次郎你太坏辣！ https://t.co/BcYSxuHRiS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡接线下喵 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "pinned_tweet_id": "2066161712768929986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 1698,
+          "like_count": 28628,
+          "listed_count": 8,
+          "media_count": 1510,
+          "tweet_count": 8017
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

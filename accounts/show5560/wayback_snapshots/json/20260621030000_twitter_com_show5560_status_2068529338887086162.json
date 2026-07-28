@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068460158171463680"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2068529338887086162",
+    "created_at": "2026-06-21T03:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068529338887086162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CtasLieYlb",
+          "end": 30,
+          "expanded_url": "https://x.com/show5560/status/2068529338887086162/photo/1",
+          "media_key": "3_2068460158171463680",
+          "start": 7,
+          "url": "https://t.co/CtasLieYlb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068529338887086162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这说的是啥啊 https://t.co/CtasLieYlb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2068460158171463680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSljf_bwAAPG9h.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068460158171463680"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2068529338887086162",
+        "created_at": "2026-06-21T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068529338887086162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtasLieYlb",
+              "end": 30,
+              "expanded_url": "https://x.com/show5560/status/2068529338887086162/photo/1",
+              "media_key": "3_2068460158171463680",
+              "start": 7,
+              "url": "https://t.co/CtasLieYlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068529338887086162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这说的是啥啊 https://t.co/CtasLieYlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 1697,
+          "like_count": 29016,
+          "listed_count": 9,
+          "media_count": 1678,
+          "tweet_count": 8304
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

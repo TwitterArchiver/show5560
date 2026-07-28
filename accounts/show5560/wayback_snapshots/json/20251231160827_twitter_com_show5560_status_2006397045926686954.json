@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006273398318739456"
+      ],
+      "media_source_tweet_id": [
+        "2006273405650383217"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2006397045926686954",
+    "created_at": "2025-12-31T16:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006397045926686954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "832380767279865856",
+          "start": 3,
+          "username": "kageroudt33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yWqIC1aEHx",
+          "end": 45,
+          "expanded_url": "https://x.com/kageroudt33/status/2006273405650383217/photo/1",
+          "media_key": "3_2006273398318739456",
+          "start": 22,
+          "url": "https://t.co/yWqIC1aEHx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006397045926686954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006273405650383217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kageroudt33: 猫と休日 https://t.co/yWqIC1aEHx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006273398318739456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9e3Bq0asAAJkjw.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006273398318739456"
+          ],
+          "media_source_tweet_id": [
+            "2006273405650383217"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2006397045926686954",
+        "created_at": "2025-12-31T16:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006397045926686954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "832380767279865856",
+              "start": 3,
+              "username": "kageroudt33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWqIC1aEHx",
+              "end": 45,
+              "expanded_url": "https://x.com/kageroudt33/status/2006273405650383217/photo/1",
+              "media_key": "3_2006273398318739456",
+              "start": 22,
+              "url": "https://t.co/yWqIC1aEHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006397045926686954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006273405650383217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kageroudt33: 猫と休日 https://t.co/yWqIC1aEHx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006273398318739456"
+          ]
+        },
+        "author_id": "832380767279865856",
+        "conversation_id": "2006273405650383217",
+        "created_at": "2025-12-31T07:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T08:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006273405650383217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWqIC1aEHx",
+              "end": 28,
+              "expanded_url": "https://x.com/kageroudt33/status/2006273405650383217/photo/1",
+              "media_key": "3_2006273398318739456",
+              "start": 5,
+              "url": "https://t.co/yWqIC1aEHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006273405650383217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 25089,
+          "like_count": 2625,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "猫と休日 https://t.co/yWqIC1aEHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 1132,
+          "like_count": 22866,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5702
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-17T00:06:54.000Z",
+        "description": "illustrator ¦ VTuber ¦ @daihuku_sabu322 ¦ /依頼→ 2月着手⚪︎¦ daihukumame322@gmail.com (リプ返は不定期ですが全て大切に拝読しております)＊Repost is prohibited.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "daihuku_sabu322"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/kageroudt33",
+                "end": 23,
+                "expanded_url": "http://twpf.jp/kageroudt33",
+                "start": 0,
+                "url": "https://t.co/4gHMMMF7WH"
+              }
+            ]
+          }
+        },
+        "id": "832380767279865856",
+        "location": "＊作品の転載・使用・AI学習×",
+        "name": "煮タ 大福豆@コミティア154_通販",
+        "pinned_tweet_id": "1524709878522335233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915320458163216388/dF8pSPr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48217,
+          "following_count": 226,
+          "like_count": 51452,
+          "listed_count": 304,
+          "media_count": 935,
+          "tweet_count": 16764
+        },
+        "url": "https://t.co/4gHMMMF7WH",
+        "username": "kageroudt33",
+        "verified": false
+      }
+    ]
+  }
+}

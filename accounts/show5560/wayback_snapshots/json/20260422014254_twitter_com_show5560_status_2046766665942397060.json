@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046626087187488885",
+    "created_at": "2026-04-22T01:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046766665942397060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796080689106108416",
+          "start": 0,
+          "username": "raindetear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046766665942397060",
+    "in_reply_to_user_id": "1796080689106108416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046626087187488885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindetear 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046626074084429824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcTkiXa0AAF44G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046626087187488885",
+        "created_at": "2026-04-22T01:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046766665942397060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796080689106108416",
+              "start": 0,
+              "username": "raindetear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046766665942397060",
+        "in_reply_to_user_id": "1796080689106108416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046626087187488885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindetear 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046626074084429824"
+          ]
+        },
+        "author_id": "1796080689106108416",
+        "conversation_id": "2046626087187488885",
+        "created_at": "2026-04-21T16:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046626087187488885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLcwslPQSR",
+              "end": 41,
+              "expanded_url": "https://x.com/raindetear/status/2046626087187488885/photo/1",
+              "media_key": "3_2046626074084429824",
+              "start": 18,
+              "url": "https://t.co/kLcwslPQSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046626087187488885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1112,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好——多人来看洁哥啊\n让窝仔细康康 https://t.co/kLcwslPQSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 1536,
+          "like_count": 25937,
+          "listed_count": 6,
+          "media_count": 583,
+          "tweet_count": 6016
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-30T07:26:31.000Z",
+        "description": "喜欢考斯的南孩子一枚，对镜拍战神，线下见光死，bilibili@干物雨_official，全网同名干物雨，不线下不卖原味不视频只偶尔擦个边，私信评论偶尔看没回复致歉，有事可进群",
+        "id": "1796080689106108416",
+        "location": "sekai",
+        "name": "干物雨official",
+        "pinned_tweet_id": "2018334752508657879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043724751915614208/EqvnjQ-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3086,
+          "following_count": 64,
+          "like_count": 3392,
+          "listed_count": 12,
+          "media_count": 466,
+          "tweet_count": 677
+        },
+        "username": "raindetear",
+        "verified": false
+      }
+    ]
+  }
+}

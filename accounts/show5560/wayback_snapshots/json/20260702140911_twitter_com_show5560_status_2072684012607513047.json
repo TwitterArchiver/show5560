@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2072636404103049654",
+    "created_at": "2026-07-02T14:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072684012607513047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928063239319080961",
+          "start": 0,
+          "username": "AlexChan258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072684012607513047",
+    "in_reply_to_user_id": "1928063239319080961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072646795025690842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexChan258 直接炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2072636404103049654",
+        "created_at": "2026-07-02T14:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072684012607513047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928063239319080961",
+              "start": 0,
+              "username": "AlexChan258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072684012607513047",
+        "in_reply_to_user_id": "1928063239319080961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072646795025690842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexChan258 直接炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928063239319080961",
+        "conversation_id": "2072636404103049654",
+        "created_at": "2026-07-02T11:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072646795025690842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072646795025690842",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072636404103049654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 *激烈的粤韵风华*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4531,
+          "following_count": 1723,
+          "like_count": 29973,
+          "listed_count": 11,
+          "media_count": 1964,
+          "tweet_count": 9201
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T12:18:05.000Z",
+        "description": "并不会说芬兰语的猫娘/目前账号主营：键政（温和建制支持者，理论水平不高求放过），梗图，日常，ai小短文，老印tv，日右tv，支黑tv/爱好：游戏，绘画（真的很烂）/民主社会主义（临时）/可私信互fo/后备隐藏能源：@AlexChancd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 107,
+                "username": "AlexChancd"
+              }
+            ]
+          }
+        },
+        "id": "1928063239319080961",
+        "location": "Nearby 1.14km",
+        "name": "哈基雅尔维的波尔卡",
+        "pinned_tweet_id": "2068520765180510410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048600470227501056/9fK5FKrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 446,
+          "like_count": 45558,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 2433
+        },
+        "url": "",
+        "username": "AlexChan258",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2069871633662464106",
+    "created_at": "2026-06-25T09:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070082637478388207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070082637478388207",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069871633662464106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 对的对的，抱抱可爱妹妹）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2069870486318944256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmoPZwbEAA7t9n.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2069871633662464106",
+        "created_at": "2026-06-25T09:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070082637478388207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070082637478388207",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069871633662464106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 对的对的，抱抱可爱妹妹）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069870486318944256"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2069871633662464106",
+        "created_at": "2026-06-24T19:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:49:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069870493336060079",
+          "2069871633662464106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fw0TLeuqYp",
+              "end": 69,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2069871633662464106/photo/1",
+              "media_key": "3_2069870486318944256",
+              "start": 46,
+              "url": "https://t.co/Fw0TLeuqYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069871633662464106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5402,
+          "like_count": 186,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推特上面有很多这种可爱妹妹，真的好想全都给她们一个抱抱啊...\n\n（等等，不对，我也是？） https://t.co/Fw0TLeuqYp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4427,
+          "following_count": 1697,
+          "like_count": 29158,
+          "listed_count": 9,
+          "media_count": 1795,
+          "tweet_count": 8490
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 发课表 是男娘",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2057809006421545370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005637712188194816/7t5VZ4y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94748,
+          "following_count": 1100,
+          "like_count": 5881,
+          "listed_count": 208,
+          "media_count": 161,
+          "tweet_count": 2148
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

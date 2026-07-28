@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047255808078152035",
+    "created_at": "2026-04-23T10:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047259098945909077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2046238259919912960",
+          "start": 0,
+          "username": "Type_zhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047259098945909077",
+    "in_reply_to_user_id": "2046238259919912960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047255808078152035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Type_zhi 啊？强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047255800373182464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlQTbmaAAA-CCe.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047255808078152035",
+        "created_at": "2026-04-23T10:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047259098945909077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2046238259919912960",
+              "start": 0,
+              "username": "Type_zhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047259098945909077",
+        "in_reply_to_user_id": "2046238259919912960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047255808078152035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Type_zhi 啊？强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047255800373182464"
+          ]
+        },
+        "author_id": "2046238259919912960",
+        "conversation_id": "2047255808078152035",
+        "created_at": "2026-04-23T10:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047255808078152035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/af4zaX2Bpq",
+              "end": 34,
+              "expanded_url": "https://x.com/Type_zhi/status/2047255808078152035/photo/1",
+              "media_key": "3_2047255800373182464",
+              "start": 11,
+              "url": "https://t.co/af4zaX2Bpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047255808078152035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃向客户经理出柜 https://t.co/af4zaX2Bpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2961,
+          "following_count": 1621,
+          "like_count": 26285,
+          "listed_count": 7,
+          "media_count": 606,
+          "tweet_count": 6245
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T14:43:50.000Z",
+        "description": "🏳️‍⚧️🍥/一只17岁的xyn..../hrt🍥:2025-1-19/生日🎂2009-03-07/有小证了捏🥺/还在上学喵☺️/想和大家做朋友喵 欢迎扩列喵🤓（限跨性别）/现居湖北/还有myl你还我的号😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/zzLar7r7sc"
+              }
+            ]
+          }
+        },
+        "id": "2046238259919912960",
+        "location": "湖北",
+        "name": "知式🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046852648339681308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046251484065771520/Q4-YXewi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 178,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/zzLar7r7sc",
+        "username": "Type_zhi",
+        "verified": false
+      }
+    ]
+  }
+}

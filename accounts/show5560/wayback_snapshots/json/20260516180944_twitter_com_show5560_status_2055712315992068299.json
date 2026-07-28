@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2055666600410599610",
+    "created_at": "2026-05-16T18:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055712315992068299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006749860863815682",
+          "start": 0,
+          "username": "kawainegi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055712315992068299",
+    "in_reply_to_user_id": "2006749860863815682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055666600410599610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawainegi 好看捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2055666566134722560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcx2bsbcAAuNb4.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2055666600410599610",
+        "created_at": "2026-05-16T18:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055712315992068299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055712315992068299",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055666600410599610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi 好看捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055666566134722560"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2055666600410599610",
+        "created_at": "2026-05-16T15:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055666600410599610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPA8r38Yyk",
+              "end": 28,
+              "expanded_url": "https://x.com/kawainegi/status/2055666600410599610/photo/1",
+              "media_key": "3_2055666566134722560",
+              "start": 5,
+              "url": "https://t.co/TPA8r38Yyk"
+            },
+            {
+              "display_url": "x.com/cascadingpallo…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/cascadingpallor/status/2055250233668571445",
+              "start": 29,
+              "url": "https://t.co/6Z2mfwLOtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055666600410599610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055250233668571445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奇裝異服 https://t.co/TPA8r38Yyk https://t.co/6Z2mfwLOtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3943,
+          "following_count": 1688,
+          "like_count": 27553,
+          "listed_count": 7,
+          "media_count": 996,
+          "tweet_count": 7055
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 143,
+          "like_count": 4790,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 916
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

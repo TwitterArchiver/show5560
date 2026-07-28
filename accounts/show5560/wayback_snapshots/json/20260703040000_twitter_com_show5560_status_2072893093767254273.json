@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072545502571470848"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2072893093767254273",
+    "created_at": "2026-07-03T04:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T05:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072893093767254273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9X1UE0Ph7B",
+          "end": 37,
+          "expanded_url": "https://x.com/show5560/status/2072893093767254273/photo/1",
+          "media_key": "3_2072545502571470848",
+          "start": 14,
+          "url": "https://t.co/9X1UE0Ph7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072893093767254273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等等，你这是拿什么冲的？？ https://t.co/9X1UE0Ph7B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2072545502571470848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMpJ12bIAAKoMj.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072545502571470848"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2072893093767254273",
+        "created_at": "2026-07-03T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072893093767254273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9X1UE0Ph7B",
+              "end": 37,
+              "expanded_url": "https://x.com/show5560/status/2072893093767254273/photo/1",
+              "media_key": "3_2072545502571470848",
+              "start": 14,
+              "url": "https://t.co/9X1UE0Ph7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072893093767254273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等等，你这是拿什么冲的？？ https://t.co/9X1UE0Ph7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4540,
+          "following_count": 1719,
+          "like_count": 30008,
+          "listed_count": 11,
+          "media_count": 1979,
+          "tweet_count": 9227
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

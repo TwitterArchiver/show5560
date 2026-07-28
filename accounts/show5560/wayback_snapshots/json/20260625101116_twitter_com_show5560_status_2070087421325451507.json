@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2069976583109255245",
+    "created_at": "2026-06-25T10:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070087421325451507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011975740808708099",
+          "start": 0,
+          "username": "Xingzhimiao233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070087421325451507",
+    "in_reply_to_user_id": "2011975740808708099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069976583109255245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xingzhimiao233 多吃点啊喂！太瘦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069976397075054592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoIkOEaAAA8CpK.jpg",
+        "width": 1151
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2069976397062520832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoIkOBawAAAxJ_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2069976583109255245",
+        "created_at": "2026-06-25T10:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070087421325451507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011975740808708099",
+              "start": 0,
+              "username": "Xingzhimiao233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070087421325451507",
+        "in_reply_to_user_id": "2011975740808708099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069976583109255245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xingzhimiao233 多吃点啊喂！太瘦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069976397075054592",
+            "3_2069976397062520832"
+          ]
+        },
+        "author_id": "2011975740808708099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069976583109255245",
+        "created_at": "2026-06-25T02:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069976583109255245"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 30,
+              "start": 19,
+              "tag": "筱泽广ㅤㅤㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTWxBPnIwN",
+              "end": 54,
+              "expanded_url": "https://x.com/Xingzhimiao233/status/2069976583109255245/photo/1",
+              "media_key": "3_2069976397075054592",
+              "start": 31,
+              "url": "https://t.co/VTWxBPnIwN"
+            },
+            {
+              "display_url": "pic.x.com/VTWxBPnIwN",
+              "end": 54,
+              "expanded_url": "https://x.com/Xingzhimiao233/status/2069976583109255245/photo/1",
+              "media_key": "3_2069976397062520832",
+              "start": 31,
+              "url": "https://t.co/VTWxBPnIwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069976583109255245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3248,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "某种意义上可以说很还原了（）\n#男娘 #筱泽广ㅤㅤㅤㅤㅤㅤㅤ https://t.co/VTWxBPnIwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4427,
+          "following_count": 1704,
+          "like_count": 29190,
+          "listed_count": 9,
+          "media_count": 1796,
+          "tweet_count": 8515
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-16T01:36:41.000Z",
+        "description": "165/44 男孩子，清水（暂时（bushi）\n我很可爱，请给我钱",
+        "id": "2011975740808708099",
+        "location": "再看吃了你",
+        "name": "星吱喵",
+        "pinned_tweet_id": "2055654729103851759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066231429483134976/URUfiKbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5964,
+          "following_count": 232,
+          "like_count": 651,
+          "listed_count": 26,
+          "media_count": 94,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "Xingzhimiao233",
+        "verified": false
+      }
+    ]
+  }
+}

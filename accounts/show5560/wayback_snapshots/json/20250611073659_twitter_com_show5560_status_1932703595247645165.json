@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1932073827737165824"
+      ],
+      "media_source_tweet_id": [
+        "1932073848771641623"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1932703595247645165",
+    "created_at": "2025-06-11T07:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T08:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932703595247645165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "875957448653156352",
+          "start": 3,
+          "username": "downvote_me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5JblNGLIlY",
+          "end": 40,
+          "expanded_url": "https://x.com/downvote_me/status/1932073848771641623/photo/1",
+          "media_key": "16_1932073827737165824",
+          "start": 17,
+          "url": "https://t.co/5JblNGLIlY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932703595247645165",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1540
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932073848771641623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @downvote_me: https://t.co/5JblNGLIlY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "16_1932073827737165824",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GtAa6OYaYAABYEf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GtAa6OYaYAABYEf.mp4"
+          }
+        ],
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1932073827737165824"
+          ],
+          "media_source_tweet_id": [
+            "1932073848771641623"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1932703595247645165",
+        "created_at": "2025-06-11T07:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T08:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932703595247645165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "875957448653156352",
+              "start": 3,
+              "username": "downvote_me"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JblNGLIlY",
+              "end": 40,
+              "expanded_url": "https://x.com/downvote_me/status/1932073848771641623/photo/1",
+              "media_key": "16_1932073827737165824",
+              "start": 17,
+              "url": "https://t.co/5JblNGLIlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932703595247645165",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1540
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932073848771641623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @downvote_me: https://t.co/5JblNGLIlY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1932073827737165824"
+          ]
+        },
+        "author_id": "875957448653156352",
+        "conversation_id": "1932073848771641623",
+        "created_at": "2025-06-09T13:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932073848771641623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JblNGLIlY",
+              "end": 23,
+              "expanded_url": "https://x.com/downvote_me/status/1932073848771641623/photo/1",
+              "media_key": "16_1932073827737165824",
+              "start": 0,
+              "url": "https://t.co/5JblNGLIlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932073848771641623",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1061,
+          "impression_count": 110027,
+          "like_count": 15603,
+          "quote_count": 11,
+          "reply_count": 28,
+          "retweet_count": 1540
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5JblNGLIlY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘✟ 想成为一个大魔法师✟想阻止身边的会发生的坏事✟ 已经无糖哩（断糖之后不知道做什么了）✟生活能过的开心就是赢✟ 迷茫焦虑 ♡ 真的很喜欢希汐老师@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "✟焦虑の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 1164,
+          "like_count": 23565,
+          "listed_count": 4,
+          "media_count": 918,
+          "tweet_count": 5623
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-17T06:05:05.000Z",
+        "description": "transparent gifs : https://t.co/H8siBNQ8od",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Downvote",
+                "end": 42,
+                "expanded_url": "https://www.patreon.com/Downvote",
+                "start": 19,
+                "url": "https://t.co/H8siBNQ8od"
+              }
+            ]
+          }
+        },
+        "id": "875957448653156352",
+        "name": "Downvote",
+        "pinned_tweet_id": "1810856467219505492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515279006941474816/4lMNge10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114301,
+          "following_count": 11215,
+          "like_count": 21421,
+          "listed_count": 619,
+          "media_count": 331,
+          "tweet_count": 2104
+        },
+        "username": "downvote_me",
+        "verified": true
+      }
+    ]
+  }
+}

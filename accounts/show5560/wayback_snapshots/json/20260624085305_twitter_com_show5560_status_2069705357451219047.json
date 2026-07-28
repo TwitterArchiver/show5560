@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2069661805992112615",
+    "created_at": "2026-06-24T08:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069705357451219047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2820070334",
+          "start": 0,
+          "username": "2007xArGos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069705357451219047",
+    "in_reply_to_user_id": "2820070334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069696740933197884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2007xArGos 都跑来干兼职了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2069661805992112615",
+        "created_at": "2026-06-24T08:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069705357451219047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2820070334",
+              "start": 0,
+              "username": "2007xArGos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069705357451219047",
+        "in_reply_to_user_id": "2820070334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069696740933197884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2007xArGos 都跑来干兼职了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2820070334",
+        "conversation_id": "2069661805992112615",
+        "created_at": "2026-06-24T08:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069696740933197884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069696740933197884",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069661805992112615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 連殺手都這麼卷嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 1697,
+          "like_count": 29127,
+          "listed_count": 9,
+          "media_count": 1769,
+          "tweet_count": 8447
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-19T14:41:30.000Z",
+        "description": "wow 好吧  新的介面 新體驗\r\n還是要從新說一次 \r\n這玩意兒要怎麼用啊!?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "plurk.com/season666",
+                "end": 23,
+                "expanded_url": "http://www.plurk.com/season666",
+                "start": 0,
+                "url": "https://t.co/OJ28VhHo8i"
+              }
+            ]
+          }
+        },
+        "id": "2820070334",
+        "location": "Taiwan",
+        "name": "ArGos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893212757232885760/oqVJeK4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 721,
+          "like_count": 87438,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/OJ28VhHo8i",
+        "username": "2007xArGos",
+        "verified": false
+      }
+    ]
+  }
+}

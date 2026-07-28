@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2066828317223952488",
+    "created_at": "2026-06-17T05:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067122373791482157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067122373791482157",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067122244040736968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 （害怕）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067122235366940675",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_kuJJboAMCQyt.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2066828317223952488",
+        "created_at": "2026-06-17T05:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067122373791482157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067122373791482157",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067122244040736968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 （害怕）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067122235366940675"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2066828317223952488",
+        "created_at": "2026-06-17T05:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067122244040736968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BBGTtKP3v",
+              "end": 35,
+              "expanded_url": "https://x.com/IXXA00/status/2067122244040736968/photo/1",
+              "media_key": "3_2067122235366940675",
+              "start": 12,
+              "url": "https://t.co/4BBGTtKP3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067122244040736968",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067120356117328380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 。 https://t.co/4BBGTtKP3v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡接线下喵 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 1701,
+          "like_count": 28762,
+          "listed_count": 8,
+          "media_count": 1551,
+          "tweet_count": 8107
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌25r/张。/鲜嫩多汁的情绪自留地：@islaixxa00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "islaixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7362,
+          "following_count": 4525,
+          "like_count": 42000,
+          "listed_count": 18,
+          "media_count": 3039,
+          "tweet_count": 41477
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

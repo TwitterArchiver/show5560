@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064416056261984256"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2064678972118401069",
+    "created_at": "2026-06-10T12:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064678972118401069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A5dW1dkSjt",
+          "end": 37,
+          "expanded_url": "https://x.com/show5560/status/2064678972118401069/video/1",
+          "media_key": "13_2064416056261984256",
+          "start": 14,
+          "url": "https://t.co/A5dW1dkSjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064678972118401069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种人怎么还会有女朋友的🤔 https://t.co/A5dW1dkSjt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15103,
+        "height": 428,
+        "media_key": "13_2064416056261984256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064416056261984256/img/TuD1KpgrgYdu-ifT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064416056261984256/vid/avc1/288x270/2KLaNqx0OitOtUbL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064416056261984256/vid/avc1/458x428/D1APNQKbTfkXCypb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064416056261984256/pl/XfDPxAqbvS7XErMN.m3u8"
+          }
+        ],
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064416056261984256"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2064678972118401069",
+        "created_at": "2026-06-10T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064678972118401069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5dW1dkSjt",
+              "end": 37,
+              "expanded_url": "https://x.com/show5560/status/2064678972118401069/video/1",
+              "media_key": "13_2064416056261984256",
+              "start": 14,
+              "url": "https://t.co/A5dW1dkSjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064678972118401069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种人怎么还会有女朋友的🤔 https://t.co/A5dW1dkSjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘 162cm/58kg /普通长相/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4385,
+          "following_count": 1694,
+          "like_count": 28438,
+          "listed_count": 8,
+          "media_count": 1404,
+          "tweet_count": 7876
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

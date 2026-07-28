@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2076532238569840763",
+    "created_at": "2026-07-13T06:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076560165793595849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1181493564825468930",
+          "start": 0,
+          "username": "tgxamm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076560165793595849",
+    "in_reply_to_user_id": "1181493564825468930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076532238569840763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tgxamm 可爱捏🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2076532208312205312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFTCqEbQAAf_zu.jpg",
+        "width": 2158
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2076532208312221696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFTCqEbgAAWxxj.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2076532238569840763",
+        "created_at": "2026-07-13T06:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076560165793595849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1181493564825468930",
+              "start": 0,
+              "username": "tgxamm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076560165793595849",
+        "in_reply_to_user_id": "1181493564825468930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076532238569840763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tgxamm 可爱捏🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076532208312205312",
+            "3_2076532208312221696"
+          ]
+        },
+        "author_id": "1181493564825468930",
+        "conversation_id": "2076532238569840763",
+        "created_at": "2026-07-13T05:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076532238569840763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GPPHNx6zi",
+              "end": 23,
+              "expanded_url": "https://x.com/tgxamm/status/2076532238569840763/photo/1",
+              "media_key": "3_2076532208312205312",
+              "start": 0,
+              "url": "https://t.co/9GPPHNx6zi"
+            },
+            {
+              "display_url": "pic.x.com/9GPPHNx6zi",
+              "end": 23,
+              "expanded_url": "https://x.com/tgxamm/status/2076532238569840763/photo/1",
+              "media_key": "3_2076532208312221696",
+              "start": 0,
+              "url": "https://t.co/9GPPHNx6zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076532238569840763",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 992,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9GPPHNx6zi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4876,
+          "following_count": 1734,
+          "like_count": 31043,
+          "listed_count": 12,
+          "media_count": 2225,
+          "tweet_count": 10308
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-08T08:56:37.000Z",
+        "description": "Ciallo～(∠・ω＜)⌒★ 喜欢可以投喂支持下！🚪五十",
+        "id": "1181493564825468930",
+        "name": "阿喵喵！",
+        "pinned_tweet_id": "2043677778630053948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038842883453890561/w1Af6B6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32580,
+          "following_count": 306,
+          "like_count": 1454,
+          "listed_count": 131,
+          "media_count": 568,
+          "tweet_count": 1586
+        },
+        "url": "",
+        "username": "tgxamm",
+        "verified": false
+      }
+    ]
+  }
+}

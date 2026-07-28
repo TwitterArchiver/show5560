@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1933085861123637362",
+    "created_at": "2025-06-13T02:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T03:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933350719408807940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480902038884130819",
+          "start": 0,
+          "username": "AyatamaNya"
+        },
+        {
+          "end": 22,
+          "id": "1528928909734973440",
+          "start": 12,
+          "username": "HiyouNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933350719408807940",
+    "in_reply_to_user_id": "1480902038884130819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933193418408132715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyatamaNya @HiyouNeko 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1933085861123637362",
+        "created_at": "2025-06-13T02:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T03:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933350719408807940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480902038884130819",
+              "start": 0,
+              "username": "AyatamaNya"
+            },
+            {
+              "end": 22,
+              "id": "1528928909734973440",
+              "start": 12,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933350719408807940",
+        "in_reply_to_user_id": "1480902038884130819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933193418408132715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyatamaNya @HiyouNeko 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480902038884130819",
+        "conversation_id": "1933085861123637362",
+        "created_at": "2025-06-12T16:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T17:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933193418408132715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933193418408132715",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933085861123637362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 我真的以为！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘✟ 想成为一个大魔法师✟想阻止身边的会发生的坏事✟ 已经无糖哩（断糖之后不知道做什么了）✟生活能过的开心就是赢✟ 迷茫焦虑 ♡ 真的很喜欢希汐老师@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "✟焦虑の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 1164,
+          "like_count": 23509,
+          "listed_count": 4,
+          "media_count": 919,
+          "tweet_count": 5625
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T14:02:08.000Z",
+        "description": "我是绫玉/是个笨蛋/INFP/永远17岁/虽然b人很多但我友好善良/单推沙月/萝莉控/猫控/喜欢一切可爱的东西/",
+        "id": "1480902038884130819",
+        "location": "タイタニア界",
+        "name": "喵玉喵玉喵🍅🍬🍫🍭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921061246805098496/g-7D1Gj2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 474,
+          "like_count": 30354,
+          "listed_count": 1,
+          "media_count": 772,
+          "tweet_count": 4872
+        },
+        "username": "AyatamaNya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 982,
+          "like_count": 9164,
+          "listed_count": 6,
+          "media_count": 705,
+          "tweet_count": 3144
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

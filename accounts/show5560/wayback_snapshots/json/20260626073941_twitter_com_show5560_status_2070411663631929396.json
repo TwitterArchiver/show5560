@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2070144993088434600",
+    "created_at": "2026-06-26T07:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070411663631929396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1849626003108397061",
+          "start": 0,
+          "username": "_SakuraCyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070411663631929396",
+    "in_reply_to_user_id": "1849626003108397061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070339848695853073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_SakuraCyan_ 我去！原来是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2070144993088434600",
+        "created_at": "2026-06-26T07:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070411663631929396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1849626003108397061",
+              "start": 0,
+              "username": "_SakuraCyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070411663631929396",
+        "in_reply_to_user_id": "1849626003108397061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070339848695853073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SakuraCyan_ 我去！原来是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849626003108397061",
+        "conversation_id": "2070144993088434600",
+        "created_at": "2026-06-26T02:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070339848695853073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070339848695853073",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6808,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070144993088434600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 一个冷知识，劳动法规定的8小时工作是包括午休时间的8小时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4436,
+          "following_count": 1704,
+          "like_count": 29256,
+          "listed_count": 11,
+          "media_count": 1817,
+          "tweet_count": 8567
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-25T01:36:29.000Z",
+        "description": "非人知性体",
+        "id": "1849626003108397061",
+        "name": "本間桜ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049927018914205696/RV2Soqsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 22,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 2490
+        },
+        "url": "",
+        "username": "_SakuraCyan_",
+        "verified": true
+      }
+    ]
+  }
+}

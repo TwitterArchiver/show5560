@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1822146950377943278",
+    "created_at": "2024-08-10T09:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T10:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822204020368494854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "Cya_Ninnensuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822204020368494854",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822147966154485792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya_Ninnensuki 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1822146950377943278",
+        "created_at": "2024-08-10T09:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T10:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822204020368494854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "Cya_Ninnensuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822204020368494854",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822147966154485792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya_Ninnensuki 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "1822146950377943278",
+        "created_at": "2024-08-10T05:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T06:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822147966154485792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822147966154485792",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822146950377943278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 没事，你还可以期待我的下一个一千天，或者我500粉达成"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△爆裂魔法师△",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮暮",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816155627271643139/cK8GDv8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1129,
+          "like_count": 23552,
+          "listed_count": 3,
+          "tweet_count": 5081
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "mtx・OCD治疗中・169㎝49+㎏・一直是果然多・生活无趣",
+        "id": "1586779015574327296",
+        "name": "鹿野是罐茶酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770091225888210944/5lPF4zcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 190,
+          "like_count": 5831,
+          "listed_count": 2,
+          "tweet_count": 5981
+        },
+        "username": "Cya_Ninnensuki",
+        "verified": false
+      }
+    ]
+  }
+}

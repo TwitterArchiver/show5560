@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2074860854483493153",
+    "created_at": "2026-07-09T07:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075125998102999497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "HiiroGekkaFlan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075125998102999497",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074860854483493153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiiroGekkaFlan 这很疼了呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074860840810127360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMti8Q7bIAAtOIz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2074860854483493153",
+        "created_at": "2026-07-09T07:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075125998102999497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075125998102999497",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074860854483493153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 这很疼了呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074860840810127360"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2074860854483493153",
+        "created_at": "2026-07-08T14:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074860854483493153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEoKPG61Ze",
+              "end": 65,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2074860854483493153/photo/1",
+              "media_key": "3_2074860840810127360",
+              "start": 42,
+              "url": "https://t.co/fEoKPG61Ze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074860854483493153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2159,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这位神人音游玩家玩Arcaea把手指磨出水泡了，无视风险接着打音游结果把水泡打炸了 https://t.co/fEoKPG61Ze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4744,
+          "following_count": 1729,
+          "like_count": 30619,
+          "listed_count": 11,
+          "media_count": 2127,
+          "tweet_count": 9857
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/社会异见者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 883,
+          "like_count": 12157,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3641
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

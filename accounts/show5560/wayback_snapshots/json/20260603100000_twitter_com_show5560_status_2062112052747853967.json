@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061752446951792640"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2062112052747853967",
+    "created_at": "2026-06-03T10:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062112052747853967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GDmTEyAjg9",
+          "end": 30,
+          "expanded_url": "https://x.com/show5560/status/2062112052747853967/photo/1",
+          "media_key": "3_2061752446951792640",
+          "start": 7,
+          "url": "https://t.co/GDmTEyAjg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062112052747853967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去，不早说 https://t.co/GDmTEyAjg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2061752446951792640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzQ7UdaoAASB_2.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061752446951792640"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2062112052747853967",
+        "created_at": "2026-06-03T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062112052747853967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDmTEyAjg9",
+              "end": 30,
+              "expanded_url": "https://x.com/show5560/status/2062112052747853967/photo/1",
+              "media_key": "3_2061752446951792640",
+              "start": 7,
+              "url": "https://t.co/GDmTEyAjg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062112052747853967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，不早说 https://t.co/GDmTEyAjg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4298,
+          "following_count": 1679,
+          "like_count": 28035,
+          "listed_count": 8,
+          "media_count": 1255,
+          "tweet_count": 7573
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

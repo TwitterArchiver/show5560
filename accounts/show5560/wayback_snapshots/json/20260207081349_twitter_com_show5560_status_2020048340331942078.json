@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019997210897948673"
+      ],
+      "media_source_tweet_id": [
+        "2019997744862228515"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2020048340331942078",
+    "created_at": "2026-02-07T08:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T09:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020048340331942078"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "乃依くん",
+          "probability": 0.8551,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 30,
+          "normalized_text": "キリト",
+          "probability": 0.8207,
+          "start": 28,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "817386645951393792",
+          "start": 3,
+          "username": "lightmako6543"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DtzEkjtXus",
+          "end": 65,
+          "expanded_url": "https://x.com/lightmako6543/status/2019997744862228515/photo/1",
+          "media_key": "3_2019997210897948673",
+          "start": 42,
+          "url": "https://t.co/DtzEkjtXus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020048340331942078",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019997744862228515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lightmako6543: 乃依くんの声優さんキリトと同じなの神です🫶… https://t.co/DtzEkjtXus"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2019997210897948673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAh4wsraIAEn4Qj.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019997210897948673"
+          ],
+          "media_source_tweet_id": [
+            "2019997744862228515"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2020048340331942078",
+        "created_at": "2026-02-07T08:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T09:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020048340331942078"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "乃依くん",
+              "probability": 0.8551,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "キリト",
+              "probability": 0.8207,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "817386645951393792",
+              "start": 3,
+              "username": "lightmako6543"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DtzEkjtXus",
+              "end": 65,
+              "expanded_url": "https://x.com/lightmako6543/status/2019997744862228515/photo/1",
+              "media_key": "3_2019997210897948673",
+              "start": 42,
+              "url": "https://t.co/DtzEkjtXus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020048340331942078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019997744862228515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lightmako6543: 乃依くんの声優さんキリトと同じなの神です🫶… https://t.co/DtzEkjtXus"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019997210897948673"
+          ]
+        },
+        "author_id": "817386645951393792",
+        "conversation_id": "2019997744862228515",
+        "created_at": "2026-02-07T04:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019997744862228515"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "乃依くん",
+              "probability": 0.8697,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 11,
+              "normalized_text": "キリト",
+              "probability": 0.7547,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DtzEkjtXus",
+              "end": 45,
+              "expanded_url": "https://x.com/lightmako6543/status/2019997744862228515/photo/1",
+              "media_key": "3_2019997210897948673",
+              "start": 22,
+              "url": "https://t.co/DtzEkjtXus"
+            },
+            {
+              "display_url": "x.com/tsugu_gumi/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/tsugu_gumi/status/2018907421117452337",
+              "start": 46,
+              "url": "https://t.co/i5AN5PV1uI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019997744862228515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "乃依くんの声優さんキリトと同じなの神です🫶                                                                                                                                                                                                                                             SFW"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 35125,
+          "like_count": 961,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018907421117452337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乃依くんの声優さんキリトと同じなの神です🫶 https://t.co/DtzEkjtXus https://t.co/i5AN5PV1uI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~没有梦想的咸鱼一条ovo/✟♡重度依赖♡✟----努力的还债中.jpg /营业？坐标:深圳/🚪88",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 1127,
+          "like_count": 22981,
+          "listed_count": 4,
+          "media_count": 972,
+          "tweet_count": 5764
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-06T15:05:37.000Z",
+        "description": "SFW account\n↓毎日更新中\n支援サイト:https://t.co/CsZjUWePoa\nサブアカウント→@Sublightmako\n叡智アカウント→@lightmako0721 \nInstgram→https://t.co/ODbUnMuzKY\npixiv:https://t.co/JqWL6vY3J5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Sublightmako"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "lightmako0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/ocd7G",
+                "end": 48,
+                "expanded_url": "https://x.gd/ocd7G",
+                "start": 25,
+                "url": "https://t.co/CsZjUWePoa"
+              },
+              {
+                "display_url": "x.gd/YIfDc",
+                "end": 127,
+                "expanded_url": "https://x.gd/YIfDc",
+                "start": 104,
+                "url": "https://t.co/ODbUnMuzKY"
+              },
+              {
+                "display_url": "x.gd/EvRIE",
+                "end": 157,
+                "expanded_url": "https://x.gd/EvRIE",
+                "start": 134,
+                "url": "https://t.co/JqWL6vY3J5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/lightmako",
+                "end": 23,
+                "expanded_url": "https://lit.link/lightmako",
+                "start": 0,
+                "url": "https://t.co/kFqZrqqSV3"
+              }
+            ]
+          }
+        },
+        "id": "817386645951393792",
+        "name": "らいと",
+        "pinned_tweet_id": "2014175572566614295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989206179558621184/IA8HlYNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707403,
+          "following_count": 876,
+          "like_count": 10750,
+          "listed_count": 2460,
+          "media_count": 174,
+          "tweet_count": 4900
+        },
+        "url": "https://t.co/kFqZrqqSV3",
+        "username": "lightmako6543",
+        "verified": true
+      }
+    ]
+  }
+}

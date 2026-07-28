@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054554497008254976"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055120987759476794",
+    "created_at": "2026-05-15T03:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055120987759476794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T8NVcpgZyx",
+          "end": 33,
+          "expanded_url": "https://x.com/show5560/status/2055120987759476794/video/1",
+          "media_key": "13_2054554497008254976",
+          "start": 10,
+          "url": "https://t.co/T8NVcpgZyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055120987759476794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豆包小嘴最甜的一集 https://t.co/T8NVcpgZyx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32300,
+        "height": 2124,
+        "media_key": "13_2054554497008254976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054554497008254976/img/ER-H2h5uYYaV_BMI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054554497008254976/vid/avc1/320x628/4Ib2MKbCppeQnlvT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054554497008254976/vid/avc1/720x1416/C1tGf6s8c2cKzACU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054554497008254976/vid/avc1/1080x2124/LXi9pifNO4QT8sea.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054554497008254976/pl/S9BE2JnBms9KbXDb.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054554497008254976/vid/avc1/480x944/BKOpyzaQ2-OFCG65.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054554497008254976"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055120987759476794",
+        "created_at": "2026-05-15T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055120987759476794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8NVcpgZyx",
+              "end": 33,
+              "expanded_url": "https://x.com/show5560/status/2055120987759476794/video/1",
+              "media_key": "13_2054554497008254976",
+              "start": 10,
+              "url": "https://t.co/T8NVcpgZyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055120987759476794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包小嘴最甜的一集 https://t.co/T8NVcpgZyx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3942,
+          "following_count": 1688,
+          "like_count": 27492,
+          "listed_count": 7,
+          "media_count": 973,
+          "tweet_count": 6996
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

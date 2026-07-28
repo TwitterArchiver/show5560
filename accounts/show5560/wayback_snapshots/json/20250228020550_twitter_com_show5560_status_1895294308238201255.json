@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895294306136793093"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1895294308238201255",
+    "created_at": "2025-02-28T02:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T03:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895294308238201255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ovOhvMQRjQ",
+          "end": 46,
+          "expanded_url": "https://x.com/show5560/status/1895294308238201255/photo/1",
+          "media_key": "3_1895294306136793093",
+          "start": 23,
+          "url": "https://t.co/ovOhvMQRjQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895294308238201255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好困好困QAQ\n我要困死了，好想睡觉啊啊啊啊 https://t.co/ovOhvMQRjQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_1895294306136793093",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1wITYaoAUM84Z.jpg",
+        "width": 514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895294306136793093"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1895294308238201255",
+        "created_at": "2025-02-28T02:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T03:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895294308238201255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ovOhvMQRjQ",
+              "end": 46,
+              "expanded_url": "https://x.com/show5560/status/1895294308238201255/photo/1",
+              "media_key": "3_1895294306136793093",
+              "start": 23,
+              "url": "https://t.co/ovOhvMQRjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895294308238201255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好困好困QAQ\n我要困死了，好想睡觉啊啊啊啊 https://t.co/ovOhvMQRjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥★喜欢酷酷的衣服✟ 笨蛋一个 ✟想成为一个大魔法师✟   ♡ 真的真的很喜欢很爱希汐★咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "★酥萌萌★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894950543187202048/0IulgQiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 1173,
+          "like_count": 24166,
+          "listed_count": 3,
+          "media_count": 883,
+          "tweet_count": 5477
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

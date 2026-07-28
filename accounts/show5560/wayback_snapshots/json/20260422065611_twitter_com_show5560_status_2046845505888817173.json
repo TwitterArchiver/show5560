@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046769054137151740",
+    "created_at": "2026-04-22T06:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046845505888817173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032843430116954112",
+          "start": 0,
+          "username": "Cheeta_118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046845505888817173",
+    "in_reply_to_user_id": "2032843430116954112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046769054137151740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheeta_118 可爱捏）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046769051565989888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeVm6_aoAAD03y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046769054137151740",
+        "created_at": "2026-04-22T06:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046845505888817173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032843430116954112",
+              "start": 0,
+              "username": "Cheeta_118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046845505888817173",
+        "in_reply_to_user_id": "2032843430116954112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046769054137151740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheeta_118 可爱捏）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046769051565989888"
+          ]
+        },
+        "author_id": "2032843430116954112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2046769054137151740",
+        "created_at": "2026-04-22T01:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046769054137151740"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "Amiya"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "阿米娅"
+            },
+            {
+              "end": 43,
+              "start": 35,
+              "tag": "cosplay"
+            },
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "Arknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x89HHcHZf2",
+              "end": 78,
+              "expanded_url": "https://x.com/Cheeta_118/status/2046769054137151740/photo/1",
+              "media_key": "3_2046769051565989888",
+              "start": 55,
+              "url": "https://t.co/x89HHcHZf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046769054137151740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 920,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "别动，博士，我来帮你解决...♡\n#明日方舟 #Amiya #阿米娅 #cosplay #Arknights https://t.co/x89HHcHZf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 1550,
+          "like_count": 26066,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 6075
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T15:37:08.000Z",
+        "description": "23岁老登一枚，喜欢玩塔科夫、COD、皇牌空战。欢迎随时调戏，新群：946612212",
+        "id": "2032843430116954112",
+        "location": "HongKong",
+        "name": "奇塔HK_PDW",
+        "pinned_tweet_id": "2036749316476612662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032850766852186112/r2BKUXYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 28,
+          "like_count": 323,
+          "listed_count": 5,
+          "media_count": 61,
+          "tweet_count": 186
+        },
+        "username": "Cheeta_118",
+        "verified": false
+      }
+    ]
+  }
+}

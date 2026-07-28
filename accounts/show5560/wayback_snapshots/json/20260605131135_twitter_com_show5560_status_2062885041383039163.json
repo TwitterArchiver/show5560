@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2062885041383039163",
+    "created_at": "2026-06-05T13:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062885041383039163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062885041383039163",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062872564352069758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: The cruelest part of regret is not losing everything.\n\nIt is getting the dream.\nThe applause.\nThe beautiful, respectable life…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 609514,
+        "height": 2160,
+        "media_key": "13_2062771758214844416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062771758214844416/img/4O3gYM3gK3DHQ-j2.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062771758214844416/pl/M0btQY923jvQwECn.m3u8?v=0da"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062771758214844416/vid/avc1/1280x720/-pfGdO9zvmFz3AxX.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062771758214844416/vid/avc1/1920x1080/woGwqKI_rnXXB8MN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062771758214844416/vid/avc1/640x360/XigRQtcxwHY1rjuO.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062771758214844416/vid/avc1/480x270/JTiSohoTKSF9uHSr.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062771758214844416/vid/avc1/3840x2160/ImuIOmQZWFAL7ljG.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2062885041383039163",
+        "created_at": "2026-06-05T13:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062885041383039163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062885041383039163",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062872564352069758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: The cruelest part of regret is not losing everything.\n\nIt is getting the dream.\nThe applause.\nThe beautiful, respectable life…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062771758214844416"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          }
+        ],
+        "conversation_id": "2062872564352069758",
+        "created_at": "2026-06-05T12:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062872564352069758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyuoOyA0DZ",
+              "end": 300,
+              "expanded_url": "https://x.com/YongQuan/status/2062872564352069758/video/1",
+              "media_key": "13_2062771758214844416",
+              "start": 277,
+              "url": "https://t.co/QyuoOyA0DZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062872564352069758",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 827,
+                "start": 818,
+                "tag": "LaLaLand"
+              },
+              {
+                "end": 837,
+                "start": 828,
+                "tag": "Deadpool"
+              },
+              {
+                "end": 850,
+                "start": 838,
+                "tag": "RyanGosling"
+              },
+              {
+                "end": 861,
+                "start": 851,
+                "tag": "EmmaStone"
+              },
+              {
+                "end": 871,
+                "start": 862,
+                "tag": "FilmEdit"
+              },
+              {
+                "end": 882,
+                "start": 872,
+                "tag": "MovieEdit"
+              },
+              {
+                "end": 897,
+                "start": 883,
+                "tag": "CinematicEdit"
+              },
+              {
+                "end": 909,
+                "start": 898,
+                "tag": "VideoEssay"
+              },
+              {
+                "end": 918,
+                "start": 910,
+                "tag": "FanEdit"
+              },
+              {
+                "end": 928,
+                "start": 919,
+                "tag": "Dreamers"
+              },
+              {
+                "end": 947,
+                "start": 929,
+                "tag": "SomeoneInTheCrowd"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1034,
+                "id": "1545277694325116928",
+                "start": 1025,
+                "username": "YongQuan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bilibilibb.com/av116682215394…",
+                "end": 997,
+                "expanded_url": "https://www.bilibilibb.com/av116682215394092",
+                "start": 974,
+                "url": "https://t.co/w6c8Lov6Fg"
+              }
+            ]
+          },
+          "text": "The cruelest part of regret is not losing everything.\n\nIt is getting the dream.\nThe applause.\nThe beautiful, respectable life you once fought for.\nAnd then, one night, when a piano begins to play, you realize that the one person you wanted to share it all with is no longer by your side.\nThis time, Deadpool crashes into the ending of La La Land.\n\nHe is not here to erase the classic ending.\nHe is not here to say Mia and Seb made the wrong choice.\n\nHe simply opens another branch of the multiverse — one where they no longer have to pretend that being mature means staying silent.\n\nIn this version, Mia and Seb finally say the words they buried beneath success, distance, and time:\n“I don’t want you to leave my life.”\n\nA tribute to dreams, timing, regret, and the impossible fantasy of choosing love one more time.\n\n#LaLaLand #Deadpool #RyanGosling #EmmaStone #FilmEdit #MovieEdit #CinematicEdit #VideoEssay #FanEdit #Dreamers #SomeoneInTheCrowd\n\nOriginal Creator / 原作者：\n https://t.co/w6c8Lov6Fg\nEnglish Subtitles / 视频英文字幕：@YongQuan\n\nAll characters and IP rights belong to their respective copyright holders.\nThis work is an AI fan creation and tribute only.\n\nEnjoy the video."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "The cruelest part of regret is not losing everything.\n\nIt is getting the dream.\nThe applause.\nThe beautiful, respectable life you once fought for.\nAnd then, one night, when a piano begins to play, you realize that the one person you wanted to share it all with is no longer by https://t.co/QyuoOyA0DZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4357,
+          "following_count": 1687,
+          "like_count": 28162,
+          "listed_count": 8,
+          "media_count": 1301,
+          "tweet_count": 7673
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\n教练｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 67,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060544184092901376/kt266hXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10471,
+          "following_count": 4491,
+          "like_count": 48716,
+          "listed_count": 31,
+          "media_count": 4028,
+          "tweet_count": 13706
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

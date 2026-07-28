@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046166810198966726",
+    "created_at": "2026-04-20T11:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046183722710601909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247446678984105984",
+          "start": 0,
+          "username": "five_xiaowu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046183722710601909",
+    "in_reply_to_user_id": "1247446678984105984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046166810198966726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@five_xiaowu 等回）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1876,
+        "media_key": "3_2046166686244691968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVxwpTaYAATDiK.jpg",
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046166810198966726",
+        "created_at": "2026-04-20T11:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046183722710601909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247446678984105984",
+              "start": 0,
+              "username": "five_xiaowu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046183722710601909",
+        "in_reply_to_user_id": "1247446678984105984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046166810198966726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@five_xiaowu 等回）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046166686244691968"
+          ]
+        },
+        "author_id": "1247446678984105984",
+        "conversation_id": "2046166810198966726",
+        "created_at": "2026-04-20T09:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:58:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046166695610667430",
+          "2046166810198966726"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R9aHd0K72J",
+              "end": 51,
+              "expanded_url": "https://x.com/five_xiaowu/status/2046166810198966726/photo/1",
+              "media_key": "3_2046166686244691968",
+              "start": 28,
+              "url": "https://t.co/R9aHd0K72J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046166810198966726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我房东被威胁了😨\n怎么办，在线等，挺急的！\n#蓝V互关 https://t.co/R9aHd0K72J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 1457,
+          "like_count": 25731,
+          "listed_count": 6,
+          "media_count": 559,
+          "tweet_count": 5858
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-07T08:50:49.000Z",
+        "description": "币圈的终途是大结果。 | #HTX| #Binance 广场创作者 | 一级交易分享 📈| 💎🙌是归途 | DM for collab📩👉https://t.co/LmIWbvR84K | 一切观点#dyor | web3真是太精彩了丨干货段子手",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 13,
+                "tag": "HTX"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiaowu_0368",
+                "end": 92,
+                "expanded_url": "https://t.me/xiaowu_0368",
+                "start": 69,
+                "url": "https://t.co/LmIWbvR84K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaowu_0368",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaowu_0368",
+                "start": 0,
+                "url": "https://t.co/LmIWbvR84K"
+              }
+            ]
+          }
+        },
+        "id": "1247446678984105984",
+        "location": "United Kingdom🇬🇧",
+        "name": "Crypto小五🔶OP_CAT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010608076861386752/tS9HnpEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10805,
+          "following_count": 4036,
+          "like_count": 52671,
+          "listed_count": 31,
+          "media_count": 871,
+          "tweet_count": 46616
+        },
+        "url": "https://t.co/LmIWbvR84K",
+        "username": "five_xiaowu",
+        "verified": true
+      }
+    ]
+  }
+}

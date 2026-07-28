@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2066800303044018561",
+    "created_at": "2026-06-16T09:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066811077888033002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1181595305252253696",
+          "start": 0,
+          "username": "Margaux91717615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066811077888033002",
+    "in_reply_to_user_id": "1181595305252253696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066800303044018561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Margaux91717615 回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_2066800295511007232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6_6xubIAA5Rwr.jpg",
+        "width": 605
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2066800295510986752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6_6xua0AADIRA.jpg",
+        "width": 1164
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2066800295515148288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6_6xvaUAAbuTP.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2066800303044018561",
+        "created_at": "2026-06-16T09:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066811077888033002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1181595305252253696",
+              "start": 0,
+              "username": "Margaux91717615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066811077888033002",
+        "in_reply_to_user_id": "1181595305252253696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066800303044018561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Margaux91717615 回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066800295511007232",
+            "3_2066800295510986752",
+            "3_2066800295515148288"
+          ]
+        },
+        "author_id": "1181595305252253696",
+        "conversation_id": "2066800303044018561",
+        "created_at": "2026-06-16T08:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066800303044018561"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2GKH0tmrt",
+              "end": 60,
+              "expanded_url": "https://x.com/Margaux91717615/status/2066800303044018561/photo/1",
+              "media_key": "3_2066800295511007232",
+              "start": 37,
+              "url": "https://t.co/v2GKH0tmrt"
+            },
+            {
+              "display_url": "pic.x.com/v2GKH0tmrt",
+              "end": 60,
+              "expanded_url": "https://x.com/Margaux91717615/status/2066800303044018561/photo/1",
+              "media_key": "3_2066800295510986752",
+              "start": 37,
+              "url": "https://t.co/v2GKH0tmrt"
+            },
+            {
+              "display_url": "pic.x.com/v2GKH0tmrt",
+              "end": 60,
+              "expanded_url": "https://x.com/Margaux91717615/status/2066800303044018561/photo/1",
+              "media_key": "3_2066800295515148288",
+              "start": 37,
+              "url": "https://t.co/v2GKH0tmrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066800303044018561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "法国插画家\nJean-Jacques Sempé\n\n淡淡的猫 #蓝V互关 https://t.co/v2GKH0tmrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡接线下喵 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 1702,
+          "like_count": 28673,
+          "listed_count": 8,
+          "media_count": 1535,
+          "tweet_count": 8056
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-08T15:41:06.000Z",
+        "description": "诗人，作家 ，艺术家。\n随身携带10000册藏书迁居3个国家，\n已出版多部诗集、思想笔记和电影笔记。\n在硅基席卷而来的时代，\n高度敏感的心灵是碳基惟一的堡垒。",
+        "id": "1181595305252253696",
+        "location": "Amphoe San Sai",
+        "name": "Ephesus",
+        "pinned_tweet_id": "2064670421207937222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066334307074109440/pBCZTYcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 261,
+          "like_count": 1656,
+          "listed_count": 5,
+          "media_count": 22,
+          "tweet_count": 266
+        },
+        "username": "Margaux91717615",
+        "verified": true
+      }
+    ]
+  }
+}

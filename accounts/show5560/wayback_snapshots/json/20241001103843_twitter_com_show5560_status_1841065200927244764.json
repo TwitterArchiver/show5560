@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1840996945818460163",
+    "created_at": "2024-10-01T10:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T11:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841065200927244764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1450893562686541824",
+          "start": 0,
+          "username": "KK404error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841065200927244764",
+    "in_reply_to_user_id": "1450893562686541824",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840997819546558487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK404error 诶嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1840996945818460163",
+        "created_at": "2024-10-01T10:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T11:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841065200927244764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1450893562686541824",
+              "start": 0,
+              "username": "KK404error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841065200927244764",
+        "in_reply_to_user_id": "1450893562686541824",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840997819546558487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK404error 诶嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450893562686541824",
+        "conversation_id": "1840996945818460163",
+        "created_at": "2024-10-01T06:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T07:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840997819546558487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840997819546558487",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840996945818460163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆ 笨蛋一个 △想成为一个大魔法师△ ♡想要被独爱（如果有就好了）♡ 消失的里世界₍˄·͈༝·͈˄*₎◞ ̑̑｜突然就没有什么生活的兴趣了",
+        "id": "1465701247021838341",
+        "location": "即将死亡",
+        "name": "☆暮暮★",
+        "pinned_tweet_id": "1835518582966632454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835284829782552576/Hm1IWadl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 1159,
+          "like_count": 24181,
+          "listed_count": 3,
+          "tweet_count": 5256
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T18:36:02.000Z",
+        "description": "叫咱KK就是了/好想出门玩啊啊啊啊啊啊啊啊\n\nJe veux la gloire à mes genoux",
+        "id": "1450893562686541824",
+        "location": "十一万四千五百一十四米",
+        "name": "Karma·Kaslana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821013028751749120/iRBPrtYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12179,
+          "following_count": 2118,
+          "like_count": 38483,
+          "listed_count": 19,
+          "tweet_count": 24701
+        },
+        "username": "KK404error",
+        "verified": false
+      }
+    ]
+  }
+}

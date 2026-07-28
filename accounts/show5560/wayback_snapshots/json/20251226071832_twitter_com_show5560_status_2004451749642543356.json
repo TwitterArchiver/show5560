@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004237624161325059"
+      ],
+      "media_source_tweet_id": [
+        "2004237630003905021"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2004451749642543356",
+    "created_at": "2025-12-26T07:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T08:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004451749642543356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1202785968018735104",
+          "start": 3,
+          "username": "shitanohidari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qQIBhwVwuW",
+          "end": 42,
+          "expanded_url": "https://x.com/shitanohidari/status/2004237630003905021/photo/1",
+          "media_key": "3_2004237624161325059",
+          "start": 19,
+          "url": "https://t.co/qQIBhwVwuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004451749642543356",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004237630003905021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shitanohidari: https://t.co/qQIBhwVwuW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004237624161325059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9B7gBGb0AMt3lm.jpg",
+        "width": 1755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004237624161325059"
+          ],
+          "media_source_tweet_id": [
+            "2004237630003905021"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2004451749642543356",
+        "created_at": "2025-12-26T07:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T08:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004451749642543356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1202785968018735104",
+              "start": 3,
+              "username": "shitanohidari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQIBhwVwuW",
+              "end": 42,
+              "expanded_url": "https://x.com/shitanohidari/status/2004237630003905021/photo/1",
+              "media_key": "3_2004237624161325059",
+              "start": 19,
+              "url": "https://t.co/qQIBhwVwuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004451749642543356",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004237630003905021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shitanohidari: https://t.co/qQIBhwVwuW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004237624161325059"
+          ]
+        },
+        "author_id": "1202785968018735104",
+        "conversation_id": "2004237630003905021",
+        "created_at": "2025-12-25T17:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T18:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004237630003905021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQIBhwVwuW",
+              "end": 23,
+              "expanded_url": "https://x.com/shitanohidari/status/2004237630003905021/photo/1",
+              "media_key": "3_2004237624161325059",
+              "start": 0,
+              "url": "https://t.co/qQIBhwVwuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004237630003905021",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 8684,
+          "like_count": 1014,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qQIBhwVwuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 1134,
+          "like_count": 22866,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5694
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T03:07:33.000Z",
+        "description": "@uenomigiの別創作アカウントです 無断転載、使用禁止、AI学習禁止(Please do not reprint without my permission) FAタグ→ #ライトくんほしい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 89,
+                "tag": "ライトくんほしい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "uenomigi"
+              }
+            ]
+          }
+        },
+        "id": "1202785968018735104",
+        "name": "したのひだり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826373737492500480/uoZ8zfDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40873,
+          "following_count": 8,
+          "like_count": 3543,
+          "listed_count": 253,
+          "media_count": 532,
+          "tweet_count": 11519
+        },
+        "username": "shitanohidari",
+        "verified": false
+      }
+    ]
+  }
+}

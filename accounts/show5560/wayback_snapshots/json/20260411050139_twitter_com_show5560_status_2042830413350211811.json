@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2042803598799835187",
+    "created_at": "2026-04-11T05:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042830413350211811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2034869734983049216",
+          "start": 0,
+          "username": "Judy421527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042830413350211811",
+    "in_reply_to_user_id": "2034869734983049216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042803598799835187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Judy421527 互关嘛qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2042803598799835187",
+        "created_at": "2026-04-11T05:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042830413350211811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034869734983049216",
+              "start": 0,
+              "username": "Judy421527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042830413350211811",
+        "in_reply_to_user_id": "2034869734983049216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042803598799835187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Judy421527 互关嘛qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034869734983049216",
+        "conversation_id": "2042803598799835187",
+        "created_at": "2026-04-11T03:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042803598799835187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realydt/status…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/realydt/status/2042793171176788303",
+              "start": 50,
+              "url": "https://t.co/qzEMLof8ZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042803598799835187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042793171176788303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不能只发帖子没有互动\n\n不然还是没有收益\n\n大家还是要互动起来，没有互动算法只会觉得你是个机器人🤖 https://t.co/qzEMLof8ZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ #蓝v互关 喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "蓝v互关"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 1190,
+          "like_count": 24817,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 5521
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T05:49:02.000Z",
+        "description": "",
+        "id": "2034869734983049216",
+        "name": "Judy",
+        "pinned_tweet_id": "2035525894065021380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869853522432000/SOWYdlBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 909,
+          "like_count": 1242,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1450
+        },
+        "username": "Judy421527",
+        "verified": true
+      }
+    ]
+  }
+}

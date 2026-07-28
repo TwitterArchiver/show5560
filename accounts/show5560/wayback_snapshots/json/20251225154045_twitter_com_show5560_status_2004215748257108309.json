@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003913483432443904"
+      ],
+      "media_source_tweet_id": [
+        "2003913508912861537"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004215748257108309",
+    "created_at": "2025-12-25T15:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T16:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004215748257108309"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "ハンナちゃん",
+          "probability": 0.7222,
+          "start": 32,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1206205659395420161",
+          "start": 3,
+          "username": "rurino_coffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5LJunn6pZT",
+          "end": 68,
+          "expanded_url": "https://x.com/rurino_coffee/status/2003913508912861537/photo/1",
+          "media_key": "3_2003913483432443904",
+          "start": 45,
+          "url": "https://t.co/5LJunn6pZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004215748257108309",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003913508912861537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurino_coffee: 個人的作画コストNo.1のハンナちゃんですおやすみ https://t.co/5LJunn6pZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2003913483432443904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G89UsiybQAAyxcJ.jpg",
+        "width": 2046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003913483432443904"
+          ],
+          "media_source_tweet_id": [
+            "2003913508912861537"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004215748257108309",
+        "created_at": "2025-12-25T15:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T16:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004215748257108309"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "ハンナちゃん",
+              "probability": 0.7222,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1206205659395420161",
+              "start": 3,
+              "username": "rurino_coffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5LJunn6pZT",
+              "end": 68,
+              "expanded_url": "https://x.com/rurino_coffee/status/2003913508912861537/photo/1",
+              "media_key": "3_2003913483432443904",
+              "start": 45,
+              "url": "https://t.co/5LJunn6pZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004215748257108309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003913508912861537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurino_coffee: 個人的作画コストNo.1のハンナちゃんですおやすみ https://t.co/5LJunn6pZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003913483432443904"
+          ]
+        },
+        "author_id": "1206205659395420161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003913508912861537",
+        "created_at": "2025-12-24T19:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T20:34:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003912225866895684",
+          "2003913508912861537"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "ハンナちゃん",
+              "probability": 0.6916,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5LJunn6pZT",
+              "end": 49,
+              "expanded_url": "https://x.com/rurino_coffee/status/2003913508912861537/photo/1",
+              "media_key": "3_2003913483432443904",
+              "start": 26,
+              "url": "https://t.co/5LJunn6pZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003913508912861537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 28163,
+          "like_count": 2477,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "個人的作画コストNo.1のハンナちゃんですおやすみ https://t.co/5LJunn6pZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1131,
+          "like_count": 22863,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5692
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-15T13:33:48.000Z",
+        "description": "主食が珈琲の絵師 | 「瑠璃乃珈琲店」のサークル主 | pixiv　https://t.co/k2cXDJuUyI | ※Skebのプライベート依頼は非公開",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/44369702",
+                "end": 57,
+                "expanded_url": "http://pixiv.net/users/44369702",
+                "start": 34,
+                "url": "https://t.co/k2cXDJuUyI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rurino_coffee",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@rurino_coffee",
+                "start": 0,
+                "url": "https://t.co/CX0OcWYgUX"
+              }
+            ]
+          }
+        },
+        "id": "1206205659395420161",
+        "name": "瑠璃乃珈琲@2/8(日)異ノ祭B-4",
+        "pinned_tweet_id": "1939638680165269699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639540772235276290/ej_i5-W0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 627,
+          "like_count": 1886,
+          "listed_count": 21,
+          "media_count": 258,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/CX0OcWYgUX",
+        "username": "rurino_coffee",
+        "verified": true
+      }
+    ]
+  }
+}

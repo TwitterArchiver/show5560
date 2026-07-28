@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2026552548791038124",
+    "created_at": "2026-02-25T08:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026568785990397973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841768354178334721",
+          "start": 0,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026568785990397973",
+    "in_reply_to_user_id": "1841768354178334721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026568096144830538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi004 好嗷~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2026552548791038124",
+        "created_at": "2026-02-25T08:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026568785990397973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841768354178334721",
+              "start": 0,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026568785990397973",
+        "in_reply_to_user_id": "1841768354178334721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026568096144830538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi004 好嗷~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841768354178334721",
+        "conversation_id": "2026552548791038124",
+        "created_at": "2026-02-25T08:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026568096144830538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026568096144830538",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026552548791038124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 正常🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1126,
+          "like_count": 23157,
+          "listed_count": 4,
+          "media_count": 931,
+          "tweet_count": 5748
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "出廠日期1996.11.1；無證含糖；2022年HRT，176cm70kg，減肥中，沒有SRS，手作雌二醇糖商，減肥、豐胸、泌乳、脫毛、美白、雌墮、互fo、面基找我",
+        "id": "1841768354178334721",
+        "location": "上海",
+        "name": "劉英茂（京子）",
+        "pinned_tweet_id": "2022181116539785500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947896196036759558/jZW-lLDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 4399,
+          "like_count": 1241,
+          "listed_count": 6,
+          "media_count": 389,
+          "tweet_count": 6454
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

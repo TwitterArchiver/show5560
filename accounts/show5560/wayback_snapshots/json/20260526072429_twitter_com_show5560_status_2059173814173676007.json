@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2058919477623030021",
+    "created_at": "2026-05-26T07:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059173814173676007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854736085068517376",
+          "start": 0,
+          "username": "RainEngine_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059173814173676007",
+    "in_reply_to_user_id": "1854736085068517376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058919477623030021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine_2024 对的对的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2058919459755368448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLAVwvboAAMG51.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2058919477623030021",
+        "created_at": "2026-05-26T07:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059173814173676007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854736085068517376",
+              "start": 0,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059173814173676007",
+        "in_reply_to_user_id": "1854736085068517376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058919477623030021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine_2024 对的对的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058919459755368448"
+          ]
+        },
+        "author_id": "1854736085068517376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058919477623030021",
+        "created_at": "2026-05-25T14:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058919477623030021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXEccAayvZ",
+              "end": 28,
+              "expanded_url": "https://x.com/RainEngine_2024/status/2058919477623030021/photo/1",
+              "media_key": "3_2058919459755368448",
+              "start": 5,
+              "url": "https://t.co/LXEccAayvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058919477623030021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1200,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这对吗？ https://t.co/LXEccAayvZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3986,
+          "following_count": 1691,
+          "like_count": 27818,
+          "listed_count": 7,
+          "media_count": 1125,
+          "tweet_count": 7345
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-08T04:02:15.000Z",
+        "description": "雨擎项目组设计总监/Dancing Line饭制作者/来自2007年/曾小米合作伙伴/目前在学习u3d引擎技术/貌似不是学生/双相休学/来自广东东莞/现居广东中山/喜欢拍照记录生活/喜欢折腾各类的手机/很高兴认识大家/欢迎互fo",
+        "id": "1854736085068517376",
+        "name": "秋日葵_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053488985306198016/M7IDcy9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 201,
+          "like_count": 1319,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 151
+        },
+        "username": "RainEngine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

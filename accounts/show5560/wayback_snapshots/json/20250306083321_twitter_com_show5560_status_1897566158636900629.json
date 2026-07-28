@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1897267589635826173",
+    "created_at": "2025-03-06T08:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T09:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897566158636900629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897566158636900629",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897267589635826173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1897267589635826173",
+        "created_at": "2025-03-06T08:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T09:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897566158636900629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897566158636900629",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897267589635826173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769078117052854272",
+        "conversation_id": "1897267589635826173",
+        "created_at": "2025-03-05T12:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T13:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897267589635826173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897267589635826173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4371,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "说我的hi在蹭热度的人恰恰是最爱蹭热度的人，他们只看到了我在有热度的帖子hi，却没看到我在没热度的帖子hi，实际上我反而更加倾向于对没热度的帖子hi，因为没热度的号主因为人少更经常回应我，这是一种幸存者偏差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "❦ RIP.2028/07/09 ❦嗷呜★06Mtf一只🍥★喜欢酷酷的衣服✟ 笨蛋一个 ✟想成为一个大魔法师✟  想来一个杀人魔法把所有人都杀了再自杀 ♡ 真的真的很喜欢很爱希汐★咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 108,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "★酥萌萌★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894950543187202048/0IulgQiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1174,
+          "like_count": 24236,
+          "listed_count": 3,
+          "media_count": 887,
+          "tweet_count": 5488
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Muoujiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 55,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 32,
+                "url": "https://t.co/LtoB1mlWHz"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1874363360755831286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5323,
+          "following_count": 3382,
+          "like_count": 71130,
+          "listed_count": 12,
+          "media_count": 3074,
+          "tweet_count": 58275
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2077211553078956484",
+    "created_at": "2026-07-15T04:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077251594572435754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1781510736000274432",
+          "start": 0,
+          "username": "huantim7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077251594572435754",
+    "in_reply_to_user_id": "1781510736000274432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077218351353627105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huantim7 皇上您吉祥~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2077211553078956484",
+        "created_at": "2026-07-15T04:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077251594572435754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1781510736000274432",
+              "start": 0,
+              "username": "huantim7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077251594572435754",
+        "in_reply_to_user_id": "1781510736000274432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077218351353627105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huantim7 皇上您吉祥~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "2077211553078956484",
+        "created_at": "2026-07-15T02:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077218351353627105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077218351353627105",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 987,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077211553078956484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 京爷您吉祥，给您磕一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4926,
+          "following_count": 1737,
+          "like_count": 31215,
+          "listed_count": 13,
+          "media_count": 2272,
+          "tweet_count": 10491
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huantim1.bsky.social",
+                "end": 23,
+                "expanded_url": "http://huantim1.bsky.social",
+                "start": 0,
+                "url": "https://t.co/cXdI7FG7B0"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 759,
+          "like_count": 91987,
+          "listed_count": 1,
+          "media_count": 484,
+          "tweet_count": 6005
+        },
+        "url": "https://t.co/cXdI7FG7B0",
+        "username": "huantim7",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030603758615584768",
+        "3_2030603779352252416"
+      ],
+      "media_source_tweet_id": [
+        "2030607461414310174",
+        "2030607461414310174"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2030616025067372880",
+    "created_at": "2026-03-08T12:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030616025067372880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "405353604",
+          "start": 3,
+          "username": "azusa_banjo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J61JfMJyGO",
+          "end": 53,
+          "expanded_url": "https://x.com/azusa_banjo/status/2030607461414310174/photo/1",
+          "media_key": "3_2030603758615584768",
+          "start": 30,
+          "url": "https://t.co/J61JfMJyGO"
+        },
+        {
+          "display_url": "pic.x.com/J61JfMJyGO",
+          "end": 53,
+          "expanded_url": "https://x.com/azusa_banjo/status/2030607461414310174/photo/1",
+          "media_key": "3_2030603779352252416",
+          "start": 30,
+          "url": "https://t.co/J61JfMJyGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030616025067372880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030607461414310174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azusa_banjo: どちらも同じ男の娘♂です https://t.co/J61JfMJyGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2030603758615584768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4nXB_a4AAhCWO.jpg",
+        "width": 900
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2030603779352252416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4nYPPbUAAyLQe.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030603758615584768",
+            "3_2030603779352252416"
+          ],
+          "media_source_tweet_id": [
+            "2030607461414310174",
+            "2030607461414310174"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2030616025067372880",
+        "created_at": "2026-03-08T12:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030616025067372880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "405353604",
+              "start": 3,
+              "username": "azusa_banjo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J61JfMJyGO",
+              "end": 53,
+              "expanded_url": "https://x.com/azusa_banjo/status/2030607461414310174/photo/1",
+              "media_key": "3_2030603758615584768",
+              "start": 30,
+              "url": "https://t.co/J61JfMJyGO"
+            },
+            {
+              "display_url": "pic.x.com/J61JfMJyGO",
+              "end": 53,
+              "expanded_url": "https://x.com/azusa_banjo/status/2030607461414310174/photo/1",
+              "media_key": "3_2030603779352252416",
+              "start": 30,
+              "url": "https://t.co/J61JfMJyGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030616025067372880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030607461414310174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azusa_banjo: どちらも同じ男の娘♂です https://t.co/J61JfMJyGO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030603758615584768",
+            "3_2030603779352252416"
+          ]
+        },
+        "author_id": "405353604",
+        "conversation_id": "2030607461414310174",
+        "created_at": "2026-03-08T11:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030607461414310174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J61JfMJyGO",
+              "end": 36,
+              "expanded_url": "https://x.com/azusa_banjo/status/2030607461414310174/photo/1",
+              "media_key": "3_2030603758615584768",
+              "start": 13,
+              "url": "https://t.co/J61JfMJyGO"
+            },
+            {
+              "display_url": "pic.x.com/J61JfMJyGO",
+              "end": 36,
+              "expanded_url": "https://x.com/azusa_banjo/status/2030607461414310174/photo/1",
+              "media_key": "3_2030603779352252416",
+              "start": 13,
+              "url": "https://t.co/J61JfMJyGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030607461414310174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 12690,
+          "like_count": 1196,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "どちらも同じ男の娘♂です https://t.co/J61JfMJyGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘mtf🍥猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 坐标:深圳  🚪50  小号 @runamusaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "runamusaki"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 1154,
+          "like_count": 23523,
+          "listed_count": 4,
+          "media_count": 944,
+          "tweet_count": 5833
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-05T06:04:30.000Z",
+        "description": "漫画家◆主人公(♂)のことが好きすぎる男の娘(おとこのこ)の漫画を描いてます◆『恋する（おとめ）の作り方』隔週金曜・①~⑪巻発売中！▶https://t.co/KI74JdgaMt ◆既刊紹介・お問い合わせ・その他リンクはこちら▶https://t.co/27yaP4gOS1 ⚠AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic.pixiv.net/works/6403",
+                "end": 90,
+                "expanded_url": "http://comic.pixiv.net/works/6403",
+                "start": 67,
+                "url": "https://t.co/KI74JdgaMt"
+              },
+              {
+                "display_url": "lit.link/azusabanjo",
+                "end": 138,
+                "expanded_url": "https://lit.link/azusabanjo",
+                "start": 115,
+                "url": "https://t.co/27yaP4gOS1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=5279612",
+                "start": 0,
+                "url": "https://t.co/68EbQiqnHF"
+              }
+            ]
+          }
+        },
+        "id": "405353604",
+        "location": "リプライ全て見てます、いつもありがとうございます！",
+        "name": "万丈梓",
+        "pinned_tweet_id": "2027221155141365975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520691095159541762/0x5eAcvI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265725,
+          "following_count": 432,
+          "like_count": 30089,
+          "listed_count": 1474,
+          "media_count": 2352,
+          "tweet_count": 15681
+        },
+        "url": "https://t.co/68EbQiqnHF",
+        "username": "azusa_banjo",
+        "verified": true
+      }
+    ]
+  }
+}

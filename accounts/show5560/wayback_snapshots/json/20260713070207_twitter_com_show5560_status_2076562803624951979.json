@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2076222786427818166",
+    "created_at": "2026-07-13T07:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076562803624951979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1890029305205608448",
+          "start": 0,
+          "username": "wsl8297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076562803624951979",
+    "in_reply_to_user_id": "1890029305205608448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076222786427818166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsl8297 这吃的是什么？？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_2076222784381038593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA5n0GasAEo2Py.jpg",
+        "width": 348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2076222786427818166",
+        "created_at": "2026-07-13T07:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076562803624951979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890029305205608448",
+              "start": 0,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076562803624951979",
+        "in_reply_to_user_id": "1890029305205608448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076222786427818166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsl8297 这吃的是什么？？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076222784381038593"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2076222786427818166",
+        "created_at": "2026-07-12T08:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076222786427818166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGI5oScEwp",
+              "end": 28,
+              "expanded_url": "https://x.com/wsl8297/status/2076222786427818166/photo/1",
+              "media_key": "3_2076222784381038593",
+              "start": 5,
+              "url": "https://t.co/nGI5oScEwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076222786427818166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 18728,
+          "like_count": 463,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "啊？？？ https://t.co/nGI5oScEwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4877,
+          "following_count": 1734,
+          "like_count": 31055,
+          "listed_count": 12,
+          "media_count": 2226,
+          "tweet_count": 10322
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2073556468004163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19661,
+          "following_count": 684,
+          "like_count": 22995,
+          "listed_count": 110,
+          "media_count": 3696,
+          "tweet_count": 21101
+        },
+        "url": "",
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

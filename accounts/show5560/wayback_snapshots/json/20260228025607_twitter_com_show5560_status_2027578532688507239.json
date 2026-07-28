@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027295868853145600"
+      ],
+      "media_source_tweet_id": [
+        "2027295874645418109"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2027578532688507239",
+    "created_at": "2026-02-28T02:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027578532688507239"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1044515221413363712",
+          "start": 3,
+          "username": "hokori_4649"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/axFf6AvKqv",
+          "end": 56,
+          "expanded_url": "https://x.com/hokori_4649/status/2027295874645418109/photo/1",
+          "media_key": "3_2027295868853145600",
+          "start": 33,
+          "url": "https://t.co/axFf6AvKqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027578532688507239",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 701
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027295874645418109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hokori_4649: 和メイドかぐいろ\n#超かぐや姫 https://t.co/axFf6AvKqv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027295868853145600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJm2gWb0AAqsHV.jpg",
+        "width": 1573
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027295868853145600"
+          ],
+          "media_source_tweet_id": [
+            "2027295874645418109"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2027578532688507239",
+        "created_at": "2026-02-28T02:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027578532688507239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1044515221413363712",
+              "start": 3,
+              "username": "hokori_4649"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/axFf6AvKqv",
+              "end": 56,
+              "expanded_url": "https://x.com/hokori_4649/status/2027295874645418109/photo/1",
+              "media_key": "3_2027295868853145600",
+              "start": 33,
+              "url": "https://t.co/axFf6AvKqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027578532688507239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 701
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027295874645418109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hokori_4649: 和メイドかぐいろ\n#超かぐや姫 https://t.co/axFf6AvKqv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027295868853145600"
+          ]
+        },
+        "author_id": "1044515221413363712",
+        "conversation_id": "2027295874645418109",
+        "created_at": "2026-02-27T08:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027295874645418109"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/axFf6AvKqv",
+              "end": 39,
+              "expanded_url": "https://x.com/hokori_4649/status/2027295874645418109/photo/1",
+              "media_key": "3_2027295868853145600",
+              "start": 16,
+              "url": "https://t.co/axFf6AvKqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027295874645418109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 47764,
+          "like_count": 6208,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 701
+        },
+        "reply_settings": "everyone",
+        "text": "和メイドかぐいろ\n#超かぐや姫 https://t.co/axFf6AvKqv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1128,
+          "like_count": 23191,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 5756
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-25T09:13:29.000Z",
+        "description": "skeb▷▶ https://t.co/9fkAcLcvWV\n￤FAﾀｸﾞ▷▶ #hokoriartଳ\n￤リンクまとめ▷▶ https://t.co/YyGgZtFJZC",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 40,
+                "tag": "hokoriartଳ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hokori_4649",
+                "end": 30,
+                "expanded_url": "https://skeb.jp/@hokori_4649",
+                "start": 7,
+                "url": "https://t.co/9fkAcLcvWV"
+              },
+              {
+                "display_url": "fanme.link/@hokori_4649",
+                "end": 85,
+                "expanded_url": "https://fanme.link/@hokori_4649",
+                "start": 62,
+                "url": "https://t.co/YyGgZtFJZC"
+              }
+            ]
+          }
+        },
+        "id": "1044515221413363712",
+        "name": "埃",
+        "pinned_tweet_id": "2007729012618248469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666067592371646464/Tqu5RMBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55543,
+          "following_count": 313,
+          "like_count": 110277,
+          "listed_count": 331,
+          "media_count": 2050,
+          "tweet_count": 17593
+        },
+        "username": "hokori_4649",
+        "verified": false
+      }
+    ]
+  }
+}

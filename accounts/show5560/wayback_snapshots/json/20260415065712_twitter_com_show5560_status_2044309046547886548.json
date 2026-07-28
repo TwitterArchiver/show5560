@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2044298637241659854",
+    "created_at": "2026-04-15T06:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T07:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044309046547886548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044309046547886548",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044298637241659854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 羡慕富婆喵qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044298607902535680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7OwLLbMAA6ODX.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2044298637241659854",
+        "created_at": "2026-04-15T06:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044309046547886548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044309046547886548",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044298637241659854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 羡慕富婆喵qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044298607902535680"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "2044298637241659854",
+        "created_at": "2026-04-15T06:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044298637241659854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cS6SmbB8hh",
+              "end": 27,
+              "expanded_url": "https://x.com/AcboxLiu/status/2044298637241659854/photo/1",
+              "media_key": "3_2044298607902535680",
+              "start": 4,
+              "url": "https://t.co/cS6SmbB8hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044298637241659854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搬家喽 https://t.co/cS6SmbB8hh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 看到蓝勾会回的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2555,
+          "following_count": 1320,
+          "like_count": 25217,
+          "listed_count": 5,
+          "media_count": 485,
+          "tweet_count": 5646
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦神秘纸箱 / building @memoh_ai / 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "memoh_ai"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11448,
+          "following_count": 3025,
+          "like_count": 3277,
+          "listed_count": 53,
+          "media_count": 1067,
+          "tweet_count": 5944
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

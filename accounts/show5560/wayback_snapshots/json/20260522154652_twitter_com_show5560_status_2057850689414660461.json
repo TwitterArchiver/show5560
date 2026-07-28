@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2057753386267922520",
+    "created_at": "2026-05-22T15:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057850689414660461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057850689414660461",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057753386267922520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ 猫猫有时候还真可以提供情绪价值....\n难受的时候猫猫真的会主动过来找你贴贴（亲身体会）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "16_2057753359646646272",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HI6bxzUa4AAd8Ea.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HI6bxzUa4AAd8Ea.mp4"
+          }
+        ],
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2057753386267922520",
+        "created_at": "2026-05-22T15:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057850689414660461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057850689414660461",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057753386267922520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 猫猫有时候还真可以提供情绪价值....\n难受的时候猫猫真的会主动过来找你贴贴（亲身体会）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2057753359646646272"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2057753386267922520",
+        "created_at": "2026-05-22T09:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057753386267922520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpAWkkYnWN",
+              "end": 41,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2057753386267922520/photo/1",
+              "media_key": "16_2057753359646646272",
+              "start": 18,
+              "url": "https://t.co/WpAWkkYnWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057753386267922520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当朋友说猫咪不能提供情绪价值\n我： https://t.co/WpAWkkYnWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3977,
+          "following_count": 1691,
+          "like_count": 27724,
+          "listed_count": 7,
+          "media_count": 1072,
+          "tweet_count": 7226
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 682,
+          "like_count": 6587,
+          "listed_count": 6,
+          "media_count": 367,
+          "tweet_count": 2118
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

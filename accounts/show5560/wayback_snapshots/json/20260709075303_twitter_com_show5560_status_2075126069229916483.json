@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2074721695009804421",
+    "created_at": "2026-07-09T07:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075126069229916483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075126069229916483",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074721695009804421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1984,
+        "media_key": "3_2074721664957571072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrkXKeaYAAd8GW.jpg",
+        "width": 1791
+      },
+      {
+        "height": 1988,
+        "media_key": "3_2074721664949170176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrkXKcaMAA3Itl.jpg",
+        "width": 2900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2074721695009804421",
+        "created_at": "2026-07-09T07:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075126069229916483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075126069229916483",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074721695009804421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074721664957571072",
+            "3_2074721664949170176"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "conversation_id": "2074721695009804421",
+        "created_at": "2026-07-08T05:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074721695009804421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPybRZF8aY",
+              "end": 36,
+              "expanded_url": "https://x.com/Jaciezyt/status/2074721695009804421/photo/1",
+              "media_key": "3_2074721664957571072",
+              "start": 13,
+              "url": "https://t.co/dPybRZF8aY"
+            },
+            {
+              "display_url": "pic.x.com/dPybRZF8aY",
+              "end": 36,
+              "expanded_url": "https://x.com/Jaciezyt/status/2074721695009804421/photo/1",
+              "media_key": "3_2074721664949170176",
+              "start": 13,
+              "url": "https://t.co/dPybRZF8aY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074721695009804421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 24978,
+          "like_count": 220,
+          "quote_count": 4,
+          "reply_count": 48,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "论收集癖的柜子里都有什么 https://t.co/dPybRZF8aY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4744,
+          "following_count": 1729,
+          "like_count": 30619,
+          "listed_count": 11,
+          "media_count": 2127,
+          "tweet_count": 9858
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 JK刚刚退役😭 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身(仅互fo) @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 111,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 954,
+          "like_count": 65334,
+          "listed_count": 11,
+          "media_count": 1423,
+          "tweet_count": 16461
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": true
+      }
+    ]
+  }
+}

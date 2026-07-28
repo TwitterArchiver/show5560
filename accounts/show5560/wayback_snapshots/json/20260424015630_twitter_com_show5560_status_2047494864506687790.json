@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046200189644636160"
+      ],
+      "media_source_tweet_id": [
+        "2046200192874271099"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2047494864506687790",
+    "created_at": "2026-04-24T01:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T02:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047494864506687790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        },
+        {
+          "end": 103,
+          "id": "1902568136450424832",
+          "start": 96,
+          "username": "aoim33"
+        },
+        {
+          "end": 116,
+          "id": "1904539885769457665",
+          "start": 105,
+          "username": "yanmin1105"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UiPlyBl9GC",
+          "end": 140,
+          "expanded_url": "https://x.com/show5560/status/2046200192874271099/photo/1",
+          "media_key": "3_2046200189644636160",
+          "start": 117,
+          "url": "https://t.co/UiPlyBl9GC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047494864506687790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046200192874271099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 出一批giffgaff 只赚个转运费50一张吧，买了些东西，孩子现在基本上已经没钱吃饭了，呜呜QAQ\n有需要的直接私信我就好ᶻz ₍^_   ̫ _^₎\n激活可以找@Aoim33或者@Yanmin1105 https://t.co/UiPlyBl9GC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046200189644636160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWQOzMbAAAmcwH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046200189644636160"
+          ],
+          "media_source_tweet_id": [
+            "2046200192874271099"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2047494864506687790",
+        "created_at": "2026-04-24T01:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047494864506687790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            },
+            {
+              "end": 103,
+              "id": "1902568136450424832",
+              "start": 96,
+              "username": "aoim33"
+            },
+            {
+              "end": 116,
+              "id": "1904539885769457665",
+              "start": 105,
+              "username": "yanmin1105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiPlyBl9GC",
+              "end": 140,
+              "expanded_url": "https://x.com/show5560/status/2046200192874271099/photo/1",
+              "media_key": "3_2046200189644636160",
+              "start": 117,
+              "url": "https://t.co/UiPlyBl9GC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047494864506687790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046200192874271099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 出一批giffgaff 只赚个转运费50一张吧，买了些东西，孩子现在基本上已经没钱吃饭了，呜呜QAQ\n有需要的直接私信我就好ᶻz ₍^_   ̫ _^₎\n激活可以找@Aoim33或者@Yanmin1105 https://t.co/UiPlyBl9GC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046200189644636160"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2046200192874271099",
+        "created_at": "2026-04-20T12:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046200192874271099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1902568136450424832",
+              "start": 82,
+              "username": "aoim33"
+            },
+            {
+              "end": 102,
+              "id": "1904539885769457665",
+              "start": 91,
+              "username": "yanmin1105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiPlyBl9GC",
+              "end": 126,
+              "expanded_url": "https://x.com/show5560/status/2046200192874271099/photo/1",
+              "media_key": "3_2046200189644636160",
+              "start": 103,
+              "url": "https://t.co/UiPlyBl9GC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046200192874271099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3246,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "出一批giffgaff 只赚个转运费50一张吧，买了些东西，孩子现在基本上已经没钱吃饭了，呜呜QAQ\n有需要的直接私信我就好ᶻz ₍^_   ̫ _^₎\n激活可以找@Aoim33或者@Yanmin1105 https://t.co/UiPlyBl9GC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 1642,
+          "like_count": 26418,
+          "listed_count": 7,
+          "media_count": 615,
+          "tweet_count": 6309
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2046398591196094655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4855,
+          "following_count": 2840,
+          "like_count": 45164,
+          "listed_count": 18,
+          "media_count": 2524,
+          "tweet_count": 11088
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 393,
+          "like_count": 3383,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 1384
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049764487004323840"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2049911665521508462",
+    "created_at": "2026-04-30T18:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T19:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049911665521508462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qFf62Ji4Ij",
+          "end": 46,
+          "expanded_url": "https://x.com/show5560/status/2049911665521508462/photo/1",
+          "media_key": "3_2049764487004323840",
+          "start": 23,
+          "url": "https://t.co/qFf62Ji4Ij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049911665521508462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "包饺子的时候把蓝色药片放进馅里会发生什么（） https://t.co/qFf62Ji4Ij"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_2049764487004323840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI58NkagAAkz-a.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049764487004323840"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049911665521508462",
+        "created_at": "2026-04-30T18:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049911665521508462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qFf62Ji4Ij",
+              "end": 46,
+              "expanded_url": "https://x.com/show5560/status/2049911665521508462/photo/1",
+              "media_key": "3_2049764487004323840",
+              "start": 23,
+              "url": "https://t.co/qFf62Ji4Ij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049911665521508462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "包饺子的时候把蓝色药片放进馅里会发生什么（） https://t.co/qFf62Ji4Ij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 1672,
+          "like_count": 26992,
+          "listed_count": 7,
+          "media_count": 707,
+          "tweet_count": 6653
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

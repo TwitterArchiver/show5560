@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2070915810185683051",
+    "created_at": "2026-06-28T10:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071181642568516025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "740503534563524608",
+          "start": 0,
+          "username": "rua_kig"
+        },
+        {
+          "end": 18,
+          "id": "1280001743162609664",
+          "start": 9,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071181642568516025",
+    "in_reply_to_user_id": "740503534563524608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070915810185683051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rua_kig @Poca2381 （悲）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070915804313636865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1e86vbUAEZd2p.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2070915810185683051",
+        "created_at": "2026-06-28T10:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071181642568516025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "740503534563524608",
+              "start": 0,
+              "username": "rua_kig"
+            },
+            {
+              "end": 18,
+              "id": "1280001743162609664",
+              "start": 9,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071181642568516025",
+        "in_reply_to_user_id": "740503534563524608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070915810185683051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rua_kig @Poca2381 （悲）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070915804313636865"
+          ]
+        },
+        "author_id": "740503534563524608",
+        "conversation_id": "2070915810185683051",
+        "created_at": "2026-06-27T17:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070915810185683051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mbto4BQXMy",
+              "end": 52,
+              "expanded_url": "https://x.com/rua_kig/status/2070915810185683051/photo/1",
+              "media_key": "3_2070915804313636865",
+              "start": 29,
+              "url": "https://t.co/Mbto4BQXMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070915810185683051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 8362,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "白兔昨天放学后在麦当劳门口跟一群小学生战斗时阵亡了。\n🥲 https://t.co/Mbto4BQXMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 1715,
+          "like_count": 29544,
+          "listed_count": 11,
+          "media_count": 1869,
+          "tweet_count": 8793
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-08T11:19:35.000Z",
+        "description": "hihi~!\n\niochi mari, blanc, tsukatsuki rio",
+        "id": "740503534563524608",
+        "name": "rua",
+        "pinned_tweet_id": "2061086868306096613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025771813054427136/aenp7yXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 358,
+          "like_count": 3489,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 729
+        },
+        "url": "",
+        "username": "rua_kig",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22362,
+          "following_count": 9701,
+          "like_count": 152753,
+          "listed_count": 52,
+          "media_count": 5109,
+          "tweet_count": 52660
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

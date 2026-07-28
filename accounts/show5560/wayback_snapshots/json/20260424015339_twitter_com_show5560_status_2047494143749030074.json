@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047346066434249192",
+    "created_at": "2026-04-24T01:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T02:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047494143749030074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1891425601862713344",
+          "start": 0,
+          "username": "weiatbing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047494143749030074",
+    "in_reply_to_user_id": "1891425601862713344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047346066434249192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiatbing 哇）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047346060176359425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmiZPkbgAEFzwL.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047346063150039040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmiZapaQAAaCw1.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047346066434249192",
+        "created_at": "2026-04-24T01:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047494143749030074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1891425601862713344",
+              "start": 0,
+              "username": "weiatbing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047494143749030074",
+        "in_reply_to_user_id": "1891425601862713344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047346066434249192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiatbing 哇）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047346060176359425",
+            "3_2047346063150039040"
+          ]
+        },
+        "author_id": "1891425601862713344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2047346066434249192",
+        "created_at": "2026-04-23T16:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047346066434249192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "男娘"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "明日方舟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTK6pVIoLC",
+              "end": 56,
+              "expanded_url": "https://x.com/weiatbing/status/2047346066434249192/photo/1",
+              "media_key": "3_2047346060176359425",
+              "start": 33,
+              "url": "https://t.co/WTK6pVIoLC"
+            },
+            {
+              "display_url": "pic.x.com/WTK6pVIoLC",
+              "end": 56,
+              "expanded_url": "https://x.com/weiatbing/status/2047346066434249192/photo/1",
+              "media_key": "3_2047346063150039040",
+              "start": 33,
+              "url": "https://t.co/WTK6pVIoLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047346066434249192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2357,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来群里和冰冰姐玩～\n这是粉丝性质的群哦～\n#男娘 #明日方舟 https://t.co/WTK6pVIoLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 1642,
+          "like_count": 26414,
+          "listed_count": 7,
+          "media_count": 615,
+          "tweet_count": 6307
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-17T09:53:13.000Z",
+        "description": "你可以叫我冰冰姐～",
+        "id": "1891425601862713344",
+        "name": "唯@冰",
+        "pinned_tweet_id": "2045181963074678899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042851277739298821/Q1voHI0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 16,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "weiatbing",
+        "verified": false
+      }
+    ]
+  }
+}

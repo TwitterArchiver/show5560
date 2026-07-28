@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067786214057586688"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2067786216754602182",
+    "created_at": "2026-06-19T01:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067786216754602182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4h2zWgIl8f",
+          "end": 28,
+          "expanded_url": "https://x.com/show5560/status/2067786216754602182/photo/1",
+          "media_key": "3_2067786214057586688",
+          "start": 5,
+          "url": "https://t.co/4h2zWgIl8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067786216754602182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的假的 https://t.co/4h2zWgIl8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_2067786214057586688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJAmyhaMAATEki.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067786214057586688"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2067786216754602182",
+        "created_at": "2026-06-19T01:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067786216754602182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4h2zWgIl8f",
+              "end": 28,
+              "expanded_url": "https://x.com/show5560/status/2067786216754602182/photo/1",
+              "media_key": "3_2067786214057586688",
+              "start": 5,
+              "url": "https://t.co/4h2zWgIl8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067786216754602182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的 https://t.co/4h2zWgIl8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 1701,
+          "like_count": 28847,
+          "listed_count": 9,
+          "media_count": 1609,
+          "tweet_count": 8176
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046890364708266233",
+    "created_at": "2026-04-22T11:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046909223775371293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046909223775371293",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046890364708266233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever 喝了开始口吐白沫了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2046890318310862851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgD5k0a8AM-TbA.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046890364708266233",
+        "created_at": "2026-04-22T11:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046909223775371293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046909223775371293",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046890364708266233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever 喝了开始口吐白沫了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046890318310862851"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046890364708266233",
+        "created_at": "2026-04-22T09:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046890364708266233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/slA2Mj9RNf",
+              "end": 47,
+              "expanded_url": "https://x.com/DDaquaforever/status/2046890364708266233/photo/1",
+              "media_key": "3_2046890318310862851",
+              "start": 24,
+              "url": "https://t.co/slA2Mj9RNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046890364708266233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁不想在渴急了的时候急头白脸的来一瓶立白尝尝呢 https://t.co/slA2Mj9RNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 1573,
+          "like_count": 26105,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 6114
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4465,
+          "following_count": 5228,
+          "like_count": 10124,
+          "listed_count": 13,
+          "media_count": 3368,
+          "tweet_count": 16472
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1863611744293367808"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1863611765990543787",
+    "created_at": "2024-12-02T15:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T16:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863611765990543787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YQg2Oy5kYY",
+          "end": 42,
+          "expanded_url": "https://x.com/show5560/status/1863611765990543787/photo/1",
+          "media_key": "16_1863611744293367808",
+          "start": 19,
+          "url": "https://t.co/YQg2Oy5kYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863611765990543787",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被榨干了喵（不是）\n_(:з」∠)_ https://t.co/YQg2Oy5kYY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "16_1863611744293367808",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GdzhAfHaMAAG_gN.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GdzhAfHaMAAG_gN.mp4"
+          }
+        ],
+        "width": 144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1863611744293367808"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1863611765990543787",
+        "created_at": "2024-12-02T15:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863611765990543787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQg2Oy5kYY",
+              "end": 42,
+              "expanded_url": "https://x.com/show5560/status/1863611765990543787/photo/1",
+              "media_key": "16_1863611744293367808",
+              "start": 19,
+              "url": "https://t.co/YQg2Oy5kYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863611765990543787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被榨干了喵（不是）\n_(:з」∠)_ https://t.co/YQg2Oy5kYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆ 笨蛋一个 △想成为一个大魔法师△ ♡想要被独爱.偏爱♡ 真的真的很喜欢很爱希汐★咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌萌★暮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846497644887351296/kv8ICFGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 1183,
+          "like_count": 24537,
+          "listed_count": 2,
+          "media_count": 864,
+          "tweet_count": 5407
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

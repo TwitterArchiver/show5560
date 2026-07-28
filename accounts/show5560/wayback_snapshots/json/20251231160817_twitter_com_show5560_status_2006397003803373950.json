@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005614817202274304"
+      ],
+      "media_source_tweet_id": [
+        "2005615170954072106"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2006397003803373950",
+    "created_at": "2025-12-31T16:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006397003803373950"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "シェリーちゃん",
+          "probability": 0.3993,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1344786609732947968",
+          "start": 3,
+          "username": "grslst_sikito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E2ms14gTky",
+          "end": 54,
+          "expanded_url": "https://x.com/grslst_sikito/status/2005615170954072106/photo/1",
+          "media_key": "3_2005614817202274304",
+          "start": 31,
+          "url": "https://t.co/E2ms14gTky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006397003803373950",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005615170954072106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grslst_sikito: 名探偵シェリーちゃん🔍 https://t.co/E2ms14gTky"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2005614817202274304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VgDM-aAAAL9VQ.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005614817202274304"
+          ],
+          "media_source_tweet_id": [
+            "2005615170954072106"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2006397003803373950",
+        "created_at": "2025-12-31T16:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006397003803373950"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "シェリーちゃん",
+              "probability": 0.3993,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1344786609732947968",
+              "start": 3,
+              "username": "grslst_sikito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2ms14gTky",
+              "end": 54,
+              "expanded_url": "https://x.com/grslst_sikito/status/2005615170954072106/photo/1",
+              "media_key": "3_2005614817202274304",
+              "start": 31,
+              "url": "https://t.co/E2ms14gTky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006397003803373950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005615170954072106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grslst_sikito: 名探偵シェリーちゃん🔍 https://t.co/E2ms14gTky"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005614817202274304"
+          ]
+        },
+        "author_id": "1344786609732947968",
+        "conversation_id": "2005615170954072106",
+        "created_at": "2025-12-29T12:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005615170954072106"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "名探偵シェリーちゃん",
+              "probability": 0.5126,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2ms14gTky",
+              "end": 35,
+              "expanded_url": "https://x.com/grslst_sikito/status/2005615170954072106/photo/1",
+              "media_key": "3_2005614817202274304",
+              "start": 12,
+              "url": "https://t.co/E2ms14gTky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005615170954072106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 29166,
+          "like_count": 2686,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "名探偵シェリーちゃん🔍 https://t.co/E2ms14gTky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 1132,
+          "like_count": 22862,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5701
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-31T23:25:25.000Z",
+        "description": "らくがきとか進捗とか色々用/最近はまのさばとうちの子関連多め/ 絵のお仕事募集中です！ ◆本垢→@yawa0w0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yawa0w0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anpan4ki10.wixsite.com/nameraka",
+                "end": 23,
+                "expanded_url": "https://anpan4ki10.wixsite.com/nameraka",
+                "start": 0,
+                "url": "https://t.co/OoUrKXZDer"
+              }
+            ]
+          }
+        },
+        "id": "1344786609732947968",
+        "location": "無断転載使用･AI学習禁止",
+        "name": "しきと🔰s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680473534685130753/LUzqW-JG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 135,
+          "like_count": 2148,
+          "listed_count": 23,
+          "media_count": 295,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/OoUrKXZDer",
+        "username": "grslst_sikito",
+        "verified": false
+      }
+    ]
+  }
+}

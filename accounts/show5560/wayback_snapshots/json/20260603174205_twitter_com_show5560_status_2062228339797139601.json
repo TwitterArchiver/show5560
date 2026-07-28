@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2062173310591652098",
+    "created_at": "2026-06-03T17:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062228339797139601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062228339797139601",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062173310591652098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 这有点离谱了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5456,
+        "height": 960,
+        "media_key": "7_2062173257588199424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062173257588199424/pu/img/ekYDliwENOCDKzUl.jpg",
+        "public_metrics": {
+          "view_count": 856
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062173257588199424/pu/vid/avc1/320x426/IFCrsahQLYDW1R9N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062173257588199424/pu/vid/avc1/480x640/wIpbtdUkQM2MBnB2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062173257588199424/pu/vid/avc1/720x960/feyIqAcmhG4pmAqZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062173257588199424/pu/pl/VeufQbi96eUIZXgg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2062173310591652098",
+        "created_at": "2026-06-03T17:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062228339797139601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062228339797139601",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062173310591652098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 这有点离谱了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062173257588199424"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2062173310591652098",
+        "created_at": "2026-06-03T14:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062173310591652098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aitYOzdxH3",
+              "end": 39,
+              "expanded_url": "https://x.com/Rococo90933671/status/2062173310591652098/video/1",
+              "media_key": "7_2062173257588199424",
+              "start": 16,
+              "url": "https://t.co/aitYOzdxH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062173310591652098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1905,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这真的是人体能弯曲出来的形状？ https://t.co/aitYOzdxH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4311,
+          "following_count": 1682,
+          "like_count": 28042,
+          "listed_count": 8,
+          "media_count": 1262,
+          "tweet_count": 7589
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12579,
+          "following_count": 3074,
+          "like_count": 39864,
+          "listed_count": 41,
+          "media_count": 4186,
+          "tweet_count": 22181
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

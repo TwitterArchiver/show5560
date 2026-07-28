@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1825526012572311870",
+    "created_at": "2024-08-20T03:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T04:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825744412552606139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521508530552983552",
+          "start": 0,
+          "username": "leanshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825744412552606139",
+    "in_reply_to_user_id": "1521508530552983552",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825570630995157409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leanshou 嗯嗯，抱抱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1825526012572311870",
+        "created_at": "2024-08-20T03:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T04:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825744412552606139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521508530552983552",
+              "start": 0,
+              "username": "leanshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825744412552606139",
+        "in_reply_to_user_id": "1521508530552983552",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825570630995157409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leanshou 嗯嗯，抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521508530552983552",
+        "conversation_id": "1825526012572311870",
+        "created_at": "2024-08-19T16:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T17:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825570630995157409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825570630995157409",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825526012572311870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 可以不回去的（抱抱）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△爆裂魔法师△\n🚪 66",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮暮",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816155627271643139/cK8GDv8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 1127,
+          "like_count": 23527,
+          "listed_count": 3,
+          "tweet_count": 5088
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T15:15:27.000Z",
+        "description": "24年9月后可能不再上推/可能仅周末在线/你好，欢迎来到凌宿予笙的主页！/不定时发电/发言如有错误，欢迎您的指正。有时不在线。/𝕏/\n人称代词：（目前均可）/\n愿望（每年的生日愿望基本都是这个）：世界和平。/\n愿每个人都被世界温柔以待。(*╹▽╹*)",
+        "id": "1521508530552983552",
+        "location": "你的心里",
+        "name": "凌宿予笙",
+        "pinned_tweet_id": "1824783568834629969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802712435729760256/4Ic8Rq_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 137,
+          "like_count": 26155,
+          "listed_count": 0,
+          "tweet_count": 1987
+        },
+        "username": "leanshou",
+        "verified": false
+      }
+    ]
+  }
+}

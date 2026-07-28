@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898990029734866944"
+      ],
+      "media_source_tweet_id": [
+        "1898990037397905440"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1900054064324633056",
+    "created_at": "2025-03-13T05:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T06:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900054064324633056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1428240212233236480",
+          "start": 3,
+          "username": "Ayamimimi137"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iiydzMWSrM",
+          "end": 108,
+          "expanded_url": "https://x.com/Ayamimimi137/status/1898990037397905440/photo/1",
+          "media_key": "3_1898990029734866944",
+          "start": 85,
+          "url": "https://t.co/iiydzMWSrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900054064324633056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898990037397905440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayamimimi137: 开整！\n大概是这样的感觉 偏草稿风 自动铅手绘\n关注以后 评论or转推or引用 就可以参加啦\n截止到3.14 22点整 陆续发出来x https://t.co/iiydzMWSrM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1161,
+        "media_key": "3_1898990029734866944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqRXupa8AA9UeT.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898990029734866944"
+          ],
+          "media_source_tweet_id": [
+            "1898990037397905440"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1900054064324633056",
+        "created_at": "2025-03-13T05:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T06:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900054064324633056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1428240212233236480",
+              "start": 3,
+              "username": "Ayamimimi137"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiydzMWSrM",
+              "end": 108,
+              "expanded_url": "https://x.com/Ayamimimi137/status/1898990037397905440/photo/1",
+              "media_key": "3_1898990029734866944",
+              "start": 85,
+              "url": "https://t.co/iiydzMWSrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900054064324633056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898990037397905440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayamimimi137: 开整！\n大概是这样的感觉 偏草稿风 自动铅手绘\n关注以后 评论or转推or引用 就可以参加啦\n截止到3.14 22点整 陆续发出来x https://t.co/iiydzMWSrM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898990029734866944"
+          ]
+        },
+        "author_id": "1428240212233236480",
+        "conversation_id": "1898990037397905440",
+        "created_at": "2025-03-10T06:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898990037397905440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiydzMWSrM",
+              "end": 90,
+              "expanded_url": "https://x.com/Ayamimimi137/status/1898990037397905440/photo/1",
+              "media_key": "3_1898990029734866944",
+              "start": 67,
+              "url": "https://t.co/iiydzMWSrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898990037397905440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9011,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "开整！\n大概是这样的感觉 偏草稿风 自动铅手绘\n关注以后 评论or转推or引用 就可以参加啦\n截止到3.14 22点整 陆续发出来x https://t.co/iiydzMWSrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "❦ RIP.2028/07/09 ❦嗷呜★06Mtf一只🍥★喜欢酷酷的衣服✟ 想成为一个大魔法师✟  ♡ 真的真的很喜欢很爱咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "无聊の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894950543187202048/0IulgQiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 1176,
+          "like_count": 24279,
+          "listed_count": 3,
+          "media_count": 892,
+          "tweet_count": 5521
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-19T06:19:53.000Z",
+        "description": "💕🍬 @Neko_shinotsuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "Neko_shinotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1428240212233236480",
+        "location": "已被隐藏",
+        "name": "黒塗り██宛て███",
+        "pinned_tweet_id": "1856367160924532777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892520484501078016/U5zqYmRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 807,
+          "like_count": 74425,
+          "listed_count": 7,
+          "media_count": 839,
+          "tweet_count": 6029
+        },
+        "username": "Ayamimimi137",
+        "verified": false
+      }
+    ]
+  }
+}

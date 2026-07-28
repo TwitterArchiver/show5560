@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064698772320649216"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2064784666746650807",
+    "created_at": "2026-06-10T19:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T20:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064784666746650807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qXsHdkODXu",
+          "end": 34,
+          "expanded_url": "https://x.com/show5560/status/2064784666746650807/photo/1",
+          "media_key": "3_2064698772320649216",
+          "start": 11,
+          "url": "https://t.co/qXsHdkODXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064784666746650807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一眼盯帧，是个坦克😁 https://t.co/qXsHdkODXu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1262,
+        "media_key": "3_2064698772320649216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdImBxbgAA5Cv_.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064698772320649216"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2064784666746650807",
+        "created_at": "2026-06-10T19:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T20:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064784666746650807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXsHdkODXu",
+              "end": 34,
+              "expanded_url": "https://x.com/show5560/status/2064784666746650807/photo/1",
+              "media_key": "3_2064698772320649216",
+              "start": 11,
+              "url": "https://t.co/qXsHdkODXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064784666746650807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一眼盯帧，是个坦克😁 https://t.co/qXsHdkODXu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘 162cm/58kg /普通长相/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 1694,
+          "like_count": 28454,
+          "listed_count": 8,
+          "media_count": 1411,
+          "tweet_count": 7893
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

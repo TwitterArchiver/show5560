@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2081431225001234656",
+    "created_at": "2026-07-27T04:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081602296518221851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Fuugetsu_808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081602296518221851",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081431225001234656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuugetsu_808 为啥呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2081431217191448576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK6qgUa8AAp1TD.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2081431225001234656",
+        "created_at": "2026-07-27T04:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081602296518221851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081602296518221851",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081431225001234656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 为啥呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081431217191448576"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2081431225001234656",
+        "created_at": "2026-07-26T17:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081431225001234656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DpdOvWMa5B",
+              "end": 40,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2081431225001234656/photo/1",
+              "media_key": "3_2081431217191448576",
+              "start": 17,
+              "url": "https://t.co/DpdOvWMa5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081431225001234656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 21694,
+          "like_count": 108,
+          "quote_count": 4,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要给华航的“中华”加引号🤔 https://t.co/DpdOvWMa5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5313,
+          "following_count": 1734,
+          "like_count": 32623,
+          "listed_count": 14,
+          "media_count": 2566,
+          "tweet_count": 11896
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5822,
+          "following_count": 1896,
+          "like_count": 78435,
+          "listed_count": 12,
+          "media_count": 1727,
+          "tweet_count": 13038
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

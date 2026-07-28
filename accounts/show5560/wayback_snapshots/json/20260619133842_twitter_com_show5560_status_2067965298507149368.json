@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2067571161282891822",
+    "created_at": "2026-06-19T13:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067965298507149368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735728536827334657",
+          "start": 0,
+          "username": "SakurasakaRiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067965298507149368",
+    "in_reply_to_user_id": "1735728536827334657",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067571161282891822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurasakaRiko （？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_2067571055972286464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF868MbgAA82Gt.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1518,
+        "media_key": "3_2067571071013007360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF870OasAAnRJs.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1399,
+        "media_key": "3_2067571086393548800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF88thbIAA7Jdq.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2067571161282891822",
+        "created_at": "2026-06-19T13:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067965298507149368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735728536827334657",
+              "start": 0,
+              "username": "SakurasakaRiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067965298507149368",
+        "in_reply_to_user_id": "1735728536827334657",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067571161282891822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurasakaRiko （？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067571055972286464",
+            "3_2067571071013007360",
+            "3_2067571086393548800"
+          ]
+        },
+        "author_id": "1735728536827334657",
+        "conversation_id": "2067571161282891822",
+        "created_at": "2026-06-18T11:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067571161282891822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MAE8Tz8jcM",
+              "end": 33,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2067571161282891822/photo/1",
+              "media_key": "3_2067571055972286464",
+              "start": 10,
+              "url": "https://t.co/MAE8Tz8jcM"
+            },
+            {
+              "display_url": "pic.x.com/MAE8Tz8jcM",
+              "end": 33,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2067571161282891822/photo/1",
+              "media_key": "3_2067571071013007360",
+              "start": 10,
+              "url": "https://t.co/MAE8Tz8jcM"
+            },
+            {
+              "display_url": "pic.x.com/MAE8Tz8jcM",
+              "end": 33,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2067571161282891822/photo/1",
+              "media_key": "3_2067571086393548800",
+              "start": 10,
+              "url": "https://t.co/MAE8Tz8jcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067571161282891822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 154161,
+          "like_count": 894,
+          "quote_count": 1,
+          "reply_count": 142,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "吓哭了\n我也想买） https://t.co/MAE8Tz8jcM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4424,
+          "following_count": 1702,
+          "like_count": 28893,
+          "listed_count": 9,
+          "media_count": 1625,
+          "tweet_count": 8210
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n前移动端音游公司总助｜PM｜周边主管｜赛事策划\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2066461385077465101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063885823553191936/2yMWRrzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 599,
+          "like_count": 6543,
+          "listed_count": 5,
+          "media_count": 306,
+          "tweet_count": 2120
+        },
+        "url": "",
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

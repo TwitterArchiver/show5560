@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1817821944714330448",
+    "created_at": "2024-07-31T05:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T06:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818513112083185832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "811445082943463424",
+          "start": 0,
+          "username": "tongxuanad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818513112083185832",
+    "in_reply_to_user_id": "811445082943463424",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818180312804790652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongxuanad 是这样的（悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1817821944714330448",
+        "created_at": "2024-07-31T05:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T06:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818513112083185832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "811445082943463424",
+              "start": 0,
+              "username": "tongxuanad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818513112083185832",
+        "in_reply_to_user_id": "811445082943463424",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818180312804790652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongxuanad 是这样的（悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "811445082943463424",
+        "conversation_id": "1817821944714330448",
+        "created_at": "2024-07-30T07:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T08:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818180312804790652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818180312804790652",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817821944714330448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 应届生真的一年比一年难呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△爆裂魔法师△",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮暮",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816155627271643139/cK8GDv8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1133,
+          "like_count": 23593,
+          "listed_count": 3,
+          "tweet_count": 5078
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-21T05:35:58.000Z",
+        "description": "三亚小咖啡馆主理人\n困难开口，各取所需，不入生活，可约\n岁岁如虞•共赴山河\n小饮微醺随时可私\n到三亚没头绪玩啥也可私",
+        "id": "811445082943463424",
+        "name": "蝶坠梦河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260166086743318533/efNd1Ohr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 417,
+          "like_count": 147,
+          "listed_count": 2,
+          "tweet_count": 428
+        },
+        "username": "tongxuanad",
+        "verified": false
+      }
+    ]
+  }
+}

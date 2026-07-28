@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2080536959068594616",
+    "created_at": "2026-07-24T13:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080650197743640583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080650197743640583",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080536959068594616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meguminsama2009 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_2080522072569339904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9_zUra4AA1oiF.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2080536959068594616",
+        "created_at": "2026-07-24T13:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080650197743640583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080650197743640583",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080536959068594616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080522072569339904"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2080536959068594616",
+        "created_at": "2026-07-24T06:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080536959068594616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRvEEWf7Qq",
+              "end": 55,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2080536959068594616/photo/1",
+              "media_key": "3_2080522072569339904",
+              "start": 32,
+              "url": "https://t.co/MRvEEWf7Qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080536959068594616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 715,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以防你不知道只要你用edge打开chrome的官网微软就会吃醋 https://t.co/MRvEEWf7Qq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5249,
+          "following_count": 1736,
+          "like_count": 32341,
+          "listed_count": 13,
+          "media_count": 2502,
+          "tweet_count": 11633
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@Meguminsuki2009\n🟨⬜🟪⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 1957,
+          "like_count": 3437,
+          "listed_count": 2,
+          "media_count": 882,
+          "tweet_count": 8071
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

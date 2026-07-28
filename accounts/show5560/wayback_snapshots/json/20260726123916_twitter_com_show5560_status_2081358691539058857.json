@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2081090572501369286",
+    "created_at": "2026-07-26T12:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081358691539058857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1529658600649539584",
+          "start": 0,
+          "username": "DrSunan2022422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081358691539058857",
+    "in_reply_to_user_id": "1529658600649539584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081090572501369286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrSunan2022422 好好看！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081090572501369286].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081090572501369286",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081090572501369286"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2081090572501369286",
+        "created_at": "2026-07-26T12:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081358691539058857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529658600649539584",
+              "start": 0,
+              "username": "DrSunan2022422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081358691539058857",
+        "in_reply_to_user_id": "1529658600649539584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081090572501369286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrSunan2022422 好好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5299,
+          "following_count": 1736,
+          "like_count": 32560,
+          "listed_count": 14,
+          "media_count": 2550,
+          "tweet_count": 11838
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过土豆地雷系女高 /喜欢油豆腐的赛博狐狸 | 要素过多啥都能聊 | 想搞ppl| 业余喜欢写小说 |睿智的P社玩家｜看到有趣的人会回关｜最闹麻的主任@CnDiode｜意难平@g60Yts1kvzO4g8q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "CnDiode"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "g60Yts1kvzO4g8q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4UuaJG8eYodjO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4UuaJG8eYodjOTRl",
+                "start": 0,
+                "url": "https://t.co/chVB6fcrGa"
+              }
+            ]
+          }
+        },
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "SCP-Dr.Sunan🐾",
+        "pinned_tweet_id": "1977929373727834336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3830,
+          "following_count": 984,
+          "like_count": 58211,
+          "listed_count": 11,
+          "media_count": 526,
+          "tweet_count": 7246
+        },
+        "url": "https://t.co/chVB6fcrGa",
+        "username": "DrSunan2022422",
+        "verified": false
+      }
+    ]
+  }
+}

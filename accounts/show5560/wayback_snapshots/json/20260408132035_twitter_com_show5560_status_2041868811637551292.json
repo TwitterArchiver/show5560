@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2041531454770094265",
+    "created_at": "2026-04-08T13:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041868811637551292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2341385298",
+          "start": 0,
+          "username": "xxcc323232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041868811637551292",
+    "in_reply_to_user_id": "2341385298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041868597119873309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxcc323232 还是有点害怕的qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2041531454770094265",
+        "created_at": "2026-04-08T13:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041868811637551292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2341385298",
+              "start": 0,
+              "username": "xxcc323232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041868811637551292",
+        "in_reply_to_user_id": "2341385298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041868597119873309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxcc323232 还是有点害怕的qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2341385298",
+        "conversation_id": "2041531454770094265",
+        "created_at": "2026-04-08T13:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041868597119873309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041868597119873309",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041531454770094265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 自從養貓後我就不怕鬼了\n客廳有奇怪的聲音，是貓\n睡到一半有東西壓在我身上，是貓\n門突然打開，是貓\n有人抓我的腳，是貓\n有東西從電視爬出來，是貓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的或者我去搞个日常号（？/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2041722973317689367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 1159,
+          "like_count": 24696,
+          "listed_count": 5,
+          "media_count": 396,
+          "tweet_count": 5455
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2014-02-13T04:33:19.000Z",
+        "description": "",
+        "id": "2341385298",
+        "name": "白熊を救おう",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 960,
+          "like_count": 1158,
+          "listed_count": 7,
+          "media_count": 1,
+          "tweet_count": 58
+        },
+        "username": "xxcc323232",
+        "verified": false
+      }
+    ]
+  }
+}

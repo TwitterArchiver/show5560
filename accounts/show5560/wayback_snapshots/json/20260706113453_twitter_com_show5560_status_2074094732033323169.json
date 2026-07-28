@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2073799069089349838",
+    "created_at": "2026-07-06T11:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074094732033323169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768935696646238208",
+          "start": 0,
+          "username": "PsycheRabbiiOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074094732033323169",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074050248176275857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsycheRabbiiOwO 受虐狂来着（思考）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2073799069089349838",
+        "created_at": "2026-07-06T11:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074094732033323169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074094732033323169",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074050248176275857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 受虐狂来着（思考）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2073799069089349838",
+        "created_at": "2026-07-06T08:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074050248176275857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074050248176275857",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073799069089349838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 还有sm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4682,
+          "following_count": 1730,
+          "like_count": 30309,
+          "listed_count": 12,
+          "media_count": 2059,
+          "tweet_count": 9561
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 1636,
+          "like_count": 19020,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 2868
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

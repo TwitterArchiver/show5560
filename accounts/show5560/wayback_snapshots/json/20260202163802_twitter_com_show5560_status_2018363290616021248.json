@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018292464839536641"
+      ],
+      "media_source_tweet_id": [
+        "2018292474276655424"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2018363290616021248",
+    "created_at": "2026-02-02T16:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T17:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018363290616021248"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1404413064967974922",
+          "start": 3,
+          "username": "dangdidangdi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m4eqldlv3Q",
+          "end": 48,
+          "expanded_url": "https://x.com/dangdidangdi/status/2018292474276655424/photo/1",
+          "media_key": "3_2018292464839536641",
+          "start": 25,
+          "url": "https://t.co/m4eqldlv3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018363290616021248",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1065
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018292474276655424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dangdidangdi: #超かぐや姫 https://t.co/m4eqldlv3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2018292464839536641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJqTaubsAEs-zm.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018292464839536641"
+          ],
+          "media_source_tweet_id": [
+            "2018292474276655424"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2018363290616021248",
+        "created_at": "2026-02-02T16:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018363290616021248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1404413064967974922",
+              "start": 3,
+              "username": "dangdidangdi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4eqldlv3Q",
+              "end": 48,
+              "expanded_url": "https://x.com/dangdidangdi/status/2018292474276655424/photo/1",
+              "media_key": "3_2018292464839536641",
+              "start": 25,
+              "url": "https://t.co/m4eqldlv3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018363290616021248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1065
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018292474276655424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dangdidangdi: #超かぐや姫 https://t.co/m4eqldlv3Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018292464839536641"
+          ]
+        },
+        "author_id": "1404413064967974922",
+        "conversation_id": "2018292474276655424",
+        "created_at": "2026-02-02T11:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018292474276655424"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4eqldlv3Q",
+              "end": 30,
+              "expanded_url": "https://x.com/dangdidangdi/status/2018292474276655424/photo/1",
+              "media_key": "3_2018292464839536641",
+              "start": 7,
+              "url": "https://t.co/m4eqldlv3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018292474276655424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 48474,
+          "like_count": 7715,
+          "quote_count": 36,
+          "reply_count": 0,
+          "retweet_count": 1065
+        },
+        "reply_settings": "following",
+        "text": "#超かぐや姫 https://t.co/m4eqldlv3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~没有梦想的咸鱼一条ovo/✟♡重度依赖♡✟----努力的还债中.jpg /营业？坐标:深圳/🚪88",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1126,
+          "like_count": 22980,
+          "listed_count": 4,
+          "media_count": 970,
+          "tweet_count": 5753
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-14T12:19:10.000Z",
+        "description": "illust/KR, JP, EN🆗️/📧dangdiradangdidi@naver.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/dangdidangdi",
+                "end": 23,
+                "expanded_url": "https://vgen.co/dangdidangdi",
+                "start": 0,
+                "url": "https://t.co/QD7g8gfyEh"
+              }
+            ]
+          }
+        },
+        "id": "1404413064967974922",
+        "location": "헤더: 두부조림님cm",
+        "name": "당디디 dangdidi",
+        "pinned_tweet_id": "1954177837692588254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699262229957525504/wg-xIX4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7340,
+          "following_count": 52,
+          "like_count": 8721,
+          "listed_count": 38,
+          "media_count": 110,
+          "tweet_count": 2473
+        },
+        "url": "https://t.co/QD7g8gfyEh",
+        "username": "dangdidangdi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2045046893261275451",
+    "created_at": "2026-04-17T13:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045135101923913799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045135101923913799",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045046893261275451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 神医啊豆包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1717,
+        "media_key": "3_2045046884226711552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGF3TltaQAA8E_T.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2045046893261275451",
+        "created_at": "2026-04-17T13:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045135101923913799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045135101923913799",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045046893261275451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 神医啊豆包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045046884226711552"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2045046893261275451",
+        "created_at": "2026-04-17T07:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045046893261275451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/scEALQJ3Y8",
+              "end": 31,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2045046893261275451/photo/1",
+              "media_key": "3_2045046884226711552",
+              "start": 8,
+              "url": "https://t.co/scEALQJ3Y8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045046893261275451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 31116,
+          "like_count": 157,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妙手回春啊豆包 https://t.co/scEALQJ3Y8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 1364,
+          "like_count": 25363,
+          "listed_count": 6,
+          "media_count": 518,
+          "tweet_count": 5719
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 484,
+          "like_count": 13310,
+          "listed_count": 5,
+          "media_count": 854,
+          "tweet_count": 4470
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

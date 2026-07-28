@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2074859066627932646",
+    "created_at": "2026-07-09T16:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075252865032216851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075252865032216851",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074859066627932646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui ai真笨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2074859064434278401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMthU3aawAENSUw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2074859066627932646",
+        "created_at": "2026-07-09T16:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075252865032216851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075252865032216851",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074859066627932646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui ai真笨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074859064434278401"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074859066627932646",
+        "created_at": "2026-07-08T14:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074859066627932646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUueQtj8wb",
+              "end": 36,
+              "expanded_url": "https://x.com/gdioiui/status/2074859066627932646/photo/1",
+              "media_key": "3_2074859064434278401",
+              "start": 13,
+              "url": "https://t.co/EUueQtj8wb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074859066627932646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12500,
+          "like_count": 329,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这就不懂了？ 还是笨ai https://t.co/EUueQtj8wb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4746,
+          "following_count": 1730,
+          "like_count": 30673,
+          "listed_count": 12,
+          "media_count": 2136,
+          "tweet_count": 9915
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 487,
+          "like_count": 4359,
+          "listed_count": 4,
+          "media_count": 1540,
+          "tweet_count": 8095
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

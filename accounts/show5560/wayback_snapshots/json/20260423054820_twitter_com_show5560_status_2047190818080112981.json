@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047145946346381656",
+    "created_at": "2026-04-23T05:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047190818080112981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948391508970762240",
+          "start": 0,
+          "username": "ohouhou717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047190818080112981",
+    "in_reply_to_user_id": "1948391508970762240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047145946346381656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohouhou717 借楼，回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047145946346381656",
+        "created_at": "2026-04-23T05:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047190818080112981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948391508970762240",
+              "start": 0,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047190818080112981",
+        "in_reply_to_user_id": "1948391508970762240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047145946346381656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohouhou717 借楼，回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948391508970762240",
+        "conversation_id": "2047145946346381656",
+        "created_at": "2026-04-23T02:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:49:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047145892902531327",
+          "2047145946346381656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ohouhou717/sta…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/ohouhou717/status/2046761197396250689",
+              "start": 74,
+              "url": "https://t.co/p1MnfqAIc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047145946346381656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3114,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 93,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046761197396250689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GMGM!\n\n今天是 #蓝v互关 第五天了，\n目前是3925兄弟们继续发力！\n\n评论区继续互关 没有回关上的，\n评论区留言。\n\n 一起加油冲冲冲！ https://t.co/p1MnfqAIc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 1600,
+          "like_count": 26210,
+          "listed_count": 7,
+          "media_count": 601,
+          "tweet_count": 6187
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T14:35:22.000Z",
+        "description": "Now！ \nYapping about crypto！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weilan69",
+                "end": 23,
+                "expanded_url": "https://t.me/weilan69",
+                "start": 0,
+                "url": "https://t.co/Cb7C0RUObx"
+              }
+            ]
+          }
+        },
+        "id": "1948391508970762240",
+        "name": "Weilan| 🤖ボッ Bird🕊️",
+        "pinned_tweet_id": "2046768436488143310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999801423761199104/dgwqRHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14221,
+          "following_count": 7993,
+          "like_count": 93399,
+          "listed_count": 62,
+          "media_count": 322,
+          "tweet_count": 93581
+        },
+        "url": "https://t.co/Cb7C0RUObx",
+        "username": "ohouhou717",
+        "verified": true
+      }
+    ]
+  }
+}

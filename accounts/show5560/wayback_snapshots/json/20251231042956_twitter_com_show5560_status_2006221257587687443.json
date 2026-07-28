@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005925165243236352"
+      ],
+      "media_source_tweet_id": [
+        "2005925206460604676"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2006221257587687443",
+    "created_at": "2025-12-31T04:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006221257587687443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1466617381711581186",
+          "start": 3,
+          "username": "chulixun1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/39tnlsE2HK",
+          "end": 38,
+          "expanded_url": "https://x.com/chulixun1/status/2005925206460604676/photo/1",
+          "media_key": "3_2005925165243236352",
+          "start": 15,
+          "url": "https://t.co/39tnlsE2HK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006221257587687443",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005925206460604676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @chulixun1: https://t.co/39tnlsE2HK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005925165243236352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Z6T1hXAAAxekp.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005925165243236352"
+          ],
+          "media_source_tweet_id": [
+            "2005925206460604676"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2006221257587687443",
+        "created_at": "2025-12-31T04:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006221257587687443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1466617381711581186",
+              "start": 3,
+              "username": "chulixun1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/39tnlsE2HK",
+              "end": 38,
+              "expanded_url": "https://x.com/chulixun1/status/2005925206460604676/photo/1",
+              "media_key": "3_2005925165243236352",
+              "start": 15,
+              "url": "https://t.co/39tnlsE2HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006221257587687443",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005925206460604676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @chulixun1: https://t.co/39tnlsE2HK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005925165243236352"
+          ]
+        },
+        "author_id": "1466617381711581186",
+        "conversation_id": "2005925206460604676",
+        "created_at": "2025-12-30T08:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T09:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005925206460604676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39tnlsE2HK",
+              "end": 23,
+              "expanded_url": "https://x.com/chulixun1/status/2005925206460604676/photo/1",
+              "media_key": "3_2005925165243236352",
+              "start": 0,
+              "url": "https://t.co/39tnlsE2HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005925206460604676",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 20139,
+          "like_count": 3007,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/39tnlsE2HK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1131,
+          "like_count": 22859,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5697
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-03T03:57:06.000Z",
+        "description": "フォロー非推奨 || 使用·転載·AI学習禁止",
+        "id": "1466617381711581186",
+        "name": "樗里浔",
+        "pinned_tweet_id": "1976130220055761143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673251024541216770/17jtTihy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24124,
+          "following_count": 28,
+          "like_count": 5850,
+          "listed_count": 50,
+          "media_count": 1426,
+          "tweet_count": 1841
+        },
+        "username": "chulixun1",
+        "verified": false
+      }
+    ]
+  }
+}

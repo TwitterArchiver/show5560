@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014735794121146371",
+        "3_2014735790149140480"
+      ],
+      "media_source_tweet_id": [
+        "2014735798093152320",
+        "2014735798093152320"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2016322008964034811",
+    "created_at": "2026-01-28T01:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T02:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016322008964034811"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 80,
+          "tag": "エンドフィールド"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "807537247197106176",
+          "start": 3,
+          "username": "Hoshino_Fox"
+        },
+        {
+          "end": 78,
+          "id": "1214879007709073409",
+          "start": 67,
+          "username": "An94_Bailu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/49sYr64PjJ",
+          "end": 113,
+          "expanded_url": "https://x.com/Hoshino_Fox/status/2014735798093152320/photo/1",
+          "media_key": "3_2014735794121146371",
+          "start": 90,
+          "url": "https://t.co/49sYr64PjJ"
+        },
+        {
+          "display_url": "pic.x.com/49sYr64PjJ",
+          "end": 113,
+          "expanded_url": "https://x.com/Hoshino_Fox/status/2014735798093152320/photo/1",
+          "media_key": "3_2014735790149140480",
+          "start": 90,
+          "url": "https://t.co/49sYr64PjJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016322008964034811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 385
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014735798093152320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoshino_Fox: 嗨，管理员，又见面啦，叫我伊冯就好，希望我们合作愉快\nアークナイツ：エンドフィールド/イヴォンヌ\n📸@An94_Bailu \n#エンドフィールド https://t.co/49sYr64PjJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014735794121146371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XHh7zbAAMHvvf.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014735790149140480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XHhtAbAAAhwjI.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014735794121146371",
+            "3_2014735790149140480"
+          ],
+          "media_source_tweet_id": [
+            "2014735798093152320",
+            "2014735798093152320"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2016322008964034811",
+        "created_at": "2026-01-28T01:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T02:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016322008964034811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 80,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "807537247197106176",
+              "start": 3,
+              "username": "Hoshino_Fox"
+            },
+            {
+              "end": 78,
+              "id": "1214879007709073409",
+              "start": 67,
+              "username": "An94_Bailu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/49sYr64PjJ",
+              "end": 113,
+              "expanded_url": "https://x.com/Hoshino_Fox/status/2014735798093152320/photo/1",
+              "media_key": "3_2014735794121146371",
+              "start": 90,
+              "url": "https://t.co/49sYr64PjJ"
+            },
+            {
+              "display_url": "pic.x.com/49sYr64PjJ",
+              "end": 113,
+              "expanded_url": "https://x.com/Hoshino_Fox/status/2014735798093152320/photo/1",
+              "media_key": "3_2014735790149140480",
+              "start": 90,
+              "url": "https://t.co/49sYr64PjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016322008964034811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 385
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014735798093152320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hoshino_Fox: 嗨，管理员，又见面啦，叫我伊冯就好，希望我们合作愉快\nアークナイツ：エンドフィールド/イヴォンヌ\n📸@An94_Bailu \n#エンドフィールド https://t.co/49sYr64PjJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014735794121146371",
+            "3_2014735790149140480"
+          ]
+        },
+        "author_id": "807537247197106176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2014735798093152320",
+        "created_at": "2026-01-23T16:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014735798093152320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 63,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 61,
+              "id": "1214879007709073409",
+              "start": 50,
+              "username": "An94_Bailu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/49sYr64PjJ",
+              "end": 96,
+              "expanded_url": "https://x.com/Hoshino_Fox/status/2014735798093152320/photo/1",
+              "media_key": "3_2014735794121146371",
+              "start": 73,
+              "url": "https://t.co/49sYr64PjJ"
+            },
+            {
+              "display_url": "pic.x.com/49sYr64PjJ",
+              "end": 96,
+              "expanded_url": "https://x.com/Hoshino_Fox/status/2014735798093152320/photo/1",
+              "media_key": "3_2014735790149140480",
+              "start": 73,
+              "url": "https://t.co/49sYr64PjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014735798093152320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 645,
+          "impression_count": 100186,
+          "like_count": 3805,
+          "quote_count": 3,
+          "reply_count": 60,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "嗨，管理员，又见面啦，叫我伊冯就好，希望我们合作愉快\nアークナイツ：エンドフィールド/イヴォンヌ\n📸@An94_Bailu \n#エンドフィールド https://t.co/49sYr64PjJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~想成为一个大魔法师---不想上班.......还债中.jpg 营业/🚪88",
+        "id": "1465701247021838341",
+        "name": "暮绒球の萌？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015505548163321857/npDbeMlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1119,
+          "like_count": 22920,
+          "listed_count": 4,
+          "media_count": 966,
+          "tweet_count": 5732
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-10T10:47:37.000Z",
+        "description": "特摄，动画，机甲和着ぐるみ喜爱者。角色绫波/自设/遥/闪燕/洛拉米亚，请多指教~欢迎同好扩列(￣ω￣)ノ",
+        "id": "807537247197106176",
+        "location": "深圳",
+        "name": "星野-( 'ω' ）",
+        "pinned_tweet_id": "1880608840250737048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544612692119367680/9wbv4lF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4593,
+          "following_count": 1510,
+          "like_count": 19041,
+          "listed_count": 41,
+          "media_count": 47,
+          "tweet_count": 3522
+        },
+        "username": "Hoshino_Fox",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-08T11:58:38.000Z",
+        "description": "我叫阿露，会一点点摄影📷，会变一点点娃🎭，很期待与你相遇！",
+        "id": "1214879007709073409",
+        "name": "白露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996948306518593538/D-tmAzIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12142,
+          "following_count": 1138,
+          "like_count": 4156,
+          "listed_count": 61,
+          "media_count": 147,
+          "tweet_count": 545
+        },
+        "username": "An94_Bailu",
+        "verified": false
+      }
+    ]
+  }
+}

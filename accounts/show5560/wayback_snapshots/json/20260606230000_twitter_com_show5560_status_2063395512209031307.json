@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062936747647115264"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2063395512209031307",
+    "created_at": "2026-06-06T23:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T00:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063395512209031307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jiBS5Vw5JL",
+          "end": 45,
+          "expanded_url": "https://x.com/show5560/status/2063395512209031307/photo/1",
+          "media_key": "3_2062936747647115264",
+          "start": 22,
+          "url": "https://t.co/jiBS5Vw5JL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063395512209031307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么要45岁以上的程序员？有什么说法吗🤔 https://t.co/jiBS5Vw5JL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2062936747647115264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEGCsWbIAARqQb.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062936747647115264"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2063395512209031307",
+        "created_at": "2026-06-06T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063395512209031307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiBS5Vw5JL",
+              "end": 45,
+              "expanded_url": "https://x.com/show5560/status/2063395512209031307/photo/1",
+              "media_key": "3_2062936747647115264",
+              "start": 22,
+              "url": "https://t.co/jiBS5Vw5JL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063395512209031307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要45岁以上的程序员？有什么说法吗🤔 https://t.co/jiBS5Vw5JL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2063267097191604722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4373,
+          "following_count": 1693,
+          "like_count": 28265,
+          "listed_count": 8,
+          "media_count": 1335,
+          "tweet_count": 7749
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

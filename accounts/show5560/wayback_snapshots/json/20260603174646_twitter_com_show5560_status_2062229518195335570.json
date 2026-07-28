@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2062218195378016493",
+    "created_at": "2026-06-03T17:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062229518195335570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918898482045480960",
+          "start": 0,
+          "username": "skdky_0xzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062229518195335570",
+    "in_reply_to_user_id": "1918898482045480960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062218195378016493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skdky_0xzero 回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2062218188159631360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ54hBqawAAcfds.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2062218195378016493",
+        "created_at": "2026-06-03T17:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062229518195335570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918898482045480960",
+              "start": 0,
+              "username": "skdky_0xzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062229518195335570",
+        "in_reply_to_user_id": "1918898482045480960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062218195378016493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skdky_0xzero 回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062218188159631360"
+          ]
+        },
+        "author_id": "1918898482045480960",
+        "conversation_id": "2062218195378016493",
+        "created_at": "2026-06-03T17:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062218195378016493"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQJQu5gMrF",
+              "end": 64,
+              "expanded_url": "https://x.com/skdky_0xzero/status/2062218195378016493/photo/1",
+              "media_key": "3_2062218188159631360",
+              "start": 41,
+              "url": "https://t.co/WQJQu5gMrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062218195378016493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#蓝V互关 如果连蓝V互关这么权威的关键词都没流量的话，这个号是不是可以重开了？ https://t.co/WQJQu5gMrF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4313,
+          "following_count": 1684,
+          "like_count": 28063,
+          "listed_count": 8,
+          "media_count": 1262,
+          "tweet_count": 7596
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-04T05:20:36.000Z",
+        "description": "“我们都是小韭菜，有一天会被强大的镰刀刀割死！”｜Infinite progress｜顶级游资｜华尔街之狼｜Crypto｜推文内容仅供参考 不构成投资建议｜交易号：@0xskdky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "0xskdky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/skdky333",
+                "end": 23,
+                "expanded_url": "https://t.me/skdky333",
+                "start": 0,
+                "url": "https://t.co/CvCNMzD7mz"
+              }
+            ]
+          }
+        },
+        "id": "1918898482045480960",
+        "location": "尼伯龙根",
+        "name": "社恐大烤鱼",
+        "pinned_tweet_id": "2059341984222048689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062132010068680704/9khju5eR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 855,
+          "like_count": 9298,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 4083
+        },
+        "url": "https://t.co/CvCNMzD7mz",
+        "username": "skdky_0xzero",
+        "verified": true
+      }
+    ]
+  }
+}

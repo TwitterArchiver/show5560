@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2072974973401211283",
+    "created_at": "2026-07-03T13:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073035902193168762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685499489493323776",
+          "start": 0,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073035902193168762",
+    "in_reply_to_user_id": "1685499489493323776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072974973401211283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuiMengNya 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_2072974965364908032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSvv3baYAAN1sg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2072974973401211283",
+        "created_at": "2026-07-03T13:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073035902193168762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073035902193168762",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072974973401211283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072974965364908032"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072974973401211283",
+        "created_at": "2026-07-03T09:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072974973401211283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETcFUUKqRY",
+              "end": 23,
+              "expanded_url": "https://x.com/GuiMengNya/status/2072974973401211283/photo/1",
+              "media_key": "3_2072974965364908032",
+              "start": 0,
+              "url": "https://t.co/ETcFUUKqRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072974973401211283",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 345,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ETcFUUKqRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4552,
+          "following_count": 1725,
+          "like_count": 30055,
+          "listed_count": 11,
+          "media_count": 1988,
+          "tweet_count": 9269
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10514,
+          "following_count": 691,
+          "like_count": 11506,
+          "listed_count": 29,
+          "media_count": 2435,
+          "tweet_count": 4828
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2058898338125320247",
+    "created_at": "2026-05-26T07:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059170791359689167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059170791359689167",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058898338125320247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunJiu 我去，那我就放心吃了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2058898331259293696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKtH69a0AAmW1_.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2058898338125320247",
+        "created_at": "2026-05-26T07:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059170791359689167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059170791359689167",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058898338125320247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu 我去，那我就放心吃了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058898331259293696"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2058898338125320247",
+        "created_at": "2026-05-25T13:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058898338125320247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ySKTvQn0m",
+              "end": 30,
+              "expanded_url": "https://x.com/YunJiu/status/2058898338125320247/photo/1",
+              "media_key": "3_2058898331259293696",
+              "start": 7,
+              "url": "https://t.co/1ySKTvQn0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058898338125320247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 49676,
+          "like_count": 620,
+          "quote_count": 1,
+          "reply_count": 114,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "。你不如不说 https://t.co/1ySKTvQn0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3986,
+          "following_count": 1691,
+          "like_count": 27808,
+          "listed_count": 7,
+          "media_count": 1125,
+          "tweet_count": 7335
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105066,
+          "following_count": 793,
+          "like_count": 36991,
+          "listed_count": 295,
+          "media_count": 18874,
+          "tweet_count": 27080
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

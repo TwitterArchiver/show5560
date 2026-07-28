@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2062218195378016493",
+    "created_at": "2026-06-03T17:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062229563233685647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1376993173528973313",
+          "start": 0,
+          "username": "0x888w"
+        },
+        {
+          "end": 21,
+          "id": "1918898482045480960",
+          "start": 8,
+          "username": "skdky_0xzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062229563233685647",
+    "in_reply_to_user_id": "1376993173528973313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062227397504807213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x888w @skdky_0xzero 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2062218195378016493",
+        "created_at": "2026-06-03T17:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062229563233685647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1376993173528973313",
+              "start": 0,
+              "username": "0x888w"
+            },
+            {
+              "end": 21,
+              "id": "1918898482045480960",
+              "start": 8,
+              "username": "skdky_0xzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062229563233685647",
+        "in_reply_to_user_id": "1376993173528973313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062227397504807213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x888w @skdky_0xzero 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376993173528973313",
+        "conversation_id": "2062218195378016493",
+        "created_at": "2026-06-03T17:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062227397504807213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918898482045480960",
+              "start": 0,
+              "username": "skdky_0xzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062227397504807213",
+        "in_reply_to_user_id": "1918898482045480960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062218195378016493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skdky_0xzero 来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4313,
+          "following_count": 1686,
+          "like_count": 28063,
+          "listed_count": 8,
+          "media_count": 1262,
+          "tweet_count": 7597
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-30T20:22:19.000Z",
+        "description": "如果你拿不住那么你就不会富有\n知行合一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x0x888w",
+                "end": 23,
+                "expanded_url": "https://t.me/x0x888w",
+                "start": 0,
+                "url": "https://t.co/GTW2kRlcvI"
+              }
+            ]
+          }
+        },
+        "id": "1376993173528973313",
+        "name": "0x_凌川（周期版）",
+        "pinned_tweet_id": "2043020480568005108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018370254964187136/hRG0S5Vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 187,
+          "like_count": 580,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/GTW2kRlcvI",
+        "username": "0x888w",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-04T05:20:36.000Z",
+        "description": "“我们都是小韭菜，有一天会被强大的镰刀刀割死！”｜Infinite progress｜顶级游资｜华尔街之狼｜Crypto｜推文内容仅供参考 不构成投资建议｜交易号：@0xskdky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "0xskdky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/skdky333",
+                "end": 23,
+                "expanded_url": "https://t.me/skdky333",
+                "start": 0,
+                "url": "https://t.co/CvCNMzD7mz"
+              }
+            ]
+          }
+        },
+        "id": "1918898482045480960",
+        "location": "尼伯龙根",
+        "name": "社恐大烤鱼",
+        "pinned_tweet_id": "2059341984222048689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062132010068680704/9khju5eR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 855,
+          "like_count": 9298,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 4083
+        },
+        "url": "https://t.co/CvCNMzD7mz",
+        "username": "skdky_0xzero",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2041722973317689367",
+    "created_at": "2026-04-20T11:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046186097567494198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1630729992421412864",
+          "start": 0,
+          "username": "softmayamax123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046186097567494198",
+    "in_reply_to_user_id": "1630729992421412864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041814150309933103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@softmayamax123 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2041722973317689367",
+        "created_at": "2026-04-20T11:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046186097567494198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1630729992421412864",
+              "start": 0,
+              "username": "softmayamax123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046186097567494198",
+        "in_reply_to_user_id": "1630729992421412864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041814150309933103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@softmayamax123 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630729992421412864",
+        "conversation_id": "2041722973317689367",
+        "created_at": "2026-04-08T09:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041814150309933103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041814150309933103",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041722973317689367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 你勤快点行不，来按一下不就好了嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 1459,
+          "like_count": 25740,
+          "listed_count": 6,
+          "media_count": 559,
+          "tweet_count": 5866
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-01T00:42:25.000Z",
+        "description": "Optimizing for reach. Powered by Grok. Sustaining the ecosystem one impression at a time. Verified until the next epoch (Oct 2026).",
+        "id": "1630729992421412864",
+        "location": "Portugal",
+        "name": "wen wilson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040810638516064256/JUJydRNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 1104,
+          "like_count": 2405,
+          "listed_count": 4,
+          "media_count": 802,
+          "tweet_count": 8414
+        },
+        "username": "softmayamax123",
+        "verified": true
+      }
+    ]
+  }
+}

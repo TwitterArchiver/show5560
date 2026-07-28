@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079910655503814656"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080201250046353580",
+    "created_at": "2026-07-23T08:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080201250046353580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JwOA9pLmff",
+          "end": 32,
+          "expanded_url": "https://x.com/show5560/status/2080201250046353580/photo/1",
+          "media_key": "3_2079910655503814656",
+          "start": 9,
+          "url": "https://t.co/JwOA9pLmff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080201250046353580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像一只发怒的狮子 https://t.co/JwOA9pLmff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 435,
+        "media_key": "3_2079910655503814656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1TuKna0AA8BnA.png",
+        "width": 335
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079910655503814656"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080201250046353580",
+        "created_at": "2026-07-23T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080201250046353580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwOA9pLmff",
+              "end": 32,
+              "expanded_url": "https://x.com/show5560/status/2080201250046353580/photo/1",
+              "media_key": "3_2079910655503814656",
+              "start": 9,
+              "url": "https://t.co/JwOA9pLmff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080201250046353580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像一只发怒的狮子 https://t.co/JwOA9pLmff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5212,
+          "following_count": 1739,
+          "like_count": 32089,
+          "listed_count": 13,
+          "media_count": 2472,
+          "tweet_count": 11418
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

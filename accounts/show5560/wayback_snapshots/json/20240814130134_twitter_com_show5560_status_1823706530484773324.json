@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823639386342543360"
+      ],
+      "media_source_tweet_id": [
+        "1823639389563724255"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1823706530484773324",
+    "created_at": "2024-08-14T13:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T14:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823706530484773324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821614513736781825",
+          "start": 3,
+          "username": "14ManGo1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vy0usz9dky",
+          "end": 44,
+          "expanded_url": "https://twitter.com/14ManGo1/status/1823639389563724255/photo/1",
+          "media_key": "3_1823639386342543360",
+          "start": 21,
+          "url": "https://t.co/VY0UsZ9dKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823706530484773324",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823639389563724255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14ManGo1: 久违的对比图 https://t.co/VY0UsZ9dKY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1823639386342543360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU7eXB1b0AA0odM.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823639386342543360"
+          ],
+          "media_source_tweet_id": [
+            "1823639389563724255"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1823706530484773324",
+        "created_at": "2024-08-14T13:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T14:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823706530484773324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821614513736781825",
+              "start": 3,
+              "username": "14ManGo1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vy0usz9dky",
+              "end": 44,
+              "expanded_url": "https://twitter.com/14ManGo1/status/1823639389563724255/photo/1",
+              "media_key": "3_1823639386342543360",
+              "start": 21,
+              "url": "https://t.co/VY0UsZ9dKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823706530484773324",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823639389563724255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14ManGo1: 久违的对比图 https://t.co/VY0UsZ9dKY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823639386342543360"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "1823639389563724255",
+        "created_at": "2024-08-14T08:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T09:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823639389563724255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vy0usz9dky",
+              "end": 30,
+              "expanded_url": "https://twitter.com/14ManGo1/status/1823639389563724255/photo/1",
+              "media_key": "3_1823639386342543360",
+              "start": 7,
+              "url": "https://t.co/VY0UsZ9dKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823639389563724255",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 6877,
+          "like_count": 434,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "久违的对比图 https://t.co/VY0UsZ9dKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△爆裂魔法师△",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮暮",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816155627271643139/cK8GDv8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1127,
+          "like_count": 23543,
+          "listed_count": 3,
+          "tweet_count": 5089
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木🏳️‍⚧️",
+        "pinned_tweet_id": "1581220939135479814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581942891970117632/5yQy-y4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28737,
+          "following_count": 85,
+          "like_count": 95,
+          "listed_count": 86,
+          "tweet_count": 246
+        },
+        "username": "14ManGo1",
+        "verified": false
+      }
+    ]
+  }
+}

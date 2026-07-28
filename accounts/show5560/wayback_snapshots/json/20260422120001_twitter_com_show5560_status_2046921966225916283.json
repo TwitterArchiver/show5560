@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046409628549103616",
+        "3_2046409654138437632"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046921966225916283",
+    "created_at": "2026-04-22T12:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046921966225916283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F68trq6LDk",
+          "end": 36,
+          "expanded_url": "https://x.com/show5560/status/2046921966225916283/photo/1",
+          "media_key": "3_2046409628549103616",
+          "start": 13,
+          "url": "https://t.co/F68trq6LDk"
+        },
+        {
+          "display_url": "pic.x.com/F68trq6LDk",
+          "end": 36,
+          "expanded_url": "https://x.com/show5560/status/2046921966225916283/photo/1",
+          "media_key": "3_2046409654138437632",
+          "start": 13,
+          "url": "https://t.co/F68trq6LDk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046921966225916283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来数学不好是一种病吗🤔 https://t.co/F68trq6LDk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_2046409628549103616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZOtv6bwAA1hCr.jpg",
+        "width": 819
+      },
+      {
+        "height": 772,
+        "media_key": "3_2046409654138437632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZOvPPaAAAfXt4.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046409628549103616",
+            "3_2046409654138437632"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046921966225916283",
+        "created_at": "2026-04-22T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046921966225916283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F68trq6LDk",
+              "end": 36,
+              "expanded_url": "https://x.com/show5560/status/2046921966225916283/photo/1",
+              "media_key": "3_2046409628549103616",
+              "start": 13,
+              "url": "https://t.co/F68trq6LDk"
+            },
+            {
+              "display_url": "pic.x.com/F68trq6LDk",
+              "end": 36,
+              "expanded_url": "https://x.com/show5560/status/2046921966225916283/photo/1",
+              "media_key": "3_2046409654138437632",
+              "start": 13,
+              "url": "https://t.co/F68trq6LDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046921966225916283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来数学不好是一种病吗🤔 https://t.co/F68trq6LDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 1573,
+          "like_count": 26113,
+          "listed_count": 7,
+          "media_count": 593,
+          "tweet_count": 6119
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

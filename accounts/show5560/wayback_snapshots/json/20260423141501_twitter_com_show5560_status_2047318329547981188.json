@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047279585079816586",
+    "created_at": "2026-04-23T14:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047318329547981188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1590010383422701568",
+          "start": 0,
+          "username": "MaaMicro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047318329547981188",
+    "in_reply_to_user_id": "1590010383422701568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047279585079816586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaaMicro 穷困潦倒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047279585079816586",
+        "created_at": "2026-04-23T14:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047318329547981188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590010383422701568",
+              "start": 0,
+              "username": "MaaMicro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047318329547981188",
+        "in_reply_to_user_id": "1590010383422701568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047279585079816586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaaMicro 穷困潦倒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590010383422701568",
+        "conversation_id": "2047279585079816586",
+        "created_at": "2026-04-23T11:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047279585079816586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047279585079816586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4421,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 113,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用最少的字，形容一下你的现状"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 1636,
+          "like_count": 26359,
+          "listed_count": 7,
+          "media_count": 610,
+          "tweet_count": 6288
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T15:56:43.000Z",
+        "description": "生活、杂谈、八卦、经济、偶尔政治、历史、Ai （生活在波兰）",
+        "id": "1590010383422701568",
+        "location": "Warszawa, Polska",
+        "name": "Bella. Chen",
+        "pinned_tweet_id": "2043274626147450910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639932379794927616/rvxCk36p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3730,
+          "following_count": 2605,
+          "like_count": 21340,
+          "listed_count": 8,
+          "media_count": 612,
+          "tweet_count": 18444
+        },
+        "username": "MaaMicro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2066806292560441441",
+    "created_at": "2026-06-16T09:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066810938788122764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "750319280072249345",
+          "start": 0,
+          "username": "Web3_Keke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066810938788122764",
+    "in_reply_to_user_id": "750319280072249345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066806292560441441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Web3_Keke 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2066806292560441441",
+        "created_at": "2026-06-16T09:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066810938788122764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "750319280072249345",
+              "start": 0,
+              "username": "Web3_Keke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066810938788122764",
+        "in_reply_to_user_id": "750319280072249345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066806292560441441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Web3_Keke 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "750319280072249345",
+        "conversation_id": "2066806292560441441",
+        "created_at": "2026-06-16T08:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066806292560441441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066806292560441441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中文区蓝V没新面孔了吗？ \n\n蓝V互关就这么快熄火了吗？\n\n#蓝v互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡接线下喵 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 1700,
+          "like_count": 28673,
+          "listed_count": 8,
+          "media_count": 1535,
+          "tweet_count": 8054
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-05T13:23:51.000Z",
+        "description": "",
+        "id": "750319280072249345",
+        "name": "Web3_可可",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800637184942080/kJBPK6-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 183,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 191
+        },
+        "username": "Web3_Keke",
+        "verified": true
+      }
+    ]
+  }
+}

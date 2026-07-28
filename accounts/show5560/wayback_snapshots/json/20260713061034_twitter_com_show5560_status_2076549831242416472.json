@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2076320679948157176",
+    "created_at": "2026-07-13T06:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076549831242416472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1263462990713667585",
+          "start": 0,
+          "username": "AHHAVICCD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076549831242416472",
+    "in_reply_to_user_id": "1263462990713667585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076531582647816608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AHHAVICCD 是的捏，超可爱😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2076320679948157176",
+        "created_at": "2026-07-13T06:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076549831242416472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1263462990713667585",
+              "start": 0,
+              "username": "AHHAVICCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076549831242416472",
+        "in_reply_to_user_id": "1263462990713667585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076531582647816608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AHHAVICCD 是的捏，超可爱😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263462990713667585",
+        "conversation_id": "2076320679948157176",
+        "created_at": "2026-07-13T04:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076531582647816608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076531582647816608",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076320679948157176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 至少古拉是可爱的🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 1734,
+          "like_count": 31002,
+          "listed_count": 12,
+          "media_count": 2225,
+          "tweet_count": 10270
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-21T13:33:52.000Z",
+        "description": "168xnn/欢迎漂亮宝宝同好扩列互fo线下贴贴/喜欢捆捆/m\n不可评论的推文请自行分辨真实性！",
+        "id": "1263462990713667585",
+        "location": "Chengdu🚪50",
+        "name": "不安安娜",
+        "pinned_tweet_id": "2069416352235061592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061839156922433537/z6N_Nhf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9923,
+          "following_count": 1811,
+          "like_count": 124,
+          "listed_count": 50,
+          "media_count": 76,
+          "tweet_count": 1055
+        },
+        "url": "",
+        "username": "AHHAVICCD",
+        "verified": false
+      }
+    ]
+  }
+}

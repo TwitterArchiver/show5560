@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067274161890934784"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2067274165405806996",
+    "created_at": "2026-06-17T15:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067274165405806996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TprGomyKS0",
+          "end": 31,
+          "expanded_url": "https://x.com/show5560/status/2067274165405806996/photo/1",
+          "media_key": "3_2067274161890934784",
+          "start": 8,
+          "url": "https://t.co/TprGomyKS0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067274165405806996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫儿这个惨哦~ https://t.co/TprGomyKS0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2067274161890934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBu5bjaQAArKIR.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067274161890934784"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2067274165405806996",
+        "created_at": "2026-06-17T15:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067274165405806996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TprGomyKS0",
+              "end": 31,
+              "expanded_url": "https://x.com/show5560/status/2067274165405806996/photo/1",
+              "media_key": "3_2067274161890934784",
+              "start": 8,
+              "url": "https://t.co/TprGomyKS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067274165405806996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫儿这个惨哦~ https://t.co/TprGomyKS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 1700,
+          "like_count": 28799,
+          "listed_count": 9,
+          "media_count": 1572,
+          "tweet_count": 8132
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

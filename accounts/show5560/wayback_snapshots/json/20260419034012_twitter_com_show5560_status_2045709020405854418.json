@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2045567801612784085",
+    "created_at": "2026-04-19T03:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T04:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045709020405854418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045709020405854418",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045567801612784085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@maoxian1527 有些帖子给了，有些没给）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2045567801612784085",
+        "created_at": "2026-04-19T03:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045709020405854418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045709020405854418",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045567801612784085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxian1527 有些帖子给了，有些没给）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929416262989557760",
+        "conversation_id": "2045567801612784085",
+        "created_at": "2026-04-18T18:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045567801612784085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045567801612784085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1356,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "premium真的给推流了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 1405,
+          "like_count": 25466,
+          "listed_count": 7,
+          "media_count": 534,
+          "tweet_count": 5765
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 看心情互fo | 防走丢@maoxiansql | 对象@meph4786 | 诡秘@zqtlovekris99 | https://t.co/YH60jMfgxm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "meph4786"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "zqtlovekris99"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 133,
+                "expanded_url": "https://www.tz86.vip/#/register?code=x4VsZAeR",
+                "start": 110,
+                "url": "https://t.co/YH60jMfgxm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "29CNY千年vpn喵↑",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2041434241335230626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 267,
+          "like_count": 3770,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": true
+      }
+    ]
+  }
+}

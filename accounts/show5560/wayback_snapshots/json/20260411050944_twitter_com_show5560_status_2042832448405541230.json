@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2039998354659410367",
+    "created_at": "2026-04-11T05:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042832448405541230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999327461549703169",
+          "start": 0,
+          "username": "QiuTingzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042832448405541230",
+    "in_reply_to_user_id": "1999327461549703169",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039998354659410367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuTingzhi 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2039998354659410367",
+        "created_at": "2026-04-11T05:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042832448405541230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999327461549703169",
+              "start": 0,
+              "username": "QiuTingzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042832448405541230",
+        "in_reply_to_user_id": "1999327461549703169",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039998354659410367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuTingzhi 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999327461549703169",
+        "conversation_id": "2039998354659410367",
+        "created_at": "2026-04-03T09:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039998354659410367"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "蓝v"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039998354659410367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1866,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多了一个粉都很开心🥳\n👋让我们一起做大做强吧（互fo）#蓝v #互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ #蓝v互关 喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "蓝v互关"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 1200,
+          "like_count": 24825,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 5524
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-12T03:56:40.000Z",
+        "description": "Web3+AI，正在学习中；\n爱徒步、健身；\n一直秉持着待人以诚的态度跟各位相处。",
+        "id": "1999327461549703169",
+        "name": "Qiu🎈",
+        "pinned_tweet_id": "2039998354659410367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069268554010624/2AoxQ5mV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 970,
+          "like_count": 1650,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 924
+        },
+        "username": "QiuTingzhi",
+        "verified": true
+      }
+    ]
+  }
+}

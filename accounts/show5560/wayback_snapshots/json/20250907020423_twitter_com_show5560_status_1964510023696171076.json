@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964510020588228614"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1964510023696171076",
+    "created_at": "2025-09-07T02:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T03:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964510023696171076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2eIqLUexd5",
+          "end": 118,
+          "expanded_url": "https://x.com/show5560/status/1964510023696171076/photo/1",
+          "media_key": "3_1964510020588228614",
+          "start": 95,
+          "url": "https://t.co/2eIqLUexd5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964510023696171076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "双休和单休的区别真的很大......单休是一个星期上6天班休一天，双休就很有来头了，上2.5天班休一天，所以是休两天，所以啊，单休会更累，双休就会很舒服，感觉时间很多，过得很快，羡慕死我了 https://t.co/2eIqLUexd5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_1964510020588228614",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0NXdI7bUAY33Z3.jpg",
+        "width": 569
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964510020588228614"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1964510023696171076",
+        "created_at": "2025-09-07T02:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T03:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964510023696171076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2eIqLUexd5",
+              "end": 118,
+              "expanded_url": "https://x.com/show5560/status/1964510023696171076/photo/1",
+              "media_key": "3_1964510020588228614",
+              "start": 95,
+              "url": "https://t.co/2eIqLUexd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964510023696171076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双休和单休的区别真的很大......单休是一个星期上6天班休一天，双休就很有来头了，上2.5天班休一天，所以是休两天，所以啊，单休会更累，双休就会很舒服，感觉时间很多，过得很快，羡慕死我了 https://t.co/2eIqLUexd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班.......  ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "减肥中の酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1155,
+          "like_count": 23246,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 5702
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

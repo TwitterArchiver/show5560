@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2072772296272642150",
+    "created_at": "2026-07-03T12:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073018095703306633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060032916189773824",
+          "start": 0,
+          "username": "WuCanObject"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073018095703306633",
+    "in_reply_to_user_id": "2060032916189773824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072921203636060558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WuCanObject 原来是这样）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2072772296272642150",
+        "created_at": "2026-07-03T12:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073018095703306633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060032916189773824",
+              "start": 0,
+              "username": "WuCanObject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073018095703306633",
+        "in_reply_to_user_id": "2060032916189773824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072921203636060558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WuCanObject 原来是这样）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060032916189773824",
+        "conversation_id": "2072772296272642150",
+        "created_at": "2026-07-03T05:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072921203636060558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072921203636060558",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072772296272642150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 其实“儿子”是名称（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 1719,
+          "like_count": 30024,
+          "listed_count": 11,
+          "media_count": 1987,
+          "tweet_count": 9237
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-28T16:18:44.000Z",
+        "description": "互联网流浪中 男生 快成年了～\n你对我好，我会偷偷开心很久！\n我不太会说话\n但我可以陪你，只要你不嫌我烦…TWT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/1aQOKqN89K"
+              }
+            ]
+          }
+        },
+        "id": "2060032916189773824",
+        "location": "初次见面之时",
+        "name": "残物",
+        "pinned_tweet_id": "2060755471846527321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068370798197542912/sc9ToXJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 579,
+          "like_count": 3828,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/1aQOKqN89K",
+        "username": "WuCanObject",
+        "verified": true
+      }
+    ]
+  }
+}

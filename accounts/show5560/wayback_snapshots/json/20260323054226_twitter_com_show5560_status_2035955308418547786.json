@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2035669451132272844",
+    "created_at": "2026-03-23T05:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035955308418547786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "278515972",
+          "start": 0,
+          "username": "youcanbemyfrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035955308418547786",
+    "in_reply_to_user_id": "278515972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035885157975241056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youcanbemyfrd 可以（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2035669451132272844",
+        "created_at": "2026-03-23T05:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035955308418547786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "278515972",
+              "start": 0,
+              "username": "youcanbemyfrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035955308418547786",
+        "in_reply_to_user_id": "278515972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035885157975241056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youcanbemyfrd 可以（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "278515972",
+        "conversation_id": "2035669451132272844",
+        "created_at": "2026-03-23T01:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035885157975241056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035885157975241056",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035669451132272844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 领回来的话，可以陪我打卡拉比丘吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 🚪50 接线下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 1174,
+          "like_count": 24206,
+          "listed_count": 5,
+          "media_count": 952,
+          "tweet_count": 5928
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-07T12:41:21.000Z",
+        "description": "I AM ELLIOT AFFUM.I AM VERY CARING N LOVING.I AM LOOKING FOR A CUTE LADY TO SHARE MY LOVE WITH.YOU CAN CALL ME ON 0245769399 OR +233245769399 THANK U.",
+        "id": "278515972",
+        "location": "GHANA",
+        "name": "ELLIOT AFFUM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019904966077689856/Best_G-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 67,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 129
+        },
+        "username": "youcanbemyfrd",
+        "verified": false
+      }
+    ]
+  }
+}

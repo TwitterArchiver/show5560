@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2059255277472584086",
+    "created_at": "2026-05-27T07:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059541932741935241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059541932741935241",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059255277472584086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_2059255261446152192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPxv_haIAAwhFi.jpg",
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2059255277472584086",
+        "created_at": "2026-05-27T07:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059541932741935241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059541932741935241",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059255277472584086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059255261446152192"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059255277472584086",
+        "created_at": "2026-05-26T12:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059255277472584086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkPyuMLRLj",
+              "end": 74,
+              "expanded_url": "https://x.com/tangeorange/status/2059255277472584086/photo/1",
+              "media_key": "3_2059255261446152192",
+              "start": 51,
+              "url": "https://t.co/CkPyuMLRLj"
+            },
+            {
+              "display_url": "x.com/w99566338/stat…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/w99566338/status/2059239336046924016",
+              "start": 75,
+              "url": "https://t.co/OQqgyfEljt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059255277472584086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3770,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059239336046924016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇哦，看起来有些人对我的年龄问题提出了质疑，请问您是要看 2025 年过期的身份证还是刚办的身份证？ https://t.co/CkPyuMLRLj https://t.co/OQqgyfEljt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4004,
+          "following_count": 1692,
+          "like_count": 27845,
+          "listed_count": 7,
+          "media_count": 1140,
+          "tweet_count": 7381
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 y.o.\n尝试不死 | \nbff @maoxian1527 @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "tangeror"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056276486991368192/tMDwIk9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2990,
+          "following_count": 2749,
+          "like_count": 8574,
+          "listed_count": 4,
+          "media_count": 1178,
+          "tweet_count": 8123
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

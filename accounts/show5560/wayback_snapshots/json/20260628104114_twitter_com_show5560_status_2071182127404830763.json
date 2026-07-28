@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2071021044891283864",
+    "created_at": "2026-06-28T10:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071182127404830763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774477637534281728",
+          "start": 0,
+          "username": "GeimoGeimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071182127404830763",
+    "in_reply_to_user_id": "1774477637534281728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071021044891283864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeimoGeimo 好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070895897828110336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1M2NTbsAAcZTD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2071021044891283864",
+        "created_at": "2026-06-28T10:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071182127404830763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774477637534281728",
+              "start": 0,
+              "username": "GeimoGeimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071182127404830763",
+        "in_reply_to_user_id": "1774477637534281728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071021044891283864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeimoGeimo 好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070895897828110336"
+          ]
+        },
+        "author_id": "1774477637534281728",
+        "conversation_id": "2071021044891283864",
+        "created_at": "2026-06-28T00:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071021044891283864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAIPZY3gPO",
+              "end": 69,
+              "expanded_url": "https://x.com/GeimoGeimo/status/2071021044891283864/photo/1",
+              "media_key": "3_2070895897828110336",
+              "start": 46,
+              "url": "https://t.co/nAIPZY3gPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071021044891283864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7004,
+          "like_count": 290,
+          "quote_count": 3,
+          "reply_count": 50,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "23岁，无老婆，无儿无女，无指导无经费无token，文献看不懂，一个人在出租屋发呆出cos https://t.co/nAIPZY3gPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 1715,
+          "like_count": 29549,
+          "listed_count": 11,
+          "media_count": 1869,
+          "tweet_count": 8798
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T16:43:52.000Z",
+        "description": "♂/臭打游戏的，随缘更新照片/偶尔发画/⚠️未经许可请不要搬运转载国内平台⚠️/信箱链接https://t.co/4ENHs7LoWv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h0risans",
+                "end": 67,
+                "expanded_url": "https://ngl.link/h0risans",
+                "start": 44,
+                "url": "https://t.co/4ENHs7LoWv"
+              }
+            ]
+          }
+        },
+        "id": "1774477637534281728",
+        "location": "在东百读研",
+        "name": "Geimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051922816778616832/tHZsXEtr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4962,
+          "following_count": 514,
+          "like_count": 16134,
+          "listed_count": 18,
+          "media_count": 55,
+          "tweet_count": 3335
+        },
+        "url": "",
+        "username": "GeimoGeimo",
+        "verified": false
+      }
+    ]
+  }
+}

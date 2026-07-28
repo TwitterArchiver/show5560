@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069163954128199680"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2069284316014587980",
+    "created_at": "2026-06-23T05:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069284316014587980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JOniXMgceS",
+          "end": 38,
+          "expanded_url": "https://x.com/show5560/status/2069284316014587980/photo/1",
+          "media_key": "3_2069163954128199680",
+          "start": 15,
+          "url": "https://t.co/JOniXMgceS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069284316014587980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道的还以为是强迫人家叫的 https://t.co/JOniXMgceS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_2069163954128199680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLclp0PaoAAmNhL.png",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069163954128199680"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2069284316014587980",
+        "created_at": "2026-06-23T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069284316014587980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOniXMgceS",
+              "end": 38,
+              "expanded_url": "https://x.com/show5560/status/2069284316014587980/photo/1",
+              "media_key": "3_2069163954128199680",
+              "start": 15,
+              "url": "https://t.co/JOniXMgceS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069284316014587980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道的还以为是强迫人家叫的 https://t.co/JOniXMgceS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2068669002805903399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4418,
+          "following_count": 1692,
+          "like_count": 29086,
+          "listed_count": 9,
+          "media_count": 1739,
+          "tweet_count": 8375
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

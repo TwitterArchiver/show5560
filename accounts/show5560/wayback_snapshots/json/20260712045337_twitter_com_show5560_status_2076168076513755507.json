@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2075822397786104290",
+    "created_at": "2026-07-12T04:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076168076513755507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1607383098261397505",
+          "start": 0,
+          "username": "tlomlN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076168076513755507",
+    "in_reply_to_user_id": "1607383098261397505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076166918004953140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tlomlN 烤鸭好吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075822397786104290",
+        "created_at": "2026-07-12T04:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076168076513755507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1607383098261397505",
+              "start": 0,
+              "username": "tlomlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076168076513755507",
+        "in_reply_to_user_id": "1607383098261397505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076166918004953140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tlomlN 烤鸭好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607383098261397505",
+        "conversation_id": "2075822397786104290",
+        "created_at": "2026-07-12T04:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076166918004953140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076166918004953140",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075822397786104290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 求鸭子的心里阴影面积"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 1735,
+          "like_count": 30936,
+          "listed_count": 12,
+          "media_count": 2199,
+          "tweet_count": 10198
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-26T14:29:51.000Z",
+        "description": "中推最平易近人最和蔼之人\nCrypto+美股玩家/web3+AI 实践者/长期主义者/互动多的我会回关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tlomlN",
+                "end": 23,
+                "expanded_url": "https://t.me/tlomlN",
+                "start": 0,
+                "url": "https://t.co/wOvXy33Nla"
+              }
+            ]
+          }
+        },
+        "id": "1607383098261397505",
+        "location": " Hong Kong",
+        "name": "魏启",
+        "pinned_tweet_id": "2069618189001199832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075995429641265152/Qg0Li4cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 681,
+          "like_count": 739,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/wOvXy33Nla",
+        "username": "tlomlN",
+        "verified": true
+      }
+    ]
+  }
+}

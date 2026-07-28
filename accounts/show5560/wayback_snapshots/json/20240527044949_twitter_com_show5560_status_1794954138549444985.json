@@ -1,0 +1,153 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794954129238048768"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1794954138549444985",
+    "created_at": "2024-05-27T04:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T05:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794954138549444985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4oxtE1wFCz",
+          "end": 28,
+          "expanded_url": "https://twitter.com/show5560/status/1794954138549444985/photo/1",
+          "media_key": "3_1794954129238048768",
+          "start": 5,
+          "url": "https://t.co/4oxtE1wFCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794954138549444985",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太抽象了 https://t.co/4oxtE1wFCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1794954129238048768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOj1RT1awAAOBMi.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794954129238048768"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1794954138549444985",
+        "created_at": "2024-05-27T04:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T05:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794954138549444985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4oxtE1wFCz",
+              "end": 28,
+              "expanded_url": "https://twitter.com/show5560/status/1794954138549444985/photo/1",
+              "media_key": "3_1794954129238048768",
+              "start": 5,
+              "url": "https://t.co/4oxtE1wFCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794954138549444985",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太抽象了 https://t.co/4oxtE1wFCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△ 电子猫咪 △想当魔法师的mtx△慢慢变得好看△想要一直放松开心下去△ 当前形态-猫咪正太 ◁开始了发癫日常△  长时间穷 △  🚪 50",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮はい電子猫ちゃん",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794786472517877761/qvmfPoe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 1119,
+          "like_count": 23674,
+          "listed_count": 3,
+          "tweet_count": 4957
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

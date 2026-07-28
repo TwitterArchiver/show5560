@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2081573630337753137",
+    "created_at": "2026-07-27T14:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081746497373425853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081746497373425853",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081573630337753137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 你好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "豆包老师出品。",
+        "height": 3948,
+        "media_key": "3_2081573618354737152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOM8LV_b0AA3Vga.jpg",
+        "width": 2313
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2081573630337753137",
+        "created_at": "2026-07-27T14:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081746497373425853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081746497373425853",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081573630337753137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 你好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081573618354737152"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2081573630337753137",
+        "created_at": "2026-07-27T02:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081573630337753137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuYToKv8f5",
+              "end": 31,
+              "expanded_url": "https://x.com/IXXA00/status/2081573630337753137/photo/1",
+              "media_key": "3_2081573618354737152",
+              "start": 8,
+              "url": "https://t.co/JuYToKv8f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081573630337753137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1213,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鉴定为：串子。 https://t.co/JuYToKv8f5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5333,
+          "following_count": 1734,
+          "like_count": 32694,
+          "listed_count": 14,
+          "media_count": 2577,
+          "tweet_count": 11966
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "本质上是个16～24岁的小女孩",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2079584347494211710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7521,
+          "following_count": 4537,
+          "like_count": 43536,
+          "listed_count": 18,
+          "media_count": 3201,
+          "tweet_count": 43122
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

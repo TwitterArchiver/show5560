@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2055306395940237805",
+    "created_at": "2026-05-15T19:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055365701670731821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055365701670731821",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055306395940237805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen 我感觉我过气了，5.1那几天流量爆了之后，被严重限流了（悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2055306395940237805",
+        "created_at": "2026-05-15T19:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055365701670731821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055365701670731821",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055306395940237805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 我感觉我过气了，5.1那几天流量爆了之后，被严重限流了（悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1641907215316533248",
+              "name": "The Algorithm"
+            }
+          }
+        ],
+        "conversation_id": "2055306395940237805",
+        "created_at": "2026-05-15T15:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055306395940237805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LinusEkenstam/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/LinusEkenstam/status/2055171998997750133",
+              "start": 168,
+              "url": "https://t.co/enLdRG1Lrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055306395940237805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "環状線 5 月 4 日 0 时 14 分发了一条推文，等一觉醒来的时候（大概六七点钟），那条推文的查看量竟然超过了 100K ！\n\n至今那条推文已有 927K 次查看，5 月 4 日也成为環状線第一次单日查看量突破 1M 的一天。\n\n但是从约 5 月 7 日开始，環状線的被严重限流，查看量在 24h 内能达 10K 的都屈指可数 。\n\n不过，環状線并不觉得这有什么，也没有非常焦虑。X 算法就是这样，它不会令你一直爆火下去。一是为了给其他创作者留出空间，二是让你冷静下来，得以在这个平台上继续耕耘，并为下一次爆火做准备——所谓「厚积薄发」大概就是如此吧。\n\n但是，Linus Ekenstam 所描述的情况确实很极端，X 算法在其中负有不可推脱的责任，在这一点上 X 算法确实有待改进。\n\n（環状線你真的没有焦虑吗？那天天在 Discord 上一会抱怨「環状線流量好低！」一会又绝望地说「環状線已经过气啦！」的人又是谁呢？（逃））"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1155,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055171998997750133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "環状線 5 月 4 日 0 时 14 分发了一条推文，等一觉醒来的时候（大概六七点钟），那条推文的查看量竟然超过了 100K ！\n\n至今那条推文已有 927K 次查看，5 月 4 日也成为環状線第一次单日查看量突破 1M 的一天。\n\n但是从约 5 月 7 日开始，環状線的被严重限流，查看量在 24h 内能达 10K 的都屈指可数 。 https://t.co/enLdRG1Lrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3943,
+          "following_count": 1689,
+          "like_count": 27528,
+          "listed_count": 7,
+          "media_count": 987,
+          "tweet_count": 7021
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304,
+          "following_count": 826,
+          "like_count": 20015,
+          "listed_count": 8,
+          "media_count": 1068,
+          "tweet_count": 5958
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

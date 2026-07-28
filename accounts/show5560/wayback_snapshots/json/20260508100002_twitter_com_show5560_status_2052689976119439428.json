@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052284832911355904"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052689976119439428",
+    "created_at": "2026-05-08T10:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052689976119439428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8EwZlJCu9D",
+          "end": 29,
+          "expanded_url": "https://x.com/show5560/status/2052689976119439428/photo/1",
+          "media_key": "3_2052284832911355904",
+          "start": 6,
+          "url": "https://t.co/8EwZlJCu9D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052689976119439428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烤肉公式😋 https://t.co/8EwZlJCu9D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2052284832911355904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsuLpuacAA9mGm.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052284832911355904"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052689976119439428",
+        "created_at": "2026-05-08T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052689976119439428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EwZlJCu9D",
+              "end": 29,
+              "expanded_url": "https://x.com/show5560/status/2052689976119439428/photo/1",
+              "media_key": "3_2052284832911355904",
+              "start": 6,
+              "url": "https://t.co/8EwZlJCu9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052689976119439428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烤肉公式😋 https://t.co/8EwZlJCu9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 1684,
+          "like_count": 27377,
+          "listed_count": 7,
+          "media_count": 852,
+          "tweet_count": 6858
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

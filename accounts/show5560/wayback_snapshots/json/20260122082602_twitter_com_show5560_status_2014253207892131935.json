@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014253205090074624"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2014253207892131935",
+    "created_at": "2026-01-22T08:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T09:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014253207892131935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UQLbSHMTlt",
+          "end": 36,
+          "expanded_url": "https://x.com/show5560/status/2014253207892131935/photo/1",
+          "media_key": "3_2014253205090074624",
+          "start": 13,
+          "url": "https://t.co/UQLbSHMTlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014253207892131935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "准备站街了，有没有人要哇 https://t.co/UQLbSHMTlt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2014253205090074624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QQnjkWAAAdEhq.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014253205090074624"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2014253207892131935",
+        "created_at": "2026-01-22T08:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014253207892131935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQLbSHMTlt",
+              "end": 36,
+              "expanded_url": "https://x.com/show5560/status/2014253207892131935/photo/1",
+              "media_key": "3_2014253205090074624",
+              "start": 13,
+              "url": "https://t.co/UQLbSHMTlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014253207892131935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备站街了，有没有人要哇 https://t.co/UQLbSHMTlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg",
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014240203700109312/7Ytj8klm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1119,
+          "like_count": 22859,
+          "listed_count": 4,
+          "media_count": 964,
+          "tweet_count": 5713
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047628950676087224",
+    "created_at": "2026-04-24T11:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047639395365454282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768935696646238208",
+          "start": 0,
+          "username": "PsycheRabbiiOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047639395365454282",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047628950676087224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsycheRabbiiOwO 毕竟王者）低年龄段比较多，然后哪吒热度也高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2047628918124101632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqjpviawAAiaEO.jpg",
+        "width": 1179
+      },
+      {
+        "height": 695,
+        "media_key": "3_2047628918040248320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqjpvObQAAcIGz.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047628950676087224",
+        "created_at": "2026-04-24T11:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047639395365454282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047639395365454282",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047628950676087224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 毕竟王者）低年龄段比较多，然后哪吒热度也高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047628918124101632",
+            "3_2047628918040248320"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047628950676087224",
+        "created_at": "2026-04-24T10:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047628950676087224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0l4G68sWf",
+              "end": 50,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2047628950676087224/photo/1",
+              "media_key": "3_2047628918124101632",
+              "start": 27,
+              "url": "https://t.co/R0l4G68sWf"
+            },
+            {
+              "display_url": "pic.x.com/R0l4G68sWf",
+              "end": 50,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2047628950676087224/photo/1",
+              "media_key": "3_2047628918040248320",
+              "start": 27,
+              "url": "https://t.co/R0l4G68sWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047628950676087224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内联动哪吒，墙外联动巨人\n这就是。。。。。\n😂😂😂 https://t.co/R0l4G68sWf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3000,
+          "following_count": 1650,
+          "like_count": 26506,
+          "listed_count": 7,
+          "media_count": 624,
+          "tweet_count": 6357
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/暂无精神疾病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "凌月月qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 1340,
+          "like_count": 9813,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068343462928543745"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2068343465386381457",
+    "created_at": "2026-06-20T14:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068343465386381457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0UXLLcgnOH",
+          "end": 33,
+          "expanded_url": "https://x.com/show5560/status/2068343465386381457/photo/1",
+          "media_key": "3_2068343462928543745",
+          "start": 10,
+          "url": "https://t.co/0UXLLcgnOH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068343465386381457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个宿舍，4个神人 https://t.co/0UXLLcgnOH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_2068343462928543745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ7a8VbcAEZye8.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068343462928543745"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2068343465386381457",
+        "created_at": "2026-06-20T14:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068343465386381457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0UXLLcgnOH",
+              "end": 33,
+              "expanded_url": "https://x.com/show5560/status/2068343465386381457/photo/1",
+              "media_key": "3_2068343462928543745",
+              "start": 10,
+              "url": "https://t.co/0UXLLcgnOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068343465386381457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个宿舍，4个神人 https://t.co/0UXLLcgnOH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4422,
+          "following_count": 1700,
+          "like_count": 29003,
+          "listed_count": 9,
+          "media_count": 1668,
+          "tweet_count": 8292
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

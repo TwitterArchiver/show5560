@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2071413348294410280",
+    "created_at": "2026-06-29T09:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071525967517139357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928063239319080961",
+          "start": 0,
+          "username": "AlexChan258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071525967517139357",
+    "in_reply_to_user_id": "1928063239319080961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071429870157263068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexChan258 出bug了还没有修复）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2071429870157263068].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071429870157263068",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2071429870157263068"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2071413348294410280",
+        "created_at": "2026-06-29T09:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071525967517139357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928063239319080961",
+              "start": 0,
+              "username": "AlexChan258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071525967517139357",
+        "in_reply_to_user_id": "1928063239319080961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071429870157263068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexChan258 出bug了还没有修复）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4478,
+          "following_count": 1717,
+          "like_count": 29570,
+          "listed_count": 11,
+          "media_count": 1892,
+          "tweet_count": 8835
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T12:18:05.000Z",
+        "description": "并不会说芬兰语的猫娘/目前账号主营：键政（温和建制支持者，理论水平不高求放过），梗图，日常，老印tv/爱好：游戏（HOI4，舰R/B，僚机计划，EasyRed2，赛博朋克2077），绘画（真的很烂）/中间派，尽力和不同政治光谱的人和平相处，支黑和分离主义者除外/可私信互fo/后备隐藏能源：@AlexChancd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 145,
+                "username": "AlexChancd"
+              }
+            ]
+          }
+        },
+        "id": "1928063239319080961",
+        "location": "Nearby 1.14km",
+        "name": "哈基雅尔维的波尔卡",
+        "pinned_tweet_id": "2068520765180510410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048600470227501056/9fK5FKrj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 442,
+          "like_count": 44351,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 2366
+        },
+        "url": "",
+        "username": "AlexChan258",
+        "verified": true
+      }
+    ]
+  }
+}

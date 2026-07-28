@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925724234501812224"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1925724238658322739",
+    "created_at": "2025-05-23T01:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T02:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925724238658322739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/68HZg9vRCj",
+          "end": 109,
+          "expanded_url": "https://x.com/show5560/status/1925724238658322739/photo/1",
+          "media_key": "3_1925724234501812224",
+          "start": 86,
+          "url": "https://t.co/68HZg9vRCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925724238658322739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才发现活着本身就很累了，上学时候的学习累，还有自己的焦虑，出社会之后上班比上学还累，还要焦虑......\n该怎么办呢...\n不知道，反正已经完全烂掉了，摆了吧（瘫）\n迷茫 https://t.co/68HZg9vRCj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1925724234501812224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrmL_QTXcAA3MVQ.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925724234501812224"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1925724238658322739",
+        "created_at": "2025-05-23T01:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T02:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925724238658322739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68HZg9vRCj",
+              "end": 109,
+              "expanded_url": "https://x.com/show5560/status/1925724238658322739/photo/1",
+              "media_key": "3_1925724234501812224",
+              "start": 86,
+              "url": "https://t.co/68HZg9vRCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925724238658322739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现活着本身就很累了，上学时候的学习累，还有自己的焦虑，出社会之后上班比上学还累，还要焦虑......\n该怎么办呢...\n不知道，反正已经完全烂掉了，摆了吧（瘫）\n迷茫 https://t.co/68HZg9vRCj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘✟ 想成为一个大魔法师✟ 已经无糖哩（断糖之后不知道做什么了）✟生活能过的开心就是赢✟ 迷茫焦虑 ♡ 真的很喜欢希汐老师@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "✟焦虑の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1163,
+          "like_count": 23584,
+          "listed_count": 0,
+          "media_count": 915,
+          "tweet_count": 5613
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

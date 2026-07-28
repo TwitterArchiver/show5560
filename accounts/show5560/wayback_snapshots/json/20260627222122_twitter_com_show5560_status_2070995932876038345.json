@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2070945257659793445",
+    "created_at": "2026-06-27T22:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T23:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070995932876038345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "896279370",
+          "start": 0,
+          "username": "XiaoZhi_BTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070995932876038345",
+    "in_reply_to_user_id": "896279370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070951056595624371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoZhi_BTC 强强？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2070945257659793445",
+        "created_at": "2026-06-27T22:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T23:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070995932876038345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "896279370",
+              "start": 0,
+              "username": "XiaoZhi_BTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070995932876038345",
+        "in_reply_to_user_id": "896279370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070951056595624371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoZhi_BTC 强强？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "896279370",
+        "conversation_id": "2070945257659793445",
+        "created_at": "2026-06-27T19:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070951056595624371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070951056595624371",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070945257659793445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 二维生物也能玩转加密世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4459,
+          "following_count": 1713,
+          "like_count": 29464,
+          "listed_count": 11,
+          "media_count": 1857,
+          "tweet_count": 8731
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-21T22:37:06.000Z",
+        "description": "#k博士的kol小队｜合约吹牛选手｜千人社区团长推文均不作为投资建议｜商務DM合作👉https://t.co/KkMRLopAxh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "k博士的kol小队"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/XiaoZhiBTC",
+                "end": 65,
+                "expanded_url": "http://t.me/XiaoZhiBTC",
+                "start": 42,
+                "url": "https://t.co/KkMRLopAxh"
+              }
+            ]
+          }
+        },
+        "id": "896279370",
+        "name": "小智｜上Deepcoin预测世界杯⚽️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996874958828720132/MORJIBYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16677,
+          "following_count": 14284,
+          "like_count": 200863,
+          "listed_count": 93,
+          "media_count": 2766,
+          "tweet_count": 205265
+        },
+        "url": "",
+        "username": "XiaoZhi_BTC",
+        "verified": true
+      }
+    ]
+  }
+}

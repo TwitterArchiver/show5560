@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045782348206358528"
+      ],
+      "media_source_tweet_id": [
+        "2047510845484376082"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047620653801754829",
+    "created_at": "2026-04-24T10:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047620653801754829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hHCUDjsOeY",
+          "end": 56,
+          "expanded_url": "https://x.com/BI3BXI/status/2047510845484376082/photo/1",
+          "media_key": "3_2045782348206358528",
+          "start": 33,
+          "url": "https://t.co/hHCUDjsOeY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047620653801754829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047510845484376082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 多啦美和多啦A梦设定都是搭载原子炉驱动的 https://t.co/hHCUDjsOeY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_2045782348206358528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQUNOiawAAKN3B.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045782348206358528"
+          ],
+          "media_source_tweet_id": [
+            "2047510845484376082"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047620653801754829",
+        "created_at": "2026-04-24T10:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047620653801754829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHCUDjsOeY",
+              "end": 56,
+              "expanded_url": "https://x.com/BI3BXI/status/2047510845484376082/photo/1",
+              "media_key": "3_2045782348206358528",
+              "start": 33,
+              "url": "https://t.co/hHCUDjsOeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047620653801754829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047510845484376082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 多啦美和多啦A梦设定都是搭载原子炉驱动的 https://t.co/hHCUDjsOeY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045782348206358528"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047510845484376082",
+        "created_at": "2026-04-24T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047510845484376082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHCUDjsOeY",
+              "end": 44,
+              "expanded_url": "https://x.com/BI3BXI/status/2047510845484376082/photo/1",
+              "media_key": "3_2045782348206358528",
+              "start": 21,
+              "url": "https://t.co/hHCUDjsOeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047510845484376082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 15499,
+          "like_count": 356,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "多啦美和多啦A梦设定都是搭载原子炉驱动的 https://t.co/hHCUDjsOeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2999,
+          "following_count": 1648,
+          "like_count": 26463,
+          "listed_count": 7,
+          "media_count": 623,
+          "tweet_count": 6327
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@Show5560｜ @XUEQIUxka ｜@Tennoujinyano\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Show5560"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8962,
+          "following_count": 4098,
+          "like_count": 42932,
+          "listed_count": 26,
+          "media_count": 2869,
+          "tweet_count": 11098
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

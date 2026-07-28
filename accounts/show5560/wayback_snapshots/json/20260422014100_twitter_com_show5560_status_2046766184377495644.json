@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046683941734920422",
+    "created_at": "2026-04-22T01:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046766184377495644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046766184377495644",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046683941734920422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046683941734920422",
+        "created_at": "2026-04-22T01:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046766184377495644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046766184377495644",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046683941734920422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2046683941734920422",
+        "created_at": "2026-04-21T20:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T21:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046683941734920422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046683941734920422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 985,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些推友看似和猫卷毫无关系根本不熟 其实实际上草过猫卷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 1535,
+          "like_count": 25933,
+          "listed_count": 6,
+          "media_count": 583,
+          "tweet_count": 6013
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "是小孩! ^ω^ // 🇲🇾🇸🇬 现居济南 // 🚪¥8964 // \n@hobartr6 猫@_furryfur_ 笨蛋肥鸟姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "hobartr6"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🇯🇵🍬¥350私信→",
+        "name": "猫卷",
+        "pinned_tweet_id": "2046660969900982719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045874162829516800/Foua9chJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3712,
+          "following_count": 806,
+          "like_count": 3569,
+          "listed_count": 8,
+          "media_count": 99,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

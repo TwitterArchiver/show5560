@@ -1,0 +1,90 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1815724302223994880"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1815724308855238663",
+    "created_at": "2024-07-23T12:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T13:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815724308855238663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/d8DFfhrxG6",
+          "end": 36,
+          "expanded_url": "https://twitter.com/show5560/status/1815724308855238663/photo/1",
+          "media_key": "3_1815724302223994880",
+          "start": 13,
+          "url": "https://t.co/d8DFfhrxG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815724308855238663",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "限时特供_(:з」∠)_ https://t.co/d8DFfhrxG6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1815724308855238663].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1815724308855238663",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1815724308855238663"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_1815724302223994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTK_ofwa8AAp22s.jpg",
+        "width": 1003
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△想当魔法师△",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮暮",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810255482898235392/_-Pekb6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1140,
+          "like_count": 23602,
+          "listed_count": 3,
+          "tweet_count": 5066
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

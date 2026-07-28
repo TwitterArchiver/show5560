@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003826630893121536"
+      ],
+      "media_source_tweet_id": [
+        "2003827193311547553"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2003878620755009940",
+    "created_at": "2025-12-24T17:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T18:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003878620755009940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2429789136",
+          "start": 3,
+          "username": "seuga1116"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zGp73gtTcx",
+          "end": 47,
+          "expanded_url": "https://x.com/seuga1116/status/2003827193311547553/photo/1",
+          "media_key": "3_2003826630893121536",
+          "start": 24,
+          "url": "https://t.co/zGp73gtTcx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003878620755009940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 595
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003827193311547553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seuga1116: ❄️🎄🤍ひいあい https://t.co/zGp73gtTcx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1129,
+        "media_key": "3_2003826630893121536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88FtD3aMAAtX0U.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003826630893121536"
+          ],
+          "media_source_tweet_id": [
+            "2003827193311547553"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2003878620755009940",
+        "created_at": "2025-12-24T17:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T18:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003878620755009940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2429789136",
+              "start": 3,
+              "username": "seuga1116"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGp73gtTcx",
+              "end": 47,
+              "expanded_url": "https://x.com/seuga1116/status/2003827193311547553/photo/1",
+              "media_key": "3_2003826630893121536",
+              "start": 24,
+              "url": "https://t.co/zGp73gtTcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003878620755009940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 595
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003827193311547553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seuga1116: ❄️🎄🤍ひいあい https://t.co/zGp73gtTcx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003826630893121536"
+          ]
+        },
+        "author_id": "2429789136",
+        "conversation_id": "2003827193311547553",
+        "created_at": "2025-12-24T13:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T14:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003827193311547553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGp73gtTcx",
+              "end": 32,
+              "expanded_url": "https://x.com/seuga1116/status/2003827193311547553/photo/1",
+              "media_key": "3_2003826630893121536",
+              "start": 9,
+              "url": "https://t.co/zGp73gtTcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003827193311547553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 46205,
+          "like_count": 5682,
+          "quote_count": 32,
+          "reply_count": 0,
+          "retweet_count": 595
+        },
+        "reply_settings": "everyone",
+        "text": "❄️🎄🤍ひいあい https://t.co/zGp73gtTcx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 1130,
+          "like_count": 22848,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5688
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-06T03:12:01.000Z",
+        "description": "＝スガ/🇨🇳◇雑多◇中文/EN/簡単な日本語ok \nあんスタ*ひいあい♠♥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/bezs4gvgw…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/bezs4gvgwvpzulbi/",
+                "start": 0,
+                "url": "https://t.co/LXXdApvRHt"
+              }
+            ]
+          }
+        },
+        "id": "2429789136",
+        "location": "Do not repost//AI練習禁止//",
+        "name": "𝓢𝓮𝓾𝓰𝓪",
+        "pinned_tweet_id": "1228696401619472384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892481952906956800/w6ZDUuKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88533,
+          "following_count": 178,
+          "like_count": 3655,
+          "listed_count": 621,
+          "media_count": 210,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/LXXdApvRHt",
+        "username": "seuga1116",
+        "verified": false
+      }
+    ]
+  }
+}

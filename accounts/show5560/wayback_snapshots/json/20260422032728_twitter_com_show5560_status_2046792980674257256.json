@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046770714628542593",
+    "created_at": "2026-04-22T03:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T04:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046792980674257256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046792980674257256",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046770714628542593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo 这线真的太乱了吧_(:з」∠)_"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046678371300675585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdDIoraEAEFP66.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046678371300782080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdDIorbsAAtUBv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046678727392923648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdDdXOakAA8HvX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046770714628542593",
+        "created_at": "2026-04-22T03:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046792980674257256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046792980674257256",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046770714628542593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo 这线真的太乱了吧_(:з」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046678371300675585",
+            "3_2046678371300782080",
+            "3_2046678727392923648"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "conversation_id": "2046770714628542593",
+        "created_at": "2026-04-22T01:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046770714628542593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fk2ajynqtb",
+              "end": 164,
+              "expanded_url": "https://x.com/CldGeo/status/2046770714628542593/photo/1",
+              "media_key": "3_2046678371300675585",
+              "start": 141,
+              "url": "https://t.co/Fk2ajynqtb"
+            },
+            {
+              "display_url": "pic.x.com/Fk2ajynqtb",
+              "end": 164,
+              "expanded_url": "https://x.com/CldGeo/status/2046770714628542593/photo/1",
+              "media_key": "3_2046678371300782080",
+              "start": 141,
+              "url": "https://t.co/Fk2ajynqtb"
+            },
+            {
+              "display_url": "pic.x.com/Fk2ajynqtb",
+              "end": 164,
+              "expanded_url": "https://x.com/CldGeo/status/2046770714628542593/photo/1",
+              "media_key": "3_2046678727392923648",
+              "start": 141,
+              "url": "https://t.co/Fk2ajynqtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046770714628542593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "云鸠的舍友很喜欢和云鸠开玩笑说，我座位上的线随便一根都可能要摸好久才能找到头。。。事实上也是如此，我的布线丝毫没有规律可言，任何一条都可能是视频线/数据线/电源线三者中的一种。。。\n理线布线好难的啊！！！如果能和我那位只有一台电脑和手机的舍友一样，没有各种线的困扰，该有多好。。。 https://t.co/Fk2ajynqtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 1536,
+          "like_count": 25991,
+          "listed_count": 6,
+          "media_count": 584,
+          "tweet_count": 6031
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う",
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2042878348440015045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3894,
+          "following_count": 342,
+          "like_count": 3886,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 1658
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

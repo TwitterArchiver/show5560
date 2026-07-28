@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046632553541771726",
+    "created_at": "2026-04-22T14:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046964086618075491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956290406389571592",
+          "start": 0,
+          "username": "shiyuchen258"
+        },
+        {
+          "end": 28,
+          "id": "1622066090074607616",
+          "start": 14,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046964086618075491",
+    "in_reply_to_user_id": "1956290406389571592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046960475695710709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiyuchen258 @hoshinofujivy 赞同，支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046632553541771726",
+        "created_at": "2026-04-22T14:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046964086618075491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956290406389571592",
+              "start": 0,
+              "username": "shiyuchen258"
+            },
+            {
+              "end": 28,
+              "id": "1622066090074607616",
+              "start": 14,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046964086618075491",
+        "in_reply_to_user_id": "1956290406389571592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046960475695710709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiyuchen258 @hoshinofujivy 赞同，支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956290406389571592",
+        "conversation_id": "2046632553541771726",
+        "created_at": "2026-04-22T14:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046960475695710709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            },
+            {
+              "end": 24,
+              "id": "1622066090074607616",
+              "start": 10,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046960475695710709",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046840720502530397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 @hoshinofujivy AI可用，但绝对不可以过多用于商业，即抢画师饭碗，又敷衍消费者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 1573,
+          "like_count": 26144,
+          "listed_count": 7,
+          "media_count": 595,
+          "tweet_count": 6133
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-15T09:43:44.000Z",
+        "description": "反战争反台独反LGBTQ+反帝国主义/法西斯主义/军国主义/恐怖主义等，反男权/女权，平权万岁\n见证蛆滚\n什么都是你说的对，我就是国男顺直臭除楠",
+        "id": "1956290406389571592",
+        "name": "烟笼寒水月笼沙壁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025928152749596672/DYbzbzrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 26,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 53
+        },
+        "username": "shiyuchen258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9172,
+          "following_count": 4225,
+          "like_count": 44134,
+          "listed_count": 33,
+          "media_count": 1907,
+          "tweet_count": 12525
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

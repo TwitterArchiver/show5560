@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2036486846079987877",
+    "created_at": "2026-03-25T16:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T17:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036849511830872167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1345789578276270082",
+          "start": 0,
+          "username": "x8306868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036849511830872167",
+    "in_reply_to_user_id": "1345789578276270082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036789298553631006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x8306868 确实）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2036486846079987877",
+        "created_at": "2026-03-25T16:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036849511830872167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1345789578276270082",
+              "start": 0,
+              "username": "x8306868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036849511830872167",
+        "in_reply_to_user_id": "1345789578276270082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036789298553631006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x8306868 确实）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345789578276270082",
+        "conversation_id": "2036486846079987877",
+        "created_at": "2026-03-25T12:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036789298553631006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036789298553631006",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036486846079987877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 拧巴人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 🚪50 接线下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "pinned_tweet_id": "2036763189522936178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 1177,
+          "like_count": 24373,
+          "listed_count": 5,
+          "media_count": 958,
+          "tweet_count": 5952
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T17:50:24.000Z",
+        "description": "理想主义懒惰者",
+        "id": "1345789578276270082",
+        "name": "奥斯特诺夫斯基",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345789796472430592/PUeEwCTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 83,
+          "like_count": 937,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 911
+        },
+        "username": "x8306868",
+        "verified": false
+      }
+    ]
+  }
+}

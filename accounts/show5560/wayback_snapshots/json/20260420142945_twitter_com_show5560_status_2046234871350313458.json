@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046086325036818670",
+    "created_at": "2026-04-20T14:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046234871350313458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006749860863815682",
+          "start": 0,
+          "username": "kawainegi"
+        },
+        {
+          "end": 21,
+          "id": "1608637128132685825",
+          "start": 11,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046234871350313458",
+    "in_reply_to_user_id": "2006749860863815682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046234714911166686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawainegi @nyaepheia 目前距离十万八千米（悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046086325036818670",
+        "created_at": "2026-04-20T14:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046234871350313458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            },
+            {
+              "end": 21,
+              "id": "1608637128132685825",
+              "start": 11,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046234871350313458",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046234714911166686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi @nyaepheia 目前距离十万八千米（悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2046086325036818670",
+        "created_at": "2026-04-20T14:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046234714911166686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            },
+            {
+              "end": 20,
+              "id": "1608637128132685825",
+              "start": 10,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046234714911166686",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046234552927207600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 @nyaepheia 嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 1475,
+          "like_count": 25770,
+          "listed_count": 6,
+          "media_count": 563,
+          "tweet_count": 5887
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 84,
+          "like_count": 2077,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 334
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?\n✨she/they\n小证含糖hrt since26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 722,
+          "like_count": 15575,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

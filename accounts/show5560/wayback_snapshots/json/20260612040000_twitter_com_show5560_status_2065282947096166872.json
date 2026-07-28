@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065092002870595584"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2065282947096166872",
+    "created_at": "2026-06-12T04:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065282947096166872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNO1AaFtGs",
+          "end": 34,
+          "expanded_url": "https://x.com/show5560/status/2065282947096166872/photo/1",
+          "media_key": "3_2065092002870595584",
+          "start": 11,
+          "url": "https://t.co/rNO1AaFtGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065282947096166872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你就说这是不是手语吧 https://t.co/rNO1AaFtGs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_2065092002870595584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiuPDuaEAAsv1R.jpg",
+        "width": 1057
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065092002870595584"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2065282947096166872",
+        "created_at": "2026-06-12T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065282947096166872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNO1AaFtGs",
+              "end": 34,
+              "expanded_url": "https://x.com/show5560/status/2065282947096166872/photo/1",
+              "media_key": "3_2065092002870595584",
+              "start": 11,
+              "url": "https://t.co/rNO1AaFtGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065282947096166872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你就说这是不是手语吧 https://t.co/rNO1AaFtGs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 1693,
+          "like_count": 28510,
+          "listed_count": 8,
+          "media_count": 1438,
+          "tweet_count": 7939
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

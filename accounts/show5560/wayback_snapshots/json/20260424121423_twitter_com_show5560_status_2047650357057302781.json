@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047647977096044773",
+    "created_at": "2026-04-24T12:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047650357057302781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839357790340739073",
+          "start": 0,
+          "username": "RainbowXiaoMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047650357057302781",
+    "in_reply_to_user_id": "1839357790340739073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047649339137462626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainbowXiaoMiao 那这成本可太大了）_(:з」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047647977096044773",
+        "created_at": "2026-04-24T12:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047650357057302781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839357790340739073",
+              "start": 0,
+              "username": "RainbowXiaoMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047650357057302781",
+        "in_reply_to_user_id": "1839357790340739073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047649339137462626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainbowXiaoMiao 那这成本可太大了）_(:з」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839357790340739073",
+        "conversation_id": "2047647977096044773",
+        "created_at": "2026-04-24T12:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047649339137462626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047649339137462626",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047647977096044773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 送斐济杯，很多人会需要的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3001,
+          "following_count": 1650,
+          "like_count": 26526,
+          "listed_count": 7,
+          "media_count": 626,
+          "tweet_count": 6368
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-26T17:34:26.000Z",
+        "description": "男人感情避坑指南｜嘴臭但句句实话｜别他妈再被忽悠了",
+        "id": "1839357790340739073",
+        "name": "彩虹小喵（短裤套头版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038224091275313152/iONm5BFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 901,
+          "like_count": 4832,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 3331
+        },
+        "username": "RainbowXiaoMiao",
+        "verified": true
+      }
+    ]
+  }
+}

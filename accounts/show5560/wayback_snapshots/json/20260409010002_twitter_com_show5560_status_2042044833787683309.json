@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041795116650917889"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2042044833787683309",
+    "created_at": "2026-04-09T01:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042044833787683309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UaSAZgqJE0",
+          "end": 33,
+          "expanded_url": "https://x.com/show5560/status/2042044833787683309/photo/1",
+          "media_key": "3_2041795116650917889",
+          "start": 10,
+          "url": "https://t.co/UaSAZgqJE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042044833787683309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难崩，还有WD40 https://t.co/UaSAZgqJE0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2041795116650917889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXp1zga8AEfWV0.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041795116650917889"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2042044833787683309",
+        "created_at": "2026-04-09T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042044833787683309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UaSAZgqJE0",
+              "end": 33,
+              "expanded_url": "https://x.com/show5560/status/2042044833787683309/photo/1",
+              "media_key": "3_2041795116650917889",
+              "start": 10,
+              "url": "https://t.co/UaSAZgqJE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042044833787683309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难崩，还有WD40 https://t.co/UaSAZgqJE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的或者我去搞个日常号（？/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2041722973317689367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 1163,
+          "like_count": 24702,
+          "listed_count": 5,
+          "media_count": 398,
+          "tweet_count": 5460
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

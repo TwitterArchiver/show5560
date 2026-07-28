@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046856539714318356",
+    "created_at": "2026-04-22T10:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046906347200139516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043186333317779456",
+          "start": 0,
+          "username": "ScortW86918"
+        },
+        {
+          "end": 21,
+          "id": "1576952974810619904",
+          "start": 13,
+          "username": "zeusky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046906347200139516",
+    "in_reply_to_user_id": "2043186333317779456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046860052456472683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScortW86918 @zeusky9 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046856539714318356",
+        "created_at": "2026-04-22T10:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046906347200139516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043186333317779456",
+              "start": 0,
+              "username": "ScortW86918"
+            },
+            {
+              "end": 21,
+              "id": "1576952974810619904",
+              "start": 13,
+              "username": "zeusky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046906347200139516",
+        "in_reply_to_user_id": "2043186333317779456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046860052456472683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScortW86918 @zeusky9 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043186333317779456",
+        "conversation_id": "2046856539714318356",
+        "created_at": "2026-04-22T07:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046860052456472683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1576952974810619904",
+              "start": 0,
+              "username": "zeusky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046860052456472683",
+        "in_reply_to_user_id": "1576952974810619904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046856539714318356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeusky9 这里，老师。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2901,
+          "following_count": 1570,
+          "like_count": 26099,
+          "listed_count": 7,
+          "media_count": 591,
+          "tweet_count": 6101
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-12T04:36:03.000Z",
+        "description": "🎸 前音乐教育从业者\n八年 Crypto 资深玩家 \n深耕 AI+Crypto 前沿\n远离圈内韭菜陷阱 \n跳出固有圈层认知\n做 Web3 清醒入局者 📈",
+        "id": "2043186333317779456",
+        "location": "China",
+        "name": "Crypto墨城",
+        "pinned_tweet_id": "2046839656730489119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043816772126875648/2h8IY1qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 101,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "username": "ScortW86918",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-03T15:11:15.000Z",
+        "description": "#Bitcoin｜#ETH ｜币圈生存日记 ｜Web3交互体验师｜AI +出海实战｜分享信息差｜工具｜机会｜记录0到1全过程",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "ETH"
+              }
+            ]
+          }
+        },
+        "id": "1576952974810619904",
+        "location": "金融服务",
+        "name": "Crypto 宙斯",
+        "pinned_tweet_id": "2042623076006007285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742404581202747392/U_URIbxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3905,
+          "following_count": 638,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 968
+        },
+        "username": "zeusky9",
+        "verified": true
+      }
+    ]
+  }
+}

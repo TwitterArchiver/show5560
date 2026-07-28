@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069467073206792192"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2069616514303713713",
+    "created_at": "2026-06-24T03:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069616514303713713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hm7rH4PW2P",
+          "end": 29,
+          "expanded_url": "https://x.com/show5560/status/2069616514303713713/photo/1",
+          "media_key": "3_2069467073206792192",
+          "start": 6,
+          "url": "https://t.co/Hm7rH4PW2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069616514303713713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我建议选D https://t.co/Hm7rH4PW2P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2069467073206792192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLg5VqzbsAAjoU4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069467073206792192"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2069616514303713713",
+        "created_at": "2026-06-24T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069616514303713713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hm7rH4PW2P",
+              "end": 29,
+              "expanded_url": "https://x.com/show5560/status/2069616514303713713/photo/1",
+              "media_key": "3_2069467073206792192",
+              "start": 6,
+              "url": "https://t.co/Hm7rH4PW2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069616514303713713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我建议选D https://t.co/Hm7rH4PW2P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2068669002805903399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4419,
+          "following_count": 1693,
+          "like_count": 29108,
+          "listed_count": 9,
+          "media_count": 1762,
+          "tweet_count": 8401
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

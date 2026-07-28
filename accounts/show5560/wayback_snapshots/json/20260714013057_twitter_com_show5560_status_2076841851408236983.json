@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2076631729679597641",
+    "created_at": "2026-07-14T01:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076841851408236983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076841851408236983",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076631729679597641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1oneSKy 好吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2076631720775102464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGtjC4bsAAmMLi.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2076631729679597641",
+        "created_at": "2026-07-14T01:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076841851408236983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076841851408236983",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076631729679597641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1oneSKy 好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076631720775102464"
+          ]
+        },
+        "author_id": "1242074475400548352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076631729679597641",
+        "created_at": "2026-07-13T11:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076631729679597641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mnxoy4aUNN",
+              "end": 28,
+              "expanded_url": "https://x.com/A1oneSKy/status/2076631729679597641/photo/1",
+              "media_key": "3_2076631720775102464",
+              "start": 5,
+              "url": "https://t.co/Mnxoy4aUNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076631729679597641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 668,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚吃麦 https://t.co/Mnxoy4aUNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4897,
+          "following_count": 1732,
+          "like_count": 31126,
+          "listed_count": 12,
+          "media_count": 2245,
+          "tweet_count": 10410
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "EN / CN / JP / KR/ 韓國語 계정@alonesky_kr ㅣ 生命体征维持中ㅣ路边一条\n專攻은 電子工學 | 宝宝@mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "alonesky_kr"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061452830142283776/kIazC4sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 1732,
+          "like_count": 8603,
+          "listed_count": 6,
+          "media_count": 5866,
+          "tweet_count": 24116
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": true
+      }
+    ]
+  }
+}

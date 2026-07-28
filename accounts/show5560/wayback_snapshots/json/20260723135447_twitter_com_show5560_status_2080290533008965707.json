@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2080273073950113866",
+    "created_at": "2026-07-23T13:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080290533008965707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1618909954156679168",
+          "start": 0,
+          "username": "afdtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080290533008965707",
+    "in_reply_to_user_id": "1618909954156679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080273073950113866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afdtb 为什么昨天吃的今天会难受呢🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_2080272984342941696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6dQeuaUAAtLSU.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2080273073950113866",
+        "created_at": "2026-07-23T13:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080290533008965707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080290533008965707",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080273073950113866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afdtb 为什么昨天吃的今天会难受呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080272984342941696"
+          ]
+        },
+        "author_id": "1618909954156679168",
+        "conversation_id": "2080273073950113866",
+        "created_at": "2026-07-23T12:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080273073950113866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLiD5KGOQA",
+              "end": 39,
+              "expanded_url": "https://x.com/afdtb/status/2080273073950113866/photo/1",
+              "media_key": "3_2080272984342941696",
+              "start": 16,
+              "url": "https://t.co/CLiD5KGOQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080273073950113866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天吃了两顿碳水今天一整天难受 https://t.co/CLiD5KGOQA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5217,
+          "following_count": 1737,
+          "like_count": 32187,
+          "listed_count": 13,
+          "media_count": 2478,
+          "tweet_count": 11500
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "MtF/退役OIer/舞萌W2/m/健全逼/日子人/慢性鼻炎/胃胀气\n🚪：一个月内拍摄的腹肌照\n猪：@sherry4869000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "sherry4869000"
+              }
+            ]
+          }
+        },
+        "id": "1618909954156679168",
+        "name": "不吃奶猪",
+        "pinned_tweet_id": "2079316888761635241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998668524831780864/zz8CBL0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4450,
+          "following_count": 902,
+          "like_count": 12982,
+          "listed_count": 15,
+          "media_count": 1623,
+          "tweet_count": 9082
+        },
+        "url": "",
+        "username": "afdtb",
+        "verified": false
+      }
+    ]
+  }
+}

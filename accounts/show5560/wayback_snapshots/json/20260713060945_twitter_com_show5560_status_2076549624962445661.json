@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2075958295408341045",
+    "created_at": "2026-07-13T06:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076549624962445661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612259584890273793",
+          "start": 0,
+          "username": "Mike_Banana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076549624962445661",
+    "in_reply_to_user_id": "1612259584890273793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076522789075648694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mike_Banana 那这真的很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075958295408341045",
+        "created_at": "2026-07-13T06:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076549624962445661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612259584890273793",
+              "start": 0,
+              "username": "Mike_Banana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076549624962445661",
+        "in_reply_to_user_id": "1612259584890273793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076522789075648694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mike_Banana 那这真的很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612259584890273793",
+        "conversation_id": "2075958295408341045",
+        "created_at": "2026-07-13T04:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076522789075648694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076522789075648694",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075958295408341045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这种一般还包含民办大专，毕业可以直接进学校工作🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 1734,
+          "like_count": 30998,
+          "listed_count": 12,
+          "media_count": 2225,
+          "tweet_count": 10268
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-09T01:27:07.000Z",
+        "description": "04币圈内容创作者｜ 宏观｜短线合约｜长期现货 🟪 #HTX 2025年度人物 🟧#币安广场 博主 合约短线狙击手｜ 现货长期持有主义🚩｜ 加入我们👉：https://t.co/65R4YzdBrn ｜ 探索00后财富自由之路",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "HTX"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "币安广场"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Mike_Banana123",
+                "end": 99,
+                "expanded_url": "https://t.me/Mike_Banana123",
+                "start": 76,
+                "url": "https://t.co/65R4YzdBrn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mikehoski1",
+                "end": 23,
+                "expanded_url": "https://t.me/Mikehoski1",
+                "start": 0,
+                "url": "https://t.co/OnqFQ1mgwT"
+              }
+            ]
+          }
+        },
+        "id": "1612259584890273793",
+        "location": "合作联系👉",
+        "name": "Mike香蕉🍌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007768545783095296/1uKuzFzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9335,
+          "following_count": 5485,
+          "like_count": 42706,
+          "listed_count": 26,
+          "media_count": 1164,
+          "tweet_count": 24069
+        },
+        "url": "https://t.co/OnqFQ1mgwT",
+        "username": "Mike_Banana",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2073044092938850810",
+    "created_at": "2026-07-04T01:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073222769945534707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760487612731752448",
+          "start": 0,
+          "username": "Zephyr0715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073222769945534707",
+    "in_reply_to_user_id": "1760487612731752448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073195016772780072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zephyr0715 强强！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2073044092938850810",
+        "created_at": "2026-07-04T01:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073222769945534707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760487612731752448",
+              "start": 0,
+              "username": "Zephyr0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073222769945534707",
+        "in_reply_to_user_id": "1760487612731752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073195016772780072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zephyr0715 强强！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760487612731752448",
+        "conversation_id": "2073044092938850810",
+        "created_at": "2026-07-03T23:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073195016772780072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073195016772780072",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1432,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073044092938850810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 去年健身房一个月才能8个...刚开始一个都做不了😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4564,
+          "following_count": 1729,
+          "like_count": 30101,
+          "listed_count": 11,
+          "media_count": 2000,
+          "tweet_count": 9317
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-22T02:12:25.000Z",
+        "description": "AI Agent 开发者 | 边做边写",
+        "id": "1760487612731752448",
+        "name": "Zephyr",
+        "pinned_tweet_id": "2039361296727163254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008000832185548800/kJKOXcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 330,
+          "like_count": 140,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "Zephyr0715",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2080341269528838410",
+    "created_at": "2026-07-24T13:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080650163392258537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Fuugetsu_808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080650163392258537",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080341269528838410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuugetsu_808 这硬币看起来好有感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2080341244014993408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7bVt0boAAv9Cw.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2080341269528838410",
+        "created_at": "2026-07-24T13:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080650163392258537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080650163392258537",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080341269528838410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 这硬币看起来好有感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080341244014993408"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2080341269528838410",
+        "created_at": "2026-07-23T17:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080341269528838410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiw4FJhrAB",
+              "end": 39,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2080341269528838410/photo/1",
+              "media_key": "3_2080341244014993408",
+              "start": 16,
+              "url": "https://t.co/uiw4FJhrAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080341269528838410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "个人认为最具美感的硬币 5日元 https://t.co/uiw4FJhrAB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5249,
+          "following_count": 1736,
+          "like_count": 32341,
+          "listed_count": 13,
+          "media_count": 2502,
+          "tweet_count": 11632
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 1897,
+          "like_count": 77644,
+          "listed_count": 12,
+          "media_count": 1715,
+          "tweet_count": 12996
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2031397029931573420",
+    "created_at": "2026-03-11T03:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T04:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031575881966301585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1269442820580016129",
+          "start": 0,
+          "username": "Hikari_Ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031575881966301585",
+    "in_reply_to_user_id": "1269442820580016129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031397029931573420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari_Ciallo 我也要喝！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2031397016539164672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDD40uCa8AAjoXv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031397016547504130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDD40uEaMAIFcrw.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2031397016551698432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDD40uFaMAAbf2U.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2031397016560087048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDD40uHaMAg_Md7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2031397029931573420",
+        "created_at": "2026-03-11T03:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T04:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031575881966301585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1269442820580016129",
+              "start": 0,
+              "username": "Hikari_Ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031575881966301585",
+        "in_reply_to_user_id": "1269442820580016129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031397029931573420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari_Ciallo 我也要喝！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031397016539164672",
+            "3_2031397016547504130",
+            "3_2031397016551698432",
+            "3_2031397016560087048"
+          ]
+        },
+        "author_id": "1269442820580016129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031397029931573420",
+        "created_at": "2026-03-10T15:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031397029931573420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mn1QvkS3wa",
+              "end": 45,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/2031397029931573420/photo/1",
+              "media_key": "3_2031397016539164672",
+              "start": 22,
+              "url": "https://t.co/Mn1QvkS3wa"
+            },
+            {
+              "display_url": "pic.x.com/Mn1QvkS3wa",
+              "end": 45,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/2031397029931573420/photo/1",
+              "media_key": "3_2031397016547504130",
+              "start": 22,
+              "url": "https://t.co/Mn1QvkS3wa"
+            },
+            {
+              "display_url": "pic.x.com/Mn1QvkS3wa",
+              "end": 45,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/2031397029931573420/photo/1",
+              "media_key": "3_2031397016551698432",
+              "start": 22,
+              "url": "https://t.co/Mn1QvkS3wa"
+            },
+            {
+              "display_url": "pic.x.com/Mn1QvkS3wa",
+              "end": 45,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/2031397029931573420/photo/1",
+              "media_key": "3_2031397016560087048",
+              "start": 22,
+              "url": "https://t.co/Mn1QvkS3wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031397029931573420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早C（Coffe）\n晚A（Alcohol） https://t.co/Mn1QvkS3wa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "男娘mtf🍥猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 坐标:深圳  🚪50/接线下  另一个我@runamusaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "runamusaki"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1161,
+          "like_count": 23662,
+          "listed_count": 4,
+          "media_count": 954,
+          "tweet_count": 5881
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-07T01:35:53.000Z",
+        "description": "这里是Hikari-QAQ 喜欢玩音游、碧蓝档案-国际服、听歌、看番、推gal｜互联网重度依赖｜社恐，不太会说话，但希望和大家交朋友，如果说错什么非常抱歉qwq｜会回fo对得上电波的人｜黄推/无推文/bio/长期锁推/粉丝极少且关注多的会b｜想要变可爱｜友跨｜欢迎贴贴｜请和我交流｜自家笨蛋 @kithiumR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "kithiumR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikariqaq.montaigne.io/hikari",
+                "end": 23,
+                "expanded_url": "https://hikariqaq.montaigne.io/hikari",
+                "start": 0,
+                "url": "https://t.co/YZa16a7Nl4"
+              }
+            ]
+          }
+        },
+        "id": "1269442820580016129",
+        "location": "天津市同跨科技有限公司",
+        "name": " Hikari.deb 🏳️‍⚧️ #Keep4o",
+        "pinned_tweet_id": "1775437822209691813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636665337042341889/sZKJv1ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 681,
+          "like_count": 296098,
+          "listed_count": 9,
+          "media_count": 2383,
+          "tweet_count": 59718
+        },
+        "url": "https://t.co/YZa16a7Nl4",
+        "username": "Hikari_Ciallo",
+        "verified": false
+      }
+    ]
+  }
+}

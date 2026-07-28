@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037352330132418560"
+      ],
+      "media_source_tweet_id": [
+        "2037352421060718674"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2037463025725374507",
+    "created_at": "2026-03-27T09:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037463025725374507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821614513736781825",
+          "start": 3,
+          "username": "14ManGo1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTCArFeX46",
+          "end": 57,
+          "expanded_url": "https://x.com/14ManGo1/status/2037352421060718674/video/1",
+          "media_key": "13_2037352330132418560",
+          "start": 34,
+          "url": "https://t.co/vTCArFeX46"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037463025725374507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037352421060718674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14ManGo1: 《女友突然想起她前世是我爸！？》-28 https://t.co/vTCArFeX46"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17400,
+        "height": 3508,
+        "media_key": "13_2037352330132418560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037352330132418560/img/wg3uZInJIqYWUtrr.jpg",
+        "public_metrics": {
+          "view_count": 1243
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037352330132418560/vid/avc1/320x452/STNsHqYsYTBr_ueo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037352330132418560/vid/avc1/480x678/4bhx7WYoVbLRs9G9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037352330132418560/vid/avc1/720x1018/Y_FyOFzs3Chl7uvu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037352330132418560/pl/4bSYBIT9i0aLUlH6.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037352330132418560"
+          ],
+          "media_source_tweet_id": [
+            "2037352421060718674"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2037463025725374507",
+        "created_at": "2026-03-27T09:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037463025725374507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821614513736781825",
+              "start": 3,
+              "username": "14ManGo1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTCArFeX46",
+              "end": 57,
+              "expanded_url": "https://x.com/14ManGo1/status/2037352421060718674/video/1",
+              "media_key": "13_2037352330132418560",
+              "start": 34,
+              "url": "https://t.co/vTCArFeX46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037463025725374507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037352421060718674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14ManGo1: 《女友突然想起她前世是我爸！？》-28 https://t.co/vTCArFeX46"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037352330132418560"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2037352421060718674",
+        "created_at": "2026-03-27T02:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037352421060718674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTCArFeX46",
+              "end": 43,
+              "expanded_url": "https://x.com/14ManGo1/status/2037352421060718674/video/1",
+              "media_key": "13_2037352330132418560",
+              "start": 20,
+              "url": "https://t.co/vTCArFeX46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037352421060718674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2671,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "《女友突然想起她前世是我爸！？》-28 https://t.co/vTCArFeX46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 🚪50 接线下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "pinned_tweet_id": "2036763189522936178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 1178,
+          "like_count": 24458,
+          "listed_count": 5,
+          "media_count": 959,
+          "tweet_count": 5959
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木M-emo",
+        "pinned_tweet_id": "2011094910473289883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34314,
+          "following_count": 134,
+          "like_count": 347,
+          "listed_count": 114,
+          "media_count": 181,
+          "tweet_count": 382
+        },
+        "username": "14ManGo1",
+        "verified": false
+      }
+    ]
+  }
+}

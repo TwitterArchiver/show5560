@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2070939967178612888",
+    "created_at": "2026-06-28T10:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071176151150874827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071176151150874827",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070939967178612888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi 这美颜搞的（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_2070939960543485952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL106_tbIAAhkis.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2070939967178612888",
+        "created_at": "2026-06-28T10:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071176151150874827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071176151150874827",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070939967178612888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 这美颜搞的（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070939960543485952"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2070939967178612888",
+        "created_at": "2026-06-27T18:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070939967178612888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMHQYYe66u",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2070939967178612888/photo/1",
+              "media_key": "3_2070939960543485952",
+              "start": 7,
+              "url": "https://t.co/CMHQYYe66u"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2070939967178612888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 138852,
+          "like_count": 542,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "呼叫彈鋼琴！ https://t.co/CMHQYYe66u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 1714,
+          "like_count": 29513,
+          "listed_count": 11,
+          "media_count": 1869,
+          "tweet_count": 8771
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 358,
+          "like_count": 12717,
+          "listed_count": 3,
+          "media_count": 938,
+          "tweet_count": 4394
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

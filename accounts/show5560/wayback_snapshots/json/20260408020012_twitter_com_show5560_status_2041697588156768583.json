@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041456502599548928"
+      ],
+      "media_source_tweet_id": [
+        "2041697539075055708"
+      ]
+    },
+    "author_id": "1545277694325116928",
+    "conversation_id": "2041697588156768583",
+    "created_at": "2026-04-08T02:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041697588156768583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HfouifUlRc",
+          "end": 45,
+          "expanded_url": "https://x.com/show5560/status/2041697539075055708/photo/1",
+          "media_key": "3_2041456502599548928",
+          "start": 22,
+          "url": "https://t.co/HfouifUlRc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041697588156768583",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041697539075055708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 已经汗流浃背了 https://t.co/HfouifUlRc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with author_id: [1545277694325116928].",
+      "parameter": "author_id",
+      "resource_id": "1545277694325116928",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1545277694325116928"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_2041456502599548928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS1333bgAAV417.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041456502599548928"
+          ],
+          "media_source_tweet_id": [
+            "2041697539075055708"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2041697588156768583",
+        "created_at": "2026-04-08T02:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041697588156768583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfouifUlRc",
+              "end": 45,
+              "expanded_url": "https://x.com/show5560/status/2041697539075055708/photo/1",
+              "media_key": "3_2041456502599548928",
+              "start": 22,
+              "url": "https://t.co/HfouifUlRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041697588156768583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041697539075055708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 已经汗流浃背了 https://t.co/HfouifUlRc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041456502599548928"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2041697539075055708",
+        "created_at": "2026-04-08T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041697539075055708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfouifUlRc",
+              "end": 31,
+              "expanded_url": "https://x.com/show5560/status/2041697539075055708/photo/1",
+              "media_key": "3_2041456502599548928",
+              "start": 8,
+              "url": "https://t.co/HfouifUlRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041697539075055708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已经汗流浃背了 https://t.co/HfouifUlRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 1123,
+          "like_count": 24596,
+          "listed_count": 5,
+          "media_count": 386,
+          "tweet_count": 5422
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

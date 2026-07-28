@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2081695741056319623",
+    "created_at": "2026-07-27T13:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081727640030072938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2077352385958342656",
+          "start": 0,
+          "username": "RainEngine2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081727640030072938",
+    "in_reply_to_user_id": "2077352385958342656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081727342297428441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2026 美女！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2081695741056319623",
+        "created_at": "2026-07-27T13:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081727640030072938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2077352385958342656",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081727640030072938",
+        "in_reply_to_user_id": "2077352385958342656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081727342297428441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 美女！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2081695741056319623",
+        "created_at": "2026-07-27T13:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081727342297428441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081727342297428441",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081727187863097704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5329,
+          "following_count": 1734,
+          "like_count": 32662,
+          "listed_count": 14,
+          "media_count": 2576,
+          "tweet_count": 11933
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 104,
+          "like_count": 690,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

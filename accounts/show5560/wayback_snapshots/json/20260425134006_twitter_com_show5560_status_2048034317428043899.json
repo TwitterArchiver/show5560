@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047647977096044773",
+    "created_at": "2026-04-25T13:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048034317428043899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2021412643874217984",
+          "start": 0,
+          "username": "ChiwuanEND"
+        },
+        {
+          "end": 21,
+          "id": "1545277694325116928",
+          "start": 12,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048034317428043899",
+    "in_reply_to_user_id": "2021412643874217984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048033783761572267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiwuanEND @YongQuan 诶诶）这样吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047647977096044773",
+        "created_at": "2026-04-25T13:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048034317428043899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021412643874217984",
+              "start": 0,
+              "username": "ChiwuanEND"
+            },
+            {
+              "end": 21,
+              "id": "1545277694325116928",
+              "start": 12,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048034317428043899",
+        "in_reply_to_user_id": "2021412643874217984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048033783761572267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiwuanEND @YongQuan 诶诶）这样吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021412643874217984",
+        "conversation_id": "2047647977096044773",
+        "created_at": "2026-04-25T13:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048033783761572267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            },
+            {
+              "end": 19,
+              "id": "1545277694325116928",
+              "start": 10,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048033783761572267",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047647977096044773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 @YongQuan 恭喜哦，抽个电子签名祝贺吧（嘻嘻）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 1661,
+          "like_count": 26740,
+          "listed_count": 7,
+          "media_count": 645,
+          "tweet_count": 6491
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T02:35:16.000Z",
+        "description": "ACG/Landscape Photographer｜guitar player｜normal student\n\n人生に無駄な経験はない",
+        "id": "2021412643874217984",
+        "location": "日本 香川県 高松市",
+        "name": "END-r1ver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021412933897682947/Dry6urOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 108,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "username": "ChiwuanEND",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9021,
+          "following_count": 4121,
+          "like_count": 43093,
+          "listed_count": 26,
+          "media_count": 2903,
+          "tweet_count": 11171
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

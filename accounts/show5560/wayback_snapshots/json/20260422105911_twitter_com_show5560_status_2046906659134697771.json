@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046805895687065844",
+    "created_at": "2026-04-22T10:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046906659134697771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1498710075170443265",
+          "start": 0,
+          "username": "mutian414"
+        },
+        {
+          "end": 22,
+          "id": "1759533763640365056",
+          "start": 11,
+          "username": "CryptoGiio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046906659134697771",
+    "in_reply_to_user_id": "1498710075170443265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046819162904002570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mutian414 @CryptoGiio 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046805895687065844",
+        "created_at": "2026-04-22T10:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046906659134697771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1498710075170443265",
+              "start": 0,
+              "username": "mutian414"
+            },
+            {
+              "end": 22,
+              "id": "1759533763640365056",
+              "start": 11,
+              "username": "CryptoGiio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046906659134697771",
+        "in_reply_to_user_id": "1498710075170443265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046819162904002570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mutian414 @CryptoGiio 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498710075170443265",
+        "conversation_id": "2046805895687065844",
+        "created_at": "2026-04-22T05:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046819162904002570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759533763640365056",
+              "start": 0,
+              "username": "CryptoGiio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046819162904002570",
+        "in_reply_to_user_id": "1759533763640365056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046805895687065844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoGiio 以心换心，以情换情。大家一起坚持！加油⛽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2901,
+          "following_count": 1572,
+          "like_count": 26099,
+          "listed_count": 7,
+          "media_count": 591,
+          "tweet_count": 6103
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-01T17:21:57.000Z",
+        "description": "经济压力大？ | 内卷太累？ | 来我这躺平笑一笑！ | 每日搞笑视频、段子、图文，缓解焦虑抑郁，提升心情健康。 | 点关注，开启你的解压模式！😌😂💪⛽️⛽️素材源自网络，如有侵权请私信联系立即删除",
+        "id": "1498710075170443265",
+        "name": "目口口口口",
+        "pinned_tweet_id": "2044410718288826519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498710208746438656/_7gD1Anw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13230,
+          "following_count": 4327,
+          "like_count": 34129,
+          "listed_count": 30,
+          "media_count": 3475,
+          "tweet_count": 10705
+        },
+        "username": "mutian414",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-19T11:02:07.000Z",
+        "description": "追踪热点——分享加密——PVP小菜鸡——喜欢吃瓜\n#Binance",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 25,
+                "tag": "Binance"
+              }
+            ]
+          }
+        },
+        "id": "1759533763640365056",
+        "location": "印度",
+        "name": "吉奥",
+        "pinned_tweet_id": "2046805895687065844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000842672664403971/JyX5kaNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27373,
+          "following_count": 3029,
+          "like_count": 16736,
+          "listed_count": 65,
+          "media_count": 356,
+          "tweet_count": 17426
+        },
+        "username": "CryptoGiio",
+        "verified": true
+      }
+    ]
+  }
+}

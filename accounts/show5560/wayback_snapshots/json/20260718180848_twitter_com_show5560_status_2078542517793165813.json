@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2078253413792370735",
+    "created_at": "2026-07-18T18:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078542517793165813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638922874487730176",
+          "start": 0,
+          "username": "Sweet_xst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078542517793165813",
+    "in_reply_to_user_id": "1638922874487730176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078510646313066541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sweet_xst 吓哭了你这qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2078253413792370735",
+        "created_at": "2026-07-18T18:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078542517793165813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638922874487730176",
+              "start": 0,
+              "username": "Sweet_xst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078542517793165813",
+        "in_reply_to_user_id": "1638922874487730176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078510646313066541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sweet_xst 吓哭了你这qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638922874487730176",
+        "conversation_id": "2078253413792370735",
+        "created_at": "2026-07-18T16:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078510646313066541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078510646313066541",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078253413792370735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 其实按照这个套路下一句应该是你敢收我打死你。然后就是不知道发到哪里的惭愧式教育法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5073,
+          "following_count": 1740,
+          "like_count": 31577,
+          "listed_count": 12,
+          "media_count": 2359,
+          "tweet_count": 10922
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T15:17:31.000Z",
+        "description": "小号：@shiguai8224\n功能号：@tangchaoli40605\n愿你每天都有好心情~\n青年大学习系列已强势归来！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "shiguai8224"
+              },
+              {
+                "end": 36,
+                "start": 20,
+                "username": "tangchaoli40605"
+              }
+            ]
+          }
+        },
+        "id": "1638922874487730176",
+        "name": "小薯条哭唧唧",
+        "pinned_tweet_id": "2075572164485611710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729423815798784/6Gp3ENE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209579,
+          "following_count": 227,
+          "like_count": 5654,
+          "listed_count": 311,
+          "media_count": 1855,
+          "tweet_count": 4785
+        },
+        "url": "",
+        "username": "Sweet_xst",
+        "verified": true
+      }
+    ]
+  }
+}

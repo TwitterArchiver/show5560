@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1813598682673283351",
+    "created_at": "2024-07-18T16:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T17:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813977070592258316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771790973233934336",
+          "start": 0,
+          "username": "miaomiaoaicao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813977070592258316",
+    "in_reply_to_user_id": "1771790973233934336",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813599094478340164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomiaoaicao 不算完全是_(:з」∠)_\n被人带入坑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1813598682673283351",
+        "created_at": "2024-07-18T16:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T17:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813977070592258316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771790973233934336",
+              "start": 0,
+              "username": "miaomiaoaicao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813977070592258316",
+        "in_reply_to_user_id": "1771790973233934336",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813599094478340164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomiaoaicao 不算完全是_(:з」∠)_\n被人带入坑的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1771790973233934336",
+        "conversation_id": "1813598682673283351",
+        "created_at": "2024-07-17T15:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T16:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813599094478340164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813599094478340164",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813598682673283351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 蛙趣，牌佬嘛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△想当魔法师△",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮暮",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810255482898235392/_-Pekb6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1136,
+          "like_count": 23573,
+          "listed_count": 3,
+          "tweet_count": 5058
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T06:47:58.000Z",
+        "description": "Male,ENFP,海口小岛～佛系交友ε-(´∀｀; )",
+        "id": "1771790973233934336",
+        "name": "羽间叶香",
+        "pinned_tweet_id": "1773378976079368379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773377163049504768/6Q0RZzBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 7,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 11
+        },
+        "username": "miaomiaoaicao",
+        "verified": false
+      }
+    ]
+  }
+}

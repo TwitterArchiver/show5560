@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2075962158274445404",
+    "created_at": "2026-07-12T04:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076167791447793905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581317559957209088",
+          "start": 0,
+          "username": "hinatahimarii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076167791447793905",
+    "in_reply_to_user_id": "1581317559957209088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075962158274445404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hinatahimarii 老师老师，你好可爱，看起来好神圣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075962155283943424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9MlNDakAA8YrR.jpg",
+        "width": 1669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075962158274445404",
+        "created_at": "2026-07-12T04:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076167791447793905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581317559957209088",
+              "start": 0,
+              "username": "hinatahimarii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076167791447793905",
+        "in_reply_to_user_id": "1581317559957209088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075962158274445404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hinatahimarii 老师老师，你好可爱，看起来好神圣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075962155283943424"
+          ]
+        },
+        "author_id": "1581317559957209088",
+        "conversation_id": "2075962158274445404",
+        "created_at": "2026-07-11T15:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075962158274445404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0buOSpFYI",
+              "end": 27,
+              "expanded_url": "https://x.com/hinatahimarii/status/2075962158274445404/photo/1",
+              "media_key": "3_2075962155283943424",
+              "start": 4,
+              "url": "https://t.co/b0buOSpFYI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075962158274445404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7126,
+          "like_count": 326,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "不开心 https://t.co/b0buOSpFYI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 1735,
+          "like_count": 30934,
+          "listed_count": 12,
+          "media_count": 2199,
+          "tweet_count": 10195
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-15T16:14:32.000Z",
+        "description": "月亮与六便士",
+        "id": "1581317559957209088",
+        "location": "￡6",
+        "name": "土狗小黄",
+        "pinned_tweet_id": "1856889467556307042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071762981910880256/Ulh0LaTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57332,
+          "following_count": 1312,
+          "like_count": 61882,
+          "listed_count": 283,
+          "media_count": 10,
+          "tweet_count": 27202
+        },
+        "url": "",
+        "username": "hinatahimarii",
+        "verified": false
+      }
+    ]
+  }
+}

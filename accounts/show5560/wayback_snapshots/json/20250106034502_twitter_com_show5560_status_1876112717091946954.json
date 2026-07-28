@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1874076023190593536"
+      ],
+      "media_source_tweet_id": [
+        "1874076054987694475"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1876112717091946954",
+    "created_at": "2025-01-06T03:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T04:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876112717091946954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791296994278907904",
+          "start": 3,
+          "username": "tamakarami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uIIJboU9dQ",
+          "end": 39,
+          "expanded_url": "https://x.com/tamakarami/status/1874076054987694475/video/1",
+          "media_key": "7_1874076023190593536",
+          "start": 16,
+          "url": "https://t.co/uIIJboU9dQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876112717091946954",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 897
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874076054987694475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tamakarami: https://t.co/uIIJboU9dQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3333,
+        "height": 1000,
+        "media_key": "7_1874076023190593536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1874076023190593536/pu/img/MjpQnDKpD3MM3KIU.jpg",
+        "public_metrics": {
+          "view_count": 31993
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874076023190593536/pu/vid/avc1/320x320/kM8jwduU3ZSEWvqQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874076023190593536/pu/vid/avc1/540x540/QqIU2aY0hRBsbvjJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874076023190593536/pu/vid/avc1/720x720/5A5ZY1FBRgCQoCCV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1874076023190593536/pu/pl/glgkSQmIWVuM9a9I.m3u8?tag=12"
+          }
+        ],
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1874076023190593536"
+          ],
+          "media_source_tweet_id": [
+            "1874076054987694475"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1876112717091946954",
+        "created_at": "2025-01-06T03:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T04:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876112717091946954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791296994278907904",
+              "start": 3,
+              "username": "tamakarami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIIJboU9dQ",
+              "end": 39,
+              "expanded_url": "https://x.com/tamakarami/status/1874076054987694475/video/1",
+              "media_key": "7_1874076023190593536",
+              "start": 16,
+              "url": "https://t.co/uIIJboU9dQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876112717091946954",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 897
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874076054987694475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tamakarami: https://t.co/uIIJboU9dQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1874076023190593536"
+          ]
+        },
+        "author_id": "791296994278907904",
+        "conversation_id": "1874076054987694475",
+        "created_at": "2024-12-31T12:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T13:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874076054987694475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIIJboU9dQ",
+              "end": 23,
+              "expanded_url": "https://x.com/tamakarami/status/1874076054987694475/video/1",
+              "media_key": "7_1874076023190593536",
+              "start": 0,
+              "url": "https://t.co/uIIJboU9dQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874076054987694475",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 130399,
+          "like_count": 10152,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 897
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uIIJboU9dQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆喜欢玩cos★喜欢酷酷的衣服✟ 笨蛋一个 △想成为一个大魔法师△ ♡ 真的真的很喜欢很爱希汐★咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌萌★暮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846497644887351296/kv8ICFGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 1180,
+          "like_count": 24527,
+          "listed_count": 2,
+          "media_count": 873,
+          "tweet_count": 5427
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-26T15:14:40.000Z",
+        "description": "おケツがやってくる",
+        "id": "791296994278907904",
+        "location": "地獄",
+        "name": "絡める",
+        "pinned_tweet_id": "1149312121731080192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851831918914080768/mq6dUdx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268962,
+          "following_count": 1,
+          "like_count": 1430,
+          "listed_count": 625,
+          "media_count": 806,
+          "tweet_count": 2116
+        },
+        "username": "tamakarami",
+        "verified": false
+      }
+    ]
+  }
+}

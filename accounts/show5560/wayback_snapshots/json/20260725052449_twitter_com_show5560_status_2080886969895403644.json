@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2080739595239792732",
+    "created_at": "2026-07-25T05:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080886969895403644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363755659477491714",
+          "start": 0,
+          "username": "RxNANOSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080886969895403644",
+    "in_reply_to_user_id": "1363755659477491714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080739595239792732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RxNANOSU 好棒w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080739389660164096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBFc17bcAA6YSA.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2080739400158478336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBFddCbAAA0Ien.jpg",
+        "width": 2731
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2080739413932523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBFeQWaQAA8LTM.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2080739595239792732",
+        "created_at": "2026-07-25T05:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080886969895403644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363755659477491714",
+              "start": 0,
+              "username": "RxNANOSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080886969895403644",
+        "in_reply_to_user_id": "1363755659477491714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080739595239792732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RxNANOSU 好棒w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080739389660164096",
+            "3_2080739400158478336",
+            "3_2080739413932523520"
+          ]
+        },
+        "author_id": "1363755659477491714",
+        "conversation_id": "2080739595239792732",
+        "created_at": "2026-07-24T19:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080739595239792732"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "Kigurumi"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nILM9VE86l",
+              "end": 58,
+              "expanded_url": "https://x.com/RxNANOSU/status/2080739595239792732/photo/1",
+              "media_key": "3_2080739389660164096",
+              "start": 35,
+              "url": "https://t.co/nILM9VE86l"
+            },
+            {
+              "display_url": "pic.x.com/nILM9VE86l",
+              "end": 58,
+              "expanded_url": "https://x.com/RxNANOSU/status/2080739595239792732/photo/1",
+              "media_key": "3_2080739400158478336",
+              "start": 35,
+              "url": "https://t.co/nILM9VE86l"
+            },
+            {
+              "display_url": "pic.x.com/nILM9VE86l",
+              "end": 58,
+              "expanded_url": "https://x.com/RxNANOSU/status/2080739595239792732/photo/1",
+              "media_key": "3_2080739413932523520",
+              "start": 35,
+              "url": "https://t.co/nILM9VE86l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080739595239792732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 456,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "或者？我们换一种另外的风格?如何呢~\n#Kigurumi #着ぐるみ https://t.co/nILM9VE86l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5261,
+          "following_count": 1737,
+          "like_count": 32390,
+          "listed_count": 13,
+          "media_count": 2519,
+          "tweet_count": 11674
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-22T07:41:16.000Z",
+        "description": "東/NANOSU，重度叹咖啡爱好者（谨防速子加入红茶）\n喜好：茶座☕️&速子🧪（欢喜冤家）/旅游/Kigurumi/音乐/炸猪排/🎴/🀄️\nDEBUFF：Rx&BZDs/重度睡眠焦虑\n出没：YIC/SZX/CSX/PVG/CAN/HKG/CJU\n欢迎同好扩列，或者咖啡痴找我聊天，面基随缘抓到请我吃饭谢谢（笑）",
+        "id": "1363755659477491714",
+        "location": "27时世界",
+        "name": "NANOSU",
+        "pinned_tweet_id": "2078058973979345402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363756616772845572/wb6SVkG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 2640,
+          "like_count": 18570,
+          "listed_count": 7,
+          "media_count": 665,
+          "tweet_count": 4148
+        },
+        "url": "",
+        "username": "RxNANOSU",
+        "verified": true
+      }
+    ]
+  }
+}

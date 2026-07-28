@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987272561881980928",
+        "3_1987272562045558785"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1987272564251762805",
+    "created_at": "2025-11-08T21:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T22:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987272564251762805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JSVeLdKz1U",
+          "end": 62,
+          "expanded_url": "https://x.com/show5560/status/1987272564251762805/photo/1",
+          "media_key": "3_1987272561881980928",
+          "start": 39,
+          "url": "https://t.co/JSVeLdKz1U"
+        },
+        {
+          "display_url": "pic.x.com/JSVeLdKz1U",
+          "end": 62,
+          "expanded_url": "https://x.com/show5560/status/1987272564251762805/photo/1",
+          "media_key": "3_1987272562045558785",
+          "start": 39,
+          "url": "https://t.co/JSVeLdKz1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987272564251762805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跑了两个平台，这辈子赚的时薪最多的一次，好久没上推了捏\n落魄了（bushi） https://t.co/JSVeLdKz1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_1987272561881980928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Q13bLbIAA7VIh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 792,
+        "media_key": "3_1987272562045558785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Q13bybIAEwuv_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987272561881980928",
+            "3_1987272562045558785"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1987272564251762805",
+        "created_at": "2025-11-08T21:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T22:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987272564251762805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSVeLdKz1U",
+              "end": 62,
+              "expanded_url": "https://x.com/show5560/status/1987272564251762805/photo/1",
+              "media_key": "3_1987272561881980928",
+              "start": 39,
+              "url": "https://t.co/JSVeLdKz1U"
+            },
+            {
+              "display_url": "pic.x.com/JSVeLdKz1U",
+              "end": 62,
+              "expanded_url": "https://x.com/show5560/status/1987272564251762805/photo/1",
+              "media_key": "3_1987272562045558785",
+              "start": 39,
+              "url": "https://t.co/JSVeLdKz1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987272564251762805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跑了两个平台，这辈子赚的时薪最多的一次，好久没上推了捏\n落魄了（bushi） https://t.co/JSVeLdKz1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 1144,
+          "like_count": 22953,
+          "listed_count": 4,
+          "media_count": 957,
+          "tweet_count": 5683
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

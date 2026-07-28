@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2055287081757188508",
+    "created_at": "2026-05-15T19:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055365405615812718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1379256068887416836",
+          "start": 0,
+          "username": "Tom00031559"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055365405615812718",
+    "in_reply_to_user_id": "1379256068887416836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055351173096378571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom00031559 所以才说了是陷阱嘛）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2055287081757188508",
+        "created_at": "2026-05-15T19:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055365405615812718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1379256068887416836",
+              "start": 0,
+              "username": "Tom00031559"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055365405615812718",
+        "in_reply_to_user_id": "1379256068887416836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055351173096378571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom00031559 所以才说了是陷阱嘛）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379256068887416836",
+        "conversation_id": "2055287081757188508",
+        "created_at": "2026-05-15T18:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055351173096378571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055351173096378571",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055287081757188508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 呃太便宜了点吧？M2可是固态硬盘呀…美国都要几百刀才能买一只呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3943,
+          "following_count": 1689,
+          "like_count": 27528,
+          "listed_count": 7,
+          "media_count": 987,
+          "tweet_count": 7020
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-06T02:14:16.000Z",
+        "description": "",
+        "id": "1379256068887416836",
+        "name": "Tom",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 346,
+          "like_count": 3937,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2821
+        },
+        "username": "Tom00031559",
+        "verified": true
+      }
+    ]
+  }
+}

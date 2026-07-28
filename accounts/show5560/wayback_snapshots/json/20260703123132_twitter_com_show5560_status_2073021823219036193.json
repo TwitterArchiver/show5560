@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2072969344683032974",
+    "created_at": "2026-07-03T12:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073021823219036193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073021823219036193",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072969344683032974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 冰棍？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_2072919154626297856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMR8_QOagAApasS.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2072969344683032974",
+        "created_at": "2026-07-03T12:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073021823219036193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073021823219036193",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072969344683032974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 冰棍？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072919154626297856"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072969344683032974",
+        "created_at": "2026-07-03T09:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072969344683032974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/foMoGk1zfw",
+              "end": 30,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2072969344683032974/photo/1",
+              "media_key": "3_2072919154626297856",
+              "start": 7,
+              "url": "https://t.co/foMoGk1zfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072969344683032974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1123,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "woc冰棍！ https://t.co/foMoGk1zfw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 1719,
+          "like_count": 30036,
+          "listed_count": 11,
+          "media_count": 1987,
+          "tweet_count": 9246
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13588,
+          "following_count": 1724,
+          "like_count": 26363,
+          "listed_count": 16,
+          "media_count": 5530,
+          "tweet_count": 29199
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

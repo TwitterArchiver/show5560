@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2058640114872615142",
+    "created_at": "2026-05-25T09:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058835959156973836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058835959156973836",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058640114872615142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 大佐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2058640088553426945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHCQN6bEAED9Xs.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2058640114872615142",
+        "created_at": "2026-05-25T09:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058835959156973836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058835959156973836",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058640114872615142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 大佐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058640088553426945"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2058640114872615142",
+        "created_at": "2026-05-24T20:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058640114872615142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxOYT9YUgd",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2058640114872615142/photo/1",
+              "media_key": "3_2058640088553426945",
+              "start": 0,
+              "url": "https://t.co/AxOYT9YUgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058640114872615142",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 85967,
+          "like_count": 1379,
+          "quote_count": 6,
+          "reply_count": 64,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AxOYT9YUgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3981,
+          "following_count": 1691,
+          "like_count": 27784,
+          "listed_count": 7,
+          "media_count": 1112,
+          "tweet_count": 7311
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120536,
+          "following_count": 1120,
+          "like_count": 52330,
+          "listed_count": 296,
+          "media_count": 21716,
+          "tweet_count": 32181
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

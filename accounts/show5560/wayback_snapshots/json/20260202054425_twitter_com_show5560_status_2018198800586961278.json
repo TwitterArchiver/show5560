@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017551879774068736"
+      ],
+      "media_source_tweet_id": [
+        "2017551888372404321"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2018198800586961278",
+    "created_at": "2026-02-02T05:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018198800586961278"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485042942700310531",
+          "start": 3,
+          "username": "Esu__desu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zuk2o9Vhhy",
+          "end": 45,
+          "expanded_url": "https://x.com/Esu__desu/status/2017551888372404321/photo/1",
+          "media_key": "3_2017551879774068736",
+          "start": 22,
+          "url": "https://t.co/zuk2o9Vhhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018198800586961278",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3379
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017551888372404321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Esu__desu: #超かぐや姫 https://t.co/zuk2o9Vhhy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017551879774068736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__IvsXa4AA8Fdh.jpg",
+        "width": 1517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017551879774068736"
+          ],
+          "media_source_tweet_id": [
+            "2017551888372404321"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2018198800586961278",
+        "created_at": "2026-02-02T05:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018198800586961278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1485042942700310531",
+              "start": 3,
+              "username": "Esu__desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuk2o9Vhhy",
+              "end": 45,
+              "expanded_url": "https://x.com/Esu__desu/status/2017551888372404321/photo/1",
+              "media_key": "3_2017551879774068736",
+              "start": 22,
+              "url": "https://t.co/zuk2o9Vhhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018198800586961278",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3379
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017551888372404321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Esu__desu: #超かぐや姫 https://t.co/zuk2o9Vhhy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017551879774068736"
+          ]
+        },
+        "author_id": "1485042942700310531",
+        "conversation_id": "2017551888372404321",
+        "created_at": "2026-01-31T10:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017551888372404321"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuk2o9Vhhy",
+              "end": 30,
+              "expanded_url": "https://x.com/Esu__desu/status/2017551888372404321/photo/1",
+              "media_key": "3_2017551879774068736",
+              "start": 7,
+              "url": "https://t.co/zuk2o9Vhhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017551888372404321",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1628,
+          "impression_count": 221068,
+          "like_count": 25358,
+          "quote_count": 92,
+          "reply_count": 4,
+          "retweet_count": 3379
+        },
+        "reply_settings": "everyone",
+        "text": "#超かぐや姫 https://t.co/zuk2o9Vhhy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~没有梦想的咸鱼一条ovo/✟♡重度依赖♡✟----努力的还债中.jpg /营业？坐标:深圳/🚪88",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 1126,
+          "like_count": 22965,
+          "listed_count": 4,
+          "media_count": 970,
+          "tweet_count": 5746
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T00:13:44.000Z",
+        "description": "FA⇒ #Esuart02 世界一可愛い♡h⇒@MASYUmel_lowe skeb⇒ https://t.co/UsfpkzY5mn （無断転載･AI学習･AI編集･再投稿❌）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 4,
+                "tag": "Esuart02"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "MASYUmel_lowe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Esu__desu",
+                "end": 67,
+                "expanded_url": "https://skeb.jp/@Esu__desu",
+                "start": 44,
+                "url": "https://t.co/UsfpkzY5mn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sugarveil",
+                "end": 23,
+                "expanded_url": "https://lit.link/sugarveil",
+                "start": 0,
+                "url": "https://t.co/TARsTQ7H79"
+              }
+            ]
+          }
+        },
+        "id": "1485042942700310531",
+        "location": "そのへん",
+        "name": "Esu",
+        "pinned_tweet_id": "1950143332794937618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907074799698092032/T9dqzjAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7073,
+          "following_count": 38,
+          "like_count": 10723,
+          "listed_count": 59,
+          "media_count": 132,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/TARsTQ7H79",
+        "username": "Esu__desu",
+        "verified": false
+      }
+    ]
+  }
+}

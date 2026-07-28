@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2063622002456547653",
+    "created_at": "2026-06-08T03:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063832649538687362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1241312081892130816",
+          "start": 0,
+          "username": "tTAJ5ZWtHySbWKU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063832649538687362",
+    "in_reply_to_user_id": "1241312081892130816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063817311409291653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tTAJ5ZWtHySbWKU 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2063622002456547653",
+        "created_at": "2026-06-08T03:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063832649538687362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1241312081892130816",
+              "start": 0,
+              "username": "tTAJ5ZWtHySbWKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063832649538687362",
+        "in_reply_to_user_id": "1241312081892130816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063817311409291653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tTAJ5ZWtHySbWKU 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241312081892130816",
+        "conversation_id": "2063622002456547653",
+        "created_at": "2026-06-08T02:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063817311409291653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063817311409291653",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063622002456547653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 可以的，之前有个人试过了，变性之后，按新性别的年龄退休"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2063267097191604722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4379,
+          "following_count": 1693,
+          "like_count": 28306,
+          "listed_count": 8,
+          "media_count": 1359,
+          "tweet_count": 7778
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-21T10:34:07.000Z",
+        "description": "潜望镜",
+        "id": "1241312081892130816",
+        "name": "东云七海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363914658680250371/8SV9r1Z-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 480,
+          "like_count": 278,
+          "listed_count": 5,
+          "media_count": 32,
+          "tweet_count": 667
+        },
+        "username": "tTAJ5ZWtHySbWKU",
+        "verified": false
+      }
+    ]
+  }
+}

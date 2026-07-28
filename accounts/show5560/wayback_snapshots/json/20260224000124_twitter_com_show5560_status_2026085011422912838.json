@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025802196538073088"
+      ],
+      "media_source_tweet_id": [
+        "2025802527414141310"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2026085011422912838",
+    "created_at": "2026-02-24T00:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T01:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026085011422912838"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 46,
+          "tag": "三連休はフォロワーさんが増えるらしい"
+        },
+        {
+          "end": 85,
+          "start": 67,
+          "tag": "絵柄が好みって人にフォローされたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3192210006",
+          "start": 3,
+          "username": "Tou_ga_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u3kYm8XRrZ",
+          "end": 109,
+          "expanded_url": "https://x.com/Tou_ga_/status/2025802527414141310/photo/1",
+          "media_key": "3_2025802196538073088",
+          "start": 86,
+          "url": "https://t.co/u3kYm8XRrZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026085011422912838",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025802527414141310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tou_ga_: 男の子の萌え絵を描いてます！！\nどーじん漫画とかも描いてます🖤\n\n#三連休はフォロワーさんが増えるらしい \n#絵柄が好みって人にフォローされたい https://t.co/u3kYm8XRrZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025802196538073088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0YXVXboAAPSVX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025802196538073088"
+          ],
+          "media_source_tweet_id": [
+            "2025802527414141310"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2026085011422912838",
+        "created_at": "2026-02-24T00:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026085011422912838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 46,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            },
+            {
+              "end": 85,
+              "start": 67,
+              "tag": "絵柄が好みって人にフォローされたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3192210006",
+              "start": 3,
+              "username": "Tou_ga_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3kYm8XRrZ",
+              "end": 109,
+              "expanded_url": "https://x.com/Tou_ga_/status/2025802527414141310/photo/1",
+              "media_key": "3_2025802196538073088",
+              "start": 86,
+              "url": "https://t.co/u3kYm8XRrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026085011422912838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025802527414141310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tou_ga_: 男の子の萌え絵を描いてます！！\nどーじん漫画とかも描いてます🖤\n\n#三連休はフォロワーさんが増えるらしい \n#絵柄が好みって人にフォローされたい https://t.co/u3kYm8XRrZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025802196538073088"
+          ]
+        },
+        "author_id": "3192210006",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2025802527414141310",
+        "created_at": "2026-02-23T05:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025802527414141310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 33,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            },
+            {
+              "end": 72,
+              "start": 54,
+              "tag": "絵柄が好みって人にフォローされたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3kYm8XRrZ",
+              "end": 96,
+              "expanded_url": "https://x.com/Tou_ga_/status/2025802527414141310/photo/1",
+              "media_key": "3_2025802196538073088",
+              "start": 73,
+              "url": "https://t.co/u3kYm8XRrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025802527414141310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 14127,
+          "like_count": 1121,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "男の子の萌え絵を描いてます！！\nどーじん漫画とかも描いてます🖤\n\n#三連休はフォロワーさんが増えるらしい \n#絵柄が好みって人にフォローされたい https://t.co/u3kYm8XRrZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1127,
+          "like_count": 23105,
+          "listed_count": 4,
+          "media_count": 929,
+          "tweet_count": 5741
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-11T15:05:43.000Z",
+        "description": "同人作家！男の子大好き！\n基本男の子のムホホな同人誌を描いてます！(ダウンロード同人)\n夢は自作の同人誌で男の子萌え萌えインターネット図書館を作ることです！\n同人やグッズの情報ハイライトにまとめてます！\nサークル名  藤河(トウガ)\nhttps://t.co/psqHKI5Z0R",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/tougaxx",
+                "end": 140,
+                "expanded_url": "https://lit.link/tougaxx",
+                "start": 117,
+                "url": "https://t.co/psqHKI5Z0R"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/5521975",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/5521975",
+                "start": 0,
+                "url": "https://t.co/CGXKqMcuhV"
+              }
+            ]
+          }
+        },
+        "id": "3192210006",
+        "location": "管理人+藤河(トウガ)",
+        "name": "藤河(トウガ)(同人2/3発売)",
+        "pinned_tweet_id": "2018342491955802516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024272746277195780/qppVswwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32667,
+          "following_count": 305,
+          "like_count": 17117,
+          "listed_count": 195,
+          "media_count": 1955,
+          "tweet_count": 32085
+        },
+        "url": "https://t.co/CGXKqMcuhV",
+        "username": "Tou_ga_",
+        "verified": false
+      }
+    ]
+  }
+}

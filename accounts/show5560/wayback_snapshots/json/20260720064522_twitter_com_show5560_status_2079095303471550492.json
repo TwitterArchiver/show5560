@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2078829492232167893",
+    "created_at": "2026-07-20T06:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079095303471550492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079095303471550492",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078829492232167893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DrilL019 恭喜哦，99！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2078829492232167893",
+        "created_at": "2026-07-20T06:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079095303471550492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079095303471550492",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078829492232167893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DrilL019 恭喜哦，99！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2078829492232167893",
+        "created_at": "2026-07-19T13:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078829492232167893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drill019/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/drill019/status/2078828453034652043",
+              "start": 5,
+              "url": "https://t.co/Qae4GQx6je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078829492232167893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1112,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078828453034652043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我表白了 https://t.co/Qae4GQx6je"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5137,
+          "following_count": 1734,
+          "like_count": 31779,
+          "listed_count": 13,
+          "media_count": 2396,
+          "tweet_count": 11117
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314\n爱人@qiyuncwno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "qiyuncwno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1377,
+          "like_count": 23637,
+          "listed_count": 1,
+          "media_count": 999,
+          "tweet_count": 6851
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

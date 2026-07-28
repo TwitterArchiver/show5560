@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078849390375251968"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2079280178065285586",
+    "created_at": "2026-07-20T19:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079280178065285586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mo5x5EYoUo",
+          "end": 36,
+          "expanded_url": "https://x.com/show5560/status/2079280178065285586/photo/1",
+          "media_key": "3_2078849390375251968",
+          "start": 13,
+          "url": "https://t.co/mo5x5EYoUo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079280178065285586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "360：免费的你就受着吧 https://t.co/mo5x5EYoUo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_2078849390375251968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmOgZ7asAA-l2c.jpg",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078849390375251968"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2079280178065285586",
+        "created_at": "2026-07-20T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079280178065285586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mo5x5EYoUo",
+              "end": 36,
+              "expanded_url": "https://x.com/show5560/status/2079280178065285586/photo/1",
+              "media_key": "3_2078849390375251968",
+              "start": 13,
+              "url": "https://t.co/mo5x5EYoUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079280178065285586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "360：免费的你就受着吧 https://t.co/mo5x5EYoUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5163,
+          "following_count": 1734,
+          "like_count": 31820,
+          "listed_count": 13,
+          "media_count": 2409,
+          "tweet_count": 11161
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

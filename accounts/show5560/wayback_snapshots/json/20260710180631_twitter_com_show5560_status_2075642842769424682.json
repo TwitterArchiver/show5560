@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2075384529544679765",
+    "created_at": "2026-07-10T18:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075642842769424682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1265874246623883265",
+          "start": 0,
+          "username": "Akuna_kumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075642842769424682",
+    "in_reply_to_user_id": "1265874246623883265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075511898603458744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akuna_kumo 谢谢哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075384529544679765",
+        "created_at": "2026-07-10T18:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075642842769424682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1265874246623883265",
+              "start": 0,
+              "username": "Akuna_kumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075642842769424682",
+        "in_reply_to_user_id": "1265874246623883265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075511898603458744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akuna_kumo 谢谢哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265874246623883265",
+        "conversation_id": "2075384529544679765",
+        "created_at": "2026-07-10T09:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075511898603458744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075511898603458744",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075384529544679765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4763,
+          "following_count": 1735,
+          "like_count": 30736,
+          "listed_count": 12,
+          "media_count": 2164,
+          "tweet_count": 9986
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-28T05:15:22.000Z",
+        "description": "OD少女穿上皮套能成为好女孩吗\n雷找我扩列加完了问我是谁的",
+        "id": "1265874246623883265",
+        "location": "Tbilisi",
+        "name": "果仁糖",
+        "pinned_tweet_id": "2069076402960580658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068401331199782912/sWHRoj8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 1632,
+          "like_count": 18284,
+          "listed_count": 9,
+          "media_count": 179,
+          "tweet_count": 3168
+        },
+        "url": "",
+        "username": "Akuna_kumo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046521822175453384",
+    "created_at": "2026-04-21T11:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046556352995311886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1613791416936960000",
+          "start": 0,
+          "username": "kan02933606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046556352995311886",
+    "in_reply_to_user_id": "1613791416936960000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046521822175453384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kan02933606 回一下）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 217,
+        "media_key": "3_2046521752180948993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGa0sM_bAAEDAkd.jpg",
+        "width": 971
+      },
+      {
+        "duration_ms": 26702,
+        "height": 1440,
+        "media_key": "13_2046521752222928896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046521752222928896/img/chU49hwWgq8wCBkW.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046521752222928896/vid/avc1/1280x720/UV_IMinfq9QyuQxH.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046521752222928896/vid/avc1/480x270/LWzcL8qA_Ys5MKn5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046521752222928896/vid/avc1/2560x1440/X_fLJMJTPjd2lq2g.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046521752222928896/vid/avc1/640x360/76ETBfKc6qpXPx2N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046521752222928896/pl/Tm-_0qy1TekQvGFd.m3u8"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046521822175453384",
+        "created_at": "2026-04-21T11:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046556352995311886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1613791416936960000",
+              "start": 0,
+              "username": "kan02933606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046556352995311886",
+        "in_reply_to_user_id": "1613791416936960000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046521822175453384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kan02933606 回一下）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046521752180948993",
+            "13_2046521752222928896"
+          ]
+        },
+        "author_id": "1613791416936960000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2046521822175453384",
+        "created_at": "2026-04-21T09:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046521822175453384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Check out this profile on Polymarket.",
+              "display_url": "polymarket.com/@0x04b6d7e930c…",
+              "end": 112,
+              "expanded_url": "http://polymarket.com/@0x04b6d7e930cf9e493c5e6ef24b496294f95594c8-1774448369789?r=Jing",
+              "images": [
+                {
+                  "height": 418,
+                  "url": "https://pbs.twimg.com/news_img/2046521834640949248/bXMUEtYF?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046521834640949248/bXMUEtYF?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "@0x04b6d7e930cf9e493c5e6ef24b496294f95594c8-1774448369789 on Polymarket",
+              "unwound_url": "https://polymarket.com/@0x04b6d7e930cf9e493c5e6ef24b496294f95594c8-1774448369789?r=Jing",
+              "url": "https://t.co/lfHZekYYKh"
+            },
+            {
+              "display_url": "pic.x.com/FwKlA2O113",
+              "end": 178,
+              "expanded_url": "https://x.com/kan02933606/status/2046521822175453384/video/1",
+              "media_key": "3_2046521752180948993",
+              "start": 155,
+              "url": "https://t.co/FwKlA2O113"
+            },
+            {
+              "display_url": "pic.x.com/FwKlA2O113",
+              "end": 178,
+              "expanded_url": "https://x.com/kan02933606/status/2046521822175453384/video/1",
+              "media_key": "13_2046521752222928896",
+              "start": 155,
+              "url": "https://t.co/FwKlA2O113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046521822175453384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/@0x04b6d7e930c…",
+                "end": 112,
+                "expanded_url": "http://polymarket.com/@0x04b6d7e930cf9e493c5e6ef24b496294f95594c8-1774448369789?r=Jing",
+                "start": 89,
+                "url": "https://t.co/hzrFH3viH3"
+              }
+            ]
+          },
+          "text": "你还记得那个照着Anthropic指南，21天把1,092美元滚成83,157美元的家伙吗\n\n他交易BTC 5分钟市场，一天下300多单。三周干了6,263笔交易。\n\n实盘账号：https://t.co/hzrFH3viH3\n\n放到今天之前，想跟这种人的单根本不可能——交易太多，速度太快。\n\n现在不一样了：\n\n一键开启跟单。设定每日上限、止损、止盈。剩下的交给系统。\n\n以前你得自己写机器人才能干这事。现在两下点击就搞定。\n\n你读这条推文的工夫，他已经又下了5单。\n\n有人会说：跟单不就是抄作业吗？抄作业不丢人，丢人的是明知道有人开着印钞机，你还站在旁边看。21倍收益不是神话，是已经被验证的路径。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你还记得那个照着Anthropic指南，21天把1,092美元滚成83,157美元的家伙吗\n\n他交易BTC 5分钟市场，一天下300多单。三周干了6,263笔交易。\n\n实盘账号：https://t.co/lfHZekYYKh\n\n放到今天之前，想跟这种人的单根本不可能——交易太多，速度太快。\n\n现在不一样了： https://t.co/FwKlA2O113"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 1529,
+          "like_count": 25907,
+          "listed_count": 6,
+          "media_count": 577,
+          "tweet_count": 5994
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-13T06:54:10.000Z",
+        "description": "OKX钱包 :https://t.co/hhPhYhjOn5\n\nGMGN:https://t.co/HdUNZZXaVf\n\nPolymarket: https://t.co/Xcp9SjO0sx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.okx.com/join/WJTAO",
+                "end": 30,
+                "expanded_url": "http://web3.okx.com/join/WJTAO",
+                "start": 7,
+                "url": "https://t.co/hhPhYhjOn5"
+              },
+              {
+                "display_url": "gmgn.ai/?ref=bSBYaRka",
+                "end": 60,
+                "expanded_url": "http://gmgn.ai/?ref=bSBYaRka",
+                "start": 37,
+                "url": "https://t.co/HdUNZZXaVf"
+              },
+              {
+                "display_url": "polymarket.com/?r=Jing",
+                "end": 97,
+                "expanded_url": "http://polymarket.com/?r=Jing",
+                "start": 74,
+                "url": "https://t.co/Xcp9SjO0sx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 23,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_Poly123",
+                "start": 0,
+                "url": "https://t.co/Sor4rVBP8W"
+              }
+            ]
+          }
+        },
+        "id": "1613791416936960000",
+        "location": "预测市场➡️",
+        "name": "Mercury",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881943787536318464/vSpESYUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 896,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/Sor4rVBP8W",
+        "username": "kan02933606",
+        "verified": true
+      }
+    ]
+  }
+}

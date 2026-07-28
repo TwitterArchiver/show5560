@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2071757624421617977",
+    "created_at": "2026-06-30T15:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071975075738435958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1536879871694999553",
+          "start": 0,
+          "username": "Summerkanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071975075738435958",
+    "in_reply_to_user_id": "1536879871694999553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071757624421617977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Summerkanna 这也太坑了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071757584764391424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBci_SaUAALdIZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2071757624421617977",
+        "created_at": "2026-06-30T15:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071975075738435958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1536879871694999553",
+              "start": 0,
+              "username": "Summerkanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071975075738435958",
+        "in_reply_to_user_id": "1536879871694999553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071757624421617977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Summerkanna 这也太坑了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071757584764391424"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071757624421617977",
+        "created_at": "2026-06-30T00:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071757624421617977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfFfuHc1Es",
+              "end": 35,
+              "expanded_url": "https://x.com/Summerkanna/status/2071757624421617977/photo/1",
+              "media_key": "3_2071757584764391424",
+              "start": 12,
+              "url": "https://t.co/gfFfuHc1Es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071757624421617977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 790,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這東西 10元保夾了吧 https://t.co/gfFfuHc1Es"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 1720,
+          "like_count": 29755,
+          "listed_count": 11,
+          "media_count": 1923,
+          "tweet_count": 9000
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的轉貼迷因陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSuX6j\n圖奇:https://t.co/YkKOU5z2az\nDC:https://t.co/WXH7ekjseM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 78,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 55,
+                "url": "https://t.co/O6HztSuX6j"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 105,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 82,
+                "url": "https://t.co/YkKOU5z2az"
+              },
+              {
+                "display_url": "discord.gg/XkezSx3J",
+                "end": 132,
+                "expanded_url": "https://discord.gg/XkezSx3J",
+                "start": 109,
+                "url": "https://t.co/WXH7ekjseM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGY3c"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天カンナ@轉貼迷因Vtuber",
+        "pinned_tweet_id": "2065084654361903262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055941908778909696/RLsrOHnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10369,
+          "following_count": 995,
+          "like_count": 21967,
+          "listed_count": 50,
+          "media_count": 6354,
+          "tweet_count": 20442
+        },
+        "url": "https://t.co/SRtlcPGY3c",
+        "username": "Summerkanna",
+        "verified": true
+      }
+    ]
+  }
+}

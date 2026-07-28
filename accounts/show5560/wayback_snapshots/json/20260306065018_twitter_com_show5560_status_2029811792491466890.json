@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2029775112946454842",
+    "created_at": "2026-03-06T06:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T07:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029811792491466890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022324724785926144",
+          "start": 0,
+          "username": "xgyb3541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029811792491466890",
+    "in_reply_to_user_id": "2022324724785926144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029791556203598050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xgyb3541 诶嘿w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2029775112946454842",
+        "created_at": "2026-03-06T06:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029811792491466890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022324724785926144",
+              "start": 0,
+              "username": "xgyb3541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029811792491466890",
+        "in_reply_to_user_id": "2022324724785926144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029791556203598050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xgyb3541 诶嘿w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022324724785926144",
+        "conversation_id": "2029775112946454842",
+        "created_at": "2026-03-06T05:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029791556203598050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029791556203598050",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029775112946454842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 ⦁֊⦁꧞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg 坐标:深圳  🚪50",
+        "id": "1465701247021838341",
+        "name": "绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 1148,
+          "like_count": 23395,
+          "listed_count": 4,
+          "media_count": 942,
+          "tweet_count": 5810
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T14:59:31.000Z",
+        "description": "无聊的男大一只(  ⩌ - ⩌ )\n喜欢终末地~原神~一些二游\n努力弄懂编程(^O^)（学习Python中╮( •́ω•̀ )╭）",
+        "id": "2022324724785926144",
+        "name": "不方便说话",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029233947729854464/fXIRV-7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 63,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "xgyb3541",
+        "verified": false
+      }
+    ]
+  }
+}

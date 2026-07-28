@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019704197302857728"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2019704201010692160",
+    "created_at": "2026-02-06T09:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019704201010692160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MOfW2Nr8v3",
+          "end": 45,
+          "expanded_url": "https://x.com/show5560/status/2019704201010692160/photo/1",
+          "media_key": "3_2019704197302857728",
+          "start": 22,
+          "url": "https://t.co/MOfW2Nr8v3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019704201010692160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个月应该能从64kg减回55吧..... https://t.co/MOfW2Nr8v3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_2019704197302857728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAduRD-aMAA_p9-.jpg",
+        "width": 475
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019704197302857728"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2019704201010692160",
+        "created_at": "2026-02-06T09:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019704201010692160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOfW2Nr8v3",
+              "end": 45,
+              "expanded_url": "https://x.com/show5560/status/2019704201010692160/photo/1",
+              "media_key": "3_2019704197302857728",
+              "start": 22,
+              "url": "https://t.co/MOfW2Nr8v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019704201010692160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个月应该能从64kg减回55吧..... https://t.co/MOfW2Nr8v3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~没有梦想的咸鱼一条ovo/✟♡重度依赖♡✟----努力的还债中.jpg /营业？坐标:深圳/🚪88",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 1126,
+          "like_count": 23012,
+          "listed_count": 4,
+          "media_count": 972,
+          "tweet_count": 5761
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

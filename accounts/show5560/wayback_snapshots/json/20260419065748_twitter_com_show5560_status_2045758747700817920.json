@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2045742785287078041",
+    "created_at": "2026-04-19T06:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045758747700817920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045758747700817920",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045742785287078041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 牢大，我也要进（凑热闹？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045742782866944000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPwOOKacAAUVUm.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2045742785287078041",
+        "created_at": "2026-04-19T06:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045758747700817920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045758747700817920",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045742785287078041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 牢大，我也要进（凑热闹？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045742782866944000"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2045742785287078041",
+        "created_at": "2026-04-19T05:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045742785287078041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojQHYGRdFf",
+              "end": 116,
+              "expanded_url": "https://x.com/qianxunchan/status/2045742785287078041/photo/1",
+              "media_key": "3_2045742782866944000",
+              "start": 93,
+              "url": "https://t.co/ojQHYGRdFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045742785287078041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 180,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于我自己带头违纪（宣传负面情绪）\n我给自己下了管理。\n抱歉影响大家了🥺🥺🥹🥹\n\n（声明一下，我大号只看不用，有时候没安卓就只能用苹果大号发信息，不会使用任何权利例如禁言、撤回）🥺🥺🥺 https://t.co/ojQHYGRdFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 1412,
+          "like_count": 25508,
+          "listed_count": 6,
+          "media_count": 537,
+          "tweet_count": 5784
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 931,
+          "like_count": 1738,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 1432
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

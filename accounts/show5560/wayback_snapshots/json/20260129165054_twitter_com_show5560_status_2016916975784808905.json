@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016764440121843712"
+      ],
+      "media_source_tweet_id": [
+        "2016832569829216368"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2016916975784808905",
+    "created_at": "2026-01-29T16:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T17:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016916975784808905"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "超かぐや姫"
+        },
+        {
+          "end": 47,
+          "start": 26,
+          "tag": "CosmicPrincessKaguya"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3243235742",
+          "start": 3,
+          "username": "Color_LES"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q6hEzLCmwk",
+          "end": 71,
+          "expanded_url": "https://x.com/Color_LES/status/2016832569829216368/photo/1",
+          "media_key": "3_2016764440121843712",
+          "start": 48,
+          "url": "https://t.co/q6hEzLCmwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016916975784808905",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1070
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016832569829216368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Color_LES: 🌙🍁 \n#超かぐや姫 #CosmicPrincessKaguya https://t.co/q6hEzLCmwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2924,
+        "media_key": "3_2016764440121843712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z8krEaIAAvoM7.jpg",
+        "width": 1646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016764440121843712"
+          ],
+          "media_source_tweet_id": [
+            "2016832569829216368"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2016916975784808905",
+        "created_at": "2026-01-29T16:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016916975784808905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "超かぐや姫"
+            },
+            {
+              "end": 47,
+              "start": 26,
+              "tag": "CosmicPrincessKaguya"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3243235742",
+              "start": 3,
+              "username": "Color_LES"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6hEzLCmwk",
+              "end": 71,
+              "expanded_url": "https://x.com/Color_LES/status/2016832569829216368/photo/1",
+              "media_key": "3_2016764440121843712",
+              "start": 48,
+              "url": "https://t.co/q6hEzLCmwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016916975784808905",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1070
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016832569829216368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Color_LES: 🌙🍁 \n#超かぐや姫 #CosmicPrincessKaguya https://t.co/q6hEzLCmwk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016764440121843712"
+          ]
+        },
+        "author_id": "3243235742",
+        "conversation_id": "2016832569829216368",
+        "created_at": "2026-01-29T11:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016832569829216368"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "超かぐや姫"
+            },
+            {
+              "end": 32,
+              "start": 11,
+              "tag": "CosmicPrincessKaguya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6hEzLCmwk",
+              "end": 56,
+              "expanded_url": "https://x.com/Color_LES/status/2016832569829216368/photo/1",
+              "media_key": "3_2016764440121843712",
+              "start": 33,
+              "url": "https://t.co/q6hEzLCmwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016832569829216368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 455,
+          "impression_count": 44576,
+          "like_count": 6293,
+          "quote_count": 8,
+          "reply_count": 7,
+          "retweet_count": 1070
+        },
+        "reply_settings": "everyone",
+        "text": "🌙🍁 \n#超かぐや姫 #CosmicPrincessKaguya https://t.co/q6hEzLCmwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~没有梦想的咸鱼一条ovo----目前正在努力的还债中.jpg /营业？/🚪88",
+        "id": "1465701247021838341",
+        "name": "暮绒球の萌？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015505548163321857/npDbeMlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1121,
+          "like_count": 22961,
+          "listed_count": 4,
+          "media_count": 967,
+          "tweet_count": 5738
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-12T12:15:19.000Z",
+        "description": "GL/Yuri artist- WEBTOON creator of 'Mage & Demon Queen' \n🔗 https://t.co/cn6YIPgdiW \n✉️: colorles96@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Color_LES",
+                "end": 82,
+                "expanded_url": "http://patreon.com/Color_LES",
+                "start": 59,
+                "url": "https://t.co/cn6YIPgdiW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "color-les.com",
+                "end": 23,
+                "expanded_url": "https://www.color-les.com/",
+                "start": 0,
+                "url": "https://t.co/wu8KyDGUVH"
+              }
+            ]
+          }
+        },
+        "id": "3243235742",
+        "name": "Color-LES (Kuru)",
+        "pinned_tweet_id": "1988575840536306041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895716882121883648/4_xrrLHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132548,
+          "following_count": 1821,
+          "like_count": 17539,
+          "listed_count": 231,
+          "media_count": 862,
+          "tweet_count": 10026
+        },
+        "url": "https://t.co/wu8KyDGUVH",
+        "username": "Color_LES",
+        "verified": true
+      }
+    ]
+  }
+}

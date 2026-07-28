@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2049911665521508462",
+    "created_at": "2026-05-01T07:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050108549859332413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855954230487678977",
+          "start": 0,
+          "username": "JasonMitchellme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050108549859332413",
+    "in_reply_to_user_id": "1855954230487678977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050097900294988283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JasonMitchellme 伟哥）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2049911665521508462",
+        "created_at": "2026-05-01T07:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050108549859332413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1855954230487678977",
+              "start": 0,
+              "username": "JasonMitchellme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050108549859332413",
+        "in_reply_to_user_id": "1855954230487678977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050097900294988283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JasonMitchellme 伟哥）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855954230487678977",
+        "conversation_id": "2049911665521508462",
+        "created_at": "2026-05-01T06:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050097900294988283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050097900294988283",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049911665521508462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 会发生之前你先告诉我们蓝色药片他是个什么东西🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 1670,
+          "like_count": 27006,
+          "listed_count": 7,
+          "media_count": 720,
+          "tweet_count": 6667
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-11T12:42:51.000Z",
+        "description": "INFJ｜Connecting the dots｜Apple Fans｜8年+BAT工作经验｜持续学习｜输出知识干货｜全栈程序员 → 产品｜投资新手｜跨境与副业机会探索者｜All views are my own",
+        "id": "1855954230487678977",
+        "name": "Jason",
+        "pinned_tweet_id": "2049861260284412299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048422035660169216/LN-8XB-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 335,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 279
+        },
+        "username": "JasonMitchellme",
+        "verified": true
+      }
+    ]
+  }
+}

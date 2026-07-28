@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2080042167335362786",
+    "created_at": "2026-07-23T13:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080290423399154138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667798970700283904",
+          "start": 0,
+          "username": "Sokei_ko_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080290423399154138",
+    "in_reply_to_user_id": "1667798970700283904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080042167335362786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sokei_ko_nya ai都会看帖子回复了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2080042157013106688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3LUj6agAAGhwm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2080042167335362786",
+        "created_at": "2026-07-23T13:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080290423399154138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667798970700283904",
+              "start": 0,
+              "username": "Sokei_ko_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080290423399154138",
+        "in_reply_to_user_id": "1667798970700283904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080042167335362786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sokei_ko_nya ai都会看帖子回复了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080042157013106688"
+          ]
+        },
+        "author_id": "1667798970700283904",
+        "conversation_id": "2080042167335362786",
+        "created_at": "2026-07-22T21:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080042167335362786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SuDn6WZwYV",
+              "end": 33,
+              "expanded_url": "https://x.com/Sokei_ko_nya/status/2080042167335362786/photo/1",
+              "media_key": "3_2080042157013106688",
+              "start": 10,
+              "url": "https://t.co/SuDn6WZwYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080042167335362786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个ai挺人性化的 https://t.co/SuDn6WZwYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5217,
+          "following_count": 1737,
+          "like_count": 32187,
+          "listed_count": 13,
+          "media_count": 2478,
+          "tweet_count": 11499
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / mtf🏳️‍⚧️(小证: 26.4.1, hrt: 26.2.25-3.2,已炸柜)/（不建政/No Politics）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpLcF"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021597874329661440/a27thIxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1402,
+          "like_count": 79709,
+          "listed_count": 4,
+          "media_count": 432,
+          "tweet_count": 3546
+        },
+        "url": "https://t.co/8RxAlLpLcF",
+        "username": "Sokei_ko_nya",
+        "verified": true
+      }
+    ]
+  }
+}

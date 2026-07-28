@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053468846485581824"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2053882831219359863",
+    "created_at": "2026-05-11T17:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T18:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053882831219359863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DlO2tgBofS",
+          "end": 31,
+          "expanded_url": "https://x.com/show5560/status/2053882831219359863/photo/1",
+          "media_key": "3_2053468846485581824",
+          "start": 8,
+          "url": "https://t.co/DlO2tgBofS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053882831219359863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像没什么问题 https://t.co/DlO2tgBofS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2053468846485581824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9jCUAasAAkxrp.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053468846485581824"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2053882831219359863",
+        "created_at": "2026-05-11T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053882831219359863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlO2tgBofS",
+              "end": 31,
+              "expanded_url": "https://x.com/show5560/status/2053882831219359863/photo/1",
+              "media_key": "3_2053468846485581824",
+              "start": 8,
+              "url": "https://t.co/DlO2tgBofS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053882831219359863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像没什么问题 https://t.co/DlO2tgBofS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3907,
+          "following_count": 1682,
+          "like_count": 27414,
+          "listed_count": 7,
+          "media_count": 913,
+          "tweet_count": 6931
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

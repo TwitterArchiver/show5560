@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016056481016381445"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2016056484392796348",
+    "created_at": "2026-01-27T07:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T08:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016056484392796348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4VGYKOb1HW",
+          "end": 33,
+          "expanded_url": "https://x.com/show5560/status/2016056484392796348/photo/1",
+          "media_key": "3_2016056481016381445",
+          "start": 10,
+          "url": "https://t.co/4VGYKOb1HW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016056484392796348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要营业我要营业！ https://t.co/4VGYKOb1HW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1462,
+        "media_key": "3_2016056481016381445",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_p4sB4bAAUIRtU.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016056481016381445"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2016056484392796348",
+        "created_at": "2026-01-27T07:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016056484392796348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VGYKOb1HW",
+              "end": 33,
+              "expanded_url": "https://x.com/show5560/status/2016056484392796348/photo/1",
+              "media_key": "3_2016056481016381445",
+              "start": 10,
+              "url": "https://t.co/4VGYKOb1HW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016056484392796348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要营业我要营业！ https://t.co/4VGYKOb1HW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~想成为一个大魔法师---不想上班.......还债中.jpg 营业/🚪100",
+        "id": "1465701247021838341",
+        "name": "暮绒球の萌？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015505548163321857/npDbeMlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1116,
+          "like_count": 22894,
+          "listed_count": 4,
+          "media_count": 965,
+          "tweet_count": 5724
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

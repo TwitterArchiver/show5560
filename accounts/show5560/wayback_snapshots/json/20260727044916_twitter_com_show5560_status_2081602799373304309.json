@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2081570363851620610",
+    "created_at": "2026-07-27T04:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081602799373304309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672670387409395712",
+          "start": 0,
+          "username": "YENA_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081602799373304309",
+    "in_reply_to_user_id": "1672670387409395712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081570363851620610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YENA_QWQ 主包你好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081570356540977152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOM5NeybsAAJgtq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2081570363851620610",
+        "created_at": "2026-07-27T04:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081602799373304309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672670387409395712",
+              "start": 0,
+              "username": "YENA_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081602799373304309",
+        "in_reply_to_user_id": "1672670387409395712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081570363851620610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YENA_QWQ 主包你好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081570356540977152"
+          ]
+        },
+        "author_id": "1672670387409395712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2081570363851620610",
+        "created_at": "2026-07-27T02:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081570363851620610"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "Arknights"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "Mon3tr"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "cosplay"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "良牙"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSY3oO59Ho",
+              "end": 87,
+              "expanded_url": "https://x.com/YENA_QWQ/status/2081570363851620610/photo/1",
+              "media_key": "3_2081570356540977152",
+              "start": 64,
+              "url": "https://t.co/gSY3oO59Ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081570363851620610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主包露个脸\n良牙两天导致我的脚受到了极大的损伤()\n#明日方舟 #Arknights #Mon3tr #cosplay #良牙 https://t.co/gSY3oO59Ho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5313,
+          "following_count": 1734,
+          "like_count": 32628,
+          "listed_count": 14,
+          "media_count": 2566,
+          "tweet_count": 11901
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-24T18:18:15.000Z",
+        "description": "广西,只在广西出现|一个人类|对象: @tianwen5258|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "tianwen5258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yena32946",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yena32946",
+                "start": 0,
+                "url": "https://t.co/4xazGiGNqa"
+              }
+            ]
+          }
+        },
+        "id": "1672670387409395712",
+        "location": "0772",
+        "name": "叶奈–YENA",
+        "pinned_tweet_id": "2033147238927737166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035031704415739906/jZy6nhm5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3920,
+          "following_count": 719,
+          "like_count": 1054,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/4xazGiGNqa",
+        "username": "YENA_QWQ",
+        "verified": true
+      }
+    ]
+  }
+}

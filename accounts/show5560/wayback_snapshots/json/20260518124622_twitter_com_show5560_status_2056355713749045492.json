@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2056339053440852125",
+    "created_at": "2026-05-18T12:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056355713749045492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236608703400271875",
+          "start": 0,
+          "username": "OliverYeung6"
+        },
+        {
+          "end": 26,
+          "id": "1927269319601209344",
+          "start": 14,
+          "username": "sunspotalgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056355713749045492",
+    "in_reply_to_user_id": "1236608703400271875",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056348859258073185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OliverYeung6 @sunspotalgo 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2056339053440852125",
+        "created_at": "2026-05-18T12:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056355713749045492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236608703400271875",
+              "start": 0,
+              "username": "OliverYeung6"
+            },
+            {
+              "end": 26,
+              "id": "1927269319601209344",
+              "start": 14,
+              "username": "sunspotalgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056355713749045492",
+        "in_reply_to_user_id": "1236608703400271875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056348859258073185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OliverYeung6 @sunspotalgo 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236608703400271875",
+        "conversation_id": "2056339053440852125",
+        "created_at": "2026-05-18T12:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056348859258073185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927269319601209344",
+              "start": 0,
+              "username": "sunspotalgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056348859258073185",
+        "in_reply_to_user_id": "1927269319601209344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056339053440852125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunspotalgo 老师来个回关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3933,
+          "following_count": 1688,
+          "like_count": 27602,
+          "listed_count": 7,
+          "media_count": 1007,
+          "tweet_count": 7097
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T11:04:31.000Z",
+        "description": "🍓Web3项目投研\n🍋人工智能 🍑偶尔擦边",
+        "id": "1236608703400271875",
+        "location": "Hong Kong",
+        "name": "Oli.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917564917504499712/54_R1H1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1892,
+          "like_count": 109,
+          "listed_count": 7,
+          "media_count": 62,
+          "tweet_count": 3149
+        },
+        "username": "OliverYeung6",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-27T07:43:13.000Z",
+        "description": "Web3 老兵 × AI 实战派× 独立开发者\n全职交易员 × 全品种交易 × 自研量化 \n\n免费全品种交易信号转发|实时动态频道\nhttps://t.co/HATA3Xjovz\n\n山寨猎手|24小时加密货币合约监控\nhttps://t.co/3zpf3kQVqb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sunspottrade",
+                "end": 89,
+                "expanded_url": "https://t.me/sunspottrade",
+                "start": 66,
+                "url": "https://t.co/HATA3Xjovz"
+              },
+              {
+                "display_url": "radar.sunspotalgo.com",
+                "end": 132,
+                "expanded_url": "http://radar.sunspotalgo.com",
+                "start": 109,
+                "url": "https://t.co/3zpf3kQVqb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.sunspotalgo.com",
+                "end": 23,
+                "expanded_url": "https://docs.sunspotalgo.com/",
+                "start": 0,
+                "url": "https://t.co/iGIriKLFWp"
+              }
+            ]
+          }
+        },
+        "id": "1927269319601209344",
+        "location": "上海",
+        "name": "太阳黑子 Algo",
+        "pinned_tweet_id": "2056298445649183194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025581827126448128/LIkoua6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 124,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/iGIriKLFWp",
+        "username": "sunspotalgo",
+        "verified": true
+      }
+    ]
+  }
+}

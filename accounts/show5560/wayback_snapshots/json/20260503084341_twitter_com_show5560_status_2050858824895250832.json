@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2050858497861091631",
+    "created_at": "2026-05-03T08:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050858824895250832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050858824895250832",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050858497861091631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia 难崩"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "在广州，坚持双休本身不违法，企业是否安排双休需符合《劳动法》规定的工作时间和休息制度。\n法律规定\n根据《中华人民共和国劳动法》：\n工作时间：每日工作时间不超过8小时，平均每周工作时间不超过44小时。 \n2\n休息保障：用人单位应保证劳动者每周至少休息1日。 \n2\n加班规定：若因生产经营需要延长工作时间，应支付不低于工资150%的加班费；在休息日安排工作又不能补休的，应支付不低于工资200%的报酬；法定节假日安排工作则支付不低于工资300%的报酬。\n...",
+        "height": 2135,
+        "media_key": "3_2050858491808792576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYc7rDbQAAWKvb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2050858497861091631",
+        "created_at": "2026-05-03T08:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050858824895250832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050858824895250832",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050858497861091631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 难崩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050858491808792576"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2050858497861091631",
+        "created_at": "2026-05-03T08:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050858497861091631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBerWsKgIA",
+              "end": 29,
+              "expanded_url": "https://x.com/nyaepheia/status/2050858497861091631/photo/1",
+              "media_key": "3_2050858491808792576",
+              "start": 6,
+              "url": "https://t.co/UBerWsKgIA"
+            },
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/show5560/status/2050243856029888908",
+              "start": 30,
+              "url": "https://t.co/NUi3yujEkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050858497861091631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050243856029888908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已火速修复 https://t.co/UBerWsKgIA https://t.co/NUi3yujEkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/日常发在 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3745,
+          "following_count": 1671,
+          "like_count": 27087,
+          "listed_count": 7,
+          "media_count": 759,
+          "tweet_count": 6713
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 772,
+          "like_count": 18928,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 3125
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

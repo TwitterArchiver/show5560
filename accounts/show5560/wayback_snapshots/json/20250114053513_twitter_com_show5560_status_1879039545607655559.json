@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878815160518971392",
+        "3_1878815160531582976",
+        "3_1878815160523161601"
+      ],
+      "media_source_tweet_id": [
+        "1878815170383995024",
+        "1878815170383995024",
+        "1878815170383995024"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "1879039545607655559",
+    "created_at": "2025-01-14T05:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T06:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879039545607655559"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "京都",
+          "probability": 0.9753,
+          "start": 16,
+          "type": "Place"
+        },
+        {
+          "end": 20,
+          "normalized_text": "奈良",
+          "probability": 0.9536,
+          "start": 19,
+          "type": "Place"
+        },
+        {
+          "end": 23,
+          "normalized_text": "尼崎",
+          "probability": 0.9148,
+          "start": 22,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791296994278907904",
+          "start": 3,
+          "username": "tamakarami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bhhMlJTTyV",
+          "end": 50,
+          "expanded_url": "https://x.com/tamakarami/status/1878815170383995024/photo/1",
+          "media_key": "3_1878815160518971392",
+          "start": 27,
+          "url": "https://t.co/bhhMlJTTyV"
+        },
+        {
+          "display_url": "pic.x.com/bhhMlJTTyV",
+          "end": 50,
+          "expanded_url": "https://x.com/tamakarami/status/1878815170383995024/photo/1",
+          "media_key": "3_1878815160531582976",
+          "start": 27,
+          "url": "https://t.co/bhhMlJTTyV"
+        },
+        {
+          "display_url": "pic.x.com/bhhMlJTTyV",
+          "end": 50,
+          "expanded_url": "https://x.com/tamakarami/status/1878815170383995024/photo/1",
+          "media_key": "3_1878815160523161601",
+          "start": 27,
+          "url": "https://t.co/bhhMlJTTyV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879039545607655559",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 596
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878815170383995024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tamakarami: 京都や奈良や尼崎へ… https://t.co/bhhMlJTTyV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1609,
+        "media_key": "3_1878815160518971392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhLkbyFaEAAzEbk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1609,
+        "media_key": "3_1878815160531582976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhLkbyIagAANXm_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1609,
+        "media_key": "3_1878815160523161601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhLkbyGaAAEqb9f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878815160518971392",
+            "3_1878815160531582976",
+            "3_1878815160523161601"
+          ],
+          "media_source_tweet_id": [
+            "1878815170383995024",
+            "1878815170383995024",
+            "1878815170383995024"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1879039545607655559",
+        "created_at": "2025-01-14T05:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T06:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879039545607655559"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "京都",
+              "probability": 0.9753,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 20,
+              "normalized_text": "奈良",
+              "probability": 0.9536,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 23,
+              "normalized_text": "尼崎",
+              "probability": 0.9148,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791296994278907904",
+              "start": 3,
+              "username": "tamakarami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhhMlJTTyV",
+              "end": 50,
+              "expanded_url": "https://x.com/tamakarami/status/1878815170383995024/photo/1",
+              "media_key": "3_1878815160518971392",
+              "start": 27,
+              "url": "https://t.co/bhhMlJTTyV"
+            },
+            {
+              "display_url": "pic.x.com/bhhMlJTTyV",
+              "end": 50,
+              "expanded_url": "https://x.com/tamakarami/status/1878815170383995024/photo/1",
+              "media_key": "3_1878815160531582976",
+              "start": 27,
+              "url": "https://t.co/bhhMlJTTyV"
+            },
+            {
+              "display_url": "pic.x.com/bhhMlJTTyV",
+              "end": 50,
+              "expanded_url": "https://x.com/tamakarami/status/1878815170383995024/photo/1",
+              "media_key": "3_1878815160523161601",
+              "start": 27,
+              "url": "https://t.co/bhhMlJTTyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879039545607655559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 596
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878815170383995024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tamakarami: 京都や奈良や尼崎へ… https://t.co/bhhMlJTTyV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878815160518971392",
+            "3_1878815160531582976",
+            "3_1878815160523161601"
+          ]
+        },
+        "author_id": "791296994278907904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1878815170383995024",
+        "created_at": "2025-01-13T14:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T15:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878815170383995024"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "京都",
+              "probability": 0.9716,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 4,
+              "normalized_text": "奈良",
+              "probability": 0.9493,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 7,
+              "normalized_text": "尼崎",
+              "probability": 0.9108,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhhMlJTTyV",
+              "end": 34,
+              "expanded_url": "https://x.com/tamakarami/status/1878815170383995024/photo/1",
+              "media_key": "3_1878815160518971392",
+              "start": 11,
+              "url": "https://t.co/bhhMlJTTyV"
+            },
+            {
+              "display_url": "pic.x.com/bhhMlJTTyV",
+              "end": 34,
+              "expanded_url": "https://x.com/tamakarami/status/1878815170383995024/photo/1",
+              "media_key": "3_1878815160531582976",
+              "start": 11,
+              "url": "https://t.co/bhhMlJTTyV"
+            },
+            {
+              "display_url": "pic.x.com/bhhMlJTTyV",
+              "end": 34,
+              "expanded_url": "https://x.com/tamakarami/status/1878815170383995024/photo/1",
+              "media_key": "3_1878815160523161601",
+              "start": 11,
+              "url": "https://t.co/bhhMlJTTyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878815170383995024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 175649,
+          "like_count": 7646,
+          "quote_count": 19,
+          "reply_count": 19,
+          "retweet_count": 596
+        },
+        "reply_settings": "everyone",
+        "text": "京都や奈良や尼崎へ… https://t.co/bhhMlJTTyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆喜欢玩cos★喜欢酷酷的衣服✟ 笨蛋一个 △想成为一个大魔法师△ ♡ 真的真的很喜欢很爱希汐★咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "★酥萌萌★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877292803178508290/u1ZN0s75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1172,
+          "like_count": 24674,
+          "listed_count": 2,
+          "media_count": 877,
+          "tweet_count": 5455
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-26T15:14:40.000Z",
+        "description": "おケツがやってくる",
+        "id": "791296994278907904",
+        "location": "地獄",
+        "name": "絡める",
+        "pinned_tweet_id": "1149312121731080192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851831918914080768/mq6dUdx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269254,
+          "following_count": 1,
+          "like_count": 1432,
+          "listed_count": 626,
+          "media_count": 809,
+          "tweet_count": 2120
+        },
+        "username": "tamakarami",
+        "verified": false
+      }
+    ]
+  }
+}

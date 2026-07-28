@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2049039197416358376",
+    "created_at": "2026-04-28T11:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049087702482710895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049087702482710895",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049039197416358376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2049039188629327872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-mSSkbEAAuw98.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2049039197416358376",
+        "created_at": "2026-04-28T11:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049087702482710895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049087702482710895",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049039197416358376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049039188629327872"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "2049039197416358376",
+        "created_at": "2026-04-28T08:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049039197416358376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrUcrm8ayp",
+              "end": 26,
+              "expanded_url": "https://x.com/yqua_/status/2049039197416358376/photo/1",
+              "media_key": "3_2049039188629327872",
+              "start": 3,
+              "url": "https://t.co/NrUcrm8ayp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049039197416358376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中！ https://t.co/NrUcrm8ayp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2048248982653321657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 1674,
+          "like_count": 26882,
+          "listed_count": 8,
+          "media_count": 676,
+          "tweet_count": 6600
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "终有一天 月亮会觉得 你才是月亮",
+        "id": "1908086926391033856",
+        "name": "你是要气死铨酱么🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013607388050272257/50GECfB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 777,
+          "like_count": 10948,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 507
+        },
+        "username": "yqua_",
+        "verified": false
+      }
+    ]
+  }
+}

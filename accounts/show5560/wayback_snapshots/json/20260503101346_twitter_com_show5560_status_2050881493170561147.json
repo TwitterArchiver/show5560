@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2050874402997518830",
+    "created_at": "2026-05-03T10:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050881493170561147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "269898426",
+          "start": 0,
+          "username": "kuchiruhane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050881493170561147",
+    "in_reply_to_user_id": "269898426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050874402997518830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuchiruhane 老师，你的兔兔好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15650,
+        "height": 1080,
+        "media_key": "7_2050874334663839744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050874334663839744/pu/img/0o27fTnRFyb02SCK.jpg",
+        "public_metrics": {
+          "view_count": 37
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050874334663839744/pu/pl/nSQvzM9vULxjyQMQ.m3u8?tag=25"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050874334663839744/pu/vid/avc1/1906x1080/yDuTtd9vWQptXtt_.mp4?tag=25"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050874334663839744/pu/vid/avc1/634x360/eNPF6pcuD4zxpNQV.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050874334663839744/pu/vid/avc1/1270x720/bEMz70Za3X66nJRD.mp4?tag=25"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050874334663839744/pu/vid/avc1/476x270/oYN_jEJH2GZvMfGr.mp4?tag=25"
+          }
+        ],
+        "width": 1906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2050874402997518830",
+        "created_at": "2026-05-03T10:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050881493170561147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "269898426",
+              "start": 0,
+              "username": "kuchiruhane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050881493170561147",
+        "in_reply_to_user_id": "269898426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050874402997518830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuchiruhane 老师，你的兔兔好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050874334663839744"
+          ]
+        },
+        "author_id": "269898426",
+        "conversation_id": "2050874402997518830",
+        "created_at": "2026-05-03T09:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050874402997518830"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男娘"
+            },
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "娼年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d78lkw6XTc",
+              "end": 44,
+              "expanded_url": "https://x.com/kuchiruhane/status/2050874402997518830/video/1",
+              "media_key": "7_2050874334663839744",
+              "start": 21,
+              "url": "https://t.co/d78lkw6XTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050874402997518830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臭美兔兔 ＃男娘 ＃可爱的男孩子 ＃娼年 https://t.co/d78lkw6XTc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/日常发在 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 1674,
+          "like_count": 27095,
+          "listed_count": 7,
+          "media_count": 761,
+          "tweet_count": 6716
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-21T17:07:40.000Z",
+        "description": "倒霉小男娘，号还没起来就被封了。来自重庆，163cm52kg，欢迎关注(￣O￣)ノ",
+        "id": "269898426",
+        "name": "朽羽",
+        "pinned_tweet_id": "2048268030220894280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034946201028796416/L0akCgRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 58,
+          "like_count": 124,
+          "listed_count": 5,
+          "media_count": 21,
+          "tweet_count": 48
+        },
+        "username": "kuchiruhane",
+        "verified": true
+      }
+    ]
+  }
+}

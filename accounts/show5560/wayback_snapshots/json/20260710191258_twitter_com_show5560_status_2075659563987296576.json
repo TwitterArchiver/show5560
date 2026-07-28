@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2075480475347697673",
+    "created_at": "2026-07-10T19:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075659563987296576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559906722588000256",
+          "start": 0,
+          "username": "ShiomiReiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075659563987296576",
+    "in_reply_to_user_id": "1559906722588000256",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075480475347697673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiomiReiki ？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 950,
+        "media_key": "3_2075480470759018496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2WfeXaEAAzdvB.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075480475347697673",
+        "created_at": "2026-07-10T19:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075659563987296576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559906722588000256",
+              "start": 0,
+              "username": "ShiomiReiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075659563987296576",
+        "in_reply_to_user_id": "1559906722588000256",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075480475347697673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiomiReiki ？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075480470759018496"
+          ]
+        },
+        "author_id": "1559906722588000256",
+        "conversation_id": "2075480475347697673",
+        "created_at": "2026-07-10T07:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075480475347697673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCupl4QSWj",
+              "end": 23,
+              "expanded_url": "https://x.com/ShiomiSuzuori/status/2075480475347697673/photo/1",
+              "media_key": "3_2075480470759018496",
+              "start": 0,
+              "url": "https://t.co/YCupl4QSWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075480475347697673",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1803,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YCupl4QSWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 1735,
+          "like_count": 30760,
+          "listed_count": 12,
+          "media_count": 2165,
+          "tweet_count": 10008
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "",
+        "id": "1559906722588000256",
+        "location": "舞萌国",
+        "name": "汐见玲希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069953612965724160/ubxuDWDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 587,
+          "like_count": 5115,
+          "listed_count": 9,
+          "media_count": 478,
+          "tweet_count": 4088
+        },
+        "url": "",
+        "username": "ShiomiReiki",
+        "verified": true
+      }
+    ]
+  }
+}

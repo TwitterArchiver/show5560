@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2038052098320040020",
+    "created_at": "2026-03-29T02:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038077333979160596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038077333979160596",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038052098320040020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ owo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2038052090124328960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEidk_GaYAAx75N.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2038052098320040020",
+        "created_at": "2026-03-29T02:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038077333979160596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038077333979160596",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038052098320040020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ owo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038052090124328960"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038052098320040020",
+        "created_at": "2026-03-29T00:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038052098320040020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uULlnalty",
+              "end": 27,
+              "expanded_url": "https://x.com/yqua_/status/2038052098320040020/photo/1",
+              "media_key": "3_2038052090124328960",
+              "start": 4,
+              "url": "https://t.co/7uULlnalty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038052098320040020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安。 https://t.co/7uULlnalty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 1181,
+          "like_count": 24589,
+          "listed_count": 5,
+          "media_count": 959,
+          "tweet_count": 5968
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "本垢@BI3BXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "BI3BXI"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "你是要气死铨酱么🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013607388050272257/50GECfB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 698,
+          "like_count": 10744,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 379
+        },
+        "username": "yqua_",
+        "verified": false
+      }
+    ]
+  }
+}

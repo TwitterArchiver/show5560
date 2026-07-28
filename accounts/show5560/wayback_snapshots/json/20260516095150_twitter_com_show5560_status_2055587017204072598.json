@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2055480091036332430",
+    "created_at": "2026-05-16T09:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055587017204072598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660637215335014402",
+          "start": 0,
+          "username": "cngcngyngy38992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055587017204072598",
+    "in_reply_to_user_id": "1660637215335014402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055480091036332430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cngcngyngy38992 说真的，至少比我好看多了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_2055480079703252992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaIPfmaoAAicMb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2055480091036332430",
+        "created_at": "2026-05-16T09:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055587017204072598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660637215335014402",
+              "start": 0,
+              "username": "cngcngyngy38992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055587017204072598",
+        "in_reply_to_user_id": "1660637215335014402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055480091036332430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cngcngyngy38992 说真的，至少比我好看多了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055480079703252992"
+          ]
+        },
+        "author_id": "1660637215335014402",
+        "conversation_id": "2055480091036332430",
+        "created_at": "2026-05-16T02:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055480091036332430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExHEnPkxLu",
+              "end": 38,
+              "expanded_url": "https://x.com/cngcngyngy38992/status/2055480091036332430/photo/1",
+              "media_key": "3_2055480079703252992",
+              "start": 15,
+              "url": "https://t.co/ExHEnPkxLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055480091036332430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6385,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "經典回顧之瘋糖小貓自戀這一塊 https://t.co/ExHEnPkxLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3944,
+          "following_count": 1689,
+          "like_count": 27547,
+          "listed_count": 7,
+          "media_count": 996,
+          "tweet_count": 7047
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T13:23:04.000Z",
+        "description": "07｜二次元｜喜歡拿推上畫師的圖｜不精日不支黑｜不定時發評分系列｜互fo私信",
+        "id": "1660637215335014402",
+        "location": "SIDE 6",
+        "name": "瓜子Online_瑪秋Mode 🇹🇼",
+        "pinned_tweet_id": "1960011339298156743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036995723485646848/o86XMGv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4254,
+          "following_count": 4386,
+          "like_count": 15178,
+          "listed_count": 19,
+          "media_count": 1238,
+          "tweet_count": 6382
+        },
+        "username": "cngcngyngy38992",
+        "verified": false
+      }
+    ]
+  }
+}

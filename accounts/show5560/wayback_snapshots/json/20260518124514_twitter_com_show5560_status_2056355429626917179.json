@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2056350793125773638",
+    "created_at": "2026-05-18T12:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056355429626917179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "49076259",
+          "start": 0,
+          "username": "lijazzer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056355429626917179",
+    "in_reply_to_user_id": "49076259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056350793125773638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lijazzer 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2056350793125773638",
+        "created_at": "2026-05-18T12:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056355429626917179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "49076259",
+              "start": 0,
+              "username": "lijazzer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056355429626917179",
+        "in_reply_to_user_id": "49076259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056350793125773638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijazzer 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "49076259",
+        "conversation_id": "2056350793125773638",
+        "created_at": "2026-05-18T12:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056350793125773638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lijazzer/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/lijazzer/status/2034650223608480180",
+              "start": 37,
+              "url": "https://t.co/20vXxgxPsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056350793125773638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034650223608480180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重开一波蓝v互关，还有新朋友吗？\n\n看看还有多少人在坚持，多少人幸存下来 https://t.co/20vXxgxPsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3933,
+          "following_count": 1684,
+          "like_count": 27602,
+          "listed_count": 7,
+          "media_count": 1007,
+          "tweet_count": 7093
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-20T18:30:05.000Z",
+        "description": "我是一粒误入深渊、不断下坠的尘埃，\n我不会放弃挣扎，直到落地的那一刻。\n\n🤖AI    🧬️社会心理学   🕯️自我救赎\n#时常会发些段子\n#灌溉一点欢乐 #收获一点希望",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "时常会发些段子"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "灌溉一点欢乐"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "收获一点希望"
+              }
+            ]
+          }
+        },
+        "id": "49076259",
+        "name": "jazzer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759855566212739072/fegH79Pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 2500,
+          "like_count": 1997,
+          "listed_count": 8,
+          "media_count": 243,
+          "tweet_count": 3953
+        },
+        "username": "lijazzer",
+        "verified": true
+      }
+    ]
+  }
+}

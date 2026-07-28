@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064009868084920320"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2064180690292203917",
+    "created_at": "2026-06-09T03:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064180690292203917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJrTXUbGoA",
+          "end": 23,
+          "expanded_url": "https://x.com/show5560/status/2064180690292203917/photo/1",
+          "media_key": "3_2064009868084920320",
+          "start": 0,
+          "url": "https://t.co/aJrTXUbGoA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064180690292203917",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/aJrTXUbGoA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_2064009868084920320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTWChgaQAAoFL-.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064009868084920320"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2064180690292203917",
+        "created_at": "2026-06-09T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064180690292203917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJrTXUbGoA",
+              "end": 23,
+              "expanded_url": "https://x.com/show5560/status/2064180690292203917/photo/1",
+              "media_key": "3_2064009868084920320",
+              "start": 0,
+              "url": "https://t.co/aJrTXUbGoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064180690292203917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aJrTXUbGoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘 162cm/58kg /普通长相/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪70",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 1695,
+          "like_count": 28388,
+          "listed_count": 8,
+          "media_count": 1377,
+          "tweet_count": 7817
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

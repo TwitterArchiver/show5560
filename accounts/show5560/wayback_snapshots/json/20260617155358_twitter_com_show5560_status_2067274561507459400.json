@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067274559133478912"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2067274561507459400",
+    "created_at": "2026-06-17T15:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067274561507459400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/boVQlSbh9j",
+          "end": 34,
+          "expanded_url": "https://x.com/show5560/status/2067274561507459400/photo/1",
+          "media_key": "3_2067274559133478912",
+          "start": 11,
+          "url": "https://t.co/boVQlSbh9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067274561507459400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个智商是怎么刷单的 https://t.co/boVQlSbh9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067274559133478912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvQjZacAA73Ar.jpg",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067274559133478912"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2067274561507459400",
+        "created_at": "2026-06-17T15:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067274561507459400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/boVQlSbh9j",
+              "end": 34,
+              "expanded_url": "https://x.com/show5560/status/2067274561507459400/photo/1",
+              "media_key": "3_2067274559133478912",
+              "start": 11,
+              "url": "https://t.co/boVQlSbh9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067274561507459400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个智商是怎么刷单的 https://t.co/boVQlSbh9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 1700,
+          "like_count": 28802,
+          "listed_count": 9,
+          "media_count": 1574,
+          "tweet_count": 8134
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

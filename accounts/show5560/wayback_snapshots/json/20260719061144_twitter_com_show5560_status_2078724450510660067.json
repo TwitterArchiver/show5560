@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2078700934834933930",
+    "created_at": "2026-07-19T06:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078724450510660067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363755659477491714",
+          "start": 0,
+          "username": "RxNANOSU"
+        },
+        {
+          "end": 22,
+          "id": "1347916592303067138",
+          "start": 10,
+          "username": "SypuWindows"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078724450510660067",
+    "in_reply_to_user_id": "1363755659477491714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078700934834933930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RxNANOSU @SypuWindows 哇哇，好好哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078700922486845440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkHeb8a8AAO2yW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2078700922486788096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkHeb8aEAA4bnb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2078700934834933930",
+        "created_at": "2026-07-19T06:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078724450510660067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363755659477491714",
+              "start": 0,
+              "username": "RxNANOSU"
+            },
+            {
+              "end": 22,
+              "id": "1347916592303067138",
+              "start": 10,
+              "username": "SypuWindows"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078724450510660067",
+        "in_reply_to_user_id": "1363755659477491714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078700934834933930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RxNANOSU @SypuWindows 哇哇，好好哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078700922486845440",
+            "3_2078700922486788096"
+          ]
+        },
+        "author_id": "1363755659477491714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078700934834933930",
+        "created_at": "2026-07-19T04:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078700934834933930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1347916592303067138",
+              "start": 26,
+              "username": "SypuWindows"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cx8c1ebdLD",
+              "end": 62,
+              "expanded_url": "https://x.com/RxNANOSU/status/2078700934834933930/photo/1",
+              "media_key": "3_2078700922486845440",
+              "start": 39,
+              "url": "https://t.co/Cx8c1ebdLD"
+            },
+            {
+              "display_url": "pic.x.com/Cx8c1ebdLD",
+              "end": 62,
+              "expanded_url": "https://x.com/RxNANOSU/status/2078700934834933930/photo/1",
+              "media_key": "3_2078700922486788096",
+              "start": 39,
+              "url": "https://t.co/Cx8c1ebdLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078700934834933930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带着一位远道而来的朋友逛萤火虫漫展了，非常感谢您呢！@SypuWindows https://t.co/Cx8c1ebdLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5089,
+          "following_count": 1733,
+          "like_count": 31651,
+          "listed_count": 12,
+          "media_count": 2372,
+          "tweet_count": 10991
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-22T07:41:16.000Z",
+        "description": "東/NANOSU，重度叹咖啡爱好者（谨防速子加入红茶）\n喜好：茶座☕️&速子🧪（欢喜冤家）/旅游/Kigurumi/音乐/炸猪排/🎴/🀄️\nDEBUFF：Rx&BZDs/重度睡眠焦虑\n出没：YIC/SZX/CSX/PVG/CAN/HKG/CJU\n欢迎同好扩列，或者咖啡痴找我聊天，面基随缘抓到请我吃饭谢谢（笑）",
+        "id": "1363755659477491714",
+        "location": "27时世界",
+        "name": "NANOSU",
+        "pinned_tweet_id": "2078058973979345402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363756616772845572/wb6SVkG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 2627,
+          "like_count": 18485,
+          "listed_count": 7,
+          "media_count": 655,
+          "tweet_count": 4120
+        },
+        "url": "",
+        "username": "RxNANOSU",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-09T14:42:17.000Z",
+        "description": "@v0lf_val // スタレ、ブルアカ、ガジェット触ってます。\nアイコンは@OhutonNemuohayo\n🇯🇵🛬🇨🇳🇭🇰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "v0lf_val"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "OhutonNemuohayo"
+              }
+            ]
+          }
+        },
+        "id": "1347916592303067138",
+        "location": "アイコンは崩壊：スターレイルのクラーラ",
+        "name": "れじぇうぃん",
+        "pinned_tweet_id": "2061766860606239109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034319052060147712/9z6NuBSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 581,
+          "like_count": 81696,
+          "listed_count": 5,
+          "media_count": 1153,
+          "tweet_count": 7534
+        },
+        "url": "",
+        "username": "SypuWindows",
+        "verified": false
+      }
+    ]
+  }
+}

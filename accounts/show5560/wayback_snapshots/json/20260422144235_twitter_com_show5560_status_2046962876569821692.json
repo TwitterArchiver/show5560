@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046873932243116428",
+    "created_at": "2026-04-22T14:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046962876569821692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1873831784498262016",
+          "start": 0,
+          "username": "richloy389329"
+        },
+        {
+          "end": 29,
+          "id": "1622066090074607616",
+          "start": 15,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046962876569821692",
+    "in_reply_to_user_id": "1873831784498262016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046946132631097480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@richloy389329 @hoshinofujivy 可是真的越来越差，真的会吗😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046873932243116428",
+        "created_at": "2026-04-22T14:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046962876569821692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1873831784498262016",
+              "start": 0,
+              "username": "richloy389329"
+            },
+            {
+              "end": 29,
+              "id": "1622066090074607616",
+              "start": 15,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046962876569821692",
+        "in_reply_to_user_id": "1873831784498262016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046946132631097480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@richloy389329 @hoshinofujivy 可是真的越来越差，真的会吗😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873831784498262016",
+        "conversation_id": "2046873932243116428",
+        "created_at": "2026-04-22T13:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046946132631097480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            },
+            {
+              "end": 24,
+              "id": "1622066090074607616",
+              "start": 10,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046946132631097480",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046907311013478679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 @hoshinofujivy 会越来越好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 1573,
+          "like_count": 26137,
+          "listed_count": 7,
+          "media_count": 595,
+          "tweet_count": 6129
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-30T20:41:40.000Z",
+        "description": "粉红支黑自避谢谢🙏\n如果一定要写个意识形态在这里的话，那就是社会民主主义",
+        "id": "1873831784498262016",
+        "location": "Tortosa, Spain",
+        "name": "rich loy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993569936745058304/uRjsa58S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 197,
+          "like_count": 34967,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2099
+        },
+        "username": "richloy389329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9172,
+          "following_count": 4225,
+          "like_count": 44133,
+          "listed_count": 33,
+          "media_count": 1907,
+          "tweet_count": 12525
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

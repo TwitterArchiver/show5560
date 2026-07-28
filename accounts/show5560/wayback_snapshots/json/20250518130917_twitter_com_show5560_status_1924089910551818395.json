@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921899643128152064"
+      ],
+      "media_source_tweet_id": [
+        "1923368083621880119"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1924089910551818395",
+    "created_at": "2025-05-18T13:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T14:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924089910551818395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1713168711945949184",
+          "start": 3,
+          "username": "fruits_uma02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0lFWfcZS3t",
+          "end": 41,
+          "expanded_url": "https://x.com/fruits_uma02/status/1923368083621880119/photo/1",
+          "media_key": "3_1921899643128152064",
+          "start": 18,
+          "url": "https://t.co/0lFWfcZS3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924089910551818395",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923368083621880119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fruits_uma02: https://t.co/0lFWfcZS3t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921899643128152064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqv1ivKagAAyNuS.jpg",
+        "width": 1543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921899643128152064"
+          ],
+          "media_source_tweet_id": [
+            "1923368083621880119"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1924089910551818395",
+        "created_at": "2025-05-18T13:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T14:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924089910551818395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1713168711945949184",
+              "start": 3,
+              "username": "fruits_uma02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lFWfcZS3t",
+              "end": 41,
+              "expanded_url": "https://x.com/fruits_uma02/status/1923368083621880119/photo/1",
+              "media_key": "3_1921899643128152064",
+              "start": 18,
+              "url": "https://t.co/0lFWfcZS3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924089910551818395",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923368083621880119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fruits_uma02: https://t.co/0lFWfcZS3t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921899643128152064"
+          ]
+        },
+        "author_id": "1713168711945949184",
+        "conversation_id": "1923368083621880119",
+        "created_at": "2025-05-16T13:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T14:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923368083621880119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lFWfcZS3t",
+              "end": 23,
+              "expanded_url": "https://x.com/fruits_uma02/status/1923368083621880119/photo/1",
+              "media_key": "3_1921899643128152064",
+              "start": 0,
+              "url": "https://t.co/0lFWfcZS3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923368083621880119",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 670,
+          "impression_count": 83155,
+          "like_count": 5254,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0lFWfcZS3t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘✟ 想成为一个大魔法师✟ 已经无糖哩（断糖之后不知道做什么了）✟生活能过的开心就是赢✟ 迷茫焦虑 ♡ 真的很喜欢希汐老师@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "✟焦虑の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 1163,
+          "like_count": 23583,
+          "listed_count": 4,
+          "media_count": 913,
+          "tweet_count": 5604
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T12:23:50.000Z",
+        "description": "【AIイラストで遊ぶ垢】フルーツ馬です/こちらは男性メイン垢です。※BL含みます。基本的にショタ好き。性癖に忠実です。苦手な方はご遠慮ください。　→@fruits_uma 女性メイン垢。無断転載禁止。転載する場合はID記載お願いします。*所持垢はこちらと↑のみです。日本語以外は翻訳頼み",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "fruits_uma"
+              }
+            ]
+          }
+        },
+        "id": "1713168711945949184",
+        "name": "ふるーつうま",
+        "pinned_tweet_id": "1851503193810997307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713172779724595200/ID8AT3gK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9140,
+          "following_count": 78,
+          "like_count": 4393,
+          "listed_count": 34,
+          "media_count": 2754,
+          "tweet_count": 3433
+        },
+        "username": "fruits_uma02",
+        "verified": false
+      }
+    ]
+  }
+}

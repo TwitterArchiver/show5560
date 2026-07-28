@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2072138122125602873",
+    "created_at": "2026-07-01T14:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072323220221673747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072323220221673747",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072138122125602873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YongQuan 应该不会有效吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_2071922529996783616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDykEKWQAAvx9w.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2072138122125602873",
+        "created_at": "2026-07-01T14:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072323220221673747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072323220221673747",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072138122125602873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 应该不会有效吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071922529996783616"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2072138122125602873",
+        "created_at": "2026-07-01T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072138122125602873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SzLpVXgdfR",
+              "end": 67,
+              "expanded_url": "https://x.com/YongQuan/status/2072138122125602873/photo/1",
+              "media_key": "3_2071922529996783616",
+              "start": 44,
+              "url": "https://t.co/SzLpVXgdfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072138122125602873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4101,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果明文签署了一个合同同意双方表达的“不要”和“要”交换，真发生事情了，这合同有效吗？ https://t.co/SzLpVXgdfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4513,
+          "following_count": 1719,
+          "like_count": 29877,
+          "listed_count": 11,
+          "media_count": 1947,
+          "tweet_count": 9104
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10981,
+          "following_count": 4677,
+          "like_count": 51707,
+          "listed_count": 36,
+          "media_count": 4729,
+          "tweet_count": 15302
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

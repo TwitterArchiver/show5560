@@ -1,0 +1,259 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1790703149122199552"
+      ],
+      "media_source_tweet_id": [
+        "1790703210875011385"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1791298250806542629",
+    "created_at": "2024-05-17T02:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T03:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791298250806542629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1519869093586751488",
+          "start": 3,
+          "username": "bugcat_capoo_tw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Gcjvt5Ee4S",
+          "end": 49,
+          "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1790703210875011385/video/1",
+          "media_key": "13_1790703149122199552",
+          "start": 26,
+          "url": "https://t.co/Gcjvt5Ee4S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791298250806542629",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1337
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790703210875011385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bugcat_capoo_tw: 魚的報恩 https://t.co/Gcjvt5Ee4S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16875,
+        "height": 1920,
+        "media_key": "13_1790703149122199552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1790703149122199552/img/8RR86FYtJyDG2xNe.jpg",
+        "public_metrics": {
+          "view_count": 77947
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1790703149122199552/vid/avc1/320x568/uDPGSe_RjeiOy1pt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1790703149122199552/vid/avc1/480x852/ILXlx1sqCaN2VRlO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1790703149122199552/vid/avc1/720x1280/TC-r4kfXXnxWrAws.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1790703149122199552/pl/P_sBgxVPr9kjnKhu.m3u8?tag=14&container=cmaf"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1790703149122199552"
+          ],
+          "media_source_tweet_id": [
+            "1790703210875011385"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1791298250806542629",
+        "created_at": "2024-05-17T02:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T03:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791298250806542629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1519869093586751488",
+              "start": 3,
+              "username": "bugcat_capoo_tw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Gcjvt5Ee4S",
+              "end": 49,
+              "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1790703210875011385/video/1",
+              "media_key": "13_1790703149122199552",
+              "start": 26,
+              "url": "https://t.co/Gcjvt5Ee4S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791298250806542629",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1337
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790703210875011385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bugcat_capoo_tw: 魚的報恩 https://t.co/Gcjvt5Ee4S"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1790703149122199552"
+          ]
+        },
+        "author_id": "1519869093586751488",
+        "conversation_id": "1790703210875011385",
+        "created_at": "2024-05-15T11:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T12:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790703210875011385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Gcjvt5Ee4S",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1790703210875011385/video/1",
+              "media_key": "13_1790703149122199552",
+              "start": 5,
+              "url": "https://t.co/Gcjvt5Ee4S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790703210875011385",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 720,
+          "impression_count": 272522,
+          "like_count": 9477,
+          "quote_count": 53,
+          "reply_count": 70,
+          "retweet_count": 1337
+        },
+        "reply_settings": "everyone",
+        "text": "魚的報恩 https://t.co/Gcjvt5Ee4S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△ 电子猫咪 △想当魔法师的mtx△慢慢变得好看△想要一直放松开心下去△ 当前形态-正太 ◁开始了发癫日常△ 🚪 50",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮はい電子猫ちゃん",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764676829196210176/H6fRFPSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1108,
+          "like_count": 23433,
+          "listed_count": 2,
+          "tweet_count": 4884
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T02:40:18.000Z",
+        "description": "Strange creature that looks like a cat and a bug. 貓貓蟲咖波官方帳號，作者亞拉，來自台灣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/capoo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/capoo",
+                "start": 0,
+                "url": "https://t.co/XuFbWWPA9k"
+              }
+            ]
+          }
+        },
+        "id": "1519869093586751488",
+        "location": "Taichung City, Taiwan",
+        "name": "Bugcat Capoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519869339981152257/KbHAyq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89764,
+          "following_count": 62,
+          "like_count": 24,
+          "listed_count": 189,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/XuFbWWPA9k",
+        "username": "bugcat_capoo_tw",
+        "verified": true
+      }
+    ]
+  }
+}

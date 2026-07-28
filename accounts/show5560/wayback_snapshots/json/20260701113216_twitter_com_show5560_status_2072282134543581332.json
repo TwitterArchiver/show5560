@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2072222009631834282",
+    "created_at": "2026-07-01T11:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072282134543581332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072282134543581332",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072222009631834282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 这在b站得65了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_2072222001310375936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIC7lvaoAA_ap6.jpg",
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2072222009631834282",
+        "created_at": "2026-07-01T11:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072282134543581332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072282134543581332",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072222009631834282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 这在b站得65了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072222001310375936"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072222009631834282",
+        "created_at": "2026-07-01T07:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072222009631834282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8lu1f9Jnd",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/2072222009631834282/photo/1",
+              "media_key": "3_2072222001310375936",
+              "start": 12,
+              "url": "https://t.co/a8lu1f9Jnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072222009631834282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 911,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ba 玩家还是太超模了 https://t.co/a8lu1f9Jnd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 1719,
+          "like_count": 29845,
+          "listed_count": 11,
+          "media_count": 1944,
+          "tweet_count": 9088
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6378,
+          "following_count": 3103,
+          "like_count": 54698,
+          "listed_count": 21,
+          "media_count": 3417,
+          "tweet_count": 14128
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

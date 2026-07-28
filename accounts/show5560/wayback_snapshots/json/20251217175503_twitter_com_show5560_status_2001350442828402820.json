@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1997259901224271984",
+    "created_at": "2025-12-17T17:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T18:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001350442828402820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789158388880015361",
+          "start": 0,
+          "username": "mgn255317826267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001350442828402820",
+    "in_reply_to_user_id": "1789158388880015361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000448534420857141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mgn255317826267 咕咕嘎嘎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1997259901224271984",
+        "created_at": "2025-12-17T17:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T18:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001350442828402820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789158388880015361",
+              "start": 0,
+              "username": "mgn255317826267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001350442828402820",
+        "in_reply_to_user_id": "1789158388880015361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000448534420857141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mgn255317826267 咕咕嘎嘎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789158388880015361",
+        "conversation_id": "1997259901224271984",
+        "created_at": "2025-12-15T06:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000448534420857141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000448534420857141",
+        "in_reply_to_user_id": "1789158388880015361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999394524502851815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 我是说，甜的，那种五毛钱那种的糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 1137,
+          "like_count": 22839,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5688
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T05:00:07.000Z",
+        "description": "喜欢涩涩的一个普通人，但是困难的人，没有倾诉的人，可以找我呀，我会很乐意帮助（无偿）（男的）",
+        "id": "1789158388880015361",
+        "location": "湖北襄阳",
+        "name": "墨乾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000442114002550784/40Ek-FKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 131,
+          "like_count": 1691,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 668
+        },
+        "username": "mgn255317826267",
+        "verified": false
+      }
+    ]
+  }
+}

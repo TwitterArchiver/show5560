@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2035669451132272844",
+    "created_at": "2026-03-22T12:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T13:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035689383962239355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547020655740080128",
+          "start": 0,
+          "username": "H_galgame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035689383962239355",
+    "in_reply_to_user_id": "1547020655740080128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035685796725064053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H_galgame 不能（哈气）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "16_2035685609902325760",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HEA1RtSaQAAVYFU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HEA1RtSaQAAVYFU.mp4"
+          }
+        ],
+        "width": 190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2035669451132272844",
+        "created_at": "2026-03-22T12:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035689383962239355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547020655740080128",
+              "start": 0,
+              "username": "H_galgame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035689383962239355",
+        "in_reply_to_user_id": "1547020655740080128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035685796725064053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H_galgame 不能（哈气）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2035685609902325760"
+          ]
+        },
+        "author_id": "1547020655740080128",
+        "conversation_id": "2035669451132272844",
+        "created_at": "2026-03-22T11:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035685796725064053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhrObXjia9",
+              "end": 45,
+              "expanded_url": "https://x.com/H_galgame/status/2035685796725064053/photo/1",
+              "media_key": "16_2035685609902325760",
+              "start": 22,
+              "url": "https://t.co/qhrObXjia9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035685796725064053",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035669451132272844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这猫能不能出门打工养我 https://t.co/qhrObXjia9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shenzhen, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  114.0683,
+                  22.54554
+                ],
+                "type": "Point"
+              },
+              "locality": "Shenzhen",
+              "region": "Guangdong Province",
+              "sub_region": "Shenzhen"
+            }
+          ]
+        },
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 🚪50 接线下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1176,
+          "like_count": 24180,
+          "listed_count": 5,
+          "media_count": 952,
+          "tweet_count": 5922
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T00:50:57.000Z",
+        "description": "男，怨世的伪善者，健忘的家伙。\n想要朋友？大概是个笨蛋傲娇。\n希望大家都能找到属于自己的真爱呢。\n\n问答箱https://t.co/qFhVEYSxVz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hy3129342449",
+                "end": 76,
+                "expanded_url": "https://ngl.link/hy3129342449",
+                "start": 53,
+                "url": "https://t.co/qFhVEYSxVz"
+              }
+            ]
+          }
+        },
+        "id": "1547020655740080128",
+        "location": "哈尔滨",
+        "name": "輝子",
+        "pinned_tweet_id": "1788435902139945017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977243309082083328/Vbn7lhde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 717,
+          "like_count": 19907,
+          "listed_count": 2,
+          "media_count": 5336,
+          "tweet_count": 12102
+        },
+        "username": "H_galgame",
+        "verified": false
+      }
+    ]
+  }
+}

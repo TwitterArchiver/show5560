@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046918731486650725",
+    "created_at": "2026-04-23T13:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047304209780084887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1441288439144464387",
+          "start": 0,
+          "username": "daweifs"
+        },
+        {
+          "end": 18,
+          "id": "1516479162357370881",
+          "start": 9,
+          "username": "BNBmaoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047304209780084887",
+    "in_reply_to_user_id": "1441288439144464387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046920104458510427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daweifs @BNBmaoda 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046918731486650725",
+        "created_at": "2026-04-23T13:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047304209780084887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1441288439144464387",
+              "start": 0,
+              "username": "daweifs"
+            },
+            {
+              "end": 18,
+              "id": "1516479162357370881",
+              "start": 9,
+              "username": "BNBmaoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047304209780084887",
+        "in_reply_to_user_id": "1441288439144464387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046920104458510427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daweifs @BNBmaoda 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441288439144464387",
+        "conversation_id": "2046918731486650725",
+        "created_at": "2026-04-22T11:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046920104458510427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516479162357370881",
+              "start": 0,
+              "username": "BNBmaoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046920104458510427",
+        "in_reply_to_user_id": "1516479162357370881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046918731486650725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BNBmaoda 借楼，兄弟们蓝v来🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 1638,
+          "like_count": 26328,
+          "listed_count": 7,
+          "media_count": 609,
+          "tweet_count": 6279
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-24T06:28:46.000Z",
+        "description": "链上投研 | 加密货币老韭菜 | Meme与叙事\nAI｜预测市场｜蓝鸟会｜全真会\n欢迎优质合作私信\nTG：@daweifs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "daweifs"
+              }
+            ]
+          }
+        },
+        "id": "1441288439144464387",
+        "location": "深圳",
+        "name": "老韭菜南亥",
+        "pinned_tweet_id": "2047277154803872096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045154654028537856/-QH0bLO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5216,
+          "following_count": 2785,
+          "like_count": 12004,
+          "listed_count": 19,
+          "media_count": 246,
+          "tweet_count": 13589
+        },
+        "username": "daweifs",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-19T18:09:56.000Z",
+        "description": "日更 #撸毛达人.努力撸到房和车！然后自由 ！#binance 出入金安全|三亿用户的共同选择 |BNBholder|灯塔Dao|撸毛军火商|超能肝黑奴| web3全领域资源发卡网：https://t.co/PqzlpjZXML      合作联系：https://t.co/NXlYLItc7n",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 3,
+                "tag": "撸毛达人"
+              },
+              {
+                "end": 31,
+                "start": 23,
+                "tag": "binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "damaozhijian.icu",
+                "end": 114,
+                "expanded_url": "http://damaozhijian.icu/",
+                "start": 91,
+                "url": "https://t.co/PqzlpjZXML"
+              },
+              {
+                "display_url": "t.me/zhishouKYC",
+                "end": 148,
+                "expanded_url": "https://t.me/zhishouKYC",
+                "start": 125,
+                "url": "https://t.co/NXlYLItc7n"
+              }
+            ]
+          }
+        },
+        "id": "1516479162357370881",
+        "name": "BNB毛大🔶承接（流动性维护社区建设返佣节点维护）",
+        "pinned_tweet_id": "1939420935062176030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019978791817564160/8IeDQtFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6687,
+          "following_count": 6274,
+          "like_count": 3059,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 2719
+        },
+        "username": "BNBmaoda",
+        "verified": true
+      }
+    ]
+  }
+}

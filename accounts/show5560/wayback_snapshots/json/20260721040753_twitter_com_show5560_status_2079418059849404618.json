@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2079222177480495446",
+    "created_at": "2026-07-21T04:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079418059849404618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542148580143763456",
+          "start": 0,
+          "username": "migemi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079418059849404618",
+    "in_reply_to_user_id": "1542148580143763456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079222177480495446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@migemi5 可爱捏w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079222142936248320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrhhdbXcAAYC-k.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2079222177480495446",
+        "created_at": "2026-07-21T04:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079418059849404618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542148580143763456",
+              "start": 0,
+              "username": "migemi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079418059849404618",
+        "in_reply_to_user_id": "1542148580143763456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079222177480495446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@migemi5 可爱捏w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079222142936248320"
+          ]
+        },
+        "author_id": "1542148580143763456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2079222177480495446",
+        "created_at": "2026-07-20T15:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079222177480495446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男娘"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "伪娘"
+            },
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6bAkKJeGv",
+              "end": 46,
+              "expanded_url": "https://x.com/migemi5/status/2079222177480495446/photo/1",
+              "media_key": "3_2079222142936248320",
+              "start": 23,
+              "url": "https://t.co/b6bAkKJeGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079222177480495446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3869,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "菲姬杯来咯 #男娘 #伪娘 #cosplay https://t.co/b6bAkKJeGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5178,
+          "following_count": 1740,
+          "like_count": 31887,
+          "listed_count": 13,
+          "media_count": 2418,
+          "tweet_count": 11223
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-29T14:11:07.000Z",
+        "description": "04男娘喵😘清水（大概吧🤔）不网恋不喜欢文爱拒绝聊🔥  \n一般出c的时候会在上海刷新\n不接圆椒不出○卫",
+        "id": "1542148580143763456",
+        "name": "migemi",
+        "pinned_tweet_id": "2026145035629351184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851289597374083072/G2hkeqBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 179,
+          "like_count": 29,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "migemi5",
+        "verified": false
+      }
+    ]
+  }
+}

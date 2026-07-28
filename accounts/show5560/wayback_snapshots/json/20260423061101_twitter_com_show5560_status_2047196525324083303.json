@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046895813830533387",
+    "created_at": "2026-04-23T06:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047196525324083303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1170268520774373377",
+          "start": 0,
+          "username": "ayaya_duk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047196525324083303",
+    "in_reply_to_user_id": "1170268520774373377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046895813830533387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayaya_duk 前面忘了，中间忘了，总之，牢大你真的好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046895805626494977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgI4-qasAERxlu.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046895813830533387",
+        "created_at": "2026-04-23T06:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047196525324083303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1170268520774373377",
+              "start": 0,
+              "username": "ayaya_duk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047196525324083303",
+        "in_reply_to_user_id": "1170268520774373377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046895813830533387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayaya_duk 前面忘了，中间忘了，总之，牢大你真的好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046895805626494977"
+          ]
+        },
+        "author_id": "1170268520774373377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2046895813830533387",
+        "created_at": "2026-04-22T10:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046895813830533387"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "cosplay"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yS9kXzXL4g",
+              "end": 65,
+              "expanded_url": "https://x.com/ayaya_duk/status/2046895813830533387/photo/1",
+              "media_key": "3_2046895805626494977",
+              "start": 42,
+              "url": "https://t.co/yS9kXzXL4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046895813830533387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1032,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "前面忘了中间忘了后面忘了，反正爱你们比心🫰\n\n#明日方舟 #cosplay #男娘 https://t.co/yS9kXzXL4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2943,
+          "following_count": 1607,
+          "like_count": 26235,
+          "listed_count": 7,
+          "media_count": 602,
+          "tweet_count": 6216
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-07T09:32:20.000Z",
+        "description": "♂， 177/131，中文、日本語。 在日本，随机出没广东上海。 杂鱼使魔宝宝@mor_mumu65040",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mor_mumu65040"
+              }
+            ]
+          }
+        },
+        "id": "1170268520774373377",
+        "location": "Japan",
+        "name": "空心蒙布朗🐦‍⬛",
+        "pinned_tweet_id": "2027802415471251563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023419497135427584/EGQlhRDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 353,
+          "like_count": 1325,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 276
+        },
+        "username": "ayaya_duk",
+        "verified": true
+      }
+    ]
+  }
+}

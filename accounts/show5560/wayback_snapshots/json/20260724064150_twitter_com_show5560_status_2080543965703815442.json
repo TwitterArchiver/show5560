@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2080359835414241308",
+    "created_at": "2026-07-24T06:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080543965703815442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        },
+        {
+          "end": 20,
+          "id": "1489034449199190017",
+          "start": 10,
+          "username": "Pigeon_Yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080543965703815442",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080359835414241308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 @Pigeon_Yi 这是杯子？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080359814077853696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7sOosbsAAAD_m.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2080359825486352384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7sPTMbkAADbdt.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2080359835414241308",
+        "created_at": "2026-07-24T06:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080543965703815442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            },
+            {
+              "end": 20,
+              "id": "1489034449199190017",
+              "start": 10,
+              "username": "Pigeon_Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080543965703815442",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080359835414241308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 @Pigeon_Yi 这是杯子？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080359814077853696",
+            "3_2080359825486352384"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080359835414241308",
+        "created_at": "2026-07-23T18:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080359835414241308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1489034449199190017",
+              "start": 25,
+              "username": "Pigeon_Yi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ASscLlP4IN",
+              "end": 120,
+              "expanded_url": "https://x.com/jlxc2001/status/2080359835414241308/photo/1",
+              "media_key": "3_2080359814077853696",
+              "start": 97,
+              "url": "https://t.co/ASscLlP4IN"
+            },
+            {
+              "display_url": "pic.x.com/ASscLlP4IN",
+              "end": 120,
+              "expanded_url": "https://x.com/jlxc2001/status/2080359835414241308/photo/1",
+              "media_key": "3_2080359825486352384",
+              "start": 97,
+              "url": "https://t.co/ASscLlP4IN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080359835414241308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7742,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么会有人在员工宿舍把杯子包装盒但手办摆啊😅😅😅@Pigeon_Yi\n今天进他宿舍，看一眼他柜子上，好像摆了 3 个杯子包装盒，拿近一看，哦，原来是手办啊，再仔细一看，不对，真是杯子啊😨😨😨 https://t.co/ASscLlP4IN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5244,
+          "following_count": 1735,
+          "like_count": 32250,
+          "listed_count": 13,
+          "media_count": 2495,
+          "tweet_count": 11551
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jlxc2001.com",
+                "end": 23,
+                "expanded_url": "http://jlxc2001.com",
+                "start": 0,
+                "url": "https://t.co/625h9MQZlk"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2059940003623621082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18520,
+          "following_count": 225,
+          "like_count": 711,
+          "listed_count": 45,
+          "media_count": 1283,
+          "tweet_count": 3367
+        },
+        "url": "https://t.co/625h9MQZlk",
+        "username": "jlxc2001",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/绳子/数码P/架子鼓/HAM\n成分复杂，欢迎私信约绳/拍/扩列\n暂时是@jlxc2001的秘书（嗯）\n家养基米：@maoxianACT\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "maoxianACT"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "香港/深圳/上海/你心里",
+        "name": "青空夏",
+        "pinned_tweet_id": "2055091696372003241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 947,
+          "like_count": 11077,
+          "listed_count": 5,
+          "media_count": 822,
+          "tweet_count": 4765
+        },
+        "url": "",
+        "username": "Pigeon_Yi",
+        "verified": true
+      }
+    ]
+  }
+}

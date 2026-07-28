@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2051502393985286565",
+    "created_at": "2026-05-05T03:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T04:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051502393985286565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/muaGureowo/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/muaGureowo/status/2051501917587825010",
+          "start": 19,
+          "url": "https://t.co/Jr8t93M7ND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051502393985286565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051501917587825010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给自己引一下流owo\n大家来关注我哇 https://t.co/Jr8t93M7ND"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051501872301867008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhmFWKaAAA8u6K.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051501902899335168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhmHIJaUAApLBf.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051501914362355712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhmHy2aIAAz3Mj.jpg",
+        "width": 1365
+      },
+      {
+        "height": 922,
+        "media_key": "3_2051501914685358080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhmH0DawAAMszQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2051502393985286565",
+        "created_at": "2026-05-05T03:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051502393985286565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/muaGureowo/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/muaGureowo/status/2051501917587825010",
+              "start": 19,
+              "url": "https://t.co/Jr8t93M7ND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051502393985286565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051501917587825010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给自己引一下流owo\n大家来关注我哇 https://t.co/Jr8t93M7ND"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051501872301867008",
+            "3_2051501902899335168",
+            "3_2051501914362355712",
+            "3_2051501914685358080"
+          ]
+        },
+        "author_id": "1835271072809373697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2051501917587825010",
+        "created_at": "2026-05-05T03:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051501917587825010"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "阿米娅"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTHKENj3gD",
+              "end": 159,
+              "expanded_url": "https://x.com/muaGureowo/status/2051501917587825010/photo/1",
+              "media_key": "3_2051501872301867008",
+              "start": 136,
+              "url": "https://t.co/aTHKENj3gD"
+            },
+            {
+              "display_url": "pic.x.com/aTHKENj3gD",
+              "end": 159,
+              "expanded_url": "https://x.com/muaGureowo/status/2051501917587825010/photo/1",
+              "media_key": "3_2051501902899335168",
+              "start": 136,
+              "url": "https://t.co/aTHKENj3gD"
+            },
+            {
+              "display_url": "pic.x.com/aTHKENj3gD",
+              "end": 159,
+              "expanded_url": "https://x.com/muaGureowo/status/2051501917587825010/photo/1",
+              "media_key": "3_2051501914362355712",
+              "start": 136,
+              "url": "https://t.co/aTHKENj3gD"
+            },
+            {
+              "display_url": "pic.x.com/aTHKENj3gD",
+              "end": 159,
+              "expanded_url": "https://x.com/muaGureowo/status/2051501917587825010/photo/1",
+              "media_key": "3_2051501914685358080",
+              "start": 136,
+              "url": "https://t.co/aTHKENj3gD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051501917587825010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5.1，世界线  阿米娅\n博士，还有很多没有完成的工作，所以现在还不能休息。\n\n原谅我，动作已经尽力的去摆了，不会笑所以看起来有点僵硬（臭三无），朋友也不在身边，拍不出那种衣服飘起来的效果\n咕，嘴下留情，孩子心里脆弱\n下次我会更好的（一定）\n#明日方舟 #阿米娅 #男娘 https://t.co/aTHKENj3gD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/日常发在 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3802,
+          "following_count": 1676,
+          "like_count": 27174,
+          "listed_count": 8,
+          "media_count": 786,
+          "tweet_count": 6753
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T10:55:06.000Z",
+        "description": "06男娘｜162cm/58kg｜努力还清债务中.jpg｜不想减肥哩( ⩌⤚⩌)｜本家 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1835271072809373697",
+        "name": "沫璃ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045132518752739328/SnQgzfbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 4,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "muaGureowo",
+        "verified": false
+      }
+    ]
+  }
+}

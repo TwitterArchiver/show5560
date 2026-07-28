@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2044732537038053519",
+    "created_at": "2026-04-16T18:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T19:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044838986070520013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3278121176",
+          "start": 0,
+          "username": "unkkyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044838986070520013",
+    "in_reply_to_user_id": "3278121176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044789612066070923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unkkyss 没问题）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2044732537038053519",
+        "created_at": "2026-04-16T18:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044838986070520013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3278121176",
+              "start": 0,
+              "username": "unkkyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044838986070520013",
+        "in_reply_to_user_id": "3278121176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044789612066070923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unkkyss 没问题）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3278121176",
+        "conversation_id": "2044732537038053519",
+        "created_at": "2026-04-16T14:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044789612066070923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044789612066070923",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4026,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044732537038053519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 人工已接入，没毛病！👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 看到蓝勾会回的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 1350,
+          "like_count": 25303,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 5684
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-13T04:07:34.000Z",
+        "description": "Java 开发工程师，现专注全栈开发｜关注 AI、大模型与技术落地\n白天写业务，晚上研究未来，偶尔也顺手修一修人生 Bug",
+        "id": "3278121176",
+        "location": "California, USA",
+        "name": "托马斯开面包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545410806677852160/T2FZaOZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 269,
+          "like_count": 8308,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "username": "unkkyss",
+        "verified": true
+      }
+    ]
+  }
+}

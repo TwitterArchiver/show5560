@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030175700028919808"
+      ],
+      "media_source_tweet_id": [
+        "2030175702415544520"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2030542836907872521",
+    "created_at": "2026-03-08T07:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T08:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030542836907872521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1v9AmnZc4G",
+          "end": 58,
+          "expanded_url": "https://x.com/show5560/status/2030175702415544520/photo/1",
+          "media_key": "3_2030175700028919808",
+          "start": 35,
+          "url": "https://t.co/1v9AmnZc4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030542836907872521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030175702415544520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 唔，不困....可是感觉精神好疲惫qwq https://t.co/1v9AmnZc4G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_2030175700028919808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyiCvfakAAKPkV.jpg",
+        "width": 535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030175700028919808"
+          ],
+          "media_source_tweet_id": [
+            "2030175702415544520"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2030542836907872521",
+        "created_at": "2026-03-08T07:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030542836907872521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1v9AmnZc4G",
+              "end": 58,
+              "expanded_url": "https://x.com/show5560/status/2030175702415544520/photo/1",
+              "media_key": "3_2030175700028919808",
+              "start": 35,
+              "url": "https://t.co/1v9AmnZc4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030542836907872521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030175702415544520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 唔，不困....可是感觉精神好疲惫qwq https://t.co/1v9AmnZc4G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030175700028919808"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2030175702415544520",
+        "created_at": "2026-03-07T06:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030175702415544520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1v9AmnZc4G",
+              "end": 44,
+              "expanded_url": "https://x.com/show5560/status/2030175702415544520/photo/1",
+              "media_key": "3_2030175700028919808",
+              "start": 21,
+              "url": "https://t.co/1v9AmnZc4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030175702415544520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1008,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唔，不困....可是感觉精神好疲惫qwq https://t.co/1v9AmnZc4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘mtf🍥猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 坐标:深圳  🚪50 可以线下",
+        "id": "1465701247021838341",
+        "name": "绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1154,
+          "like_count": 23516,
+          "listed_count": 4,
+          "media_count": 944,
+          "tweet_count": 5834
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

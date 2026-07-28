@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068015692591579136"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068015694927810975",
+    "created_at": "2026-06-19T16:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068015694927810975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGnVAtD0tQ",
+          "end": 36,
+          "expanded_url": "https://x.com/show5560/status/2068015694927810975/photo/1",
+          "media_key": "3_2068015692591579136",
+          "start": 13,
+          "url": "https://t.co/JGnVAtD0tQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068015694927810975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这不国宴吗（bushi） https://t.co/JGnVAtD0tQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2068015692591579136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMRUMrawAAX9yj.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068015692591579136"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068015694927810975",
+        "created_at": "2026-06-19T16:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068015694927810975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGnVAtD0tQ",
+              "end": 36,
+              "expanded_url": "https://x.com/show5560/status/2068015694927810975/photo/1",
+              "media_key": "3_2068015692591579136",
+              "start": 13,
+              "url": "https://t.co/JGnVAtD0tQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068015694927810975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这不国宴吗（bushi） https://t.co/JGnVAtD0tQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4424,
+          "following_count": 1701,
+          "like_count": 28903,
+          "listed_count": 9,
+          "media_count": 1630,
+          "tweet_count": 8217
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

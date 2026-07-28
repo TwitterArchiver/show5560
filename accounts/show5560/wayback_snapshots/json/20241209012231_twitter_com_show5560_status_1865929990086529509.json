@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865387949225119744"
+      ],
+      "media_source_tweet_id": [
+        "1865387960453218722"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1865929990086529509",
+    "created_at": "2024-12-09T01:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T02:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865929990086529509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1082600293475397634",
+          "start": 3,
+          "username": "Kirakiradove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xdtE9EqAs",
+          "end": 60,
+          "expanded_url": "https://x.com/Kirakiradove/status/1865387960453218722/photo/1",
+          "media_key": "3_1865387949225119744",
+          "start": 37,
+          "url": "https://t.co/5xdtE9EqAs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865929990086529509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865387960453218722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirakiradove: 我重临世界之日，\n\n诸逆臣皆当死去！ https://t.co/5xdtE9EqAs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1865387949225119744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeMwdOHbkAAlGLY.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865387949225119744"
+          ],
+          "media_source_tweet_id": [
+            "1865387960453218722"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1865929990086529509",
+        "created_at": "2024-12-09T01:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T02:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865929990086529509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1082600293475397634",
+              "start": 3,
+              "username": "Kirakiradove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xdtE9EqAs",
+              "end": 60,
+              "expanded_url": "https://x.com/Kirakiradove/status/1865387960453218722/photo/1",
+              "media_key": "3_1865387949225119744",
+              "start": 37,
+              "url": "https://t.co/5xdtE9EqAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865929990086529509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865387960453218722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirakiradove: 我重临世界之日，\n\n诸逆臣皆当死去！ https://t.co/5xdtE9EqAs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865387949225119744"
+          ]
+        },
+        "author_id": "1082600293475397634",
+        "conversation_id": "1865387960453218722",
+        "created_at": "2024-12-07T13:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T14:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865387960453218722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xdtE9EqAs",
+              "end": 42,
+              "expanded_url": "https://x.com/Kirakiradove/status/1865387960453218722/photo/1",
+              "media_key": "3_1865387949225119744",
+              "start": 19,
+              "url": "https://t.co/5xdtE9EqAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865387960453218722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2376,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我重临世界之日，\n\n诸逆臣皆当死去！ https://t.co/5xdtE9EqAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆ 笨蛋一个 △想成为一个大魔法师△ ♡想要被独爱.偏爱♡ 真的真的很喜欢很爱希汐★咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌萌★暮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846497644887351296/kv8ICFGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1178,
+          "like_count": 24527,
+          "listed_count": 2,
+          "media_count": 867,
+          "tweet_count": 5405
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "🉑🉑丨我是孤儿丨原因就是性别丨非男非女纯人间失格丨每周去麦当当打工还助学贷款丨能活到现在纯靠运气和好人援助交际丨有问题可以直接私信我但想要提要求请先支付宝口令丨vx门槛88接陪聊陪玩交明年学费丨重度药物依赖每天晚上都会发癫⚠️丨正常情况下超高频率和粉丝互动丨免费头像进度请点击媒体查看丨其他请看亮点丨感谢你们喜欢我",
+        "id": "1082600293475397634",
+        "location": "隨機",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3071,
+          "following_count": 0,
+          "like_count": 4572,
+          "listed_count": 7,
+          "media_count": 234,
+          "tweet_count": 3291
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

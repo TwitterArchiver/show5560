@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2067142338653368665",
+    "created_at": "2026-06-17T11:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067209388721569994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1450893562686541824",
+          "start": 0,
+          "username": "KK404error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067209388721569994",
+    "in_reply_to_user_id": "1450893562686541824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067165673563083186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK404error 多看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2067142338653368665",
+        "created_at": "2026-06-17T11:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067209388721569994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1450893562686541824",
+              "start": 0,
+              "username": "KK404error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067209388721569994",
+        "in_reply_to_user_id": "1450893562686541824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067165673563083186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK404error 多看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450893562686541824",
+        "conversation_id": "2067142338653368665",
+        "created_at": "2026-06-17T08:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067165673563083186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067165673563083186",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067142338653368665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 好看爱看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4424,
+          "following_count": 1701,
+          "like_count": 28781,
+          "listed_count": 9,
+          "media_count": 1562,
+          "tweet_count": 8119
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-20T18:36:02.000Z",
+        "description": "叫我KK就好，或者你更喜欢叫卡玛/石头爱好者/偏头痛易感/OCPD/\n\nJe veux la gloire à mes genoux/推荐个喵叽VPN 点链接可以看看↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=rK222yWf",
+                "start": 0,
+                "url": "https://t.co/WQ2VbNLB1c"
+              }
+            ]
+          }
+        },
+        "id": "1450893562686541824",
+        "location": "十一万四千五百一十四米",
+        "name": "Karma·Kaslana",
+        "pinned_tweet_id": "2045976882647302523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035518449146056704/w7UGd6OR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12661,
+          "following_count": 5278,
+          "like_count": 77096,
+          "listed_count": 22,
+          "media_count": 1638,
+          "tweet_count": 40040
+        },
+        "url": "https://t.co/WQ2VbNLB1c",
+        "username": "KK404error",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2069670205467595128",
+    "created_at": "2026-06-24T08:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069705435159085331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010561034315325440",
+          "start": 0,
+          "username": "PsiStormSC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069705435159085331",
+    "in_reply_to_user_id": "2010561034315325440",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069699080729854358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsiStormSC XD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2069670205467595128",
+        "created_at": "2026-06-24T08:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069705435159085331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010561034315325440",
+              "start": 0,
+              "username": "PsiStormSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069705435159085331",
+        "in_reply_to_user_id": "2010561034315325440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069699080729854358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsiStormSC XD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010561034315325440",
+        "conversation_id": "2069670205467595128",
+        "created_at": "2026-06-24T08:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069699080729854358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069699080729854358",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069677175218094346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 贷款整容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 1697,
+          "like_count": 29127,
+          "listed_count": 9,
+          "media_count": 1769,
+          "tweet_count": 8448
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T03:54:39.000Z",
+        "description": "",
+        "id": "2010561034315325440",
+        "name": "PsiStorm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010561155878805506/OzZHkNSu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 521,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "PsiStormSC",
+        "verified": false
+      }
+    ]
+  }
+}

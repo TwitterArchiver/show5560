@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046120875053703632",
+    "created_at": "2026-04-20T11:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046183461640417779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1257070614",
+          "start": 0,
+          "username": "zhaoke92"
+        },
+        {
+          "end": 19,
+          "id": "1461275257428340743",
+          "start": 10,
+          "username": "maxweb00"
+        },
+        {
+          "end": 32,
+          "id": "1761466351011409920",
+          "start": 20,
+          "username": "wongdefa404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046183461640417779",
+    "in_reply_to_user_id": "1257070614",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046175691637404146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaoke92 @maxweb00 @wongdefa404 等回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046120875053703632",
+        "created_at": "2026-04-20T11:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046183461640417779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1257070614",
+              "start": 0,
+              "username": "zhaoke92"
+            },
+            {
+              "end": 19,
+              "id": "1461275257428340743",
+              "start": 10,
+              "username": "maxweb00"
+            },
+            {
+              "end": 32,
+              "id": "1761466351011409920",
+              "start": 20,
+              "username": "wongdefa404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046183461640417779",
+        "in_reply_to_user_id": "1257070614",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046175691637404146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaoke92 @maxweb00 @wongdefa404 等回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257070614",
+        "conversation_id": "2046120875053703632",
+        "created_at": "2026-04-20T10:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046175691637404146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1461275257428340743",
+              "start": 0,
+              "username": "maxweb00"
+            },
+            {
+              "end": 22,
+              "id": "1761466351011409920",
+              "start": 10,
+              "username": "wongdefa404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046175691637404146",
+        "in_reply_to_user_id": "1461275257428340743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046121903866495108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maxweb00 @wongdefa404 不管是不是蓝V，都点击进去看下再决定要不要回关，有些人发的内容比较敏感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 1453,
+          "like_count": 25731,
+          "listed_count": 6,
+          "media_count": 559,
+          "tweet_count": 5856
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-10T13:56:37.000Z",
+        "description": "🛰️ A股野生交易员 & Strategy Developer & Python Developer\n\n💡 Service: 帮大家把交易想法转化成可视化的回测报告。\n\n📩 欢迎私信提供逻辑或策略，我出报告，数据共享。\n\n🚫Not Financial Advice",
+        "id": "1257070614",
+        "location": "San Francisco, CA",
+        "name": "中衡英寿",
+        "pinned_tweet_id": "2045500317526089844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715397634897141760/IPPwEoYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 103,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 300
+        },
+        "username": "zhaoke92",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-18T10:09:15.000Z",
+        "description": "市场营销｜AI 视觉实验室｜奇怪知识爱好者｜闲聊专家｜不可接触者｜海量却不喜欢喝酒者（偶尔会在日本闲逛）",
+        "id": "1461275257428340743",
+        "name": "MAXZ Ai",
+        "pinned_tweet_id": "1483008259799797760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761748700605579264/YWcjJlAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 1383,
+          "like_count": 435,
+          "listed_count": 12,
+          "media_count": 1518,
+          "tweet_count": 13841
+        },
+        "username": "maxweb00",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T19:01:40.000Z",
+        "description": "一本正经的胡说八道",
+        "id": "1761466351011409920",
+        "name": "王德发WTF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018782371248529408/jKTtaWfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 1861,
+          "like_count": 5827,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 3181
+        },
+        "username": "wongdefa404",
+        "verified": true
+      }
+    ]
+  }
+}

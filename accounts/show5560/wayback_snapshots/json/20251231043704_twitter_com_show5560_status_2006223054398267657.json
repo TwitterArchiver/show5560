@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005990536117903361"
+      ],
+      "media_source_tweet_id": [
+        "2005990538328322151"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006223054398267657",
+    "created_at": "2025-12-31T04:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006223054398267657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1030970673194102785",
+          "start": 3,
+          "username": "htrgt_31"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OBOWnmUXe0",
+          "end": 43,
+          "expanded_url": "https://x.com/htrgt_31/status/2005990538328322151/photo/1",
+          "media_key": "3_2005990536117903361",
+          "start": 20,
+          "url": "https://t.co/OBOWnmUXe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006223054398267657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 697
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005990538328322151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @htrgt_31: シェリハン https://t.co/OBOWnmUXe0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005990536117903361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9a1w7AaYAE_zFK.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005990536117903361"
+          ],
+          "media_source_tweet_id": [
+            "2005990538328322151"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006223054398267657",
+        "created_at": "2025-12-31T04:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006223054398267657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1030970673194102785",
+              "start": 3,
+              "username": "htrgt_31"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBOWnmUXe0",
+              "end": 43,
+              "expanded_url": "https://x.com/htrgt_31/status/2005990538328322151/photo/1",
+              "media_key": "3_2005990536117903361",
+              "start": 20,
+              "url": "https://t.co/OBOWnmUXe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006223054398267657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 697
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005990538328322151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @htrgt_31: シェリハン https://t.co/OBOWnmUXe0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005990536117903361"
+          ]
+        },
+        "author_id": "1030970673194102785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005990538328322151",
+        "created_at": "2025-12-30T13:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T14:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005990538328322151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBOWnmUXe0",
+              "end": 29,
+              "expanded_url": "https://x.com/htrgt_31/status/2005990538328322151/photo/1",
+              "media_key": "3_2005990536117903361",
+              "start": 6,
+              "url": "https://t.co/OBOWnmUXe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005990538328322151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 45892,
+          "like_count": 3479,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 697
+        },
+        "reply_settings": "everyone",
+        "text": "シェリハン https://t.co/OBOWnmUXe0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班....... 跑外卖还负债中.jpg ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1131,
+          "like_count": 22861,
+          "listed_count": 4,
+          "media_count": 961,
+          "tweet_count": 5699
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-19T00:12:17.000Z",
+        "description": "20↑。いろんなオタク。3L好き。\n今はmnsbにハマっています。(ネタバレポストあり)",
+        "id": "1030970673194102785",
+        "location": "✒️🗡・🌸🔥 無断転載❌AI学習❌",
+        "name": "たいむ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624577185494466560/1PZL532f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 12,
+          "like_count": 593,
+          "listed_count": 7,
+          "media_count": 31,
+          "tweet_count": 193
+        },
+        "username": "htrgt_31",
+        "verified": false
+      }
+    ]
+  }
+}

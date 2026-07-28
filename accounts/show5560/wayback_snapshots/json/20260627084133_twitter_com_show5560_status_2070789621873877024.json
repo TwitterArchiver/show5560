@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2070552675469631751",
+    "created_at": "2026-06-27T08:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070789621873877024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "238094714",
+          "start": 0,
+          "username": "punkcan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070789621873877024",
+    "in_reply_to_user_id": "238094714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070765447142928622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@punkcan 我也不信（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2070552675469631751",
+        "created_at": "2026-06-27T08:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070789621873877024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "238094714",
+              "start": 0,
+              "username": "punkcan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070789621873877024",
+        "in_reply_to_user_id": "238094714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070765447142928622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@punkcan 我也不信（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "238094714",
+        "conversation_id": "2070552675469631751",
+        "created_at": "2026-06-27T07:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070765447142928622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070765447142928622",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070552675469631751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 我不太信人類打平了袋鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 1705,
+          "like_count": 29336,
+          "listed_count": 11,
+          "media_count": 1843,
+          "tweet_count": 8644
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2011-01-14T10:30:15.000Z",
+        "description": "🧠 持续深度进化大脑骇客\n🎨 AI 工具实战 & 生成艺术创作者\n📊 分享深度研究报告与艺术洞见\n🔄 探索思维迭代、AI 代理与创作者经济\n✨ 给想持续成长的技术人与创作者",
+        "id": "238094714",
+        "location": "TRAPPIST-1-h：Ort der Renaissan",
+        "name": "Punkcan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069928996616486912/ua46SlR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 619,
+          "like_count": 10018,
+          "listed_count": 18,
+          "media_count": 1461,
+          "tweet_count": 13375
+        },
+        "url": "",
+        "username": "punkcan",
+        "verified": true
+      }
+    ]
+  }
+}

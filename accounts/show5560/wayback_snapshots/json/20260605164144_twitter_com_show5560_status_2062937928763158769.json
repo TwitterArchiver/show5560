@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2062847059116597469",
+    "created_at": "2026-06-05T16:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062937928763158769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062937928763158769",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062847059116597469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 可是好吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2062847007757352960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC0bJNawAAmVSr.jpg",
+        "width": 1085
+      },
+      {
+        "height": 1196,
+        "media_key": "3_2062847007765753856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC0bJPa8AADcvQ.jpg",
+        "width": 1315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2062847059116597469",
+        "created_at": "2026-06-05T16:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062937928763158769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062937928763158769",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062847059116597469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 可是好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062847007757352960",
+            "3_2062847007765753856"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414256",
+              "name": "Pizza Hut"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414256",
+              "name": "Pizza Hut"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2062847059116597469",
+        "created_at": "2026-06-05T10:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062847059116597469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UryZehLCk2",
+              "end": 55,
+              "expanded_url": "https://x.com/_ropu/status/2062847059116597469/photo/1",
+              "media_key": "3_2062847007757352960",
+              "start": 32,
+              "url": "https://t.co/UryZehLCk2"
+            },
+            {
+              "display_url": "pic.x.com/UryZehLCk2",
+              "end": 55,
+              "expanded_url": "https://x.com/_ropu/status/2062847059116597469/photo/1",
+              "media_key": "3_2062847007765753856",
+              "start": 32,
+              "url": "https://t.co/UryZehLCk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062847059116597469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1913,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要在晚餐时间点pizza hut的外卖…不然会变得一团糟！！ https://t.co/UryZehLCk2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4359,
+          "following_count": 1687,
+          "like_count": 28177,
+          "listed_count": 8,
+          "media_count": 1304,
+          "tweet_count": 7683
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん： @Cchang3243 || CN/JP/EN/KR ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2055435465881538633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31122,
+          "following_count": 4373,
+          "like_count": 15288,
+          "listed_count": 32,
+          "media_count": 4724,
+          "tweet_count": 34550
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

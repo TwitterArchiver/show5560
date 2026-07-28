@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046509013026943168",
+    "created_at": "2026-04-21T10:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046539119703277974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1613791416936960000",
+          "start": 0,
+          "username": "kan02933606"
+        },
+        {
+          "end": 24,
+          "id": "1759533763640365056",
+          "start": 13,
+          "username": "CryptoGiio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046539119703277974",
+    "in_reply_to_user_id": "1613791416936960000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046516736627966090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kan02933606 @CryptoGiio 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046509013026943168",
+        "created_at": "2026-04-21T10:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046539119703277974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1613791416936960000",
+              "start": 0,
+              "username": "kan02933606"
+            },
+            {
+              "end": 24,
+              "id": "1759533763640365056",
+              "start": 13,
+              "username": "CryptoGiio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046539119703277974",
+        "in_reply_to_user_id": "1613791416936960000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046516736627966090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kan02933606 @CryptoGiio 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613791416936960000",
+        "conversation_id": "2046509013026943168",
+        "created_at": "2026-04-21T09:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046516736627966090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759533763640365056",
+              "start": 0,
+              "username": "CryptoGiio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046516736627966090",
+        "in_reply_to_user_id": "1759533763640365056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046509013026943168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoGiio 哥，你把我落下了，关注你好久了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 1526,
+          "like_count": 25898,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 5982
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-13T06:54:10.000Z",
+        "description": "OKX钱包 :https://t.co/hhPhYhjOn5\n\nGMGN:https://t.co/HdUNZZXaVf\n\nPolymarket: https://t.co/Xcp9SjO0sx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.okx.com/join/WJTAO",
+                "end": 30,
+                "expanded_url": "http://web3.okx.com/join/WJTAO",
+                "start": 7,
+                "url": "https://t.co/hhPhYhjOn5"
+              },
+              {
+                "display_url": "gmgn.ai/?ref=bSBYaRka",
+                "end": 60,
+                "expanded_url": "http://gmgn.ai/?ref=bSBYaRka",
+                "start": 37,
+                "url": "https://t.co/HdUNZZXaVf"
+              },
+              {
+                "display_url": "polymarket.com/?r=Jing",
+                "end": 97,
+                "expanded_url": "http://polymarket.com/?r=Jing",
+                "start": 74,
+                "url": "https://t.co/Xcp9SjO0sx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 23,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_Poly123",
+                "start": 0,
+                "url": "https://t.co/Sor4rVBP8W"
+              }
+            ]
+          }
+        },
+        "id": "1613791416936960000",
+        "location": "预测市场➡️",
+        "name": "Mercury",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881943787536318464/vSpESYUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 896,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/Sor4rVBP8W",
+        "username": "kan02933606",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-19T11:02:07.000Z",
+        "description": "追踪热点——分享加密——PVP小菜鸡——喜欢吃瓜\n#Binance",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 25,
+                "tag": "Binance"
+              }
+            ]
+          }
+        },
+        "id": "1759533763640365056",
+        "location": "印度",
+        "name": "吉奥",
+        "pinned_tweet_id": "2046509013026943168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000842672664403971/JyX5kaNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27287,
+          "following_count": 2907,
+          "like_count": 16655,
+          "listed_count": 65,
+          "media_count": 354,
+          "tweet_count": 17335
+        },
+        "username": "CryptoGiio",
+        "verified": true
+      }
+    ]
+  }
+}

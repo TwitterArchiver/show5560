@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919336299275960320"
+      ],
+      "media_source_tweet_id": [
+        "1919336307568103433"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1919452503307174168",
+    "created_at": "2025-05-05T18:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T19:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919452503307174168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768991601240772608",
+          "start": 3,
+          "username": "pimicococ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nKpRrbZqjf",
+          "end": 50,
+          "expanded_url": "https://x.com/pimicococ/status/1919336307568103433/photo/1",
+          "media_key": "3_1919336299275960320",
+          "start": 27,
+          "url": "https://t.co/nKpRrbZqjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919452503307174168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919336307568103433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pimicococ: こういうことですか！？ https://t.co/nKpRrbZqjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_1919336299275960320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqLaMfLbQAAV_q6.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919336299275960320"
+          ],
+          "media_source_tweet_id": [
+            "1919336307568103433"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1919452503307174168",
+        "created_at": "2025-05-05T18:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T19:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919452503307174168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768991601240772608",
+              "start": 3,
+              "username": "pimicococ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKpRrbZqjf",
+              "end": 50,
+              "expanded_url": "https://x.com/pimicococ/status/1919336307568103433/photo/1",
+              "media_key": "3_1919336299275960320",
+              "start": 27,
+              "url": "https://t.co/nKpRrbZqjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919452503307174168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919336307568103433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pimicococ: こういうことですか！？ https://t.co/nKpRrbZqjf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919336299275960320"
+          ]
+        },
+        "author_id": "1768991601240772608",
+        "conversation_id": "1919336307568103433",
+        "created_at": "2025-05-05T10:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T11:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919336307568103433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKpRrbZqjf",
+              "end": 35,
+              "expanded_url": "https://x.com/pimicococ/status/1919336307568103433/photo/1",
+              "media_key": "3_1919336299275960320",
+              "start": 12,
+              "url": "https://t.co/nKpRrbZqjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919336307568103433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 42438,
+          "like_count": 2601,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "こういうことですか！？ https://t.co/nKpRrbZqjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟ 想成为一个大魔法师✟ 已经无糖哩（断糖之后不知道做什么了）  ♡ 真的真的很喜欢很爱咱家的宇宙超级豪华至尊无敌第一的希汐公主殿下@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1163,
+          "like_count": 23561,
+          "listed_count": 4,
+          "media_count": 909,
+          "tweet_count": 5592
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T13:24:09.000Z",
+        "description": "花庭から始めた初心者/成人済/大陸の情報見てます/垢の説明やポイピク等は↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pimicococ",
+                "end": 23,
+                "expanded_url": "https://lit.link/pimicococ",
+                "start": 0,
+                "url": "https://t.co/6fPZHB1yr0"
+              }
+            ]
+          }
+        },
+        "id": "1768991601240772608",
+        "location": "日本",
+        "name": "pimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769958389789163520/cVvL1gyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4411,
+          "following_count": 45,
+          "like_count": 3161,
+          "listed_count": 38,
+          "media_count": 220,
+          "tweet_count": 2866
+        },
+        "url": "https://t.co/6fPZHB1yr0",
+        "username": "pimicococ",
+        "verified": false
+      }
+    ]
+  }
+}

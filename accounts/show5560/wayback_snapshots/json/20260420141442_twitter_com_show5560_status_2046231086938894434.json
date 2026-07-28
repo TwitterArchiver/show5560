@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2041526128318230720",
+    "created_at": "2026-04-20T14:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046231086938894434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041364028765679616",
+          "start": 0,
+          "username": "RwandaMiner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046231086938894434",
+    "in_reply_to_user_id": "2041364028765679616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041526128318230720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RwandaMiner 回"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2783,
+        "height": 1920,
+        "media_key": "13_2041525658187149312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041525658187149312/img/12Lg0CR69Hg9evMr.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041525658187149312/vid/avc1/720x960/WPy_-I1nzL9HdYBz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041525658187149312/pl/jblqaPE43agO9Ikf.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041525658187149312/vid/avc1/1440x1920/ansoDw3_GgiSsw5V.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041525658187149312/vid/avc1/320x426/KCVvIekh8QoRRJxp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041525658187149312/vid/avc1/480x640/PSMWgPZp_R7AC5pn.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2041526128318230720",
+        "created_at": "2026-04-20T14:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046231086938894434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041364028765679616",
+              "start": 0,
+              "username": "RwandaMiner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046231086938894434",
+        "in_reply_to_user_id": "2041364028765679616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041526128318230720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RwandaMiner 回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041525658187149312"
+          ]
+        },
+        "author_id": "2041364028765679616",
+        "conversation_id": "2041526128318230720",
+        "created_at": "2026-04-07T14:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041526128318230720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEY4VGW68n",
+              "end": 48,
+              "expanded_url": "https://x.com/RwandaMiner/status/2041526128318230720/video/1",
+              "media_key": "13_2041525658187149312",
+              "start": 25,
+              "url": "https://t.co/PEY4VGW68n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041526128318230720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关，有关必回关，\n在土耳其转机，飞往卢旺达 https://t.co/PEY4VGW68n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 1475,
+          "like_count": 25757,
+          "listed_count": 6,
+          "media_count": 563,
+          "tweet_count": 5875
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T03:55:21.000Z",
+        "description": "数字流民 | 现居卢旺达  | Binance · OKX · https://t.co/ZccMzq6nj4 重度用户\n专注BTC/Alt挖矿 + DeFi收益耕作 | 探索非洲加密机会\nNFA · DYOR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Gate.io",
+                "end": 55,
+                "expanded_url": "http://Gate.io",
+                "start": 32,
+                "url": "https://t.co/ZccMzq6nj4"
+              }
+            ]
+          }
+        },
+        "id": "2041364028765679616",
+        "location": "Kigali, Rwanda",
+        "name": "林游 | 卢旺达加密矿耕者",
+        "pinned_tweet_id": "2041526128318230720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041393069485121536/3PlqvOd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 307,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 58
+        },
+        "username": "RwandaMiner",
+        "verified": true
+      }
+    ]
+  }
+}

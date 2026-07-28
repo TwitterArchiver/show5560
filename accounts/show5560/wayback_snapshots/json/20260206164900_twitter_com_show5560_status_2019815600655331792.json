@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019691360635531265"
+      ],
+      "media_source_tweet_id": [
+        "2019691367015022826"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2019815600655331792",
+    "created_at": "2026-02-06T16:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019815600655331792"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "乃依くん",
+          "probability": 0.7977,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602948736719605760",
+          "start": 3,
+          "username": "eNuNu_7e"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b11AcykSqB",
+          "end": 49,
+          "expanded_url": "https://x.com/eNuNu_7e/status/2019691367015022826/photo/1",
+          "media_key": "3_2019691360635531265",
+          "start": 26,
+          "url": "https://t.co/b11AcykSqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019815600655331792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019691367015022826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eNuNu_7e: 乃依くん\n#超かぐや姫 https://t.co/b11AcykSqB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019691360635531265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdil3qbMAEBbCW.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019691360635531265"
+          ],
+          "media_source_tweet_id": [
+            "2019691367015022826"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2019815600655331792",
+        "created_at": "2026-02-06T16:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019815600655331792"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "乃依くん",
+              "probability": 0.7977,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602948736719605760",
+              "start": 3,
+              "username": "eNuNu_7e"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b11AcykSqB",
+              "end": 49,
+              "expanded_url": "https://x.com/eNuNu_7e/status/2019691367015022826/photo/1",
+              "media_key": "3_2019691360635531265",
+              "start": 26,
+              "url": "https://t.co/b11AcykSqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019815600655331792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019691367015022826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eNuNu_7e: 乃依くん\n#超かぐや姫 https://t.co/b11AcykSqB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019691360635531265"
+          ]
+        },
+        "author_id": "1602948736719605760",
+        "conversation_id": "2019691367015022826",
+        "created_at": "2026-02-06T08:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019691367015022826"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "乃依くん",
+              "probability": 0.8217,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b11AcykSqB",
+              "end": 35,
+              "expanded_url": "https://x.com/eNuNu_7e/status/2019691367015022826/photo/1",
+              "media_key": "3_2019691360635531265",
+              "start": 12,
+              "url": "https://t.co/b11AcykSqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019691367015022826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 36040,
+          "like_count": 5164,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "乃依くん\n#超かぐや姫 https://t.co/b11AcykSqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "✟男娘~没有梦想的咸鱼一条ovo/✟♡重度依赖♡✟----努力的还债中.jpg /营业？坐标:深圳/🚪88",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 1126,
+          "like_count": 22964,
+          "listed_count": 4,
+          "media_count": 972,
+          "tweet_count": 5762
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T08:49:09.000Z",
+        "description": "illustration🐣🍳FANBOX【https://t.co/CnCXwoMUNM】 　　　　　　　　　　　　　　　　　　　　ご依頼→【enu109274@gmail.com】　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　詳細は下記リンク🔗から",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "enunu.fanbox.cc",
+                "end": 44,
+                "expanded_url": "https://enunu.fanbox.cc/",
+                "start": 21,
+                "url": "https://t.co/CnCXwoMUNM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/enunari",
+                "end": 23,
+                "expanded_url": "https://lit.link/enunari",
+                "start": 0,
+                "url": "https://t.co/qtU3OmekXf"
+              }
+            ]
+          }
+        },
+        "id": "1602948736719605760",
+        "location": "無断転載禁止❌️",
+        "name": "えぬ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932710045520912384/mSzP1OHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56589,
+          "following_count": 116,
+          "like_count": 5897,
+          "listed_count": 176,
+          "media_count": 308,
+          "tweet_count": 2140
+        },
+        "url": "https://t.co/qtU3OmekXf",
+        "username": "eNuNu_7e",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029150249928015875"
+      ],
+      "media_source_tweet_id": [
+        "2029150267665727720"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2030242433364283413",
+    "created_at": "2026-03-07T11:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030242433364283413"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2005330204856811520",
+          "start": 3,
+          "username": "KBowen96559"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fCWPhu63ug",
+          "end": 44,
+          "expanded_url": "https://x.com/KBowen96559/status/2029150267665727720/photo/1",
+          "media_key": "3_2029150249928015875",
+          "start": 21,
+          "url": "https://t.co/fCWPhu63ug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030242433364283413",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029150267665727720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KBowen96559: #男娘 https://t.co/fCWPhu63ug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2029150249928015875",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCj9ZsLawAMNunk.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029150249928015875"
+          ],
+          "media_source_tweet_id": [
+            "2029150267665727720"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2030242433364283413",
+        "created_at": "2026-03-07T11:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030242433364283413"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2005330204856811520",
+              "start": 3,
+              "username": "KBowen96559"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCWPhu63ug",
+              "end": 44,
+              "expanded_url": "https://x.com/KBowen96559/status/2029150267665727720/photo/1",
+              "media_key": "3_2029150249928015875",
+              "start": 21,
+              "url": "https://t.co/fCWPhu63ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030242433364283413",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029150267665727720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KBowen96559: #男娘 https://t.co/fCWPhu63ug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029150249928015875"
+          ]
+        },
+        "author_id": "2005330204856811520",
+        "conversation_id": "2029150267665727720",
+        "created_at": "2026-03-04T11:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029150267665727720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCWPhu63ug",
+              "end": 27,
+              "expanded_url": "https://x.com/KBowen96559/status/2029150267665727720/photo/1",
+              "media_key": "3_2029150249928015875",
+              "start": 4,
+              "url": "https://t.co/fCWPhu63ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029150267665727720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 https://t.co/fCWPhu63ug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘mtf🍥猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 坐标:深圳  🚪50",
+        "id": "1465701247021838341",
+        "name": "绒猫ねこ",
+        "pinned_tweet_id": "2029775112946454842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 1153,
+          "like_count": 23482,
+          "listed_count": 4,
+          "media_count": 945,
+          "tweet_count": 5834
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T17:29:34.000Z",
+        "description": "男娘  可约  162 105",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+YYhZ3pbVSvcwM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+YYhZ3pbVSvcwMjNl",
+                "start": 0,
+                "url": "https://t.co/2aFEtJzjQH"
+              }
+            ]
+          }
+        },
+        "id": "2005330204856811520",
+        "location": "🚪88/288",
+        "name": "轨迹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020176956990648320/GPtdFeRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 12,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/2aFEtJzjQH",
+        "username": "KBowen96559",
+        "verified": false
+      }
+    ]
+  }
+}

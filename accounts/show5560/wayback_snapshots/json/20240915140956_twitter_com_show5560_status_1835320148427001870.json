@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1835318903603687704",
+    "created_at": "2024-09-15T14:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T15:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835320148427001870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789158388880015361",
+          "start": 0,
+          "username": "mgn255317826267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835320148427001870",
+    "in_reply_to_user_id": "1789158388880015361",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835320002221613458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mgn255317826267 贴贴~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1835318903603687704",
+        "created_at": "2024-09-15T14:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T15:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835320148427001870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789158388880015361",
+              "start": 0,
+              "username": "mgn255317826267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835320148427001870",
+        "in_reply_to_user_id": "1789158388880015361",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835320002221613458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mgn255317826267 贴贴~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789158388880015361",
+        "conversation_id": "1835318903603687704",
+        "created_at": "2024-09-15T14:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T15:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835320002221613458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835320002221613458",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835318903603687704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 可可爱爱的馁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△想成为一个大魔法师△ @runamusaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "runamusaki"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "☆暮暮★",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835284829782552576/Hm1IWadl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1124,
+          "like_count": 23588,
+          "listed_count": 3,
+          "tweet_count": 5139
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T05:00:07.000Z",
+        "description": "喜欢涩涩的一个普通人，但是困难的人，没有倾诉的人，可以找我呀，我会很乐意帮助（无偿）",
+        "id": "1789158388880015361",
+        "location": "湖北襄阳",
+        "name": "墨乾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789372095199137793/ghNaJxca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 116,
+          "like_count": 1358,
+          "listed_count": 0,
+          "tweet_count": 369
+        },
+        "username": "mgn255317826267",
+        "verified": false
+      }
+    ]
+  }
+}

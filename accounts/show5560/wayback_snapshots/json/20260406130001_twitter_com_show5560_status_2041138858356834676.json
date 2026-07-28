@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041123393538514944"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2041138858356834676",
+    "created_at": "2026-04-06T13:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041138858356834676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wm3IOQdlvn",
+          "end": 29,
+          "expanded_url": "https://x.com/show5560/status/2041138858356834676/photo/1",
+          "media_key": "3_2041123393538514944",
+          "start": 6,
+          "url": "https://t.co/Wm3IOQdlvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041138858356834676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "清明上班图 https://t.co/Wm3IOQdlvn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2041123393538514944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOG6X6aYAArt-i.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041123393538514944"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2041138858356834676",
+        "created_at": "2026-04-06T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041138858356834676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wm3IOQdlvn",
+              "end": 29,
+              "expanded_url": "https://x.com/show5560/status/2041138858356834676/photo/1",
+              "media_key": "3_2041123393538514944",
+              "start": 6,
+              "url": "https://t.co/Wm3IOQdlvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041138858356834676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清明上班图 https://t.co/Wm3IOQdlvn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 1121,
+          "like_count": 24528,
+          "listed_count": 6,
+          "media_count": 348,
+          "tweet_count": 5379
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

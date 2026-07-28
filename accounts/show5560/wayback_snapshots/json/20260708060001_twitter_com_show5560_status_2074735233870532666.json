@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074555913877536768"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074735233870532666",
+    "created_at": "2026-07-08T06:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074735233870532666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5RaPc2LSrc",
+          "end": 30,
+          "expanded_url": "https://x.com/show5560/status/2074735233870532666/photo/1",
+          "media_key": "3_2074555913877536768",
+          "start": 7,
+          "url": "https://t.co/5RaPc2LSrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074735233870532666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好强的攻击性 https://t.co/5RaPc2LSrc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_2074555913877536768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpNnLlbQAAlEmj.jpg",
+        "width": 579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074555913877536768"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074735233870532666",
+        "created_at": "2026-07-08T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074735233870532666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RaPc2LSrc",
+              "end": 30,
+              "expanded_url": "https://x.com/show5560/status/2074735233870532666/photo/1",
+              "media_key": "3_2074555913877536768",
+              "start": 7,
+              "url": "https://t.co/5RaPc2LSrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074735233870532666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好强的攻击性 https://t.co/5RaPc2LSrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4736,
+          "following_count": 1728,
+          "like_count": 30487,
+          "listed_count": 11,
+          "media_count": 2102,
+          "tweet_count": 9740
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

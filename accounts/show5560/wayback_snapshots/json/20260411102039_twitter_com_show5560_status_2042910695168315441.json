@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2042901546426593384",
+    "created_at": "2026-04-11T10:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042910695168315441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012613831357272064",
+          "start": 0,
+          "username": "lianlian2441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042910695168315441",
+    "in_reply_to_user_id": "2012613831357272064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042910099459707041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianlian2441 茶餐厅好像也不错，还有早茶之类的都可以去试试，反正深圳也是广东，深圳该有的都有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2042901546426593384",
+        "created_at": "2026-04-11T10:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042910695168315441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012613831357272064",
+              "start": 0,
+              "username": "lianlian2441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042910695168315441",
+        "in_reply_to_user_id": "2012613831357272064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042910099459707041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianlian2441 茶餐厅好像也不错，还有早茶之类的都可以去试试，反正深圳也是广东，深圳该有的都有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012613831357272064",
+        "conversation_id": "2042901546426593384",
+        "created_at": "2026-04-11T10:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042910099459707041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042910099459707041",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042909124925755767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 可以噢，我大吃特吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ #蓝v互关 喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "蓝v互关"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 1236,
+          "like_count": 24887,
+          "listed_count": 5,
+          "media_count": 433,
+          "tweet_count": 5545
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T19:51:55.000Z",
+        "description": "记录人类情绪的异常波动。输出不太正常的表达方式。让你在混乱里。找到一点共鸣。",
+        "id": "2012613831357272064",
+        "name": "Ming⑵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023816954520489984/keBM9NNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 1536,
+          "like_count": 8799,
+          "listed_count": 5,
+          "media_count": 122,
+          "tweet_count": 4254
+        },
+        "username": "lianlian2441",
+        "verified": true
+      }
+    ]
+  }
+}

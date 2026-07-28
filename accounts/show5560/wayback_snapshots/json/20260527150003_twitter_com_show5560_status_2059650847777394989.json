@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059545418061754368"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2059650847777394989",
+    "created_at": "2026-05-27T15:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059650847777394989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WUMeUuuKOq",
+          "end": 34,
+          "expanded_url": "https://x.com/show5560/status/2059650847777394989/photo/1",
+          "media_key": "3_2059545418061754368",
+          "start": 11,
+          "url": "https://t.co/WUMeUuuKOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059650847777394989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还得是老一辈的含金量 https://t.co/WUMeUuuKOq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2059545418061754368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT5pVJasAAXFnp.png",
+        "width": 795
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059545418061754368"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2059650847777394989",
+        "created_at": "2026-05-27T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059650847777394989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUMeUuuKOq",
+              "end": 34,
+              "expanded_url": "https://x.com/show5560/status/2059650847777394989/photo/1",
+              "media_key": "3_2059545418061754368",
+              "start": 11,
+              "url": "https://t.co/WUMeUuuKOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059650847777394989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还得是老一辈的含金量 https://t.co/WUMeUuuKOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4005,
+          "following_count": 1692,
+          "like_count": 27850,
+          "listed_count": 7,
+          "media_count": 1148,
+          "tweet_count": 7397
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

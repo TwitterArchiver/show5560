@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046795540726428064",
+    "created_at": "2026-04-22T06:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046832755225526668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2026447883852292096",
+          "start": 0,
+          "username": "gu_xiang233"
+        },
+        {
+          "end": 27,
+          "id": "2023664962854678531",
+          "start": 13,
+          "username": "lingxinglong4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046832755225526668",
+    "in_reply_to_user_id": "2026447883852292096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046816540935295349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_xiang233 @lingxinglong4 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046795540726428064",
+        "created_at": "2026-04-22T06:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046832755225526668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2026447883852292096",
+              "start": 0,
+              "username": "gu_xiang233"
+            },
+            {
+              "end": 27,
+              "id": "2023664962854678531",
+              "start": 13,
+              "username": "lingxinglong4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046832755225526668",
+        "in_reply_to_user_id": "2026447883852292096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046816540935295349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_xiang233 @lingxinglong4 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026447883852292096",
+        "conversation_id": "2046795540726428064",
+        "created_at": "2026-04-22T05:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046816540935295349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023664962854678531",
+              "start": 0,
+              "username": "lingxinglong4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046816540935295349",
+        "in_reply_to_user_id": "2023664962854678531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046795540726428064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingxinglong4 我也在😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 1540,
+          "like_count": 26000,
+          "listed_count": 6,
+          "media_count": 587,
+          "tweet_count": 6040
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T00:03:38.000Z",
+        "description": "Cherish your desires, and say goodbye properly.",
+        "id": "2026447883852292096",
+        "name": "Shawn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026450745306775552/pfGoBkK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 113,
+          "like_count": 4169,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 3753
+        },
+        "username": "gu_xiang233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-17T07:45:09.000Z",
+        "description": "web3 07学生党，AI圈子与跨境电商新人，尝试多了解AI圈子和跨境电商，通过自己与朋友的了解来发表自己的认知和看法，请大家多多指教",
+        "id": "2023664962854678531",
+        "location": "深圳",
+        "name": "ai的小星",
+        "pinned_tweet_id": "2045915194233348399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041413586044833792/bQx9YywZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 724,
+          "like_count": 262,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 265
+        },
+        "username": "lingxinglong4",
+        "verified": true
+      }
+    ]
+  }
+}

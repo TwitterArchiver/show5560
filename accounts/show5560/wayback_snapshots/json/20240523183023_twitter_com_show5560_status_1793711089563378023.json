@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1793345727252648022",
+    "created_at": "2024-05-23T18:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T19:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793711089563378023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1569644888513454081",
+          "start": 0,
+          "username": "kuilwfnno11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793711089563378023",
+    "in_reply_to_user_id": "1569644888513454081",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793690635830202737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuilwfnno11 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1793345727252648022",
+        "created_at": "2024-05-23T18:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T19:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793711089563378023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1569644888513454081",
+              "start": 0,
+              "username": "kuilwfnno11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793711089563378023",
+        "in_reply_to_user_id": "1569644888513454081",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793690635830202737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuilwfnno11 呜呜"
+      },
+      {
+        "attachments": {},
+        "author_id": "1569644888513454081",
+        "conversation_id": "1793345727252648022",
+        "created_at": "2024-05-23T17:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T18:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793690635830202737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793690635830202737",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793345727252648022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这个确实痛。需要救赎的人。改变生活轨迹就是救赎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△ 电子猫咪 △想当魔法师的mtx△慢慢变得好看△想要一直放松开心下去△ 当前形态-猫咪正太 ◁开始了发癫日常△ 🚪 50",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮はい電子猫ちゃん",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764676829196210176/H6fRFPSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 1119,
+          "like_count": 23625,
+          "listed_count": 3,
+          "tweet_count": 4937
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T11:11:33.000Z",
+        "description": "人如其名\n如果你想和我说话请主动私聊我。",
+        "id": "1569644888513454081",
+        "name": "恶语伤人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792588761919815680/SHcCT4Dc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 64,
+          "like_count": 487,
+          "listed_count": 1,
+          "tweet_count": 2435
+        },
+        "username": "kuilwfnno11",
+        "verified": false
+      }
+    ]
+  }
+}

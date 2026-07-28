@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2080365247098192001",
+    "created_at": "2026-07-23T19:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080368675241271453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1579866896",
+          "start": 0,
+          "username": "OcanaPaulaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080368675241271453",
+    "in_reply_to_user_id": "1579866896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080365910880370692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OcanaPaulaa 吃过敏药了，应该没什么问题）可能是这次一次性吃太多了，之前吃日料刺身没有这么严重的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2080365247098192001",
+        "created_at": "2026-07-23T19:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080368675241271453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1579866896",
+              "start": 0,
+              "username": "OcanaPaulaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080368675241271453",
+        "in_reply_to_user_id": "1579866896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080365910880370692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OcanaPaulaa 吃过敏药了，应该没什么问题）可能是这次一次性吃太多了，之前吃日料刺身没有这么严重的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579866896",
+        "conversation_id": "2080365247098192001",
+        "created_at": "2026-07-23T18:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080365910880370692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080365910880370692",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080365247098192001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 过敏还敢吃刺身，之后会不会更严重啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5227,
+          "following_count": 1737,
+          "like_count": 32216,
+          "listed_count": 13,
+          "media_count": 2484,
+          "tweet_count": 11525
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-09T09:05:16.000Z",
+        "description": "银狐VPN，下载领取2天免费时长，邀请好友再送1天，关键时刻更安心。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/Yvfzt91zyG"
+              }
+            ]
+          }
+        },
+        "id": "1579866896",
+        "location": "En la playitaaaa(:(:(:(:",
+        "name": "银狐VPN优选专线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078281043447255041/AM3WeUaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 61,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/Yvfzt91zyG",
+        "username": "OcanaPaulaa",
+        "verified": false
+      }
+    ]
+  }
+}

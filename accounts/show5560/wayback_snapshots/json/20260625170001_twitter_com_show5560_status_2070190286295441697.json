@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070131671983398912"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2070190286295441697",
+    "created_at": "2026-06-25T17:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070190286295441697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kgwIuh2U7i",
+          "end": 30,
+          "expanded_url": "https://x.com/show5560/status/2070190286295441697/photo/1",
+          "media_key": "3_2070131671983398912",
+          "start": 7,
+          "url": "https://t.co/kgwIuh2U7i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070190286295441697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这不对吗？🤔 https://t.co/kgwIuh2U7i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2070131671983398912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqVyaLbIAA8Z0P.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070131671983398912"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2070190286295441697",
+        "created_at": "2026-06-25T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070190286295441697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kgwIuh2U7i",
+              "end": 30,
+              "expanded_url": "https://x.com/show5560/status/2070190286295441697/photo/1",
+              "media_key": "3_2070131671983398912",
+              "start": 7,
+              "url": "https://t.co/kgwIuh2U7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070190286295441697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这不对吗？🤔 https://t.co/kgwIuh2U7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429,
+          "following_count": 1704,
+          "like_count": 29233,
+          "listed_count": 9,
+          "media_count": 1803,
+          "tweet_count": 8540
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

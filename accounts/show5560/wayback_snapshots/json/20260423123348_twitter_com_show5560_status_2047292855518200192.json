@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046961046708166801",
+    "created_at": "2026-04-23T12:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047292855518200192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        },
+        {
+          "end": 16,
+          "id": "1613079089879076864",
+          "start": 9,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047292855518200192",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046961046708166801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 @Cldeop 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 345,
+        "media_key": "3_2046961043826716673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhEOV5asAEs0XC.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046961046708166801",
+        "created_at": "2026-04-23T12:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047292855518200192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            },
+            {
+              "end": 16,
+              "id": "1613079089879076864",
+              "start": 9,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047292855518200192",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046961046708166801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 @Cldeop 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046961043826716673"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2046961046708166801",
+        "created_at": "2026-04-22T14:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046961046708166801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1613079089879076864",
+              "start": 20,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCZmuG0n4X",
+              "end": 51,
+              "expanded_url": "https://x.com/hsn8086/status/2046961046708166801/photo/1",
+              "media_key": "3_2046961043826716673",
+              "start": 28,
+              "url": "https://t.co/WCZmuG0n4X"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2046884872535609584",
+              "start": 52,
+              "url": "https://t.co/CRN6j26KwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046961046708166801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4940,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046884872535609584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "游戏结束, 其实没有 hsn\n我是云鸠 @Cldeop https://t.co/WCZmuG0n4X https://t.co/CRN6j26KwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2969,
+          "following_count": 1630,
+          "like_count": 26323,
+          "listed_count": 7,
+          "media_count": 608,
+          "tweet_count": 6270
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117539,
+          "following_count": 1123,
+          "like_count": 52514,
+          "listed_count": 277,
+          "media_count": 20790,
+          "tweet_count": 31200
+        },
+        "username": "hsn8086",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2044637893025787952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101912,
+          "following_count": 763,
+          "like_count": 36341,
+          "listed_count": 284,
+          "media_count": 17883,
+          "tweet_count": 25696
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

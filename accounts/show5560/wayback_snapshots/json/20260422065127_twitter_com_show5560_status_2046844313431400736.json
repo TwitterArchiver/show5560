@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046837485691637902",
+    "created_at": "2026-04-22T06:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046844313431400736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868701291830206464",
+          "start": 0,
+          "username": "A_Asystem"
+        },
+        {
+          "end": 18,
+          "id": "2044319134326964224",
+          "start": 11,
+          "username": "XldFxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046844313431400736",
+    "in_reply_to_user_id": "1868701291830206464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046843256760094856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_Asystem @XldFxA 用直板夹夹住然后卷起来往外拉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046837485691637902",
+        "created_at": "2026-04-22T06:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046844313431400736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868701291830206464",
+              "start": 0,
+              "username": "A_Asystem"
+            },
+            {
+              "end": 18,
+              "id": "2044319134326964224",
+              "start": 11,
+              "username": "XldFxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046844313431400736",
+        "in_reply_to_user_id": "1868701291830206464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046843256760094856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_Asystem @XldFxA 用直板夹夹住然后卷起来往外拉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868701291830206464",
+        "conversation_id": "2046837485691637902",
+        "created_at": "2026-04-22T06:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046843256760094856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "XldFxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046843256760094856",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046837485691637902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldFxA 怎么让头发卷一些呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 1549,
+          "like_count": 26058,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 6074
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1905421355195269408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 552,
+          "like_count": 10151,
+          "listed_count": 7,
+          "media_count": 118,
+          "tweet_count": 5893
+        },
+        "username": "A_Asystem",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "西南梦游山tv之翎早上因为熬夜而半梦半醒的起来上早八看见 x大号@xldmtx又被封了无助的爬起打开apex被顶猎一脚踢死想打六目标发现才 8w分被自己区的满地都是无助的爬回床上结果镜子照出巨人般的骨架不禁悲从中来打开前摄被长发男蛆一样的外观丑晕奇异搞笑的盖上被子割完手接着等死又被家长发现割手一顿批判顿觉这辈子有了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "xldmtx"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "location": "棍母所栖之处",
+        "name": "🍁🍥iLYA🍥🍁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 176,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 439
+        },
+        "username": "XldFxA",
+        "verified": false
+      }
+    ]
+  }
+}

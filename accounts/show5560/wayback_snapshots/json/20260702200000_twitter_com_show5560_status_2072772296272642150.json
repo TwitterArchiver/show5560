@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072543298984837120"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2072772296272642150",
+    "created_at": "2026-07-02T20:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072772296272642150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RjF5gmd2CL",
+          "end": 33,
+          "expanded_url": "https://x.com/show5560/status/2072772296272642150/photo/1",
+          "media_key": "3_2072543298984837120",
+          "start": 10,
+          "url": "https://t.co/RjF5gmd2CL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072772296272642150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经典说完下句忘上句 https://t.co/RjF5gmd2CL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_2072543298984837120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMnJk2bgAAyuw4.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072543298984837120"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2072772296272642150",
+        "created_at": "2026-07-02T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072772296272642150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjF5gmd2CL",
+              "end": 33,
+              "expanded_url": "https://x.com/show5560/status/2072772296272642150/photo/1",
+              "media_key": "3_2072543298984837120",
+              "start": 10,
+              "url": "https://t.co/RjF5gmd2CL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072772296272642150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典说完下句忘上句 https://t.co/RjF5gmd2CL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4533,
+          "following_count": 1719,
+          "like_count": 29989,
+          "listed_count": 11,
+          "media_count": 1970,
+          "tweet_count": 9210
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

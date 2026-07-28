@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2079065397912117642",
+    "created_at": "2026-07-21T03:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079415860117356552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 26,
+          "id": "2042836722820747266",
+          "start": 15,
+          "username": "satoricry2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079415860117356552",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079065397912117642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy @satoricry2 辣妹还是太棒了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1628,
+        "media_key": "3_2079065359567761408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpS7d3bMAAm585.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2079065397912117642",
+        "created_at": "2026-07-21T03:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079415860117356552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 26,
+              "id": "2042836722820747266",
+              "start": 15,
+              "username": "satoricry2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079415860117356552",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079065397912117642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy @satoricry2 辣妹还是太棒了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079065359567761408"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2079065397912117642",
+        "created_at": "2026-07-20T04:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079065397912117642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzmq0MW8tl",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2079065397912117642/photo/1",
+              "media_key": "3_2079065359567761408",
+              "start": 8,
+              "url": "https://t.co/dzmq0MW8tl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079065397912117642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 506,
+          "impression_count": 57367,
+          "like_count": 3130,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "强者败给了辣妹 https://t.co/dzmq0MW8tl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5178,
+          "following_count": 1740,
+          "like_count": 31875,
+          "listed_count": 13,
+          "media_count": 2417,
+          "tweet_count": 11208
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13142,
+          "following_count": 4404,
+          "like_count": 51728,
+          "listed_count": 24,
+          "media_count": 3402,
+          "tweet_count": 18153
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T05:28:17.000Z",
+        "description": "アホな漫画描いてます！よろしくお願いします！\nメイン→@satoricry",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "satoricry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/70563248",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/70563248",
+                "start": 0,
+                "url": "https://t.co/gtRwD98EVl"
+              }
+            ]
+          }
+        },
+        "id": "2042836722820747266",
+        "location": "日本",
+        "name": "暗井さとり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042837326834077700/__8PKsBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14591,
+          "following_count": 0,
+          "like_count": 63,
+          "listed_count": 59,
+          "media_count": 17,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/gtRwD98EVl",
+        "username": "satoricry2",
+        "verified": true
+      }
+    ]
+  }
+}

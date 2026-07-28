@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047199073720226227",
+    "created_at": "2026-04-23T09:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047244641523892610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "893489787411222528",
+          "start": 0,
+          "username": "kuren_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047244641523892610",
+    "in_reply_to_user_id": "893489787411222528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047199073720226227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuren_chan 好强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047199039758974976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkcrh1awAATzZj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047199073720226227",
+        "created_at": "2026-04-23T09:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047244641523892610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "893489787411222528",
+              "start": 0,
+              "username": "kuren_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047244641523892610",
+        "in_reply_to_user_id": "893489787411222528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047199073720226227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuren_chan 好强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047199039758974976"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1400874108556955657",
+              "name": "Eye makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400874108556955657",
+              "name": "Eye makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1400874108556955657",
+              "name": "Eye makeup"
+            }
+          }
+        ],
+        "conversation_id": "2047199073720226227",
+        "created_at": "2026-04-23T06:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047199073720226227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqU1X16AwC",
+              "end": 37,
+              "expanded_url": "https://x.com/kuren_chan/status/2047199073720226227/photo/1",
+              "media_key": "3_2047199039758974976",
+              "start": 14,
+              "url": "https://t.co/zqU1X16AwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047199073720226227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 35586,
+          "like_count": 3256,
+          "quote_count": 13,
+          "reply_count": 14,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "かぐやちゃんアイメイク!🌙 https://t.co/zqU1X16AwC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2960,
+          "following_count": 1619,
+          "like_count": 26275,
+          "listed_count": 7,
+          "media_count": 605,
+          "tweet_count": 6241
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "まくらです૮๑•̀ㅁ•́ฅა #まくらーめん 異世界同位体 #花咲ゾンビ／Chinese cosplayer／@hiodoshiao 自慢な火女ちゃん♡ずっと愛してる／加工厨!! 時々変な日本語喋ります／必読→ https://t.co/e8NgojldHh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "まくらーめん"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "花咲ゾンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "hiodoshiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/hanasaki…",
+                "end": 129,
+                "expanded_url": "https://lit.link/zh-tw/hanasakimakura",
+                "start": 106,
+                "url": "https://t.co/e8NgojldHh"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "🚫転載禁止⚠️ 写真、仕事はDMへお願いします✨",
+        "name": "花崎Makura🌸🪽",
+        "pinned_tweet_id": "2044344429264404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966926126384902146/hC-a3afb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188848,
+          "following_count": 1004,
+          "like_count": 101542,
+          "listed_count": 732,
+          "media_count": 1197,
+          "tweet_count": 22297
+        },
+        "username": "kuren_chan",
+        "verified": true
+      }
+    ]
+  }
+}

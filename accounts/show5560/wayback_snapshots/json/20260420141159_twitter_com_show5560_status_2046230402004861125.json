@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2045976882647302523",
+    "created_at": "2026-04-20T14:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046230402004861125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1450893562686541824",
+          "start": 0,
+          "username": "KK404error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046230402004861125",
+    "in_reply_to_user_id": "1450893562686541824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045976882647302523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK404error 辛苦啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 382,
+        "media_key": "3_2045976880403374080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGTFIfca4AAMbnx.jpg",
+        "width": 385
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2045976882647302523",
+        "created_at": "2026-04-20T14:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046230402004861125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1450893562686541824",
+              "start": 0,
+              "username": "KK404error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046230402004861125",
+        "in_reply_to_user_id": "1450893562686541824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045976882647302523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK404error 辛苦啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045976880403374080"
+          ]
+        },
+        "author_id": "1450893562686541824",
+        "conversation_id": "2045976882647302523",
+        "created_at": "2026-04-19T21:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045976882647302523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1LCHPHkrk",
+              "end": 74,
+              "expanded_url": "https://x.com/KK404error/status/2045976882647302523/photo/1",
+              "media_key": "3_2045976880403374080",
+              "start": 51,
+              "url": "https://t.co/m1LCHPHkrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045976882647302523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我情绪稳定不是因为我真的稳定，而是情绪炸了大家都难堪，我没有奇怪的癖好也只是觉得这些都很麻烦.jpg https://t.co/m1LCHPHkrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 1473,
+          "like_count": 25756,
+          "listed_count": 6,
+          "media_count": 563,
+          "tweet_count": 5873
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-20T18:36:02.000Z",
+        "description": "叫我KK就好，或者你更喜欢叫卡玛/好想出门玩啊啊啊啊啊啊啊啊/石头爱好者/\n\nJe veux la gloire à mes genoux/推荐个喵叽VPN 点链接可以看看↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=rK222yWf",
+                "start": 0,
+                "url": "https://t.co/WQ2VbNLB1c"
+              }
+            ]
+          }
+        },
+        "id": "1450893562686541824",
+        "location": "十一万四千五百一十四米",
+        "name": "Karma·Kaslana",
+        "pinned_tweet_id": "2045976882647302523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035518449146056704/w7UGd6OR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12187,
+          "following_count": 4833,
+          "like_count": 72071,
+          "listed_count": 22,
+          "media_count": 1596,
+          "tweet_count": 38751
+        },
+        "url": "https://t.co/WQ2VbNLB1c",
+        "username": "KK404error",
+        "verified": false
+      }
+    ]
+  }
+}

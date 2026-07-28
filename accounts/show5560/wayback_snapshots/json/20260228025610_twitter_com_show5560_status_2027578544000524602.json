@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027331331844411392",
+        "3_2027331332565815296",
+        "3_2027331334503600128"
+      ],
+      "media_source_tweet_id": [
+        "2027331338156888139",
+        "2027331338156888139",
+        "2027331338156888139"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027578544000524602",
+    "created_at": "2026-02-28T02:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027578544000524602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000538660681510912",
+          "start": 3,
+          "username": "Heisen676291"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EI3ybHI6dW",
+          "end": 111,
+          "expanded_url": "https://x.com/Heisen676291/status/2027331338156888139/photo/1",
+          "media_key": "3_2027331331844411392",
+          "start": 88,
+          "url": "https://t.co/EI3ybHI6dW"
+        },
+        {
+          "display_url": "pic.x.com/EI3ybHI6dW",
+          "end": 111,
+          "expanded_url": "https://x.com/Heisen676291/status/2027331338156888139/photo/1",
+          "media_key": "3_2027331332565815296",
+          "start": 88,
+          "url": "https://t.co/EI3ybHI6dW"
+        },
+        {
+          "display_url": "pic.x.com/EI3ybHI6dW",
+          "end": 111,
+          "expanded_url": "https://x.com/Heisen676291/status/2027331338156888139/photo/1",
+          "media_key": "3_2027331334503600128",
+          "start": 88,
+          "url": "https://t.co/EI3ybHI6dW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027578544000524602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027331338156888139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heisen676291: 你别钓我了。我只是一个普普通通的女高中生，一个月生活费一百多，16岁还没摸过男孩子手的穷学生。上来一个妈妈把我脑袋都干烧了，不要叫我妈妈😭 https://t.co/EI3ybHI6dW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2027331331844411392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKHGuSbEAABOGu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027331332565815296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKHGw-a0AALZHm.jpg",
+        "width": 1316
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027331334503600128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKHG4MbEAAGLgZ.jpg",
+        "width": 1267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027331331844411392",
+            "3_2027331332565815296",
+            "3_2027331334503600128"
+          ],
+          "media_source_tweet_id": [
+            "2027331338156888139",
+            "2027331338156888139",
+            "2027331338156888139"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027578544000524602",
+        "created_at": "2026-02-28T02:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027578544000524602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000538660681510912",
+              "start": 3,
+              "username": "Heisen676291"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EI3ybHI6dW",
+              "end": 111,
+              "expanded_url": "https://x.com/Heisen676291/status/2027331338156888139/photo/1",
+              "media_key": "3_2027331331844411392",
+              "start": 88,
+              "url": "https://t.co/EI3ybHI6dW"
+            },
+            {
+              "display_url": "pic.x.com/EI3ybHI6dW",
+              "end": 111,
+              "expanded_url": "https://x.com/Heisen676291/status/2027331338156888139/photo/1",
+              "media_key": "3_2027331332565815296",
+              "start": 88,
+              "url": "https://t.co/EI3ybHI6dW"
+            },
+            {
+              "display_url": "pic.x.com/EI3ybHI6dW",
+              "end": 111,
+              "expanded_url": "https://x.com/Heisen676291/status/2027331338156888139/photo/1",
+              "media_key": "3_2027331334503600128",
+              "start": 88,
+              "url": "https://t.co/EI3ybHI6dW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027578544000524602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027331338156888139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heisen676291: 你别钓我了。我只是一个普普通通的女高中生，一个月生活费一百多，16岁还没摸过男孩子手的穷学生。上来一个妈妈把我脑袋都干烧了，不要叫我妈妈😭 https://t.co/EI3ybHI6dW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027331331844411392",
+            "3_2027331332565815296",
+            "3_2027331334503600128"
+          ]
+        },
+        "author_id": "2000538660681510912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027331338156888139",
+        "created_at": "2026-02-27T10:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027331338156888139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EI3ybHI6dW",
+              "end": 93,
+              "expanded_url": "https://x.com/Heisen676291/status/2027331338156888139/photo/1",
+              "media_key": "3_2027331331844411392",
+              "start": 70,
+              "url": "https://t.co/EI3ybHI6dW"
+            },
+            {
+              "display_url": "pic.x.com/EI3ybHI6dW",
+              "end": 93,
+              "expanded_url": "https://x.com/Heisen676291/status/2027331338156888139/photo/1",
+              "media_key": "3_2027331332565815296",
+              "start": 70,
+              "url": "https://t.co/EI3ybHI6dW"
+            },
+            {
+              "display_url": "pic.x.com/EI3ybHI6dW",
+              "end": 93,
+              "expanded_url": "https://x.com/Heisen676291/status/2027331338156888139/photo/1",
+              "media_key": "3_2027331334503600128",
+              "start": 70,
+              "url": "https://t.co/EI3ybHI6dW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027331338156888139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1109,
+          "impression_count": 581825,
+          "like_count": 3126,
+          "quote_count": 3,
+          "reply_count": 415,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "你别钓我了。我只是一个普普通通的女高中生，一个月生活费一百多，16岁还没摸过男孩子手的穷学生。上来一个妈妈把我脑袋都干烧了，不要叫我妈妈😭 https://t.co/EI3ybHI6dW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1128,
+          "like_count": 23190,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 5755
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T12:09:36.000Z",
+        "description": "大家好，这里是千叶芊!qianyeqianOvO2因不明原因\n于2025.12.7被封禁，粉丝可关注此号 千叶芊，女，\n178/52。喜欢猫，手工品，萌物。爱吃美食，重度懒癌，严重拖延症，体弱多病。谢谢在人群中遇见千叶芊，感谢关注~₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "2000538660681510912",
+        "name": "千叶芊",
+        "pinned_tweet_id": "2001203340420460738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000552331985952769/Byo9lArl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38095,
+          "following_count": 89,
+          "like_count": 709,
+          "listed_count": 79,
+          "media_count": 76,
+          "tweet_count": 523
+        },
+        "username": "Heisen676291",
+        "verified": false
+      }
+    ]
+  }
+}

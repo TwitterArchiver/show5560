@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064012461532155904"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2064376983266767202",
+    "created_at": "2026-06-09T16:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064376983266767202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Ngwrfmgfy",
+          "end": 37,
+          "expanded_url": "https://x.com/show5560/status/2064376983266767202/photo/1",
+          "media_key": "3_2064012461532155904",
+          "start": 14,
+          "url": "https://t.co/2Ngwrfmgfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064376983266767202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "进步了，又好像没进步到哪🤔 https://t.co/2Ngwrfmgfy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_2064012461532155904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTYZe2akAAEErO.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064012461532155904"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2064376983266767202",
+        "created_at": "2026-06-09T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064376983266767202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ngwrfmgfy",
+              "end": 37,
+              "expanded_url": "https://x.com/show5560/status/2064376983266767202/photo/1",
+              "media_key": "3_2064012461532155904",
+              "start": 14,
+              "url": "https://t.co/2Ngwrfmgfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064376983266767202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进步了，又好像没进步到哪🤔 https://t.co/2Ngwrfmgfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘 162cm/58kg /普通长相/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪70",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 1696,
+          "like_count": 28405,
+          "listed_count": 8,
+          "media_count": 1391,
+          "tweet_count": 7834
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

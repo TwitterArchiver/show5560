@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1836356960591159521",
+    "created_at": "2024-09-19T04:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T05:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836620980523012238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "865108548631408640",
+          "start": 0,
+          "username": "HIBIKI4LIFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836620980523012238",
+    "in_reply_to_user_id": "865108548631408640",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836614742670217605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HIBIKI4LIFE 不知道捏....(／_＼)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1836356960591159521",
+        "created_at": "2024-09-19T04:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T05:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836620980523012238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "865108548631408640",
+              "start": 0,
+              "username": "HIBIKI4LIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836620980523012238",
+        "in_reply_to_user_id": "865108548631408640",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836614742670217605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HIBIKI4LIFE 不知道捏....(／_＼)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "865108548631408640",
+        "conversation_id": "1836356960591159521",
+        "created_at": "2024-09-19T03:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T04:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836614742670217605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836614742670217605",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836356960591159521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 怎么了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△想成为一个大魔法师△这是黄推，可以来看看，关注一下 @runamusaki ｜ #门槛 🚪66",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "门槛"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "runamusaki"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "☆暮暮★",
+        "pinned_tweet_id": "1835518582966632454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835284829782552576/Hm1IWadl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1132,
+          "like_count": 23744,
+          "listed_count": 3,
+          "tweet_count": 5170
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-18T07:35:25.000Z",
+        "description": "INFP-A / INFP-T 一只缺爱的猫咪 欢迎同类来贴贴 ／友LGBTQ+   ／喜欢影视作品 ／FPS，单机玩家 ／业余摄影 ／习惯于照顾人，希望能温暖每一个需要爱的人ww",
+        "id": "865108548631408640",
+        "location": "utopia",
+        "name": "寒月Kalt monat🏳‍⚧",
+        "pinned_tweet_id": "1804193435907477616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654050522935201798/kQVb0l16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 232,
+          "like_count": 4876,
+          "listed_count": 2,
+          "tweet_count": 2517
+        },
+        "username": "HIBIKI4LIFE",
+        "verified": false
+      }
+    ]
+  }
+}

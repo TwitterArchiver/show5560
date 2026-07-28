@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2062209616289890507",
+    "created_at": "2026-06-03T17:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062229658087895238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1659810432381763584",
+          "start": 0,
+          "username": "AI4Azure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062229658087895238",
+    "in_reply_to_user_id": "1659810432381763584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062209616289890507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AI4Azure 回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1625,
+        "media_key": "3_2062209605841879043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5wteCagAMFS_o.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2062209616289890507",
+        "created_at": "2026-06-03T17:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062229658087895238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1659810432381763584",
+              "start": 0,
+              "username": "AI4Azure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062229658087895238",
+        "in_reply_to_user_id": "1659810432381763584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062209616289890507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AI4Azure 回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062209605841879043"
+          ]
+        },
+        "author_id": "1659810432381763584",
+        "conversation_id": "2062209616289890507",
+        "created_at": "2026-06-03T16:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062209616289890507"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqvMjTysfC",
+              "end": 104,
+              "expanded_url": "https://x.com/AI4Azure/status/2062209616289890507/photo/1",
+              "media_key": "3_2062209605841879043",
+              "start": 81,
+              "url": "https://t.co/UqvMjTysfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062209616289890507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近这一段时间，中文圈最火的应该就是 #蓝V互关 \n\n目前来看，国人圈子小，话语权不高，抱团其实还是挺有必要的，最近蓝V互关的帖子流量都很好，能推到很多互关的人 https://t.co/UqvMjTysfC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4314,
+          "following_count": 1687,
+          "like_count": 28063,
+          "listed_count": 8,
+          "media_count": 1262,
+          "tweet_count": 7598
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T06:37:07.000Z",
+        "description": "CS PhD, previous Alibaba Cloud",
+        "id": "1659810432381763584",
+        "name": "Azure（互关版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659810546378756096/ROKXW4MB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 853,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 127
+        },
+        "username": "AI4Azure",
+        "verified": true
+      }
+    ]
+  }
+}

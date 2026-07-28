@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070869760938754048"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2071066064050692362",
+    "created_at": "2026-06-28T03:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T04:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071066064050692362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zdW2IGFZoX",
+          "end": 38,
+          "expanded_url": "https://x.com/show5560/status/2071066064050692362/photo/1",
+          "media_key": "3_2070869760938754048",
+          "start": 15,
+          "url": "https://t.co/zdW2IGFZoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071066064050692362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜哇，在飞机上看到这个得吓死 https://t.co/zdW2IGFZoX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2070869760938754048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL01E1zaQAAWSPl.png",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070869760938754048"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2071066064050692362",
+        "created_at": "2026-06-28T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071066064050692362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdW2IGFZoX",
+              "end": 38,
+              "expanded_url": "https://x.com/show5560/status/2071066064050692362/photo/1",
+              "media_key": "3_2070869760938754048",
+              "start": 15,
+              "url": "https://t.co/zdW2IGFZoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071066064050692362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜哇，在飞机上看到这个得吓死 https://t.co/zdW2IGFZoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4461,
+          "following_count": 1713,
+          "like_count": 29467,
+          "listed_count": 11,
+          "media_count": 1862,
+          "tweet_count": 8735
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1798031908670193785",
+    "created_at": "2024-06-05T14:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T15:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798355837548925041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789158388880015361",
+          "start": 0,
+          "username": "mgn255317826267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798355837548925041",
+    "in_reply_to_user_id": "1789158388880015361",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798036963112698028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mgn255317826267 抱~~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1798031908670193785",
+        "created_at": "2024-06-05T14:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T15:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798355837548925041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789158388880015361",
+              "start": 0,
+              "username": "mgn255317826267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798355837548925041",
+        "in_reply_to_user_id": "1789158388880015361",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798036963112698028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mgn255317826267 抱~~"
+      },
+      {
+        "attachments": {},
+        "author_id": "1789158388880015361",
+        "conversation_id": "1798031908670193785",
+        "created_at": "2024-06-04T16:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T17:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798036963112698028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798036963112698028",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798031908670193785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 抱抱你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△ 电子猫咪 △想当魔法师的mtx△慢慢变得好看△想要一直放松开心下去△ 当前形态-猫咪正太 ◁开始了发癫日常△  长时间穷 △ 正在努力思考问题  ❀",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮はい電子猫ちゃ",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795835409823641600/uSymw6HK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 1113,
+          "like_count": 23832,
+          "listed_count": 3,
+          "tweet_count": 5010
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T05:00:07.000Z",
+        "description": "喜欢涩涩的一个普通人，但是困难的人，没有倾诉的人，可以找我呀，我会很乐意帮助（无偿）",
+        "id": "1789158388880015361",
+        "location": "湖北襄阳",
+        "name": "墨乾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789372095199137793/ghNaJxca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 93,
+          "like_count": 775,
+          "listed_count": 0,
+          "tweet_count": 223
+        },
+        "username": "mgn255317826267",
+        "verified": false
+      }
+    ]
+  }
+}

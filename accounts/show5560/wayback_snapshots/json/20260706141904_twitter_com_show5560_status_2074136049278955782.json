@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2073965615191388422",
+    "created_at": "2026-07-06T14:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T15:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074136049278955782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046670999882534912",
+          "start": 0,
+          "username": "kittycute3333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074136049278955782",
+    "in_reply_to_user_id": "2046670999882534912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074134325654876662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittycute3333 是你想的那样（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2073965615191388422",
+        "created_at": "2026-07-06T14:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074136049278955782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046670999882534912",
+              "start": 0,
+              "username": "kittycute3333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074136049278955782",
+        "in_reply_to_user_id": "2046670999882534912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074134325654876662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittycute3333 是你想的那样（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046670999882534912",
+        "conversation_id": "2073965615191388422",
+        "created_at": "2026-07-06T14:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074134325654876662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074134325654876662",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073965615191388422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 是我想的那个东西吗…………窝趣…！这也能吃？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4685,
+          "following_count": 1730,
+          "like_count": 30338,
+          "listed_count": 11,
+          "media_count": 2062,
+          "tweet_count": 9583
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T19:22:58.000Z",
+        "description": "不知名十八线小透明 可涩涩可日常陪伴  你的粘人电子女友  欢迎宝宝关注啦~",
+        "id": "2046670999882534912",
+        "location": "有🚪，礼貌私信喔~",
+        "name": "小鹿鹿鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058138503847047168/R6K_bMC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "kittycute3333",
+        "verified": false
+      }
+    ]
+  }
+}

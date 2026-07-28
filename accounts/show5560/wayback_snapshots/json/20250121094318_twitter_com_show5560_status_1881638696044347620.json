@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1881263679334924431",
+    "created_at": "2025-01-21T09:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T10:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881638696044347620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811250754193440768",
+          "start": 0,
+          "username": "kirino_ki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881638696044347620",
+    "in_reply_to_user_id": "1811250754193440768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881263679334924431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirino_ki 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1881263679334924431",
+        "created_at": "2025-01-21T09:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T10:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881638696044347620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811250754193440768",
+              "start": 0,
+              "username": "kirino_ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881638696044347620",
+        "in_reply_to_user_id": "1811250754193440768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881263679334924431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirino_ki 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881263670984077313",
+            "3_1881263670963150848",
+            "3_1881263670963134464"
+          ]
+        },
+        "author_id": "1811250754193440768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1881263679334924431",
+        "created_at": "2025-01-20T08:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T09:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881263679334924431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYdzPY0QEj",
+              "end": 82,
+              "expanded_url": "https://x.com/kirino_ki/status/1881263679334924431/photo/1",
+              "media_key": "3_1881263670984077313",
+              "start": 59,
+              "url": "https://t.co/DYdzPY0QEj"
+            },
+            {
+              "display_url": "pic.x.com/DYdzPY0QEj",
+              "end": 82,
+              "expanded_url": "https://x.com/kirino_ki/status/1881263679334924431/photo/1",
+              "media_key": "3_1881263670963150848",
+              "start": 59,
+              "url": "https://t.co/DYdzPY0QEj"
+            },
+            {
+              "display_url": "pic.x.com/DYdzPY0QEj",
+              "end": 82,
+              "expanded_url": "https://x.com/kirino_ki/status/1881263679334924431/photo/1",
+              "media_key": "3_1881263670963134464",
+              "start": 59,
+              "url": "https://t.co/DYdzPY0QEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881263679334924431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7365,
+          "like_count": 164,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "200fo感谢！咳咳…抽个奖吧，限互fo捏，steam版的缘之空+悠之空一份，评论+点赞就可以乐，三天后开（图三无关 https://t.co/DYdzPY0QEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆喜欢玩cos★喜欢酷酷的衣服✟ 笨蛋一个 △想成为一个大魔法师△ ♡ 真的真的很喜欢很爱希汐★咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "★酥萌萌★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877292803178508290/u1ZN0s75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1175,
+          "like_count": 24721,
+          "listed_count": 2,
+          "media_count": 877,
+          "tweet_count": 5466
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:07:02.000Z",
+        "description": "如果在你心中出现一片乌云的时候。 悲伤的诗能给乌云一个小小的拥抱。 然后它就会变换成一道开心的彩虹！ 好友友 @RinFisa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "RinFisa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirino_ki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirino_ki1",
+                "start": 0,
+                "url": "https://t.co/pl7J7xt8JY"
+              }
+            ]
+          }
+        },
+        "id": "1811250754193440768",
+        "location": "链接是发悄悄话的喵",
+        "name": "Kirino",
+        "pinned_tweet_id": "1879880846011928661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876103345871683584/Y-cKgPel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 285,
+          "like_count": 2279,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/pl7J7xt8JY",
+        "username": "kirino_ki",
+        "verified": true
+      }
+    ]
+  }
+}

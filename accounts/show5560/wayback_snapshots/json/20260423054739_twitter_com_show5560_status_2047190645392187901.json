@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047145946346381656",
+    "created_at": "2026-04-23T05:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047190645392187901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1848780758321926145",
+          "start": 0,
+          "username": "xingyue1020"
+        },
+        {
+          "end": 26,
+          "id": "1900724919396388864",
+          "start": 13,
+          "username": "alexbyht0483"
+        },
+        {
+          "end": 38,
+          "id": "1948391508970762240",
+          "start": 27,
+          "username": "ohouhou717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047190645392187901",
+    "in_reply_to_user_id": "1848780758321926145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047174050213134820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingyue1020 @alexbyht0483 @ohouhou717 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047145946346381656",
+        "created_at": "2026-04-23T05:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047190645392187901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1848780758321926145",
+              "start": 0,
+              "username": "xingyue1020"
+            },
+            {
+              "end": 26,
+              "id": "1900724919396388864",
+              "start": 13,
+              "username": "alexbyht0483"
+            },
+            {
+              "end": 38,
+              "id": "1948391508970762240",
+              "start": 27,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047190645392187901",
+        "in_reply_to_user_id": "1848780758321926145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047174050213134820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingyue1020 @alexbyht0483 @ohouhou717 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848780758321926145",
+        "conversation_id": "2047145946346381656",
+        "created_at": "2026-04-23T04:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047174050213134820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900724919396388864",
+              "start": 0,
+              "username": "alexbyht0483"
+            },
+            {
+              "end": 25,
+              "id": "1948391508970762240",
+              "start": 14,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047174050213134820",
+        "in_reply_to_user_id": "1900724919396388864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047170157924299188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexbyht0483 @ohouhou717 已关请回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 1598,
+          "like_count": 26210,
+          "listed_count": 7,
+          "media_count": 601,
+          "tweet_count": 6184
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-22T17:37:50.000Z",
+        "description": "🧵Web3空投猎手 👉专注交互策略与早期机会挖掘⛏️\n每日更新真实交互教程、潜力项目埋伏清单\n⚠️ 不推土狗/合约，只做确定性交互，拒绝PUA🍃",
+        "id": "1848780758321926145",
+        "location": "Hong Kong",
+        "name": "酷路泽🥷🏻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043513919562801152/9iJCzwtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 52,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "username": "xingyue1020",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T01:45:19.000Z",
+        "description": "收集人间真实·奇葩·大赏 🗑️✨\n搞笑解压视频、生活翻车现场、高质量小段子。\n按时更新“笑穴点按”服务，承包你今日份的解压KPI。\n不传播焦虑，只送达快乐。侵权联系，即刻删除！",
+        "id": "1900724919396388864",
+        "name": "James",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014189996526432256/CYssSN_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 1545,
+          "like_count": 6639,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 6715
+        },
+        "username": "alexbyht0483",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T14:35:22.000Z",
+        "description": "Now！ \nYapping about crypto！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weilan69",
+                "end": 23,
+                "expanded_url": "https://t.me/weilan69",
+                "start": 0,
+                "url": "https://t.co/Cb7C0RUObx"
+              }
+            ]
+          }
+        },
+        "id": "1948391508970762240",
+        "name": "Weilan| 🤖ボッ Bird🕊️",
+        "pinned_tweet_id": "2046768436488143310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999801423761199104/dgwqRHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14221,
+          "following_count": 7993,
+          "like_count": 93399,
+          "listed_count": 62,
+          "media_count": 322,
+          "tweet_count": 93581
+        },
+        "url": "https://t.co/Cb7C0RUObx",
+        "username": "ohouhou717",
+        "verified": true
+      }
+    ]
+  }
+}

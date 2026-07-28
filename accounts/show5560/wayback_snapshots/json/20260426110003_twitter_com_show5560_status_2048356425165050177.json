@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048066805881868288"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2048356425165050177",
+    "created_at": "2026-04-26T11:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048356425165050177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XzwZQd3vHx",
+          "end": 40,
+          "expanded_url": "https://x.com/show5560/status/2048356425165050177/photo/1",
+          "media_key": "3_2048066805881868288",
+          "start": 17,
+          "url": "https://t.co/XzwZQd3vHx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048356425165050177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么人才）游戏里的世界观带到现实 https://t.co/XzwZQd3vHx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2048066805881868288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwx6KjbkAA640j.png",
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048066805881868288"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2048356425165050177",
+        "created_at": "2026-04-26T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048356425165050177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzwZQd3vHx",
+              "end": 40,
+              "expanded_url": "https://x.com/show5560/status/2048356425165050177/photo/1",
+              "media_key": "3_2048066805881868288",
+              "start": 17,
+              "url": "https://t.co/XzwZQd3vHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048356425165050177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么人才）游戏里的世界观带到现实 https://t.co/XzwZQd3vHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2048248982653321657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 1670,
+          "like_count": 26817,
+          "listed_count": 9,
+          "media_count": 659,
+          "tweet_count": 6551
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

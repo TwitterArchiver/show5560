@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      }
+    ],
+    "conversation_id": "2046236748301340985",
+    "created_at": "2026-04-21T00:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T01:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046385668109340795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417020458801799170",
+          "start": 0,
+          "username": "UmiNeko11101010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046385668109340795",
+    "in_reply_to_user_id": "1417020458801799170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046384411311317092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UmiNeko11101010 可是寿司郎真好吃吧😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2046236748301340985",
+        "created_at": "2026-04-21T00:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046385668109340795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417020458801799170",
+              "start": 0,
+              "username": "UmiNeko11101010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046385668109340795",
+        "in_reply_to_user_id": "1417020458801799170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046384411311317092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UmiNeko11101010 可是寿司郎真好吃吧😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417020458801799170",
+        "conversation_id": "2046236748301340985",
+        "created_at": "2026-04-21T00:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046384411311317092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046384411311317092",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046236748301340985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 天才"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2809,
+          "following_count": 1491,
+          "like_count": 25794,
+          "listed_count": 6,
+          "media_count": 566,
+          "tweet_count": 5905
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T07:16:28.000Z",
+        "description": "平平无奇的开卡店的。\n同时也是小说作者，个人投资者，旅行者。\n卡店在 https://t.co/G738UDTyOe\n随机回关。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maps.app.goo.gl/wBuqVyeLPG4y3C…",
+                "end": 58,
+                "expanded_url": "https://maps.app.goo.gl/wBuqVyeLPG4y3C9ZA",
+                "start": 35,
+                "url": "https://t.co/G738UDTyOe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellacards.net",
+                "end": 23,
+                "expanded_url": "https://stellacards.net/",
+                "start": 0,
+                "url": "https://t.co/cnvF7v8tJm"
+              }
+            ]
+          }
+        },
+        "id": "1417020458801799170",
+        "location": "大阪市北区天神桥三丁目5-9 スタートレカ",
+        "name": "浮世",
+        "pinned_tweet_id": "1963144010987684083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813055870504476674/e3JN8Yi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6717,
+          "following_count": 885,
+          "like_count": 224487,
+          "listed_count": 35,
+          "media_count": 4806,
+          "tweet_count": 26284
+        },
+        "url": "https://t.co/cnvF7v8tJm",
+        "username": "UmiNeko11101010",
+        "verified": true
+      }
+    ]
+  }
+}

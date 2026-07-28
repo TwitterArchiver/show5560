@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2066801842143801406",
+    "created_at": "2026-06-16T09:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066811009055224128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1534813025252818945",
+          "start": 0,
+          "username": "YigU198493"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066811009055224128",
+    "in_reply_to_user_id": "1534813025252818945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066801842143801406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YigU198493 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2066801842143801406",
+        "created_at": "2026-06-16T09:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066811009055224128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1534813025252818945",
+              "start": 0,
+              "username": "YigU198493"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066811009055224128",
+        "in_reply_to_user_id": "1534813025252818945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066801842143801406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YigU198493 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534813025252818945",
+        "conversation_id": "2066801842143801406",
+        "created_at": "2026-06-16T08:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066801842143801406"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066801842143801406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天冲一下300关注吧，亲爱的家人们我信用分超高的🥹有关必回 #蓝V互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡接线下喵 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 1701,
+          "like_count": 28673,
+          "listed_count": 8,
+          "media_count": 1535,
+          "tweet_count": 8055
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-09T08:22:23.000Z",
+        "description": "AI、足球、自媒体\n短期目标：辞职\n中期目标：构筑人生的第一个百万\n长期目标都是幻觉。\n学习、成长，学习、成长。\namzzzing",
+        "id": "1534813025252818945",
+        "name": "德布兰德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066383505144332288/yEmSyYQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 287,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 55
+        },
+        "username": "YigU198493",
+        "verified": true
+      }
+    ]
+  }
+}

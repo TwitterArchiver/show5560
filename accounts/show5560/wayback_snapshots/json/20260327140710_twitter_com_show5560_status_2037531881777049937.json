@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2037484523206975675",
+    "created_at": "2026-03-27T14:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037531881777049937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1806241574709268480",
+          "start": 0,
+          "username": "U_1F605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037531881777049937",
+    "in_reply_to_user_id": "1806241574709268480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037523873248522393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@U_1F605 哈！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2037484523206975675",
+        "created_at": "2026-03-27T14:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037531881777049937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1806241574709268480",
+              "start": 0,
+              "username": "U_1F605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037531881777049937",
+        "in_reply_to_user_id": "1806241574709268480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037523873248522393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@U_1F605 哈！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806241574709268480",
+        "conversation_id": "2037484523206975675",
+        "created_at": "2026-03-27T13:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037523873248522393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037523873248522393",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037484523206975675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这个拿来涮火锅肯定好吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg 🚪50 接线下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "深圳",
+        "name": "沐安喵",
+        "pinned_tweet_id": "2036763189522936178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028756390458925056/PAfy-wqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 1178,
+          "like_count": 24485,
+          "listed_count": 5,
+          "media_count": 960,
+          "tweet_count": 5964
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T08:22:58.000Z",
+        "description": "自用VPN:https://t.co/U7lJkKKX1f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "44dh.dh5.haihaioh.com/#/register?cod…",
+                "end": 29,
+                "expanded_url": "http://44dh.dh5.haihaioh.com/#/register?code=qupwB16G",
+                "start": 6,
+                "url": "https://t.co/U7lJkKKX1f"
+              }
+            ]
+          }
+        },
+        "id": "1806241574709268480",
+        "name": "赚到一千万我就好好报复社会",
+        "pinned_tweet_id": "1905266594860912874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806242208133111808/BaI-DFbQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 1011,
+          "like_count": 2052,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 581
+        },
+        "username": "U_1F605",
+        "verified": false
+      }
+    ]
+  }
+}

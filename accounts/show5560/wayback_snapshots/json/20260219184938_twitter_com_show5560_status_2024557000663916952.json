@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2024194430937567373",
+    "created_at": "2026-02-19T18:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T19:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024557000663916952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1707057923376197632",
+          "start": 0,
+          "username": "Sankta_AM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024557000663916952",
+    "in_reply_to_user_id": "1707057923376197632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024525388509331460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sankta_AM 蹭蹭w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2024194430937567373",
+        "created_at": "2026-02-19T18:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024557000663916952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1707057923376197632",
+              "start": 0,
+              "username": "Sankta_AM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024557000663916952",
+        "in_reply_to_user_id": "1707057923376197632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024525388509331460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sankta_AM 蹭蹭w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707057923376197632",
+        "conversation_id": "2024194430937567373",
+        "created_at": "2026-02-19T16:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024525388509331460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024525388509331460",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024194430937567373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 摸摸喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "没有梦想的咸鱼一条ovo---努力的还债中.jpg /减肥中.jpg",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1126,
+          "like_count": 23080,
+          "listed_count": 4,
+          "media_count": 948,
+          "tweet_count": 5757
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T15:41:55.000Z",
+        "description": "",
+        "id": "1707057923376197632",
+        "name": "空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707058544422658048/tPTsmNoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 207,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 235
+        },
+        "username": "Sankta_AM",
+        "verified": false
+      }
+    ]
+  }
+}

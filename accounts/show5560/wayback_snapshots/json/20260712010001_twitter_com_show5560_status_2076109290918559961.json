@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075959308916019200"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2076109290918559961",
+    "created_at": "2026-07-12T01:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T02:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076109290918559961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gSnJxrdRP2",
+          "end": 31,
+          "expanded_url": "https://x.com/show5560/status/2076109290918559961/photo/1",
+          "media_key": "3_2075959308916019200",
+          "start": 8,
+          "url": "https://t.co/gSnJxrdRP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076109290918559961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "教授真的好好🥰 https://t.co/gSnJxrdRP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 836,
+        "media_key": "3_2075959308916019200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9J_hga0AAKX_9.png",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075959308916019200"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2076109290918559961",
+        "created_at": "2026-07-12T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076109290918559961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSnJxrdRP2",
+              "end": 31,
+              "expanded_url": "https://x.com/show5560/status/2076109290918559961/photo/1",
+              "media_key": "3_2075959308916019200",
+              "start": 8,
+              "url": "https://t.co/gSnJxrdRP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076109290918559961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教授真的好好🥰 https://t.co/gSnJxrdRP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4793,
+          "following_count": 1735,
+          "like_count": 30887,
+          "listed_count": 12,
+          "media_count": 2196,
+          "tweet_count": 10154
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

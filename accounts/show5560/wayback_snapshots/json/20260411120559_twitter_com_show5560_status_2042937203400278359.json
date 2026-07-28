@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2042860200122778062",
+    "created_at": "2026-04-11T12:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042937203400278359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "160926773",
+          "start": 0,
+          "username": "dracula_AL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042937203400278359",
+    "in_reply_to_user_id": "160926773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042932475001999678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dracula_AL 为了帝皇！_(:з」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2042860200122778062",
+        "created_at": "2026-04-11T12:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042937203400278359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "160926773",
+              "start": 0,
+              "username": "dracula_AL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042937203400278359",
+        "in_reply_to_user_id": "160926773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042932475001999678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dracula_AL 为了帝皇！_(:з」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "160926773",
+        "conversation_id": "2042860200122778062",
+        "created_at": "2026-04-11T11:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042932475001999678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042932475001999678",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042860200122778062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 魔抗挺高的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ #蓝v互关 喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "蓝v互关"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2408,
+          "following_count": 1237,
+          "like_count": 24907,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 5551
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-29T13:53:14.000Z",
+        "description": "AI学习者，为制作游戏做准备。不定期更新AI生成的图片和动画。",
+        "id": "160926773",
+        "name": "Dracula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015251814560546816/U6PlPB-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 278,
+          "like_count": 1879,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 718
+        },
+        "username": "dracula_AL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2048005145137680523",
+    "created_at": "2026-04-25T12:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048012777567236532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        },
+        {
+          "end": 25,
+          "id": "1368897611672018953",
+          "start": 15,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048012777567236532",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048005145137680523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 @XUEQIUxka 羡慕喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048005125835505664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGv5z6eawAAlL0u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2048005145137680523",
+        "created_at": "2026-04-25T12:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048012777567236532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 25,
+              "id": "1368897611672018953",
+              "start": 15,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048012777567236532",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048005145137680523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @XUEQIUxka 羡慕喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048005125835505664"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2048005145137680523",
+        "created_at": "2026-04-25T11:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048005145137680523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1368897611672018953",
+              "start": 5,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3dFwJTGjl",
+              "end": 44,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2048005145137680523/photo/1",
+              "media_key": "3_2048005125835505664",
+              "start": 21,
+              "url": "https://t.co/u3dFwJTGjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048005145137680523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢🥰🥰🥰@XUEQIUxka 的礼物！ https://t.co/u3dFwJTGjl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 1660,
+          "like_count": 26720,
+          "listed_count": 7,
+          "media_count": 644,
+          "tweet_count": 6474
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3281,
+          "following_count": 618,
+          "like_count": 15016,
+          "listed_count": 9,
+          "media_count": 925,
+          "tweet_count": 3850
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7540,
+          "following_count": 2158,
+          "like_count": 27303,
+          "listed_count": 27,
+          "media_count": 904,
+          "tweet_count": 4249
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

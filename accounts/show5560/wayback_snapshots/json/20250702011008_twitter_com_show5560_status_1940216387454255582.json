@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939845643742367744"
+      ],
+      "media_source_tweet_id": [
+        "1939845646296784974"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1940216387454255582",
+    "created_at": "2025-07-02T01:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T02:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940216387454255582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450893562686541824",
+          "start": 3,
+          "username": "KK404error"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tXEDiLpzbJ",
+          "end": 57,
+          "expanded_url": "https://x.com/KK404error/status/1939845646296784974/photo/1",
+          "media_key": "3_1939845643742367744",
+          "start": 34,
+          "url": "https://t.co/tXEDiLpzbJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940216387454255582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939845646296784974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KK404error: 不是哥们，这还是哔咔吗给我干哪来了 https://t.co/tXEDiLpzbJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939845643742367744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guu3VdJaUAATjpK.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939845643742367744"
+          ],
+          "media_source_tweet_id": [
+            "1939845646296784974"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1940216387454255582",
+        "created_at": "2025-07-02T01:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940216387454255582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450893562686541824",
+              "start": 3,
+              "username": "KK404error"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXEDiLpzbJ",
+              "end": 57,
+              "expanded_url": "https://x.com/KK404error/status/1939845646296784974/photo/1",
+              "media_key": "3_1939845643742367744",
+              "start": 34,
+              "url": "https://t.co/tXEDiLpzbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940216387454255582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939845646296784974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KK404error: 不是哥们，这还是哔咔吗给我干哪来了 https://t.co/tXEDiLpzbJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939845643742367744"
+          ]
+        },
+        "author_id": "1450893562686541824",
+        "conversation_id": "1939845646296784974",
+        "created_at": "2025-07-01T00:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T01:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939845646296784974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXEDiLpzbJ",
+              "end": 41,
+              "expanded_url": "https://x.com/KK404error/status/1939845646296784974/photo/1",
+              "media_key": "3_1939845643742367744",
+              "start": 18,
+              "url": "https://t.co/tXEDiLpzbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939845646296784974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是哥们，这还是哔咔吗给我干哪来了 https://t.co/tXEDiLpzbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘✟ 想成为一个大魔法师✟想阻止身边的会发生的坏事✟ 已经无糖哩（断糖之后不知道做什么了）✟生活能过的开心就是赢✟ 迷茫焦虑 ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "✟焦虑の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 1162,
+          "like_count": 23517,
+          "listed_count": 4,
+          "media_count": 927,
+          "tweet_count": 5657
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T18:36:02.000Z",
+        "description": "叫咱KK就是了/好想出门玩啊啊啊啊啊啊啊啊\n\nJe veux la gloire à mes genoux/灭尽龙: @maitao114514 /推荐个喵叽VPN 点链接可以看看↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "maitao114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=rK222yWf",
+                "start": 0,
+                "url": "https://t.co/WQ2VbNL3bE"
+              }
+            ]
+          }
+        },
+        "id": "1450893562686541824",
+        "location": "十一万四千五百一十四米",
+        "name": "Karma·Kaslana",
+        "pinned_tweet_id": "1900661542796095523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821013028751749120/iRBPrtYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12507,
+          "following_count": 3284,
+          "like_count": 51710,
+          "listed_count": 20,
+          "media_count": 1366,
+          "tweet_count": 32393
+        },
+        "url": "https://t.co/WQ2VbNL3bE",
+        "username": "KK404error",
+        "verified": false
+      }
+    ]
+  }
+}

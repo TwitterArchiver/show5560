@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2076256465015251357",
+    "created_at": "2026-07-13T07:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076571864638648576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796031897753276417",
+          "start": 0,
+          "username": "xiaoduoya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076571864638648576",
+    "in_reply_to_user_id": "1796031897753276417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076256465015251357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoduoya_ 有些变态了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2076256459575427072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBYP9-agAAxkAn.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2076256465015251357",
+        "created_at": "2026-07-13T07:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076571864638648576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796031897753276417",
+              "start": 0,
+              "username": "xiaoduoya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076571864638648576",
+        "in_reply_to_user_id": "1796031897753276417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076256465015251357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoduoya_ 有些变态了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076256459575427072"
+          ]
+        },
+        "author_id": "1796031897753276417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076256465015251357",
+        "created_at": "2026-07-12T10:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076256465015251357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9yA6YZ7te5",
+              "end": 30,
+              "expanded_url": "https://x.com/xiaoduoya_/status/2076256465015251357/photo/1",
+              "media_key": "3_2076256459575427072",
+              "start": 7,
+              "url": "https://t.co/9yA6YZ7te5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076256465015251357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 711,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生活还挺丰富 https://t.co/9yA6YZ7te5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4876,
+          "following_count": 1733,
+          "like_count": 31085,
+          "listed_count": 12,
+          "media_count": 2226,
+          "tweet_count": 10355
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-30T04:12:43.000Z",
+        "description": "嗨，我是小多。\n🤔16岁 热爱AI&Web3的高中生 独立Vibe Coding开发者 兴趣使然\n⭐️教程+日常分享 把推特当第二个朋友圈\n接触币圈是一个特殊的机遇，等我有时间再慢慢道来......\n\n所有推文都不构成投资建议 DYOR\n有任何问题欢迎TG私信我🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/heyxiaoduo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/heyxiaoduo",
+                "start": 0,
+                "url": "https://t.co/VHEVeomtMg"
+              }
+            ]
+          }
+        },
+        "id": "1796031897753276417",
+        "location": "Web3&AI | 商务合作·平台返佣·个人项目 →",
+        "name": "HeyXiaoDuo_",
+        "pinned_tweet_id": "2045072469929959587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796031965281517568/jjRXAPI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 457,
+          "like_count": 3541,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/VHEVeomtMg",
+        "username": "xiaoduoya_",
+        "verified": true
+      }
+    ]
+  }
+}

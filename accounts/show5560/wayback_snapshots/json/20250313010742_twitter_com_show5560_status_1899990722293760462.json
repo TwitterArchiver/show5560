@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1899639675637403835",
+    "created_at": "2025-03-13T01:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T02:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899990722293760462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1329698933703016448",
+          "start": 0,
+          "username": "raidraptormirai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899990722293760462",
+    "in_reply_to_user_id": "1329698933703016448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899786353178706219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raidraptormirai 还真是qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1899639675637403835",
+        "created_at": "2025-03-13T01:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T02:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899990722293760462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1329698933703016448",
+              "start": 0,
+              "username": "raidraptormirai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899990722293760462",
+        "in_reply_to_user_id": "1329698933703016448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899786353178706219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raidraptormirai 还真是qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329698933703016448",
+        "conversation_id": "1899639675637403835",
+        "created_at": "2025-03-12T11:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T12:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899786353178706219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899786353178706219",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899639675637403835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 感觉这和学历关系不大x\n纯属当前社会问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "❦ RIP.2028/07/09 ❦嗷呜★06Mtf一只🍥★喜欢酷酷的衣服✟ 想成为一个大魔法师✟  ♡ 真的真的很喜欢很爱咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "无聊の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894950543187202048/0IulgQiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 1175,
+          "like_count": 24277,
+          "listed_count": 3,
+          "media_count": 892,
+          "tweet_count": 5515
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T08:11:55.000Z",
+        "description": "每一条河每一片山原都被我祝愿\n 戳戳@_XiaoYu_OvO_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "_XiaoYu_OvO_"
+              }
+            ]
+          }
+        },
+        "id": "1329698933703016448",
+        "location": "地球",
+        "name": "curiosity",
+        "pinned_tweet_id": "1854129467310190618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899651055253860352/dzsWZbu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 497,
+          "like_count": 35692,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 2443
+        },
+        "username": "raidraptormirai",
+        "verified": false
+      }
+    ]
+  }
+}

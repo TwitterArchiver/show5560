@@ -1,0 +1,90 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794786060196777984"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1794786064999285005",
+    "created_at": "2024-05-26T17:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T18:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794786064999285005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/FFFruep1J1",
+          "end": 77,
+          "expanded_url": "https://twitter.com/show5560/status/1794786064999285005/photo/1",
+          "media_key": "3_1794786060196777984",
+          "start": 54,
+          "url": "https://t.co/FFFruep1J1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794786064999285005",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无聊，爆一张拍照片的时候拉了美颜的相片\n应该会掉fo吧.....\n算了，无所谓，好像也没什么用\n真的巨丑！ https://t.co/FFFruep1J1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1794786064999285005].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1794786064999285005",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1794786064999285005"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1794786060196777984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOhcaZ3aEAABn0L.jpg",
+        "width": 2133
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△ 电子猫咪 △想当魔法师的mtx△慢慢变得好看△想要一直放松开心下去△ 当前形态-猫咪正太 ◁开始了发癫日常△ 🚪 50",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮はい電子猫ちゃん",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764676829196210176/H6fRFPSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 1119,
+          "like_count": 23639,
+          "listed_count": 3,
+          "tweet_count": 4946
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

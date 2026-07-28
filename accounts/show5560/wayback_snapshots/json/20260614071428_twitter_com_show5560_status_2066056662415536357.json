@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066056659328552960"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2066056662415536357",
+    "created_at": "2026-06-14T07:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066056662415536357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5ns6CKYtf",
+          "end": 37,
+          "expanded_url": "https://x.com/show5560/status/2066056662415536357/photo/1",
+          "media_key": "3_2066056659328552960",
+          "start": 14,
+          "url": "https://t.co/n5ns6CKYtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066056662415536357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带着棉花娃娃一起殉葬吗（） https://t.co/n5ns6CKYtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_2066056659328552960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwbldEb0AAOOLa.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066056659328552960"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2066056662415536357",
+        "created_at": "2026-06-14T07:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066056662415536357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5ns6CKYtf",
+              "end": 37,
+              "expanded_url": "https://x.com/show5560/status/2066056662415536357/photo/1",
+              "media_key": "3_2066056659328552960",
+              "start": 14,
+              "url": "https://t.co/n5ns6CKYtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066056662415536357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带着棉花娃娃一起殉葬吗（） https://t.co/n5ns6CKYtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4396,
+          "following_count": 1695,
+          "like_count": 28555,
+          "listed_count": 8,
+          "media_count": 1472,
+          "tweet_count": 7974
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

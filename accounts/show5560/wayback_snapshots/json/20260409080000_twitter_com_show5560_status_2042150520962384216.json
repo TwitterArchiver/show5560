@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042118626149593090"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042150520962384216",
+    "created_at": "2026-04-09T08:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042150520962384216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mZQiuODKKs",
+          "end": 62,
+          "expanded_url": "https://x.com/show5560/status/2042150520962384216/photo/1",
+          "media_key": "3_2042118626149593090",
+          "start": 39,
+          "url": "https://t.co/mZQiuODKKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042150520962384216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于为了给家族繁衍后代又不想拆散女同妹妹而找了一个骗婚伪娘做婚姻咨询师这件事 https://t.co/mZQiuODKKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_2042118626149593090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcQEiTa8AInaxd.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042118626149593090"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042150520962384216",
+        "created_at": "2026-04-09T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042150520962384216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZQiuODKKs",
+              "end": 62,
+              "expanded_url": "https://x.com/show5560/status/2042150520962384216/photo/1",
+              "media_key": "3_2042118626149593090",
+              "start": 39,
+              "url": "https://t.co/mZQiuODKKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042150520962384216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于为了给家族繁衍后代又不想拆散女同妹妹而找了一个骗婚伪娘做婚姻咨询师这件事 https://t.co/mZQiuODKKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的或者我去搞个日常号（？/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2041722973317689367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 1165,
+          "like_count": 24726,
+          "listed_count": 5,
+          "media_count": 403,
+          "tweet_count": 5472
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

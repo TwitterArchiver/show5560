@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038884972321501184"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2038884974716493834",
+    "created_at": "2026-03-31T07:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T08:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038884974716493834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iVRys8x4RO",
+          "end": 27,
+          "expanded_url": "https://x.com/show5560/status/2038884974716493834/photo/1",
+          "media_key": "3_2038884972321501184",
+          "start": 4,
+          "url": "https://t.co/iVRys8x4RO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038884974716493834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好无聊 https://t.co/iVRys8x4RO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_2038884972321501184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuTFHEa8AA1xiK.jpg",
+        "width": 541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038884972321501184"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2038884974716493834",
+        "created_at": "2026-03-31T07:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038884974716493834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVRys8x4RO",
+              "end": 27,
+              "expanded_url": "https://x.com/show5560/status/2038884974716493834/photo/1",
+              "media_key": "3_2038884972321501184",
+              "start": 4,
+              "url": "https://t.co/iVRys8x4RO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038884974716493834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊 https://t.co/iVRys8x4RO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 1185,
+          "like_count": 24776,
+          "listed_count": 5,
+          "media_count": 961,
+          "tweet_count": 5976
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

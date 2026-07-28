@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2073572574999752900",
+    "created_at": "2026-07-05T15:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073786737701343641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073786737701343641",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073786141401387156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2073572574999752900",
+        "created_at": "2026-07-05T15:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073786737701343641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073786737701343641",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073786141401387156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900754238570893313",
+        "conversation_id": "2073572574999752900",
+        "created_at": "2026-07-05T15:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073786141401387156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073786141401387156",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073785786001228144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 不是蓋了新校區來著\n這是因為當時出分前我估分不高 聽他們學校的人和我說多 勸我別去 hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4647,
+          "following_count": 1730,
+          "like_count": 30272,
+          "listed_count": 11,
+          "media_count": 2039,
+          "tweet_count": 9503
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "➡️以虛  \n七転、八起。\n商科逃兵｜ 臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友\n文字-聲韻-訓詁-目錄-版本-校勘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rulib.cn",
+                "end": 23,
+                "expanded_url": "https://www.rulib.cn",
+                "start": 0,
+                "url": "https://t.co/DlkhbWFWyo"
+              }
+            ]
+          }
+        },
+        "id": "1900754238570893313",
+        "location": "南昌市新建縣望城崗1號｜上海市楊浦區楊樹浦路2866號",
+        "name": "佩觿",
+        "pinned_tweet_id": "2070246029421887801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070608956934787072/AOjmeFcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 185,
+          "like_count": 35580,
+          "listed_count": 2,
+          "media_count": 1105,
+          "tweet_count": 13575
+        },
+        "url": "https://t.co/DlkhbWFWyo",
+        "username": "patchouli608",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054559788424691712",
+        "3_2054559788382748672"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2055075691012690196",
+    "created_at": "2026-05-15T00:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055075691012690196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qJ6MjWRTmJ",
+          "end": 40,
+          "expanded_url": "https://x.com/show5560/status/2055075691012690196/photo/1",
+          "media_key": "3_2054559788424691712",
+          "start": 17,
+          "url": "https://t.co/qJ6MjWRTmJ"
+        },
+        {
+          "display_url": "pic.x.com/qJ6MjWRTmJ",
+          "end": 40,
+          "expanded_url": "https://x.com/show5560/status/2055075691012690196/photo/1",
+          "media_key": "3_2054559788382748672",
+          "start": 17,
+          "url": "https://t.co/qJ6MjWRTmJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055075691012690196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果是透明的话，那你可能就不买了 https://t.co/qJ6MjWRTmJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2054559788424691712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINDPfbbAAAT-ig.jpg",
+        "width": 903
+      },
+      {
+        "height": 683,
+        "media_key": "3_2054559788382748672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINDPfRbAAAXsdf.png",
+        "width": 573
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054559788424691712",
+            "3_2054559788382748672"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2055075691012690196",
+        "created_at": "2026-05-15T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055075691012690196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJ6MjWRTmJ",
+              "end": 40,
+              "expanded_url": "https://x.com/show5560/status/2055075691012690196/photo/1",
+              "media_key": "3_2054559788424691712",
+              "start": 17,
+              "url": "https://t.co/qJ6MjWRTmJ"
+            },
+            {
+              "display_url": "pic.x.com/qJ6MjWRTmJ",
+              "end": 40,
+              "expanded_url": "https://x.com/show5560/status/2055075691012690196/photo/1",
+              "media_key": "3_2054559788382748672",
+              "start": 17,
+              "url": "https://t.co/qJ6MjWRTmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055075691012690196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果是透明的话，那你可能就不买了 https://t.co/qJ6MjWRTmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3942,
+          "following_count": 1688,
+          "like_count": 27492,
+          "listed_count": 7,
+          "media_count": 969,
+          "tweet_count": 6993
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047327237998051810",
+    "created_at": "2026-04-24T11:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047641982873600506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839357790340739073",
+          "start": 0,
+          "username": "RainbowXiaoMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047641982873600506",
+    "in_reply_to_user_id": "1839357790340739073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047327237998051810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainbowXiaoMiao 啊？没看懂）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17520,
+        "height": 960,
+        "media_key": "7_2047327204179394560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047327204179394560/pu/img/gSK4EmberFT3vI_p.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047327204179394560/pu/vid/avc1/320x570/DVyknz8g4zxWGV6W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047327204179394560/pu/vid/avc1/538x960/JPWcggH6y80Pr2HK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047327204179394560/pu/pl/igqsOOZnzS5nOfEd.m3u8"
+          }
+        ],
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047327237998051810",
+        "created_at": "2026-04-24T11:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047641982873600506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839357790340739073",
+              "start": 0,
+              "username": "RainbowXiaoMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047641982873600506",
+        "in_reply_to_user_id": "1839357790340739073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047327237998051810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainbowXiaoMiao 啊？没看懂）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047327204179394560"
+          ]
+        },
+        "author_id": "1839357790340739073",
+        "conversation_id": "2047327237998051810",
+        "created_at": "2026-04-23T14:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047327237998051810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PG8LNwmaXF",
+              "end": 37,
+              "expanded_url": "https://x.com/RainbowXiaoMiao/status/2047327237998051810/video/1",
+              "media_key": "7_2047327204179394560",
+              "start": 14,
+              "url": "https://t.co/PG8LNwmaXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047327237998051810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是男人啊，痛！太痛了！ https://t.co/PG8LNwmaXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3000,
+          "following_count": 1650,
+          "like_count": 26514,
+          "listed_count": 7,
+          "media_count": 624,
+          "tweet_count": 6363
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-26T17:34:26.000Z",
+        "description": "男人感情避坑指南｜嘴臭但句句实话｜别他妈再被忽悠了",
+        "id": "1839357790340739073",
+        "name": "彩虹小喵（短裤套头版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038224091275313152/iONm5BFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 901,
+          "like_count": 4828,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 3325
+        },
+        "username": "RainbowXiaoMiao",
+        "verified": true
+      }
+    ]
+  }
+}

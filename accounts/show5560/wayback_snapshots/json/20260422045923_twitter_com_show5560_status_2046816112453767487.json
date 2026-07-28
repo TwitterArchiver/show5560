@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2046559575361593523",
+    "created_at": "2026-04-22T04:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046816112453767487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506637610352984065",
+          "start": 0,
+          "username": "JarrettYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046816112453767487",
+    "in_reply_to_user_id": "1506637610352984065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046797119676420560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JarrettYe 强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2046797060947812352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGevFSEboAAtW8E.jpg",
+        "width": 1986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046559575361593523",
+        "created_at": "2026-04-22T04:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046816112453767487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506637610352984065",
+              "start": 0,
+              "username": "JarrettYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046816112453767487",
+        "in_reply_to_user_id": "1506637610352984065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046797119676420560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JarrettYe 强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046797060947812352"
+          ]
+        },
+        "author_id": "1506637610352984065",
+        "conversation_id": "2046559575361593523",
+        "created_at": "2026-04-22T03:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046797119676420560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScbVd4uKCN",
+              "end": 48,
+              "expanded_url": "https://x.com/JarrettYe/status/2046797119676420560/photo/1",
+              "media_key": "3_2046797060947812352",
+              "start": 25,
+              "url": "https://t.co/ScbVd4uKCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046797119676420560",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 862,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046559575361593523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 惭愧惭愧，只做到 0.1%（ https://t.co/ScbVd4uKCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 1537,
+          "like_count": 25999,
+          "listed_count": 6,
+          "media_count": 585,
+          "tweet_count": 6036
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-23T14:23:05.000Z",
+        "description": "Die-hard fan of spaced repetition. Creator of FSRS. \nInfluencer on ZhiHu with 135k+ followers. \nResearch Engineer at MaiMemo Inc. \nFounder of Thoughts Memo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "l-m-sherlock.github.io",
+                "end": 23,
+                "expanded_url": "https://l-m-sherlock.github.io",
+                "start": 0,
+                "url": "https://t.co/VQgi3Ir9oX"
+              }
+            ]
+          }
+        },
+        "id": "1506637610352984065",
+        "location": "China",
+        "name": "Jarrett Ye",
+        "pinned_tweet_id": "2016148054915858807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569996533449523200/kDUdelDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6359,
+          "following_count": 378,
+          "like_count": 20022,
+          "listed_count": 48,
+          "media_count": 503,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/VQgi3Ir9oX",
+        "username": "JarrettYe",
+        "verified": true
+      }
+    ]
+  }
+}

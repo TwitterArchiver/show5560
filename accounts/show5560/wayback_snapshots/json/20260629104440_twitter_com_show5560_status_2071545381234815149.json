@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2071201469215449232",
+    "created_at": "2026-06-29T10:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071545381234815149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735728536827334657",
+          "start": 0,
+          "username": "SakurasakaRiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071545381234815149",
+    "in_reply_to_user_id": "1735728536827334657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071201469215449232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurasakaRiko 坏猫！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7700,
+        "height": 1280,
+        "media_key": "13_2071201399606812672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071201399606812672/img/AqR1sTQWiZOv3wW5.jpg",
+        "public_metrics": {
+          "view_count": 121
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071201399606812672/vid/avc1/320x568/8RVaOidxYCijActT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071201399606812672/vid/avc1/480x852/CXNa74zQ9XjfRjK5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071201399606812672/vid/avc1/720x1280/88WIQ11bfuxaUqDy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071201399606812672/pl/NHxTcId_l2L8PlNa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2071201469215449232",
+        "created_at": "2026-06-29T10:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071545381234815149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735728536827334657",
+              "start": 0,
+              "username": "SakurasakaRiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071545381234815149",
+        "in_reply_to_user_id": "1735728536827334657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071201469215449232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurasakaRiko 坏猫！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071201399606812672"
+          ]
+        },
+        "author_id": "1735728536827334657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2071201469215449232",
+        "created_at": "2026-06-28T11:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071201469215449232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOpXWW2RAR",
+              "end": 28,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2071201469215449232/video/1",
+              "media_key": "13_2071201399606812672",
+              "start": 5,
+              "url": "https://t.co/cOpXWW2RAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071201469215449232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 459,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贱猫TV https://t.co/cOpXWW2RAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4483,
+          "following_count": 1720,
+          "like_count": 29615,
+          "listed_count": 11,
+          "media_count": 1893,
+          "tweet_count": 8874
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n前移动端音游公司总助｜PM｜周边主管｜赛事策划\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2068052501732237657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063885823553191936/2yMWRrzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 677,
+          "like_count": 7386,
+          "listed_count": 4,
+          "media_count": 379,
+          "tweet_count": 2354
+        },
+        "url": "",
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

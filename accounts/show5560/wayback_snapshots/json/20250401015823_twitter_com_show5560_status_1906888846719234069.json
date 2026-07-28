@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906860438027124736"
+      ],
+      "media_source_tweet_id": [
+        "1906860439956512832"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1906888846719234069",
+    "created_at": "2025-04-01T01:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T02:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906888846719234069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450893562686541824",
+          "start": 3,
+          "username": "KK404error"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mN2Su5wks7",
+          "end": 114,
+          "expanded_url": "https://x.com/KK404error/status/1906860439956512832/photo/1",
+          "media_key": "3_1906860438027124736",
+          "start": 91,
+          "url": "https://t.co/mN2Su5wks7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906888846719234069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906860439956512832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KK404error: 求群友救济，4月份到现在一顿饭也没吃，水也没喝过一口，已经开始啃自己的星级了（bushi）\n人现在也是过得越来越落魄了，真不知道以后要怎么活下去…… https://t.co/mN2Su5wks7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_1906860438027124736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnaHdyTaQAAb-8R.jpg",
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906860438027124736"
+          ],
+          "media_source_tweet_id": [
+            "1906860439956512832"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1906888846719234069",
+        "created_at": "2025-04-01T01:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T02:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906888846719234069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450893562686541824",
+              "start": 3,
+              "username": "KK404error"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mN2Su5wks7",
+              "end": 114,
+              "expanded_url": "https://x.com/KK404error/status/1906860439956512832/photo/1",
+              "media_key": "3_1906860438027124736",
+              "start": 91,
+              "url": "https://t.co/mN2Su5wks7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906888846719234069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906860439956512832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KK404error: 求群友救济，4月份到现在一顿饭也没吃，水也没喝过一口，已经开始啃自己的星级了（bushi）\n人现在也是过得越来越落魄了，真不知道以后要怎么活下去…… https://t.co/mN2Su5wks7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906860438027124736"
+          ]
+        },
+        "author_id": "1450893562686541824",
+        "conversation_id": "1906860439956512832",
+        "created_at": "2025-04-01T00:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T01:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906860439956512832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mN2Su5wks7",
+              "end": 98,
+              "expanded_url": "https://x.com/KK404error/status/1906860439956512832/photo/1",
+              "media_key": "3_1906860438027124736",
+              "start": 75,
+              "url": "https://t.co/mN2Su5wks7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906860439956512832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求群友救济，4月份到现在一顿饭也没吃，水也没喝过一口，已经开始啃自己的星级了（bushi）\n人现在也是过得越来越落魄了，真不知道以后要怎么活下去…… https://t.co/mN2Su5wks7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "❦ RIP.2028/07/09 ★喜欢酷酷的衣服✟ 想成为一个大魔法师✟ 已经无糖哩  ♡ 真的真的很喜欢很爱咱家的宇宙超级豪华至尊无敌第一的希汐公主殿下@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894950543187202048/0IulgQiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 1159,
+          "like_count": 23599,
+          "listed_count": 4,
+          "media_count": 903,
+          "tweet_count": 5559
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T18:36:02.000Z",
+        "description": "叫咱KK就是了/好想出门玩啊啊啊啊啊啊啊啊\n\nJe veux la gloire à mes genoux/是水豚/推荐我自己长期使用的喵叽VPN加速器高速稳定强推!https://t.co/WQ2VbNLB1c（自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 106,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=rK222yWf",
+                "start": 83,
+                "url": "https://t.co/WQ2VbNLB1c"
+              }
+            ]
+          }
+        },
+        "id": "1450893562686541824",
+        "location": "十一万四千五百一十四米",
+        "name": "Karma·Kaslana",
+        "pinned_tweet_id": "1900661542796095523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821013028751749120/iRBPrtYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13099,
+          "following_count": 2659,
+          "like_count": 46090,
+          "listed_count": 19,
+          "media_count": 1273,
+          "tweet_count": 29830
+        },
+        "username": "KK404error",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2069362323241001063",
+    "created_at": "2026-06-24T06:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069666593454674237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069666593454674237",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069362323241001063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 玉米！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069362320418258944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfaEQQbwAA034Q.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2069362323241001063",
+        "created_at": "2026-06-24T06:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069666593454674237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069666593454674237",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069362323241001063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 玉米！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069362320418258944"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069362323241001063",
+        "created_at": "2026-06-23T10:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069362323241001063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qi5OEkR1Jx",
+              "end": 29,
+              "expanded_url": "https://x.com/IXXA00/status/2069362323241001063/photo/1",
+              "media_key": "3_2069362320418258944",
+              "start": 6,
+              "url": "https://t.co/qi5OEkR1Jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069362323241001063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 792,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么？ https://t.co/qi5OEkR1Jx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 / ♡想接线下喵",
+        "id": "1465701247021838341",
+        "location": "🚪 70",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2068669002805903399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4420,
+          "following_count": 1695,
+          "like_count": 29069,
+          "listed_count": 9,
+          "media_count": 1765,
+          "tweet_count": 8414
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "渡劫期三重。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2068342882751349213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066684641218789376/X1h1vkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7367,
+          "following_count": 4520,
+          "like_count": 42246,
+          "listed_count": 18,
+          "media_count": 3065,
+          "tweet_count": 41708
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

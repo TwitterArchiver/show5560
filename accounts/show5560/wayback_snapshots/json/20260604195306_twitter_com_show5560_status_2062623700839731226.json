@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2062598666951766099",
+    "created_at": "2026-06-04T19:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T20:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062623700839731226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692047356034953216",
+          "start": 0,
+          "username": "Acriley_zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062623700839731226",
+    "in_reply_to_user_id": "1692047356034953216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062598666951766099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acriley_zc 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2310,
+        "media_key": "3_2062598656499568640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_SjMra0AA9UTa.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2062598666951766099",
+        "created_at": "2026-06-04T19:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062623700839731226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692047356034953216",
+              "start": 0,
+              "username": "Acriley_zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062623700839731226",
+        "in_reply_to_user_id": "1692047356034953216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062598666951766099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acriley_zc 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062598656499568640"
+          ]
+        },
+        "author_id": "1692047356034953216",
+        "conversation_id": "2062598666951766099",
+        "created_at": "2026-06-04T18:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:38:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062589802286023137",
+          "2062598666951766099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jooLv7Mh36",
+              "end": 47,
+              "expanded_url": "https://x.com/Acriley_zc/status/2062598666951766099/photo/1",
+              "media_key": "3_2062598656499568640",
+              "start": 24,
+              "url": "https://t.co/jooLv7Mh36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062598666951766099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉看起来有点像双叶？\n#男娘 #可爱的男孩子 https://t.co/jooLv7Mh36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2060413836541542564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4352,
+          "following_count": 1689,
+          "like_count": 28135,
+          "listed_count": 8,
+          "media_count": 1285,
+          "tweet_count": 7650
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T05:35:11.000Z",
+        "description": "雨は気まぐれ。/♂，东方project，galgame萌新，单机游戏爱好者，喜欢摇滚乐，软工在读，轻度cosplay，目前修行中......（不接受涩涩谢谢）",
+        "id": "1692047356034953216",
+        "location": "宇宙的尽头",
+        "name": "無主物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058924462846902272/FobOp_tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 211,
+          "like_count": 7656,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1717
+        },
+        "username": "Acriley_zc",
+        "verified": true
+      }
+    ]
+  }
+}

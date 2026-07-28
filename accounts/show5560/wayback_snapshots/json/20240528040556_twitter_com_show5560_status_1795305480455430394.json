@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1795305480455430394",
+    "created_at": "2024-05-28T04:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T05:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795305480455430394"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "幻龙"
+        },
+        {
+          "end": 124,
+          "start": 117,
+          "tag": "趁年轻玩点色"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1321996640358522880",
+          "start": 3,
+          "username": "nothosaur10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795305480455430394",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795297773950288178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nothosaur10: 618活动开始了🔥 ，\n300-50，🈵399还送小陶器\n\n借机给龙宝们抽个奖\n一键四联（转+关+评+赞）\n揪 2 位送：全店s码数款式颜色任选！\n\n开奖时间：6.7     15:00\n\n#幻龙 \n#趁年轻玩点色 https://t.co/R…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1795305480455430394].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1795305480455430394",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1795305480455430394"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795297750197972992"
+          ]
+        },
+        "author_id": "1321996640358522880",
+        "conversation_id": "1795297773950288178",
+        "created_at": "2024-05-28T03:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T04:23:39.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795294841754292266",
+          "1795297604768854123",
+          "1795297773950288178"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "幻龙"
+            },
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "趁年轻玩点色"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/R25dY4D8M3",
+              "end": 131,
+              "expanded_url": "https://twitter.com/nothosaur10/status/1795297773950288178/photo/1",
+              "media_key": "3_1795297750197972992",
+              "start": 108,
+              "url": "https://t.co/R25dY4D8M3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795297773950288178",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1733,
+          "like_count": 39,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "618活动开始了🔥 ，\n300-50，🈵399还送小陶器\n\n借机给龙宝们抽个奖\n一键四联（转+关+评+赞）\n揪 2 位送：全店s码数款式颜色任选！\n\n开奖时间：6.7     15:00\n\n#幻龙 \n#趁年轻玩点色 https://t.co/R25dY4D8M3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△ 电子猫咪 △想当魔法师的mtx△慢慢变得好看△想要一直放松开心下去△ 当前形态-猫咪正太 ◁开始了发癫日常△  长时间穷 △  🚪 50",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮はい電子猫ちゃん",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794786472517877761/qvmfPoe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 1110,
+          "like_count": 23719,
+          "listed_count": 3,
+          "tweet_count": 4977
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-30T02:05:41.000Z",
+        "description": "“趁年轻，玩点色”\n「一对一私人手工定制 ·定制专属于你的玩具」\nget ready for the crazy timex\n蝦皮店：https://t.co/X7RaNQS1yp 幻龍客製社 \n京☞店铺：幻龙旗舰店\n🍑宝店铺：幻龙旗舰店\n周边店：幻龙趣玩社\n\n投稿转推格式：#幻龙 #趁年轻玩点色 @nothosaur10",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 138,
+                "tag": "幻龙"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "tag": "趁年轻玩点色"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 162,
+                "start": 150,
+                "username": "nothosaur10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shopee.tw/nothosaur",
+                "end": 90,
+                "expanded_url": "http://shopee.tw/nothosaur",
+                "start": 67,
+                "url": "https://t.co/X7RaNQS1yp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop388597254.taobao.com",
+                "end": 23,
+                "expanded_url": "https://shop388597254.taobao.com/",
+                "start": 0,
+                "url": "https://t.co/ghgIA9iQ0v"
+              }
+            ]
+          }
+        },
+        "id": "1321996640358522880",
+        "location": "国内首家幻想系人外玩具厂家 ——🍑宝：幻龙定制",
+        "name": "Nothosaur幻龙定制（中国）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522514121022787584/j7ZR5edJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230251,
+          "following_count": 143,
+          "like_count": 732,
+          "listed_count": 554,
+          "tweet_count": 5687
+        },
+        "url": "https://t.co/ghgIA9iQ0v",
+        "username": "nothosaur10",
+        "verified": true
+      }
+    ]
+  }
+}

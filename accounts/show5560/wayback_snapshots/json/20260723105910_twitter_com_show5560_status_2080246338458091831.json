@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2080140853549707535",
+    "created_at": "2026-07-23T10:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080246338458091831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1962302660541079552",
+          "start": 0,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080246338458091831",
+    "in_reply_to_user_id": "1962302660541079552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080140853549707535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuerQwQ 哇！香香可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2290,
+        "media_key": "3_2079956960112459776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN191cuawAAaWmz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2080140853549707535",
+        "created_at": "2026-07-23T10:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080246338458091831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080246338458091831",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080140853549707535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 哇！香香可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079956960112459776"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2080140853549707535",
+        "created_at": "2026-07-23T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080140853549707535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHmHDb051b",
+              "end": 30,
+              "expanded_url": "https://x.com/yuerQwQ/status/2080140853549707535/photo/1",
+              "media_key": "3_2079956960112459776",
+              "start": 7,
+              "url": "https://t.co/WHmHDb051b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080140853549707535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 18272,
+          "like_count": 174,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手柄被猫占了 https://t.co/WHmHDb051b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5213,
+          "following_count": 1738,
+          "like_count": 32091,
+          "listed_count": 13,
+          "media_count": 2474,
+          "tweet_count": 11421
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "nagis1a"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 1485,
+          "like_count": 16833,
+          "listed_count": 3,
+          "media_count": 1046,
+          "tweet_count": 4644
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

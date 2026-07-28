@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041123128638840832"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2041410650061091163",
+    "created_at": "2026-04-07T07:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041410650061091163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VrayU0aRVl",
+          "end": 26,
+          "expanded_url": "https://x.com/show5560/status/2041410650061091163/photo/1",
+          "media_key": "3_2041123128638840832",
+          "start": 3,
+          "url": "https://t.co/VrayU0aRVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041410650061091163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经典 https://t.co/VrayU0aRVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2041123128638840832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOGq9FaIAAiTK_.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041123128638840832"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2041410650061091163",
+        "created_at": "2026-04-07T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041410650061091163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrayU0aRVl",
+              "end": 26,
+              "expanded_url": "https://x.com/show5560/status/2041410650061091163/photo/1",
+              "media_key": "3_2041123128638840832",
+              "start": 3,
+              "url": "https://t.co/VrayU0aRVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041410650061091163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典 https://t.co/VrayU0aRVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 1124,
+          "like_count": 24578,
+          "listed_count": 5,
+          "media_count": 367,
+          "tweet_count": 5403
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

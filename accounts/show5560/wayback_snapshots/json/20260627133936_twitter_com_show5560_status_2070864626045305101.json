@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2070613067914997860",
+    "created_at": "2026-06-27T13:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070864626045305101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1039728538482606085",
+          "start": 0,
+          "username": "imnotrealray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070864626045305101",
+    "in_reply_to_user_id": "1039728538482606085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070819937682342077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotrealray 吃！外卖！（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2070613067914997860",
+        "created_at": "2026-06-27T13:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070864626045305101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1039728538482606085",
+              "start": 0,
+              "username": "imnotrealray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070864626045305101",
+        "in_reply_to_user_id": "1039728538482606085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070819937682342077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotrealray 吃！外卖！（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1039728538482606085",
+        "conversation_id": "2070613067914997860",
+        "created_at": "2026-06-27T10:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070819937682342077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070819937682342077",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070613067914997860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 是啊，吃什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 1707,
+          "like_count": 29432,
+          "listed_count": 11,
+          "media_count": 1848,
+          "tweet_count": 8705
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-12T04:12:55.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈 | she/her if needed | 其实是一只兔兔 | 分享一些生活 | daily life",
+        "id": "1039728538482606085",
+        "location": "Rabbit Lake, Saskatchewan",
+        "name": "Ray_the_Rabbit🎐💐",
+        "pinned_tweet_id": "2008365279672496608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058817471768109056/MsNPyrxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 310,
+          "like_count": 52250,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "imnotrealray",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2066926403061510465",
+    "created_at": "2026-07-05T15:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073786188977295374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672670387409395712",
+          "start": 0,
+          "username": "YENA_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073786188977295374",
+    "in_reply_to_user_id": "1672670387409395712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066926403061510465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YENA_QWQ 羡慕.jpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2066926393372692480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8ymo3b0AA0PUc.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2066926403061510465",
+        "created_at": "2026-07-05T15:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073786188977295374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672670387409395712",
+              "start": 0,
+              "username": "YENA_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073786188977295374",
+        "in_reply_to_user_id": "1672670387409395712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066926403061510465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YENA_QWQ 羡慕.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066926393372692480"
+          ]
+        },
+        "author_id": "1672670387409395712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066926403061510465",
+        "created_at": "2026-06-16T16:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066926403061510465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pe7VTbgRzC",
+              "end": 29,
+              "expanded_url": "https://x.com/YENA_QWQ/status/2066926403061510465/photo/1",
+              "media_key": "3_2066926393372692480",
+              "start": 6,
+              "url": "https://t.co/pe7VTbgRzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066926403061510465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1081,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃购买 https://t.co/pe7VTbgRzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2072037952130285705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4647,
+          "following_count": 1728,
+          "like_count": 30269,
+          "listed_count": 11,
+          "media_count": 2039,
+          "tweet_count": 9501
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-24T18:18:15.000Z",
+        "description": "广西,只在广西出现|一个人类|❤️@tianwen5258❤️|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "tianwen5258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yena32946",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yena32946",
+                "start": 0,
+                "url": "https://t.co/4xazGiGNqa"
+              }
+            ]
+          }
+        },
+        "id": "1672670387409395712",
+        "location": "0772",
+        "name": "叶奈–YENA",
+        "pinned_tweet_id": "2033147238927737166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035031704415739906/jZy6nhm5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3786,
+          "following_count": 726,
+          "like_count": 1047,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/4xazGiGNqa",
+        "username": "YENA_QWQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1793642180269252978",
+    "created_at": "2024-05-24T18:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T19:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794074312661520636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1348875496952537089",
+          "start": 0,
+          "username": "cyx49335079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794074312661520636",
+    "in_reply_to_user_id": "1348875496952537089",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793875857611919504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyx49335079 补充不起来喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1793642180269252978",
+        "created_at": "2024-05-24T18:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T19:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794074312661520636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1348875496952537089",
+              "start": 0,
+              "username": "cyx49335079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794074312661520636",
+        "in_reply_to_user_id": "1348875496952537089",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793875857611919504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyx49335079 补充不起来喵"
+      },
+      {
+        "attachments": {},
+        "author_id": "1348875496952537089",
+        "conversation_id": "1793642180269252978",
+        "created_at": "2024-05-24T05:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T06:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793875857611919504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793875857611919504",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793642180269252978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 补充涩涩能量！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△ 电子猫咪 △想当魔法师的mtx△慢慢变得好看△想要一直放松开心下去△ 当前形态-猫咪正太 ◁开始了发癫日常△ 🚪 50",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮はい電子猫ちゃん",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764676829196210176/H6fRFPSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 1120,
+          "like_count": 23624,
+          "listed_count": 3,
+          "tweet_count": 4937
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-12T06:12:47.000Z",
+        "description": "Obsessed with cute boys and girls",
+        "id": "1348875496952537089",
+        "location": "四川,湖南",
+        "name": "cyx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348875648413024257/R4Zlk59g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 295,
+          "like_count": 169,
+          "listed_count": 2,
+          "tweet_count": 1166
+        },
+        "username": "cyx49335079",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2071292546660421943",
+    "created_at": "2026-06-29T09:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071525258507788407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918898482045480960",
+          "start": 0,
+          "username": "skdky_0xzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071525258507788407",
+    "in_reply_to_user_id": "1918898482045480960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071300725658018030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skdky_0xzero 诶嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2071292546660421943",
+        "created_at": "2026-06-29T09:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071525258507788407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918898482045480960",
+              "start": 0,
+              "username": "skdky_0xzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071525258507788407",
+        "in_reply_to_user_id": "1918898482045480960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071300725658018030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skdky_0xzero 诶嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918898482045480960",
+        "conversation_id": "2071292546660421943",
+        "created_at": "2026-06-28T18:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071300725658018030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071300725658018030",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071292546660421943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 谁把疼痛共享打开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2069670205467595128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477,
+          "following_count": 1717,
+          "like_count": 29565,
+          "listed_count": 11,
+          "media_count": 1892,
+          "tweet_count": 8834
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-04T05:20:36.000Z",
+        "description": "07年寄叭小学生｜Infinite progress｜Crypto｜专心搞U 偶尔悟道｜推文内容仅供参考 不构成投资建议｜商务合作⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/skdky333",
+                "end": 23,
+                "expanded_url": "https://t.me/skdky333",
+                "start": 0,
+                "url": "https://t.co/CvCNMzD7mz"
+              }
+            ]
+          }
+        },
+        "id": "1918898482045480960",
+        "location": "尼伯龙根",
+        "name": "社恐大烤鱼",
+        "pinned_tweet_id": "2062508632772894959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062132010068680704/9khju5eR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 1906,
+          "like_count": 11959,
+          "listed_count": 5,
+          "media_count": 403,
+          "tweet_count": 5544
+        },
+        "url": "https://t.co/CvCNMzD7mz",
+        "username": "skdky_0xzero",
+        "verified": true
+      }
+    ]
+  }
+}

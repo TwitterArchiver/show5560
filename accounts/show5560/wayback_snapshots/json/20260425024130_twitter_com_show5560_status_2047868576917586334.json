@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047313480798326838",
+    "created_at": "2026-04-25T02:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047868576917586334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2046428878911262720",
+          "start": 0,
+          "username": "AfanNote"
+        },
+        {
+          "end": 22,
+          "id": "897658152824389632",
+          "start": 10,
+          "username": "Cryptoyoumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047868576917586334",
+    "in_reply_to_user_id": "2046428878911262720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047608601402114329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AfanNote @Cryptoyoumu 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047313480798326838",
+        "created_at": "2026-04-25T02:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047868576917586334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2046428878911262720",
+              "start": 0,
+              "username": "AfanNote"
+            },
+            {
+              "end": 22,
+              "id": "897658152824389632",
+              "start": 10,
+              "username": "Cryptoyoumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047868576917586334",
+        "in_reply_to_user_id": "2046428878911262720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047608601402114329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AfanNote @Cryptoyoumu 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046428878911262720",
+        "conversation_id": "2047313480798326838",
+        "created_at": "2026-04-24T09:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047608601402114329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "897658152824389632",
+              "start": 0,
+              "username": "Cryptoyoumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047608601402114329",
+        "in_reply_to_user_id": "897658152824389632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047313480798326838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cryptoyoumu 是的，蓝v互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3027,
+          "following_count": 1655,
+          "like_count": 26609,
+          "listed_count": 7,
+          "media_count": 633,
+          "tweet_count": 6420
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T03:20:51.000Z",
+        "description": "绿老头｜8年内容运营｜AI实战\n分享内容增长、AI体验和变现思路\n三省吾身：先做起来，在实战里把路走清楚",
+        "id": "2046428878911262720",
+        "name": "阿饭手记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046435017581314048/gMIplNkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 51,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 51
+        },
+        "username": "AfanNote",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-16T03:15:56.000Z",
+        "description": "币圈十一年 #btc #eth #bnb 早期拥有者｜投研/交易｜资深老韭菜｜专注 一二级行情分析｜项目推广｜《行情分析/中短线交易策略/稳扎稳打》 ｜个人观点不作任何投资建议｜合作DM：https://t.co/5CeFbMjHtV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "btc"
+              },
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "eth"
+              },
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "bnb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/youmuzhe1",
+                "end": 117,
+                "expanded_url": "http://t.me/youmuzhe1",
+                "start": 94,
+                "url": "https://t.co/5CeFbMjHtV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/youmuzhe1",
+                "end": 23,
+                "expanded_url": "http://t.me/youmuzhe1",
+                "start": 0,
+                "url": "https://t.co/5CeFbMjHtV"
+              }
+            ]
+          }
+        },
+        "id": "897658152824389632",
+        "location": "合约、现货学习交流👉",
+        "name": "Crypto游牧者",
+        "pinned_tweet_id": "2047313480798326838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763231595329114112/Ueo01lu1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 3456,
+          "like_count": 5562,
+          "listed_count": 6,
+          "media_count": 3,
+          "tweet_count": 2000
+        },
+        "url": "https://t.co/5CeFbMjHtV",
+        "username": "Cryptoyoumu",
+        "verified": true
+      }
+    ]
+  }
+}

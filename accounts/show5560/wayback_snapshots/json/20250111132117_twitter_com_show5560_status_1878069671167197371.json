@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878069668457631744"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "1878069671167197371",
+    "created_at": "2025-01-11T13:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T14:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878069671167197371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q9mjPZ0q3C",
+          "end": 84,
+          "expanded_url": "https://x.com/show5560/status/1878069671167197371/photo/1",
+          "media_key": "3_1878069668457631744",
+          "start": 61,
+          "url": "https://t.co/Q9mjPZ0q3C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878069671167197371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日换新皮肤₍˄·͈༝·͈˄*₎◞ ̑̑\n大家觉得怎么样，好看嘛？\n好像是属于中性的吧（思索）\n不太确定_(:з」∠)_ https://t.co/Q9mjPZ0q3C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1878069668457631744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhA-abvaUAARgKg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878069668457631744"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1878069671167197371",
+        "created_at": "2025-01-11T13:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T14:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878069671167197371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9mjPZ0q3C",
+              "end": 84,
+              "expanded_url": "https://x.com/show5560/status/1878069671167197371/photo/1",
+              "media_key": "3_1878069668457631744",
+              "start": 61,
+              "url": "https://t.co/Q9mjPZ0q3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878069671167197371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日换新皮肤₍˄·͈༝·͈˄*₎◞ ̑̑\n大家觉得怎么样，好看嘛？\n好像是属于中性的吧（思索）\n不太确定_(:з」∠)_ https://t.co/Q9mjPZ0q3C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆喜欢玩cos★喜欢酷酷的衣服✟ 笨蛋一个 △想成为一个大魔法师△ ♡ 真的真的很喜欢很爱希汐★咱家的傲娇公主受超级可爱的笨蛋脑婆 @HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "★酥萌萌★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877292803178508290/u1ZN0s75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 1185,
+          "like_count": 24635,
+          "listed_count": 2,
+          "media_count": 876,
+          "tweet_count": 5444
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

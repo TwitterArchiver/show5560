@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2075825589098029417",
+    "created_at": "2026-07-12T04:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076166433583861883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "821614513736781825",
+          "start": 0,
+          "username": "14ManGo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076166433583861883",
+    "in_reply_to_user_id": "821614513736781825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075825589098029417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@14ManGo1 好喝😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2075825585578983424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7QXzQaQAAiWlX.jpg",
+        "width": 934
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075825586598211584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7QX3DacAA2i6m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075825589098029417",
+        "created_at": "2026-07-12T04:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076166433583861883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "821614513736781825",
+              "start": 0,
+              "username": "14ManGo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076166433583861883",
+        "in_reply_to_user_id": "821614513736781825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075825589098029417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@14ManGo1 好喝😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075825585578983424",
+            "3_2075825586598211584"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2075825589098029417",
+        "created_at": "2026-07-11T06:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075825589098029417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeVb941Hgw",
+              "end": 50,
+              "expanded_url": "https://x.com/14ManGo1/status/2075825589098029417/photo/1",
+              "media_key": "3_2075825585578983424",
+              "start": 27,
+              "url": "https://t.co/eeVb941Hgw"
+            },
+            {
+              "display_url": "pic.x.com/eeVb941Hgw",
+              "end": 50,
+              "expanded_url": "https://x.com/14ManGo1/status/2075825589098029417/photo/1",
+              "media_key": "3_2075825586598211584",
+              "start": 27,
+              "url": "https://t.co/eeVb941Hgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075825589098029417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4994,
+          "like_count": 296,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "来上海两天没喝魔爪，意识到我是魔爪喵喵。。。好喝喵～ https://t.co/eeVb941Hgw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 1735,
+          "like_count": 30923,
+          "listed_count": 12,
+          "media_count": 2199,
+          "tweet_count": 10186
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木",
+        "pinned_tweet_id": "2011094910473289883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40404,
+          "following_count": 195,
+          "like_count": 666,
+          "listed_count": 126,
+          "media_count": 262,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "14ManGo1",
+        "verified": true
+      }
+    ]
+  }
+}

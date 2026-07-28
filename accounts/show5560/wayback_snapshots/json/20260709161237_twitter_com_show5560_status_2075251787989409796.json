@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2075174381014376919",
+    "created_at": "2026-07-09T16:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075251787989409796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818546901899509760",
+          "start": 0,
+          "username": "XiaoQi_077s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075251787989409796",
+    "in_reply_to_user_id": "1818546901899509760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075174381014376919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoQi_077s 麦当劳的汉堡越来越小了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3473,
+        "media_key": "3_2075174371606589440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyAGKKa8AAm9p1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075174381014376919",
+        "created_at": "2026-07-09T16:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075251787989409796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818546901899509760",
+              "start": 0,
+              "username": "XiaoQi_077s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075251787989409796",
+        "in_reply_to_user_id": "1818546901899509760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075174381014376919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQi_077s 麦当劳的汉堡越来越小了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075174371606589440"
+          ]
+        },
+        "author_id": "1818546901899509760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075174381014376919",
+        "created_at": "2026-07-09T11:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075174381014376919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbO5mcBEGF",
+              "end": 34,
+              "expanded_url": "https://x.com/XiaoQi_077s/status/2075174381014376919/photo/1",
+              "media_key": "3_2075174371606589440",
+              "start": 11,
+              "url": "https://t.co/BbO5mcBEGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075174381014376919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 897,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦，你还能再小一点吗 https://t.co/BbO5mcBEGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4746,
+          "following_count": 1730,
+          "like_count": 30662,
+          "listed_count": 12,
+          "media_count": 2136,
+          "tweet_count": 9905
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T07:19:14.000Z",
+        "description": "一个xyn丨无证含糖丨HRT丨自残丨家暴党丨PTSD创伤后应激障碍丨VRChat丨会刷机丨会Python丨喜欢折腾各种Android设备丨同类互fo丨爱你喵",
+        "id": "1818546901899509760",
+        "name": "小柒🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071562109117444428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 386,
+          "like_count": 1503,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "XiaoQi_077s",
+        "verified": true
+      }
+    ]
+  }
+}

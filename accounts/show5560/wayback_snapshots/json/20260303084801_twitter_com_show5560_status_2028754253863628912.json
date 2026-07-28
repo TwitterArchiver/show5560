@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028754251464507392"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2028754253863628912",
+    "created_at": "2026-03-03T08:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T09:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028754253863628912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lR0NshJUsd",
+          "end": 29,
+          "expanded_url": "https://x.com/show5560/status/2028754253863628912/photo/1",
+          "media_key": "3_2028754251464507392",
+          "start": 6,
+          "url": "https://t.co/lR0NshJUsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028754253863628912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对吗（？） https://t.co/lR0NshJUsd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_2028754251464507392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeVPi8bAAAvK1i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028754251464507392"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2028754253863628912",
+        "created_at": "2026-03-03T08:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028754253863628912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lR0NshJUsd",
+              "end": 29,
+              "expanded_url": "https://x.com/show5560/status/2028754253863628912/photo/1",
+              "media_key": "3_2028754251464507392",
+              "start": 6,
+              "url": "https://t.co/lR0NshJUsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028754253863628912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对吗（？） https://t.co/lR0NshJUsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /减肥中.jpg 坐标:深圳  🚪88",
+        "id": "1465701247021838341",
+        "name": "绒毛绒猫ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017454759238856704/_4jmPHJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1133,
+          "like_count": 23236,
+          "listed_count": 4,
+          "media_count": 937,
+          "tweet_count": 5772
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

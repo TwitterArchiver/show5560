@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047145946346381656",
+    "created_at": "2026-04-23T05:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047190717240594757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638115899227131904",
+          "start": 0,
+          "username": "Molly9975019573"
+        },
+        {
+          "end": 28,
+          "id": "1948391508970762240",
+          "start": 17,
+          "username": "ohouhou717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047190717240594757",
+    "in_reply_to_user_id": "1638115899227131904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047155720190366155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Molly9975019573 @ohouhou717 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047145946346381656",
+        "created_at": "2026-04-23T05:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047190717240594757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638115899227131904",
+              "start": 0,
+              "username": "Molly9975019573"
+            },
+            {
+              "end": 28,
+              "id": "1948391508970762240",
+              "start": 17,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047190717240594757",
+        "in_reply_to_user_id": "1638115899227131904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047155720190366155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Molly9975019573 @ohouhou717 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638115899227131904",
+        "conversation_id": "2047145946346381656",
+        "created_at": "2026-04-23T03:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047155720190366155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948391508970762240",
+              "start": 0,
+              "username": "ohouhou717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047155720190366155",
+        "in_reply_to_user_id": "1948391508970762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047145946346381656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohouhou717 一起来互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 1599,
+          "like_count": 26210,
+          "listed_count": 7,
+          "media_count": 601,
+          "tweet_count": 6185
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-21T09:51:00.000Z",
+        "description": "爱健身，喜欢冲狗，每日一撸。#Binance 币安广场金标认证创作者 币安8折现货合约返佣邀请码:MOLLY555 商务合作：https://t.co/fpVsEJhm7v",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 14,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/molly9975019573",
+                "end": 86,
+                "expanded_url": "https://t.me/molly9975019573",
+                "start": 63,
+                "url": "https://t.co/fpVsEJhm7v"
+              }
+            ]
+          }
+        },
+        "id": "1638115899227131904",
+        "location": "CRYPTO",
+        "name": "Molly 币圈大V推荐🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046461122283442176/Zafy6hFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12003,
+          "following_count": 9202,
+          "like_count": 86563,
+          "listed_count": 79,
+          "media_count": 568,
+          "tweet_count": 88455
+        },
+        "username": "Molly9975019573",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T14:35:22.000Z",
+        "description": "Now！ \nYapping about crypto！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weilan69",
+                "end": 23,
+                "expanded_url": "https://t.me/weilan69",
+                "start": 0,
+                "url": "https://t.co/Cb7C0RUObx"
+              }
+            ]
+          }
+        },
+        "id": "1948391508970762240",
+        "name": "Weilan| 🤖ボッ Bird🕊️",
+        "pinned_tweet_id": "2046768436488143310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999801423761199104/dgwqRHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14221,
+          "following_count": 7993,
+          "like_count": 93399,
+          "listed_count": 62,
+          "media_count": 322,
+          "tweet_count": 93581
+        },
+        "url": "https://t.co/Cb7C0RUObx",
+        "username": "ohouhou717",
+        "verified": true
+      }
+    ]
+  }
+}

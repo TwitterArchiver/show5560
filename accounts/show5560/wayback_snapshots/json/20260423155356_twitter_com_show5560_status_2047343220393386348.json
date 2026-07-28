@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2047329649953538455",
+    "created_at": "2026-04-23T15:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047343220393386348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999327461549703169",
+          "start": 0,
+          "username": "QiuTingzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047343220393386348",
+    "in_reply_to_user_id": "1999327461549703169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047337016057340305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuTingzhi 很典型了）毕竟确实一个洞呢~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2047329649953538455",
+        "created_at": "2026-04-23T15:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047343220393386348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999327461549703169",
+              "start": 0,
+              "username": "QiuTingzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047343220393386348",
+        "in_reply_to_user_id": "1999327461549703169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047337016057340305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuTingzhi 很典型了）毕竟确实一个洞呢~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999327461549703169",
+        "conversation_id": "2047329649953538455",
+        "created_at": "2026-04-23T15:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047337016057340305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047337016057340305",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047329649953538455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这也算合二为一的典型案例了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2979,
+          "following_count": 1633,
+          "like_count": 26373,
+          "listed_count": 7,
+          "media_count": 611,
+          "tweet_count": 6293
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-12T03:56:40.000Z",
+        "description": "Web3+AI，正在学习中；\n爱徒步、健身；\n一直秉持着待人以诚的态度跟各位相处。",
+        "id": "1999327461549703169",
+        "name": "Qiu🎈",
+        "pinned_tweet_id": "2039998354659410367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069268554010624/2AoxQ5mV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1294,
+          "like_count": 3247,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 2317
+        },
+        "username": "QiuTingzhi",
+        "verified": true
+      }
+    ]
+  }
+}

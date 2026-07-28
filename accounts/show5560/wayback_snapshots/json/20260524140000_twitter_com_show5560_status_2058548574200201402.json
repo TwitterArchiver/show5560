@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058516881263468544"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2058548574200201402",
+    "created_at": "2026-05-24T14:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058548574200201402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sXXZ5Yki9M",
+          "end": 43,
+          "expanded_url": "https://x.com/show5560/status/2058548574200201402/video/1",
+          "media_key": "13_2058516881263468544",
+          "start": 20,
+          "url": "https://t.co/sXXZ5Yki9M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058548574200201402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个视角，出现了5个天才，也是没谁了🤓 https://t.co/sXXZ5Yki9M"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15701,
+        "height": 1152,
+        "media_key": "13_2058516881263468544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058516881263468544/img/meqrZbJF24VeDNo5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058516881263468544/vid/avc1/320x512/LsonF6icO18CnMXx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058516881263468544/vid/avc1/480x768/dXGTqY_ds461gheU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058516881263468544/vid/avc1/720x1152/Xvf_n-uqPHWEs79B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058516881263468544/pl/mcNdkN2_M9kehIRm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058516881263468544"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2058548574200201402",
+        "created_at": "2026-05-24T14:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058548574200201402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXXZ5Yki9M",
+              "end": 43,
+              "expanded_url": "https://x.com/show5560/status/2058548574200201402/video/1",
+              "media_key": "13_2058516881263468544",
+              "start": 20,
+              "url": "https://t.co/sXXZ5Yki9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058548574200201402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个视角，出现了5个天才，也是没谁了🤓 https://t.co/sXXZ5Yki9M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg 减肥中.jpg /美好人世间和地狱全景房，我该选哪个/ 蓝v关注必回",
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3980,
+          "following_count": 1689,
+          "like_count": 27769,
+          "listed_count": 7,
+          "media_count": 1102,
+          "tweet_count": 7296
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

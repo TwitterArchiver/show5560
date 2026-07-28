@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2016104063457493397",
+    "created_at": "2026-04-21T10:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046537672014078009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 18,
+          "id": "1426015810472972298",
+          "start": 8,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046537672014078009",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046536856884662715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI @CyronANNO 唯一的缺点就是容易晒黑（如果经常出门不做防晒的话）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2016104063457493397",
+        "created_at": "2026-04-21T10:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046537672014078009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 18,
+              "id": "1426015810472972298",
+              "start": 8,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046537672014078009",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046536856884662715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI @CyronANNO 唯一的缺点就是容易晒黑（如果经常出门不做防晒的话）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2016104063457493397",
+        "created_at": "2026-04-21T10:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046536856884662715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "CyronANNO"
+            },
+            {
+              "end": 20,
+              "id": "1465701247021838341",
+              "start": 11,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046536856884662715",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016104063457493397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyronANNO @show5560 本地人来讲讲（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 1524,
+          "like_count": 25895,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 5980
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@Show5560｜ @XUEQIUxka ｜@Tennoujinyano\n\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Show5560"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8921,
+          "following_count": 4090,
+          "like_count": 42571,
+          "listed_count": 25,
+          "media_count": 2791,
+          "tweet_count": 10918
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 超かぐや姫 | ナチョ､フブキ推し | ガジェット | チュウマイ | 撮影 | \nDM⇒フォロバ",
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "pinned_tweet_id": "2045907030301684222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024268033854984192/Vd_6AW6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 891,
+          "like_count": 191008,
+          "listed_count": 0,
+          "media_count": 4931,
+          "tweet_count": 20702
+        },
+        "username": "CyronANNO",
+        "verified": true
+      }
+    ]
+  }
+}

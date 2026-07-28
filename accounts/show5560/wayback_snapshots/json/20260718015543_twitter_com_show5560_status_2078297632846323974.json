@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2078297028501897634",
+    "created_at": "2026-07-18T01:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078297632846323974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078297632846323974",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078297028501897634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 看起来好棒！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2078296977172021249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeYFuYbQAEdECj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2078296992439312384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeYGnQboAANF6h.jpg",
+        "width": 3084
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2078297008956485632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeYHkybsAAzqzr.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2078297028501897634",
+        "created_at": "2026-07-18T01:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078297632846323974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078297632846323974",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078297028501897634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 看起来好棒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078296977172021249",
+            "3_2078296992439312384",
+            "3_2078297008956485632"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2078297028501897634",
+        "created_at": "2026-07-18T01:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078297028501897634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8YAKAeprd",
+              "end": 51,
+              "expanded_url": "https://x.com/jlxc2001/status/2078297028501897634/photo/1",
+              "media_key": "3_2078296977172021249",
+              "start": 28,
+              "url": "https://t.co/r8YAKAeprd"
+            },
+            {
+              "display_url": "pic.x.com/r8YAKAeprd",
+              "end": 51,
+              "expanded_url": "https://x.com/jlxc2001/status/2078297028501897634/photo/1",
+              "media_key": "3_2078296992439312384",
+              "start": 28,
+              "url": "https://t.co/r8YAKAeprd"
+            },
+            {
+              "display_url": "pic.x.com/r8YAKAeprd",
+              "end": 51,
+              "expanded_url": "https://x.com/jlxc2001/status/2078297028501897634/photo/1",
+              "media_key": "3_2078297008956485632",
+              "start": 28,
+              "url": "https://t.co/r8YAKAeprd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078297028501897634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们公司的新机柜，花 128 元买了一个二手冰箱改的（ https://t.co/r8YAKAeprd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 1739,
+          "like_count": 31500,
+          "listed_count": 12,
+          "media_count": 2341,
+          "tweet_count": 10829
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jlxc2001.com",
+                "end": 23,
+                "expanded_url": "http://jlxc2001.com",
+                "start": 0,
+                "url": "https://t.co/625h9MQZlk"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2059940003623621082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18387,
+          "following_count": 225,
+          "like_count": 694,
+          "listed_count": 46,
+          "media_count": 1258,
+          "tweet_count": 3311
+        },
+        "url": "https://t.co/625h9MQZlk",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

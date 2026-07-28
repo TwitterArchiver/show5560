@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040029392613883904"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040029398045479389",
+    "created_at": "2026-04-03T11:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040029398045479389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M1YG4dKlzc",
+          "end": 94,
+          "expanded_url": "https://x.com/show5560/status/2040029398045479389/photo/1",
+          "media_key": "3_2040029392613883904",
+          "start": 71,
+          "url": "https://t.co/M1YG4dKlzc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040029398045479389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "动用了一点关系，明天开始给大家放三天假，能力有限，有些人只能放一两天，有些人关系不够硬，放不了。谢谢就不用了\n然后假期首充时间给你们了））） https://t.co/M1YG4dKlzc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2040029392613883904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-j7I4bQAA37k0.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040029392613883904"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040029398045479389",
+        "created_at": "2026-04-03T11:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040029398045479389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1YG4dKlzc",
+              "end": 94,
+              "expanded_url": "https://x.com/show5560/status/2040029398045479389/photo/1",
+              "media_key": "3_2040029392613883904",
+              "start": 71,
+              "url": "https://t.co/M1YG4dKlzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040029398045479389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "动用了一点关系，明天开始给大家放三天假，能力有限，有些人只能放一两天，有些人关系不够硬，放不了。谢谢就不用了\n然后假期首充时间给你们了））） https://t.co/M1YG4dKlzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 猫猫是很粘人的(  ⩌ - ⩌ )---努力的还债中.jpg /162cm/58kg 减肥中.jpg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 1099,
+          "like_count": 24454,
+          "listed_count": 5,
+          "media_count": 341,
+          "tweet_count": 5369
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

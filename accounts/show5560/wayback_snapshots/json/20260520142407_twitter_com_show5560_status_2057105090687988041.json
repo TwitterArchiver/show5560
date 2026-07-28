@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057105088251105280"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2057105090687988041",
+    "created_at": "2026-05-20T14:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057105090687988041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vIM82OLENr",
+          "end": 92,
+          "expanded_url": "https://x.com/show5560/status/2057105090687988041/photo/1",
+          "media_key": "3_2057105088251105280",
+          "start": 69,
+          "url": "https://t.co/vIM82OLENr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057105090687988041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起来，之前520的时候我还会准备花束和大餐什么的（挠头）\n我现在什么都不需要准备了，对自己好点也做不太到（思考）\n只有自己一个人了说是 https://t.co/vIM82OLENr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2057105088251105280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxOLcLbEAAYb0k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057105088251105280"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2057105090687988041",
+        "created_at": "2026-05-20T14:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057105090687988041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIM82OLENr",
+              "end": 92,
+              "expanded_url": "https://x.com/show5560/status/2057105090687988041/photo/1",
+              "media_key": "3_2057105088251105280",
+              "start": 69,
+              "url": "https://t.co/vIM82OLENr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057105090687988041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来，之前520的时候我还会准备花束和大餐什么的（挠头）\n我现在什么都不需要准备了，对自己好点也做不太到（思考）\n只有自己一个人了说是 https://t.co/vIM82OLENr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3955,
+          "following_count": 1694,
+          "like_count": 27676,
+          "listed_count": 7,
+          "media_count": 1041,
+          "tweet_count": 7154
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

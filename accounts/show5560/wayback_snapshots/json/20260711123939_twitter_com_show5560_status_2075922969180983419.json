@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2075777103573004480",
+    "created_at": "2026-07-11T12:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075922969180983419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754046589885353984",
+          "start": 0,
+          "username": "alexun518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075922969180983419",
+    "in_reply_to_user_id": "1754046589885353984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075877849769415117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexun518 （悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2075777103573004480",
+        "created_at": "2026-07-11T12:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075922969180983419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754046589885353984",
+              "start": 0,
+              "username": "alexun518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075922969180983419",
+        "in_reply_to_user_id": "1754046589885353984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075877849769415117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexun518 （悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754046589885353984",
+        "conversation_id": "2075777103573004480",
+        "created_at": "2026-07-11T09:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075877849769415117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075877849769415117",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075777103573004480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 從小到大沒改變的 就是地面朝我逼近的雀躍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4778,
+          "following_count": 1735,
+          "like_count": 30799,
+          "listed_count": 12,
+          "media_count": 2182,
+          "tweet_count": 10061
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T07:38:05.000Z",
+        "description": "Investor of the civilizations🔋🪐",
+        "id": "1754046589885353984",
+        "location": "Berlin, Deutschland",
+        "name": "Jun C9",
+        "pinned_tweet_id": "2074673230414336192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015987394080612352/Dlcg9_QZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 51,
+          "like_count": 5836,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 877
+        },
+        "url": "",
+        "username": "alexun518",
+        "verified": true
+      }
+    ]
+  }
+}

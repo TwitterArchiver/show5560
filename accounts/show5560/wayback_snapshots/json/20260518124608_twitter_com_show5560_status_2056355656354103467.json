@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2056339053440852125",
+    "created_at": "2026-05-18T12:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056355656354103467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1783096607363457024",
+          "start": 0,
+          "username": "fdtreesky"
+        },
+        {
+          "end": 23,
+          "id": "1927269319601209344",
+          "start": 11,
+          "username": "sunspotalgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056355656354103467",
+    "in_reply_to_user_id": "1783096607363457024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056340501083955319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fdtreesky @sunspotalgo 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2056339053440852125",
+        "created_at": "2026-05-18T12:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056355656354103467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1783096607363457024",
+              "start": 0,
+              "username": "fdtreesky"
+            },
+            {
+              "end": 23,
+              "id": "1927269319601209344",
+              "start": 11,
+              "username": "sunspotalgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056355656354103467",
+        "in_reply_to_user_id": "1783096607363457024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056340501083955319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fdtreesky @sunspotalgo 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783096607363457024",
+        "conversation_id": "2056339053440852125",
+        "created_at": "2026-05-18T11:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056340501083955319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927269319601209344",
+              "start": 0,
+              "username": "sunspotalgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056340501083955319",
+        "in_reply_to_user_id": "1927269319601209344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056339053440852125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunspotalgo 我都看到藍勾就關注，尤其是互關帖的，我是這樣湊500個，沒開過互關帖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3933,
+          "following_count": 1687,
+          "like_count": 27602,
+          "listed_count": 7,
+          "media_count": 1007,
+          "tweet_count": 7096
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-24T11:32:34.000Z",
+        "description": "aigirl 生圖；chatgpt 影片：grok、豆包\n文章內有ai小說：\n靈網大陸\n星門裡的拳術師（完結）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aigirlcl",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aigirlcl",
+                "start": 0,
+                "url": "https://t.co/HxkPPH2OUM"
+              }
+            ]
+          }
+        },
+        "id": "1783096607363457024",
+        "name": "Aigirl",
+        "pinned_tweet_id": "2055926519235592668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048042538318344193/b-wCbuYN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9074,
+          "following_count": 4824,
+          "like_count": 26486,
+          "listed_count": 57,
+          "media_count": 680,
+          "tweet_count": 6607
+        },
+        "url": "https://t.co/HxkPPH2OUM",
+        "username": "fdtreesky",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-27T07:43:13.000Z",
+        "description": "Web3 老兵 × AI 实战派× 独立开发者\n全职交易员 × 全品种交易 × 自研量化 \n\n免费全品种交易信号转发|实时动态频道\nhttps://t.co/HATA3Xjovz\n\n山寨猎手|24小时加密货币合约监控\nhttps://t.co/3zpf3kQVqb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sunspottrade",
+                "end": 89,
+                "expanded_url": "https://t.me/sunspottrade",
+                "start": 66,
+                "url": "https://t.co/HATA3Xjovz"
+              },
+              {
+                "display_url": "radar.sunspotalgo.com",
+                "end": 132,
+                "expanded_url": "http://radar.sunspotalgo.com",
+                "start": 109,
+                "url": "https://t.co/3zpf3kQVqb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.sunspotalgo.com",
+                "end": 23,
+                "expanded_url": "https://docs.sunspotalgo.com/",
+                "start": 0,
+                "url": "https://t.co/iGIriKLFWp"
+              }
+            ]
+          }
+        },
+        "id": "1927269319601209344",
+        "location": "上海",
+        "name": "太阳黑子 Algo",
+        "pinned_tweet_id": "2056298445649183194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025581827126448128/LIkoua6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 124,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/iGIriKLFWp",
+        "username": "sunspotalgo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2042617364479397993",
+    "created_at": "2026-04-11T06:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042856539560775896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819236845429182465",
+          "start": 0,
+          "username": "web3usb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042856539560775896",
+    "in_reply_to_user_id": "1819236845429182465",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042617364479397993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@web3usb 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_2042617358590619648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjVqlbXMAAyP6k.jpg",
+        "width": 741
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2042617364479397993",
+        "created_at": "2026-04-11T06:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042856539560775896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819236845429182465",
+              "start": 0,
+              "username": "web3usb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042856539560775896",
+        "in_reply_to_user_id": "1819236845429182465",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042617364479397993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@web3usb 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042617358590619648"
+          ]
+        },
+        "author_id": "1819236845429182465",
+        "conversation_id": "2042617364479397993",
+        "created_at": "2026-04-10T14:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042617364479397993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvFMsd4T9L",
+              "end": 74,
+              "expanded_url": "https://x.com/web3usb/status/2042617364479397993/photo/1",
+              "media_key": "3_2042617358590619648",
+              "start": 51,
+              "url": "https://t.co/vvFMsd4T9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042617364479397993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6470,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 151,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们！        \n\n如果你是蓝v！        \n\n评论区留言        \n\n我来关注 https://t.co/vvFMsd4T9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ #蓝v互关 喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "蓝v互关"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 1217,
+          "like_count": 24835,
+          "listed_count": 5,
+          "media_count": 427,
+          "tweet_count": 5527
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T05:00:52.000Z",
+        "description": "全球金融行情独立研究员，贴文不可作为投资建议，看到的点关注就对了，联系Tg:web3uabx，微信:stfw1991\n\n【you follow me\nI follow you back】",
+        "id": "1819236845429182465",
+        "location": "Sapporo-shi Higashi, Hokkaidō",
+        "name": "司徒猎奇链上奇迹",
+        "pinned_tweet_id": "2038794859813949507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018058924331507712/tblO90ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29559,
+          "following_count": 16880,
+          "like_count": 7109,
+          "listed_count": 50,
+          "media_count": 871,
+          "tweet_count": 17722
+        },
+        "username": "web3usb",
+        "verified": true
+      }
+    ]
+  }
+}

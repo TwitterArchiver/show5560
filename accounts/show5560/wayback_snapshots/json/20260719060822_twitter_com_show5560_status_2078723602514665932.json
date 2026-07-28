@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2078668906768830840",
+    "created_at": "2026-07-19T06:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078723602514665932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078723602514665932",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078668906768830840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 鸡！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2520,
+        "media_key": "3_2078668896937312258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjqWTeaAAIoLwL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2078668906768830840",
+        "created_at": "2026-07-19T06:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078723602514665932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078723602514665932",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078668906768830840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 鸡！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078668896937312258"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2078668906768830840",
+        "created_at": "2026-07-19T02:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078668906768830840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzmXX8AHg2",
+              "end": 36,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2078668906768830840/photo/1",
+              "media_key": "3_2078668896937312258",
+              "start": 13,
+              "url": "https://t.co/IzmXX8AHg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078668906768830840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1632,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问 什么是咯咯哒？ https://t.co/IzmXX8AHg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5089,
+          "following_count": 1733,
+          "like_count": 31644,
+          "listed_count": 12,
+          "media_count": 2372,
+          "tweet_count": 10984
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "蓝v互关必回｜私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96070,
+          "following_count": 2023,
+          "like_count": 7019,
+          "listed_count": 204,
+          "media_count": 362,
+          "tweet_count": 3256
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

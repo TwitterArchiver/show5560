@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2079172952181051640",
+    "created_at": "2026-07-21T04:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079417056433516798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079417056433516798",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079172952181051640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 可爱猫猫！！🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12958,
+        "height": 1280,
+        "media_key": "7_2079172860292292608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2079172860292292608/pu/img/N9fiXAP6oZWKb-FI.jpg",
+        "public_metrics": {
+          "view_count": 189
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079172860292292608/pu/vid/avc1/320x568/pa5wRUMXFqFNiOIS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079172860292292608/pu/vid/avc1/480x852/ikqYx2O2gZJl3Ajb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079172860292292608/pu/vid/avc1/720x1280/2xZpym_Dj4k64lDm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2079172860292292608/pu/pl/4Ho7wRV3-Y1Rn_ix.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2079172952181051640",
+        "created_at": "2026-07-21T04:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079417056433516798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079417056433516798",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079172952181051640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 可爱猫猫！！🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079172860292292608"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2079172952181051640",
+        "created_at": "2026-07-20T11:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079172952181051640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUJri0CPg9",
+              "end": 27,
+              "expanded_url": "https://x.com/jianlvup/status/2079172952181051640/video/1",
+              "media_key": "7_2079172860292292608",
+              "start": 4,
+              "url": "https://t.co/gUJri0CPg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079172952181051640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一盆猫 https://t.co/gUJri0CPg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5178,
+          "following_count": 1740,
+          "like_count": 31880,
+          "listed_count": 13,
+          "media_count": 2418,
+          "tweet_count": 11215
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2078619192669212968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19282,
+          "following_count": 1581,
+          "like_count": 87213,
+          "listed_count": 67,
+          "media_count": 3842,
+          "tweet_count": 7471
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

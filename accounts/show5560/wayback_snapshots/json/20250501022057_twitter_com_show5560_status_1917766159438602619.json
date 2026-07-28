@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1917204802003734557",
+    "created_at": "2025-05-01T02:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T03:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917766159438602619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1223248949655457792",
+          "start": 0,
+          "username": "LDumH6z5vlTYTzB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917766159438602619",
+    "in_reply_to_user_id": "1223248949655457792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917383981890429054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LDumH6z5vlTYTzB 不太懂.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1917204802003734557",
+        "created_at": "2025-05-01T02:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T03:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917766159438602619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1223248949655457792",
+              "start": 0,
+              "username": "LDumH6z5vlTYTzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917766159438602619",
+        "in_reply_to_user_id": "1223248949655457792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917383981890429054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LDumH6z5vlTYTzB 不太懂.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223248949655457792",
+        "conversation_id": "1917204802003734557",
+        "created_at": "2025-04-30T01:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T02:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917383981890429054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917383981890429054",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917204802003734557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 成人本科？但是那个又是第二学历是本科"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟ 想成为一个大魔法师✟ 已经无糖哩  ♡ 真的真的很喜欢很爱咱家的宇宙超级豪华至尊无敌第一的希汐公主殿下@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1165,
+          "like_count": 23546,
+          "listed_count": 4,
+          "media_count": 907,
+          "tweet_count": 5581
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-31T14:17:39.000Z",
+        "description": "19岁 top5，20岁 top4， 最好的步枪手@Ax1leGOD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Ax1leGOD"
+              }
+            ]
+          }
+        },
+        "id": "1223248949655457792",
+        "location": "Hainan",
+        "name": "海蓝与白云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913381233381531648/NCOJOmsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 317,
+          "like_count": 1850,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1108
+        },
+        "username": "LDumH6z5vlTYTzB",
+        "verified": false
+      }
+    ]
+  }
+}

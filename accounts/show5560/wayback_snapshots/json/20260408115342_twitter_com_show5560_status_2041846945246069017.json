@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2041380448086155711",
+    "created_at": "2026-04-08T11:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041846945246069017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1835921137622208512",
+          "start": 0,
+          "username": "PAuPt6490"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041846945246069017",
+    "in_reply_to_user_id": "1835921137622208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041841403492520409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PAuPt6490 伟大，无需多言）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2041380448086155711",
+        "created_at": "2026-04-08T11:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041846945246069017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1835921137622208512",
+              "start": 0,
+              "username": "PAuPt6490"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041846945246069017",
+        "in_reply_to_user_id": "1835921137622208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041841403492520409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PAuPt6490 伟大，无需多言）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835921137622208512",
+        "conversation_id": "2041380448086155711",
+        "created_at": "2026-04-08T11:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041841403492520409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041841403492520409",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041380448086155711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 蛛圣伟大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的或者我去搞个日常号（？/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2041722973317689367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1157,
+          "like_count": 24695,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 5453
+        },
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T05:58:13.000Z",
+        "description": "",
+        "id": "1835921137622208512",
+        "name": "P AuPt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994439074678247424/eJWKWKmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 476
+        },
+        "username": "PAuPt6490",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041457406564331520"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2041788139891523734",
+    "created_at": "2026-04-08T08:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041788139891523734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvSyC9E65j",
+          "end": 46,
+          "expanded_url": "https://x.com/show5560/status/2041788139891523734/photo/1",
+          "media_key": "3_2041457406564331520",
+          "start": 23,
+          "url": "https://t.co/bvSyC9E65j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041788139891523734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国软件不可避免的三件事：购物、借贷、短视频 https://t.co/bvSyC9E65j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2041457406564331520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS2sfZbcAAFL5i.png",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041457406564331520"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2041788139891523734",
+        "created_at": "2026-04-08T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041788139891523734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvSyC9E65j",
+              "end": 46,
+              "expanded_url": "https://x.com/show5560/status/2041788139891523734/photo/1",
+              "media_key": "3_2041457406564331520",
+              "start": 23,
+              "url": "https://t.co/bvSyC9E65j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041788139891523734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国软件不可避免的三件事：购物、借贷、短视频 https://t.co/bvSyC9E65j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的或者我去搞个日常号（？/蓝v互关喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "梦",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2041722973317689367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 1154,
+          "like_count": 24681,
+          "listed_count": 5,
+          "media_count": 393,
+          "tweet_count": 5449
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}
