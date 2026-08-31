@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2083991222775841144",
+    "created_at": "2026-08-03T05:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084146434710880481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1496729761686568964",
+          "start": 0,
+          "username": "Toad_JX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084146434710880481",
+    "in_reply_to_user_id": "1496729761686568964",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084138179708518589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Toad_JX 3A在哪（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2083991222775841144",
+        "created_at": "2026-08-03T05:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084146434710880481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1496729761686568964",
+              "start": 0,
+              "username": "Toad_JX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084146434710880481",
+        "in_reply_to_user_id": "1496729761686568964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084138179708518589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Toad_JX 3A在哪（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496729761686568964",
+        "conversation_id": "2083991222775841144",
+        "created_at": "2026-08-03T04:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084138179708518589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084138179708518589",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083991222775841144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 3A游戏？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5878,
+          "following_count": 1735,
+          "like_count": 33472,
+          "listed_count": 14,
+          "media_count": 2736,
+          "tweet_count": 12632
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-24T06:13:03.000Z",
+        "description": "专业负能量传播学研究员\n推特劝人离婚第一人",
+        "id": "1496729761686568964",
+        "name": "TX_zen3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037838745337290752/18fdHpAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 212,
+          "like_count": 446,
+          "listed_count": 6,
+          "media_count": 351,
+          "tweet_count": 4358
+        },
+        "url": "",
+        "username": "Toad_JX",
+        "verified": true
+      }
+    ]
+  }
+}

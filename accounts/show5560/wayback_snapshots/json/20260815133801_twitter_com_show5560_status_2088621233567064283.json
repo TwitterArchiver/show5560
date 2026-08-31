@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2088314546910097847",
+    "created_at": "2026-08-15T13:38:01.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088621233567064283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088621233567064283",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088314546910097847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 好诶，雪球姐姐~我想要（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2088314525057740800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsu_wVa8AAFvWI.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088314537753882624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsvAfoasAA5ezt.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2088314546910097847",
+        "created_at": "2026-08-15T13:38:01.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088621233567064283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088621233567064283",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088314546910097847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 好诶，雪球姐姐~我想要（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088314525057740800",
+            "3_2088314537753882624"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2088314546910097847",
+        "created_at": "2026-08-14T17:19:21.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088314546910097847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzTGVOMrfs",
+              "end": 33,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+              "media_key": "3_2088314525057740800",
+              "start": 10,
+              "url": "https://t.co/gzTGVOMrfs"
+            },
+            {
+              "display_url": "pic.x.com/gzTGVOMrfs",
+              "end": 33,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+              "media_key": "3_2088314537753882624",
+              "start": 10,
+              "url": "https://t.co/gzTGVOMrfs"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2088314546910097847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088314525057740800"
+          },
+          {
+            "media_key": "3_2088314537753882624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1207,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "定制了些雪球通行证 https://t.co/gzTGVOMrfs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088621233567064283",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6312,
+          "following_count": 1726,
+          "like_count": 34939,
+          "listed_count": 18,
+          "media_count": 3017,
+          "tweet_count": 13925
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2088510063833120991",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9796,
+          "following_count": 2348,
+          "like_count": 33631,
+          "listed_count": 25,
+          "media_count": 1670,
+          "tweet_count": 6020
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

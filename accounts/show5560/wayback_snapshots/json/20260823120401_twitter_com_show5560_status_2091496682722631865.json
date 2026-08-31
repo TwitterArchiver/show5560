@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2091469805492605129",
+    "created_at": "2026-08-23T12:04:01.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091496682722631865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090325165590876160",
+          "start": 0,
+          "username": "hoshino_Fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091496682722631865",
+    "in_reply_to_user_id": "2090325165590876160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091469805492605129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshino_Fuji 好诶！看着就好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2091469765055528960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZkq5SawAAKeL7.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2091469789114011648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZksS6aEAAKjae.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2091469805492605129",
+        "created_at": "2026-08-23T12:04:01.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091496682722631865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090325165590876160",
+              "start": 0,
+              "username": "hoshino_Fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091496682722631865",
+        "in_reply_to_user_id": "2090325165590876160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091469805492605129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshino_Fuji 好诶！看着就好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091469765055528960",
+            "3_2091469789114011648"
+          ]
+        },
+        "author_id": "2090325165590876160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091469805492605129",
+        "created_at": "2026-08-23T10:17:13.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091469805492605129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amES5q5SSa",
+              "end": 49,
+              "expanded_url": "https://x.com/hoshino_Fuji/status/2091469805492605129/photo/1",
+              "media_key": "3_2091469765055528960",
+              "start": 26,
+              "url": "https://t.co/amES5q5SSa"
+            },
+            {
+              "display_url": "pic.x.com/amES5q5SSa",
+              "end": 49,
+              "expanded_url": "https://x.com/hoshino_Fuji/status/2091469805492605129/photo/1",
+              "media_key": "3_2091469789114011648",
+              "start": 26,
+              "url": "https://t.co/amES5q5SSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091469805492605129",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091469765055528960"
+          },
+          {
+            "media_key": "3_2091469789114011648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蒸了一个鸡蛋羹，弄了小葱拌豆腐\n\n今晚高蛋白高营养 https://t.co/amES5q5SSa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091496682722631865",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6668,
+          "following_count": 1721,
+          "like_count": 35903,
+          "listed_count": 17,
+          "media_count": 3214,
+          "tweet_count": 14709
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:30:41.000Z",
+        "description": "|星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜一代目@hoshinofujivy（13k fo）｜二代目@realhoshinofuji（2.7k fo）｜Luv NASA｜love the world｜来吧，我的故事很多｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 101,
+                "start": 85,
+                "username": "realhoshinofuji"
+              }
+            ]
+          }
+        },
+        "id": "2090325165590876160",
+        "is_identity_verified": false,
+        "location": "台湾，真理子怀里",
+        "most_recent_tweet_id": "2091479612505432536",
+        "name": "星野藤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090325165590876160/1787394878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090738941590929408/IdtRzvyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 304,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "hoshino_Fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

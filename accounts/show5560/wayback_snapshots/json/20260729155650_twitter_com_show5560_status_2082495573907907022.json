@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2082394265959940154",
+    "created_at": "2026-07-29T15:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082495573907907022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochic_Xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082495573907907022",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082394265959940154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochic_Xyn 这么强？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082394257609072640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmi1caIAAE8o4.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2082394265959940154",
+        "created_at": "2026-07-29T15:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082495573907907022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochic_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082495573907907022",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082394265959940154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochic_Xyn 这么强？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082394257609072640"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2082394265959940154",
+        "created_at": "2026-07-29T09:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082394265959940154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuH0fsw1NK",
+              "end": 35,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2082394265959940154/photo/1",
+              "media_key": "3_2082394257609072640",
+              "start": 12,
+              "url": "https://t.co/iuH0fsw1NK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082394265959940154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11657,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "华为这次是真遥遥领先了 https://t.co/iuH0fsw1NK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5407,
+          "following_count": 1732,
+          "like_count": 32919,
+          "listed_count": 14,
+          "media_count": 2626,
+          "tweet_count": 12164
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友情链接:https://t.co/iIABjp0PAw（这并非我本人的博客）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 117,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 94,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4370,
+          "following_count": 2182,
+          "like_count": 8513,
+          "listed_count": 7,
+          "media_count": 1028,
+          "tweet_count": 6843
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

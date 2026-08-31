@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2093468127787110497",
+    "created_at": "2026-08-29T23:19:43.000Z",
+    "display_text_range": [
+      8,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T00:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093841055452184597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093841055452184597",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093662129052352513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2093468127787110497",
+        "created_at": "2026-08-29T23:19:43.000Z",
+        "display_text_range": [
+          8,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T00:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093841055452184597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093841055452184597",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093662129052352513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2093468127787110497",
+        "created_at": "2026-08-29T11:28:44.000Z",
+        "display_text_range": [
+          10,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093662129052352513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093662129052352513",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093650296887243159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 我要更好啊，我想要更好。发出来就几百赞，几千赞的那种。\n所有人都围着我转，所有人都爱我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093841055452184597",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6813,
+          "following_count": 1721,
+          "like_count": 36801,
+          "listed_count": 17,
+          "media_count": 3371,
+          "tweet_count": 15398
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "两个傻逼我真是服了。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2093832574946996538",
+        "name": "𝑳𝒂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7873,
+          "following_count": 4511,
+          "like_count": 45298,
+          "listed_count": 18,
+          "media_count": 3342,
+          "tweet_count": 44994
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2087796292562858150",
+    "created_at": "2026-08-13T08:49:36.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T09:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087823875426144328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1994313169549017088",
+          "start": 0,
+          "username": "DouyinAndTiktok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087823875426144328",
+    "in_reply_to_user_id": "1994313169549017088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087811875803390383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DouyinAndTiktok 原来是这个东西吗🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2087811864730415104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPll1EsaMAAGxMU.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2087796292562858150",
+        "created_at": "2026-08-13T08:49:36.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087823875426144328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1994313169549017088",
+              "start": 0,
+              "username": "DouyinAndTiktok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087823875426144328",
+        "in_reply_to_user_id": "1994313169549017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087811875803390383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouyinAndTiktok 原来是这个东西吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087811864730415104"
+          ]
+        },
+        "author_id": "1994313169549017088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087796292562858150",
+        "created_at": "2026-08-13T08:01:55.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087811875803390383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ah8bmq55I9",
+              "end": 33,
+              "expanded_url": "https://x.com/DouyinAndTiktok/status/2087811875803390383/photo/1",
+              "media_key": "3_2087811864730415104",
+              "start": 10,
+              "url": "https://t.co/Ah8bmq55I9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087811875803390383",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087811864730415104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087796292562858150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 https://t.co/Ah8bmq55I9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087823875426144328",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6192,
+          "following_count": 1728,
+          "like_count": 34776,
+          "listed_count": 18,
+          "media_count": 2984,
+          "tweet_count": 13759
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-28T07:51:39.000Z",
+        "description": "福建龙岩人。早年在家乡培丰镇企业管理站工作了十年，担任站长。当时当地煤矿产业比较发达，我接触了很多煤老板以及各行各业的生意人，收获了不少社会经验。后来，我曾在龙岩市科学技术委员会担任公务员。几年后，我决定辞去公职下海经商，前往广东省东莞市创办了一家电子产品生产工厂。",
+        "id": "1994313169549017088",
+        "is_identity_verified": false,
+        "location": "EARTH",
+        "most_recent_tweet_id": "2087811875803390383",
+        "name": "张汉平",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994313169549017088/1777549678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049818028435808256/rw_rgbVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 2223,
+          "like_count": 2231,
+          "listed_count": 5,
+          "media_count": 483,
+          "tweet_count": 4151
+        },
+        "url": "",
+        "username": "DouyinAndTiktok",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

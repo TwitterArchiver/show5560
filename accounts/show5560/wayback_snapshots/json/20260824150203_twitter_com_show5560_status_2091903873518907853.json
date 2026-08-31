@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2091548995994956235",
+    "created_at": "2026-08-24T15:02:03.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T16:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091903873518907853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091903873518907853",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091548995994956235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya 怎么还有对比"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2608,
+        "media_key": "3_2091548957361274880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQassfnbgAAPgtx.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2091548975518392320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQastjQbIAApPGe.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2091548995994956235",
+        "created_at": "2026-08-24T15:02:03.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091903873518907853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091903873518907853",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091548995994956235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 怎么还有对比"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091548957361274880",
+            "3_2091548975518392320"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2091548995994956235",
+        "created_at": "2026-08-23T15:31:54.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091548995994956235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4k0UvuDPHS",
+              "end": 56,
+              "expanded_url": "https://x.com/bghtnya/status/2091548995994956235/photo/1",
+              "media_key": "3_2091548957361274880",
+              "start": 33,
+              "url": "https://t.co/4k0UvuDPHS"
+            },
+            {
+              "display_url": "pic.x.com/4k0UvuDPHS",
+              "end": 56,
+              "expanded_url": "https://x.com/bghtnya/status/2091548995994956235/photo/1",
+              "media_key": "3_2091548975518392320",
+              "start": 33,
+              "url": "https://t.co/4k0UvuDPHS"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/bghtnya/status/2091182764985094398",
+              "start": 57,
+              "url": "https://t.co/8HIJWWyCWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091548995994956235",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091548957361274880"
+          },
+          {
+            "media_key": "3_2091548975518392320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5933,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091182764985094398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "改编版《别惹xyn》甚至已经比原作《别惹大土匪》的播放量高了（（ https://t.co/4k0UvuDPHS https://t.co/8HIJWWyCWA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091903873518907853",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6672,
+          "following_count": 1723,
+          "like_count": 36170,
+          "listed_count": 17,
+          "media_count": 3244,
+          "tweet_count": 14894
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2091889614730469547",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10704,
+          "following_count": 2327,
+          "like_count": 182470,
+          "listed_count": 20,
+          "media_count": 4097,
+          "tweet_count": 49980
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

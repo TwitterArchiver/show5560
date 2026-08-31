@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086474400577241503",
+    "created_at": "2026-08-09T15:27:40.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086474503006371917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835271072809373697",
+          "start": 0,
+          "username": "muaGureowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086474503006371917",
+    "in_reply_to_user_id": "1835271072809373697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086474400577241503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muaGureowo 这就是我！没错🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086474400577241503",
+        "created_at": "2026-08-09T15:27:40.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086474503006371917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835271072809373697",
+              "start": 0,
+              "username": "muaGureowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086474503006371917",
+        "in_reply_to_user_id": "1835271072809373697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086474400577241503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muaGureowo 这就是我！没错🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835271072809373697",
+        "conversation_id": "2086474400577241503",
+        "created_at": "2026-08-09T15:27:16.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086474400577241503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/show5560/status/2086456638622556254",
+              "start": 5,
+              "url": "https://t.co/zNscdZ5JEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086474400577241503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086456638622556254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我🥺 https://t.co/zNscdZ5JEP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086474503006371917",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2086456638622556254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6090,
+          "following_count": 1730,
+          "like_count": 34235,
+          "listed_count": 16,
+          "media_count": 2892,
+          "tweet_count": 13317
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-15T10:55:06.000Z",
+        "description": "06断糖男娘/普通人一个//赛博乞丐✪//此账号属于生活账号，会不定时发一些日常或者照片之类的（？/暂时就这么多，大号请转移至 @show5560 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1835271072809373697",
+        "is_identity_verified": false,
+        "location": "来着幻想世界的某种生物",
+        "most_recent_tweet_id": "2086474400577241503",
+        "name": "酥墨璃",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085428033373327360/6hthmEAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 6,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "muaGureowo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

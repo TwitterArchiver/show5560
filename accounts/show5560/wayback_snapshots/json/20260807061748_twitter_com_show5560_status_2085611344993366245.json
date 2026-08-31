@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2085289790467932417",
+    "created_at": "2026-08-07T06:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085611344993366245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "923439068267941888",
+          "start": 0,
+          "username": "OttoApocalypse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085611344993366245",
+    "in_reply_to_user_id": "923439068267941888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085595905458364642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OttoApocalypse 绿帽癖真恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2085289790467932417",
+        "created_at": "2026-08-07T06:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085611344993366245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "923439068267941888",
+              "start": 0,
+              "username": "OttoApocalypse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085611344993366245",
+        "in_reply_to_user_id": "923439068267941888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085595905458364642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OttoApocalypse 绿帽癖真恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "923439068267941888",
+        "conversation_id": "2085289790467932417",
+        "created_at": "2026-08-07T05:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085595905458364642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085595905458364642",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085289790467932417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 NTR狂热爱好者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5990,
+          "following_count": 1732,
+          "like_count": 33954,
+          "listed_count": 16,
+          "media_count": 2833,
+          "tweet_count": 13075
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-26T06:40:05.000Z",
+        "description": "不求尽善尽美，但求问心无愧。",
+        "id": "923439068267941888",
+        "location": "Tokyo-to, Japan",
+        "name": "墨",
+        "pinned_tweet_id": "1727248002883203251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974694333325750272/XL4ZzpKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 373,
+          "like_count": 8920,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 2735
+        },
+        "url": "",
+        "username": "OttoApocalypse",
+        "verified": false
+      }
+    ]
+  }
+}

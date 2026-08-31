@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2092181818871345361",
+    "created_at": "2026-08-25T19:57:38.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T20:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092340644606071031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092340644606071031",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092181818871345361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ 心疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1343,
+        "media_key": "3_2092181781030256640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjsPrfaQAA5-_9.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2092181818871345361",
+        "created_at": "2026-08-25T19:57:38.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092340644606071031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092340644606071031",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092181818871345361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 心疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092181781030256640"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2092181818871345361",
+        "created_at": "2026-08-25T09:26:31.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092181818871345361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHaan62orz",
+              "end": 30,
+              "expanded_url": "https://x.com/__fanqie__/status/2092181818871345361/photo/1",
+              "media_key": "3_2092181781030256640",
+              "start": 7,
+              "url": "https://t.co/rHaan62orz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092181818871345361",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092181781030256640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3933,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心疼没有卡的 https://t.co/rHaan62orz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092340644606071031",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6683,
+          "following_count": 1721,
+          "like_count": 36241,
+          "listed_count": 17,
+          "media_count": 3271,
+          "tweet_count": 14961
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅梗图号/生活号@bcfqdtfqz/随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "bcfqdtfqz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuNuE0"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "is_identity_verified": false,
+        "location": "番茄树上",
+        "most_recent_tweet_id": "2092190796883886355",
+        "name": "不包番茄籽的番茄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756909109788753920/1768587768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13603,
+          "following_count": 2752,
+          "like_count": 1627,
+          "listed_count": 27,
+          "media_count": 2839,
+          "tweet_count": 11863
+        },
+        "url": "https://t.co/ndOwWuNuE0",
+        "username": "__fanqie__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092993068190629889"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2093126420083991020",
+    "created_at": "2026-08-28T00:00:01.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T01:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093126420083991020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NuJA6oFKC0",
+          "end": 25,
+          "expanded_url": "https://x.com/show5560/status/2093126420083991020/photo/1",
+          "media_key": "3_2092993068190629889",
+          "start": 2,
+          "url": "https://t.co/NuJA6oFKC0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093126420083991020",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2092993068190629889"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🥲 https://t.co/NuJA6oFKC0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2092993068190629889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvOGzrbgAEVt5y.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092993068190629889"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2093126420083991020",
+        "created_at": "2026-08-28T00:00:01.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093126420083991020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NuJA6oFKC0",
+              "end": 25,
+              "expanded_url": "https://x.com/show5560/status/2093126420083991020/photo/1",
+              "media_key": "3_2092993068190629889",
+              "start": 2,
+              "url": "https://t.co/NuJA6oFKC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093126420083991020",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092993068190629889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥲 https://t.co/NuJA6oFKC0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093126420083991020",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6737,
+          "following_count": 1718,
+          "like_count": 36605,
+          "listed_count": 17,
+          "media_count": 3327,
+          "tweet_count": 15219
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

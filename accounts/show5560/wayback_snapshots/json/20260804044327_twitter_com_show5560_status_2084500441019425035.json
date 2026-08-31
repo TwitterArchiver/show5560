@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2084338512925802569",
+    "created_at": "2026-08-04T04:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084500441019425035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "405135037",
+          "start": 0,
+          "username": "huyang1988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084500441019425035",
+    "in_reply_to_user_id": "405135037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084383525642596584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huyang1988 是这样的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2084338512925802569",
+        "created_at": "2026-08-04T04:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084500441019425035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "405135037",
+              "start": 0,
+              "username": "huyang1988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084500441019425035",
+        "in_reply_to_user_id": "405135037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084383525642596584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huyang1988 是这样的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "405135037",
+        "conversation_id": "2084338512925802569",
+        "created_at": "2026-08-03T20:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084383525642596584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084383525642596584",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084338512925802569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 别人的生命财产风险&lt;猫命&lt;200块钱加3分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5910,
+          "following_count": 1735,
+          "like_count": 33605,
+          "listed_count": 14,
+          "media_count": 2759,
+          "tweet_count": 12747
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-04T22:20:33.000Z",
+        "description": "我实在徒然洁净了我的心，徒然洗手表明无辜；因为我终日遭灾难，每早晨受惩治。",
+        "id": "405135037",
+        "location": "Santa Clara, CA",
+        "name": "Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963701850764722176/BFmbe16j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 348,
+          "like_count": 16716,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 6582
+        },
+        "url": "",
+        "username": "huyang1988",
+        "verified": true
+      }
+    ]
+  }
+}

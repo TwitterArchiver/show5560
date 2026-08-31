@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2090674669343121715",
+    "created_at": "2026-08-22T16:37:26.000Z",
+    "display_text_range": [
+      37,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091203101068075482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 24,
+          "id": "1512976991976402949",
+          "start": 16,
+          "username": "bghtnya"
+        },
+        {
+          "end": 36,
+          "id": "1565881978062118913",
+          "start": 25,
+          "username": "Espania_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091203101068075482",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090762411263525235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @bghtnya @Espania_CN 飞的还很高~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2090674669343121715",
+        "created_at": "2026-08-22T16:37:26.000Z",
+        "display_text_range": [
+          37,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091203101068075482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 24,
+              "id": "1512976991976402949",
+              "start": 16,
+              "username": "bghtnya"
+            },
+            {
+              "end": 36,
+              "id": "1565881978062118913",
+              "start": 25,
+              "username": "Espania_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091203101068075482",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090762411263525235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @bghtnya @Espania_CN 飞的还很高~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2090674669343121715",
+        "created_at": "2026-08-21T11:26:17.000Z",
+        "display_text_range": [
+          21,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090762411263525235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 20,
+              "id": "1565881978062118913",
+              "start": 9,
+              "username": "Espania_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090762411263525235",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7317,
+          "like_count": 185,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090674669343121715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @Espania_CN 中国人能飞！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091203101068075482",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6645,
+          "following_count": 1723,
+          "like_count": 35867,
+          "listed_count": 17,
+          "media_count": 3194,
+          "tweet_count": 14661
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/Rib36J6yzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cyberkanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/cyberkanjousen",
+                "start": 65,
+                "url": "https://t.co/Rib36J6yzI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091190653497598168",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16331,
+          "following_count": 882,
+          "like_count": 34269,
+          "listed_count": 24,
+          "media_count": 2758,
+          "tweet_count": 12650
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2091194565952979034",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10591,
+          "following_count": 2325,
+          "like_count": 182222,
+          "listed_count": 20,
+          "media_count": 4084,
+          "tweet_count": 49891
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-03T01:59:20.000Z",
+        "description": "中国大陸のクズ男子大学生🇨🇳\n🔰雑多垢：アニメ/マンガ/ゲーム/ライベ/政治歴史と人文地理/欧州と亚州の言語と文化が大好きですよ(英語、日本語、韓国語、ベトナム語勉強中)\n【日本が好きです/한국을 좋아해요 /Thích Việt Nam/香港•マカオ•台湾友好】",
+        "id": "1565881978062118913",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091166661311406168",
+        "name": "Espania",
+        "pinned_tweet_id": "1946929246875840944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565881978062118913/1736601324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007398324769595393/jS71Fby2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3051,
+          "following_count": 6326,
+          "like_count": 126252,
+          "listed_count": 14,
+          "media_count": 135,
+          "tweet_count": 36667
+        },
+        "url": "",
+        "username": "Espania_CN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

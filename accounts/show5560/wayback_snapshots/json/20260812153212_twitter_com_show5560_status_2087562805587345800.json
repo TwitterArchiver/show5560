@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2087522115893547070",
+    "created_at": "2026-08-12T15:32:12.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087562805587345800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087562805587345800",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087522115893547070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 好诶，看起来就好吃（馋了）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2087522104438853632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPheSzfakAADht-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2087522115893547070",
+        "created_at": "2026-08-12T15:32:12.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087562805587345800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087562805587345800",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087522115893547070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 好诶，看起来就好吃（馋了）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087522104438853632"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087522115893547070",
+        "created_at": "2026-08-12T12:50:31.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087522115893547070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAGyZucsB2",
+              "end": 35,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2087522115893547070/photo/1",
+              "media_key": "3_2087522104438853632",
+              "start": 12,
+              "url": "https://t.co/KAGyZucsB2"
+            },
+            {
+              "display_url": "x.com/drill019/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/drill019/status/2087499731685806312",
+              "start": 36,
+              "url": "https://t.co/OXFYhbRWaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087522115893547070",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087522104438853632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087499731685806312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "❤️ 喜欢你们所有人！ https://t.co/KAGyZucsB2 https://t.co/OXFYhbRWaz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087562805587345800",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6168,
+          "following_count": 1728,
+          "like_count": 34700,
+          "listed_count": 17,
+          "media_count": 2967,
+          "tweet_count": 13702
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2087559226139062574",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4615,
+          "following_count": 1285,
+          "like_count": 7804,
+          "listed_count": 6,
+          "media_count": 700,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083581282802626560"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2083810029308883001",
+    "created_at": "2026-08-02T07:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083810029308883001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/75WCTe78Fv",
+          "end": 34,
+          "expanded_url": "https://x.com/show5560/status/2083810029308883001/photo/1",
+          "media_key": "3_2083581282802626560",
+          "start": 11,
+          "url": "https://t.co/75WCTe78Fv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083810029308883001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么还有反向抹零啊😡 https://t.co/75WCTe78Fv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_2083581282802626560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpeIy4acAA-dDn.png",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083581282802626560"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2083810029308883001",
+        "created_at": "2026-08-02T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083810029308883001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75WCTe78Fv",
+              "end": 34,
+              "expanded_url": "https://x.com/show5560/status/2083810029308883001/photo/1",
+              "media_key": "3_2083581282802626560",
+              "start": 11,
+              "url": "https://t.co/75WCTe78Fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083810029308883001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么还有反向抹零啊😡 https://t.co/75WCTe78Fv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5683,
+          "following_count": 1736,
+          "like_count": 33352,
+          "listed_count": 14,
+          "media_count": 2714,
+          "tweet_count": 12521
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

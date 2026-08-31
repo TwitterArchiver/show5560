@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2089332647709626614",
+    "created_at": "2026-08-18T10:37:50.000Z",
+    "display_text_range": [
+      33,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089663051448582473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 22,
+          "id": "2058440429100806144",
+          "start": 11,
+          "username": "XUEQIUSuki"
+        },
+        {
+          "end": 32,
+          "id": "2033504930707996672",
+          "start": 23,
+          "username": "Xyliaxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089663051448582473",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089332647709626614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka @XUEQIUSuki @Xyliaxka 好诶😋，这个好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2089332578897858560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7M6SbbkAAKVBR.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089332599638659073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7M7fsbEAEngg1.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089332620765302784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7M8uZaEAA-oDj.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2089332647709626614",
+        "created_at": "2026-08-18T10:37:50.000Z",
+        "display_text_range": [
+          33,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089663051448582473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 22,
+              "id": "2058440429100806144",
+              "start": 11,
+              "username": "XUEQIUSuki"
+            },
+            {
+              "end": 32,
+              "id": "2033504930707996672",
+              "start": 23,
+              "username": "Xyliaxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089663051448582473",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089332647709626614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @XUEQIUSuki @Xyliaxka 好诶😋，这个好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089332578897858560",
+            "3_2089332599638659073",
+            "3_2089332620765302784"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2089332647709626614",
+        "created_at": "2026-08-17T12:44:55.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089332647709626614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2058440429100806144",
+              "start": 4,
+              "username": "XUEQIUSuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YRrE4Tbktj",
+              "end": 69,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2089332647709626614/photo/1",
+              "media_key": "3_2089332578897858560",
+              "start": 46,
+              "url": "https://t.co/YRrE4Tbktj"
+            },
+            {
+              "display_url": "pic.x.com/YRrE4Tbktj",
+              "end": 69,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2089332647709626614/photo/1",
+              "media_key": "3_2089332599638659073",
+              "start": 46,
+              "url": "https://t.co/YRrE4Tbktj"
+            },
+            {
+              "display_url": "pic.x.com/YRrE4Tbktj",
+              "end": 69,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2089332647709626614/photo/1",
+              "media_key": "3_2089332620765302784",
+              "start": 46,
+              "url": "https://t.co/YRrE4Tbktj"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2089332647709626614",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089332578897858560"
+          },
+          {
+            "media_key": "3_2089332599638659073"
+          },
+          {
+            "media_key": "3_2089332620765302784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带雪球 @XUEQIUSuki 去看了 Chiikawa的剧场版\n好看，就是空调好冷pwp https://t.co/YRrE4Tbktj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089663051448582473",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6408,
+          "following_count": 1726,
+          "like_count": 35266,
+          "listed_count": 17,
+          "media_count": 3089,
+          "tweet_count": 14188
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2089391018483614157",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9768,
+          "following_count": 2348,
+          "like_count": 33639,
+          "listed_count": 25,
+          "media_count": 1673,
+          "tweet_count": 6029
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-24T06:52:10.000Z",
+        "description": "没错，我就是那个棉花娃娃喵\n日常 @Xyliaxka\n大号 @XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.uk",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.uk",
+                "start": 0,
+                "url": "https://t.co/iSZPyJBABv"
+              }
+            ]
+          }
+        },
+        "id": "2058440429100806144",
+        "is_identity_verified": false,
+        "location": "雪球",
+        "most_recent_tweet_id": "2071170343562313731",
+        "name": "球球",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058440429100806144/1781275828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065448943845261312/MJ29TuQb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/iSZPyJBABv",
+        "username": "XUEQIUSuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号，会转发大号 @XUEQIUxka 自己的日常\nSRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n雪球的号：@XUEQIUsuki\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyliaxka.com",
+                "end": 23,
+                "expanded_url": "http://xyliaxka.com",
+                "start": 0,
+                "url": "https://t.co/A278iJKVYh"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "is_identity_verified": false,
+        "location": "欢迎访问我的网页↓",
+        "most_recent_tweet_id": "2088936324997038095",
+        "name": "Xylia",
+        "pinned_tweet_id": "2069756446065955016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033504930707996672/1774196484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/A278iJKVYh",
+        "username": "Xyliaxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

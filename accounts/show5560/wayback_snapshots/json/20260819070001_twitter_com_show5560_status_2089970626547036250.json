@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089792394237706240"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2089970626547036250",
+    "created_at": "2026-08-19T07:00:01.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089970626547036250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SFEa7Er1uM",
+          "end": 33,
+          "expanded_url": "https://x.com/show5560/status/2089970626547036250/photo/1",
+          "media_key": "3_2089792394237706240",
+          "start": 10,
+          "url": "https://t.co/SFEa7Er1uM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089970626547036250",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089792394237706240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《我会尽我所能》😋 https://t.co/SFEa7Er1uM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_2089792394237706240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBvHEDaAAA7faO.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089792394237706240"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2089970626547036250",
+        "created_at": "2026-08-19T07:00:01.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089970626547036250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFEa7Er1uM",
+              "end": 33,
+              "expanded_url": "https://x.com/show5560/status/2089970626547036250/photo/1",
+              "media_key": "3_2089792394237706240",
+              "start": 10,
+              "url": "https://t.co/SFEa7Er1uM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089970626547036250",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089792394237706240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《我会尽我所能》😋 https://t.co/SFEa7Er1uM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089970626547036250",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6461,
+          "following_count": 1725,
+          "like_count": 35389,
+          "listed_count": 17,
+          "media_count": 3113,
+          "tweet_count": 14269
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

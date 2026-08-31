@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089432360383340544"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2089472344347779503",
+    "created_at": "2026-08-17T22:00:02.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T23:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089472344347779503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I1Ekr1ZheY",
+          "end": 37,
+          "expanded_url": "https://x.com/show5560/status/2089472344347779503/photo/1",
+          "media_key": "3_2089432360383340544",
+          "start": 14,
+          "url": "https://t.co/I1Ekr1ZheY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089472344347779503",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089432360383340544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成绩比孩子的心理健康还重要 https://t.co/I1Ekr1ZheY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2089432360383340544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8nqVba4AAOxKW.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089432360383340544"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2089472344347779503",
+        "created_at": "2026-08-17T22:00:02.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089472344347779503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1Ekr1ZheY",
+              "end": 37,
+              "expanded_url": "https://x.com/show5560/status/2089472344347779503/photo/1",
+              "media_key": "3_2089432360383340544",
+              "start": 14,
+              "url": "https://t.co/I1Ekr1ZheY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089472344347779503",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089432360383340544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成绩比孩子的心理健康还重要 https://t.co/I1Ekr1ZheY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089472344347779503",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6412,
+          "following_count": 1726,
+          "like_count": 35216,
+          "listed_count": 17,
+          "media_count": 3077,
+          "tweet_count": 14140
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

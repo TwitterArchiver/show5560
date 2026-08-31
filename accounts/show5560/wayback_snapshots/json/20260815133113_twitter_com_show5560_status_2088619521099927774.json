@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2088445574135812258",
+    "created_at": "2026-08-15T13:31:13.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088619521099927774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521776796168966144",
+          "start": 0,
+          "username": "sean108073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088619521099927774",
+    "in_reply_to_user_id": "1521776796168966144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088612671981859163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sean108073 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_2088612665019314176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw-JyPbsAArVt6.jpg",
+        "width": 648
+      },
+      {
+        "height": 768,
+        "media_key": "3_2088612664918597632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw-Jx3a4AAn-ks.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2088445574135812258",
+        "created_at": "2026-08-15T13:31:13.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088619521099927774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521776796168966144",
+              "start": 0,
+              "username": "sean108073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088619521099927774",
+        "in_reply_to_user_id": "1521776796168966144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088612671981859163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sean108073 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088612665019314176",
+            "3_2088612664918597632"
+          ]
+        },
+        "author_id": "1521776796168966144",
+        "conversation_id": "2088445574135812258",
+        "created_at": "2026-08-15T13:04:00.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088612671981859163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVHDzoUc3s",
+              "end": 33,
+              "expanded_url": "https://x.com/sean108073/status/2088612671981859163/photo/1",
+              "media_key": "3_2088612665019314176",
+              "start": 10,
+              "url": "https://t.co/fVHDzoUc3s"
+            },
+            {
+              "display_url": "pic.x.com/fVHDzoUc3s",
+              "end": 33,
+              "expanded_url": "https://x.com/sean108073/status/2088612671981859163/photo/1",
+              "media_key": "3_2088612664918597632",
+              "start": 10,
+              "url": "https://t.co/fVHDzoUc3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088612671981859163",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088612665019314176"
+          },
+          {
+            "media_key": "3_2088612664918597632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088445574135812258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 https://t.co/fVHDzoUc3s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088619521099927774",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6312,
+          "following_count": 1726,
+          "like_count": 34915,
+          "listed_count": 18,
+          "media_count": 3017,
+          "tweet_count": 13904
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-04T09:01:46.000Z",
+        "description": "",
+        "id": "1521776796168966144",
+        "is_identity_verified": false,
+        "location": "Holy Terra",
+        "most_recent_tweet_id": "2088614927993069582",
+        "name": "sean tw",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521776796168966144/1749160962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687012175574151168/ZVzXVM-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 1830,
+          "like_count": 53705,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 19441
+        },
+        "url": "",
+        "username": "sean108073",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

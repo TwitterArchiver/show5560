@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2085223547421831602",
+    "created_at": "2026-08-06T07:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085261764946784600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1517411011128885249",
+          "start": 0,
+          "username": "ribosome80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085261764946784600",
+    "in_reply_to_user_id": "1517411011128885249",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085223547421831602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ribosome80 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2085223547421831602",
+        "created_at": "2026-08-06T07:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085261764946784600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1517411011128885249",
+              "start": 0,
+              "username": "ribosome80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085261764946784600",
+        "in_reply_to_user_id": "1517411011128885249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085223547421831602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ribosome80 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517411011128885249",
+        "conversation_id": "2085223547421831602",
+        "created_at": "2026-08-06T04:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085223547421831602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/show5560/status/2085078383583535137",
+              "start": 16,
+              "url": "https://t.co/aYIbPVAzgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085223547421831602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085078383583535137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“你怎么知道我是男扮女装的？” https://t.co/aYIbPVAzgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5981,
+          "following_count": 1733,
+          "like_count": 33807,
+          "listed_count": 16,
+          "media_count": 2810,
+          "tweet_count": 12968
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T07:53:00.000Z",
+        "description": "技术派fem｜警惕任何原子化主张｜谈论政治｜摸鱼作品",
+        "id": "1517411011128885249",
+        "name": "CofactorA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034631802502197248/22EVZZva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 262,
+          "like_count": 3577,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 341
+        },
+        "url": "",
+        "username": "ribosome80",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2087030277537427742",
+    "created_at": "2026-08-11T08:07:00.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087088378772947017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839865017392394240",
+          "start": 0,
+          "username": "zhiyun114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087088378772947017",
+    "in_reply_to_user_id": "1839865017392394240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087030277537427742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiyun114514 当事人来了（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2087030277537427742",
+        "created_at": "2026-08-11T08:07:00.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087088378772947017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839865017392394240",
+              "start": 0,
+              "username": "zhiyun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087088378772947017",
+        "in_reply_to_user_id": "1839865017392394240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087030277537427742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyun114514 当事人来了（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839865017392394240",
+        "conversation_id": "2087030277537427742",
+        "created_at": "2026-08-11T04:16:07.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087030277537427742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/show5560/status/2086799729950929273",
+              "start": 10,
+              "url": "https://t.co/8kOST2W1Jo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087030277537427742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086799729950929273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我玩街霸怎么你了😤 https://t.co/8kOST2W1Jo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087088378772947017",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6138,
+          "following_count": 1725,
+          "like_count": 34475,
+          "listed_count": 17,
+          "media_count": 2936,
+          "tweet_count": 13516
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "我叫知雲！(三世)\n中国人\n(有多少人认识我？)\n二世:@zhi96886   小号:@zhiyun1919810一世找不到了\n日本語を勉強したいのですが、今のところ五十音図しかできません🥺/社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\nI want to make more friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "zhi96886"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "zhiyun1919810"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "is_identity_verified": false,
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "most_recent_tweet_id": "2087085439144644690",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2084545416264323388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839865017392394240/1779546626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072974559704481792/whDv4RKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3265,
+          "following_count": 1147,
+          "like_count": 14167,
+          "listed_count": 8,
+          "media_count": 1257,
+          "tweet_count": 7343
+        },
+        "url": "",
+        "username": "zhiyun114514",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

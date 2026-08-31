@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2087237616030929164",
+    "created_at": "2026-08-12T06:17:09.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087423120617636054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "854659920574140417",
+          "start": 0,
+          "username": "qq4454466962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087423120617636054",
+    "in_reply_to_user_id": "854659920574140417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087401307690991891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qq4454466962 那么草莓饺子呢🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2087237616030929164",
+        "created_at": "2026-08-12T06:17:09.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087423120617636054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "854659920574140417",
+              "start": 0,
+              "username": "qq4454466962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087423120617636054",
+        "in_reply_to_user_id": "854659920574140417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087401307690991891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qq4454466962 那么草莓饺子呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "854659920574140417",
+        "conversation_id": "2087237616030929164",
+        "created_at": "2026-08-12T04:50:28.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087401307690991891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087401307690991891",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087237616030929164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 可见中餐的包容力有多强"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087423120617636054",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6152,
+          "following_count": 1727,
+          "like_count": 34603,
+          "listed_count": 17,
+          "media_count": 2958,
+          "tweet_count": 13618
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-19T11:36:18.000Z",
+        "description": "日本語N1レベルの中国カメラマンです！\n日本文化が好き、友達を作りたい\nアルミニウム業関係者、撮影に関する仕事も受けています\n中国の写真色々撮る",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "unsplash.com/@takeshi2",
+                "end": 23,
+                "expanded_url": "https://unsplash.com/@takeshi2",
+                "start": 0,
+                "url": "https://t.co/T78V9JXEBR"
+              }
+            ]
+          }
+        },
+        "id": "854659920574140417",
+        "is_identity_verified": false,
+        "location": "中国　天津",
+        "most_recent_tweet_id": "2087401307690991891",
+        "name": "カメラマンたけし",
+        "pinned_tweet_id": "2063771709485056252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/854659920574140417/1664674148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1078057261006610432/zUUR44rh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 2321,
+          "like_count": 53318,
+          "listed_count": 5,
+          "media_count": 2394,
+          "tweet_count": 31045
+        },
+        "url": "https://t.co/T78V9JXEBR",
+        "username": "qq4454466962",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

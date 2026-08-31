@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086497736271265806",
+    "created_at": "2026-08-10T15:17:23.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086834299500978573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046530162536357888",
+          "start": 0,
+          "username": "yueyechunxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086834299500978573",
+    "in_reply_to_user_id": "2046530162536357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086833685257507040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyechunxue 对，对吧？🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086497736271265806",
+        "created_at": "2026-08-10T15:17:23.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086834299500978573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046530162536357888",
+              "start": 0,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086834299500978573",
+        "in_reply_to_user_id": "2046530162536357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086833685257507040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyechunxue 对，对吧？🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046530162536357888",
+        "conversation_id": "2086497736271265806",
+        "created_at": "2026-08-10T15:14:56.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086833685257507040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086833685257507040",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086497736271265806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 走十三号线对吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086834299500978573",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6119,
+          "following_count": 1727,
+          "like_count": 34412,
+          "listed_count": 17,
+          "media_count": 2919,
+          "tweet_count": 13464
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，淫荡的狐狸//药娘//18周岁//HRT2年//后穴期货领域天才交易员//接线下喵，在江浙沪一带//🚪50请私信喵//看成分互fo\n这里是我的备用账号@chunxuehu 请关注一下防止失联谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "chunxuehu"
+              }
+            ]
+          }
+        },
+        "id": "2046530162536357888",
+        "is_identity_verified": true,
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "most_recent_tweet_id": "2086833685257507040",
+        "name": "吟游诗人春雪狐🌸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046530162536357888/1782780175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053086582694100992/QOGXOuaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 141,
+          "like_count": 1618,
+          "listed_count": 10,
+          "media_count": 238,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "yueyechunxue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

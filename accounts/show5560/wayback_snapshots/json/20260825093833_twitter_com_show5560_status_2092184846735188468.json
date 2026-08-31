@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2091963759313260955",
+    "created_at": "2026-08-25T09:38:33.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092184846735188468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556534562876190720",
+          "start": 0,
+          "username": "CretePaleven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092184846735188468",
+    "in_reply_to_user_id": "1556534562876190720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092153940645417131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CretePaleven 上转转😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2091963759313260955",
+        "created_at": "2026-08-25T09:38:33.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092184846735188468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556534562876190720",
+              "start": 0,
+              "username": "CretePaleven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092184846735188468",
+        "in_reply_to_user_id": "1556534562876190720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092153940645417131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CretePaleven 上转转😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556534562876190720",
+        "conversation_id": "2091963759313260955",
+        "created_at": "2026-08-25T07:35:44.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092153940645417131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092153940645417131",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091963759313260955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 可能是换新的后扔了旧的太可惜，就这么办了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092184846735188468",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6665,
+          "following_count": 1722,
+          "like_count": 36195,
+          "listed_count": 17,
+          "media_count": 3261,
+          "tweet_count": 14925
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-08T06:55:58.000Z",
+        "description": "",
+        "id": "1556534562876190720",
+        "is_identity_verified": false,
+        "location": "Kansai, Hyogo",
+        "most_recent_tweet_id": "2092182097213751427",
+        "name": "日常くん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556534562876190720/1782362386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070003996660805632/OqelfzX__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 862,
+          "like_count": 3063,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1837
+        },
+        "url": "",
+        "username": "CretePaleven",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2089916246255190472",
+    "created_at": "2026-08-19T05:17:33.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089944839945331043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3285391",
+          "start": 0,
+          "username": "Faryne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089944839945331043",
+    "in_reply_to_user_id": "3285391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089916246255190472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Faryne 原来这是投影机吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2089916246255190472",
+        "created_at": "2026-08-19T05:17:33.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089944839945331043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3285391",
+              "start": 0,
+              "username": "Faryne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089944839945331043",
+        "in_reply_to_user_id": "3285391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089916246255190472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faryne 原来这是投影机吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3285391",
+        "conversation_id": "2089916246255190472",
+        "created_at": "2026-08-19T03:23:56.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089916246255190472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/show5560/status/2089578034139402267",
+              "start": 22,
+              "url": "https://t.co/TnSnsyasNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089916246255190472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089578034139402267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雖然但是應該不會有人把耳機插在投影機上吧？ https://t.co/TnSnsyasNM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089944839945331043",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6453,
+          "following_count": 1725,
+          "like_count": 35369,
+          "listed_count": 17,
+          "media_count": 3110,
+          "tweet_count": 14261
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-04-03T04:26:24.000Z",
+        "description": "薪水小偷、網路廢人、無能工程師、廢材、咒術師！ https://t.co/GQJX4J8eu4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "beta.faryne.dev",
+                "end": 47,
+                "expanded_url": "https://beta.faryne.dev",
+                "start": 24,
+                "url": "https://t.co/GQJX4J8eu4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.faryne.dev",
+                "end": 23,
+                "expanded_url": "https://blog.faryne.dev/",
+                "start": 0,
+                "url": "https://t.co/XLdY3G1DR4"
+              }
+            ]
+          }
+        },
+        "id": "3285391",
+        "is_identity_verified": false,
+        "location": "新北市樹林區",
+        "most_recent_tweet_id": "2089928655938166834",
+        "name": "Faryne Hsieh",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3285391/1721017366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1056409275399106560/XWtVxNp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 1713,
+          "like_count": 9205,
+          "listed_count": 17,
+          "media_count": 447,
+          "tweet_count": 11238
+        },
+        "url": "https://t.co/XLdY3G1DR4",
+        "username": "Faryne",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

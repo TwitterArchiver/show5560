@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2089946383214346240"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2089946400905904461",
+    "created_at": "2026-08-19T05:23:45.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089946400905904461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QD2m9iFRM9",
+          "end": 44,
+          "expanded_url": "https://x.com/show5560/status/2089946400905904461/photo/1",
+          "media_key": "16_2089946383214346240",
+          "start": 21,
+          "url": "https://t.co/QD2m9iFRM9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089946400905904461",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2089946383214346240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "七夕啊，就是从早上七点上班到夕阳落山啊😋 https://t.co/QD2m9iFRM9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2089946383214346240",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQD7KZsagAA-SNd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQD7KZsagAA-SNd.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089946383214346240"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2089946400905904461",
+        "created_at": "2026-08-19T05:23:45.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089946400905904461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QD2m9iFRM9",
+              "end": 44,
+              "expanded_url": "https://x.com/show5560/status/2089946400905904461/photo/1",
+              "media_key": "16_2089946383214346240",
+              "start": 21,
+              "url": "https://t.co/QD2m9iFRM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089946400905904461",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2089946383214346240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七夕啊，就是从早上七点上班到夕阳落山啊😋 https://t.co/QD2m9iFRM9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089946400905904461",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6453,
+          "following_count": 1725,
+          "like_count": 35388,
+          "listed_count": 17,
+          "media_count": 3111,
+          "tweet_count": 14267
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2085591770814160941",
+    "created_at": "2026-08-07T17:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085776078992503155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397093006805721089",
+          "start": 0,
+          "username": "WillandTom7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085776078992503155",
+    "in_reply_to_user_id": "1397093006805721089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085750025577959461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WillandTom7 阿巴阿巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2085591770814160941",
+        "created_at": "2026-08-07T17:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085776078992503155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397093006805721089",
+              "start": 0,
+              "username": "WillandTom7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085776078992503155",
+        "in_reply_to_user_id": "1397093006805721089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085750025577959461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WillandTom7 阿巴阿巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397093006805721089",
+        "conversation_id": "2085591770814160941",
+        "created_at": "2026-08-07T15:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085750025577959461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085750025577959461",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1437,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085591770814160941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 我看你是想去见他们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6019,
+          "following_count": 1732,
+          "like_count": 34030,
+          "listed_count": 16,
+          "media_count": 2844,
+          "tweet_count": 13139
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-25T07:31:52.000Z",
+        "description": "may peaceful light sun the world",
+        "id": "1397093006805721089",
+        "location": "Tokyo-to, Japan",
+        "name": "ナノカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085742241692168192/e4DgHIur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 4203,
+          "like_count": 510,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "WillandTom7",
+        "verified": true
+      }
+    ]
+  }
+}

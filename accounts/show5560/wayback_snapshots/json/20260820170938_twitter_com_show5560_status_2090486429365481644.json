@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2090397398107648414",
+    "created_at": "2026-08-20T17:09:38.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090486429365481644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090486429365481644",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090397398107648414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 我以为是肉菜（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090397383503032320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKVWEsasAAD4aq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2090397398107648414",
+        "created_at": "2026-08-20T17:09:38.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090486429365481644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090486429365481644",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090397398107648414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 我以为是肉菜（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090397383503032320"
+          ]
+        },
+        "author_id": "1900754238570893313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2090397398107648414",
+        "created_at": "2026-08-20T11:15:52.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090397398107648414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbvNlS8vaP",
+              "end": 67,
+              "expanded_url": "https://x.com/patchouli608/status/2090397398107648414/photo/1",
+              "media_key": "3_2090397383503032320",
+              "start": 44,
+              "url": "https://t.co/LbvNlS8vaP"
+            },
+            {
+              "display_url": "x.com/patchouli608/s…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/patchouli608/status/2090387396164780076",
+              "start": 68,
+              "url": "https://t.co/9lCjQQcmLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090397398107648414",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090397383503032320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090387396164780076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我丟雷漏某🤬🤬🤬  大冬瓜還放辣椒啊，我等著這菜解辣呢給我放一把辣椒。丟雷螺母臭hai https://t.co/LbvNlS8vaP https://t.co/9lCjQQcmLU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090486429365481644",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6535,
+          "following_count": 1720,
+          "like_count": 35631,
+          "listed_count": 17,
+          "media_count": 3146,
+          "tweet_count": 14442
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "個人推@belamcanda003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "belamcanda003"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wul.waseda.ac.jp/kotenseki/",
+                "end": 23,
+                "expanded_url": "https://www.wul.waseda.ac.jp/kotenseki/",
+                "start": 0,
+                "url": "https://t.co/fiocVHcxrH"
+              }
+            ]
+          }
+        },
+        "id": "1900754238570893313",
+        "is_identity_verified": true,
+        "location": "乾清宮昭仁殿天祿琳琅室",
+        "most_recent_tweet_id": "2090479409673408612",
+        "name": "佩觿",
+        "pinned_tweet_id": "2089753736134754587",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900754238570893313/1786159968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085940390306476032/Wh2xZ6LC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 219,
+          "like_count": 40814,
+          "listed_count": 2,
+          "media_count": 1441,
+          "tweet_count": 15934
+        },
+        "url": "https://t.co/fiocVHcxrH",
+        "username": "patchouli608",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

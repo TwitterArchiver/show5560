@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086068048822219133",
+    "created_at": "2026-08-08T12:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T13:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086069170475819012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086069170475819012",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086068048822219133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo 吃吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2086068045424857088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMz1bjXkAA28XT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086068048822219133",
+        "created_at": "2026-08-08T12:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086069170475819012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086069170475819012",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086068048822219133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 吃吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086068045424857088"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2086068048822219133",
+        "created_at": "2026-08-08T12:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086068048822219133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zU2Js3jIqI",
+              "end": 30,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/2086068048822219133/photo/1",
+              "media_key": "3_2086068045424857088",
+              "start": 7,
+              "url": "https://t.co/zU2Js3jIqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086068048822219133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃个菜豆🍵😋 https://t.co/zU2Js3jIqI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6035,
+          "following_count": 1731,
+          "like_count": 34094,
+          "listed_count": 16,
+          "media_count": 2864,
+          "tweet_count": 13197
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "不管是什么群体，喜欢我的人我都喜欢哦🥰",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "pinned_tweet_id": "2031186524331716777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083078391729618944/rxB1HsDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1013,
+          "like_count": 628574,
+          "listed_count": 6,
+          "media_count": 722,
+          "tweet_count": 50053
+        },
+        "url": "",
+        "username": "hhjnjkoguyunmo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2084142216252146169",
+    "created_at": "2026-08-04T04:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084500288249978896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060032916189773824",
+          "start": 0,
+          "username": "WuCanObject"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084500288249978896",
+    "in_reply_to_user_id": "2060032916189773824",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084424384920555651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WuCanObject 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2084142216252146169",
+        "created_at": "2026-08-04T04:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084500288249978896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060032916189773824",
+              "start": 0,
+              "username": "WuCanObject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084500288249978896",
+        "in_reply_to_user_id": "2060032916189773824",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084424384920555651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WuCanObject 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060032916189773824",
+        "conversation_id": "2084142216252146169",
+        "created_at": "2026-08-03T23:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084424384920555651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084424384920555651",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084142216252146169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 铀麻děi（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5910,
+          "following_count": 1735,
+          "like_count": 33603,
+          "listed_count": 14,
+          "media_count": 2759,
+          "tweet_count": 12745
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-28T16:18:44.000Z",
+        "description": "互联网流浪中 男生 快成年了～\n你对我好，我会偷偷开心很久！\n我不太会说话\n但我可以陪你，只要你不嫌我烦…TWT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/1aQOKqN89K"
+              }
+            ]
+          }
+        },
+        "id": "2060032916189773824",
+        "location": "初次见面之时",
+        "name": "残物",
+        "pinned_tweet_id": "2073083150629273965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068370798197542912/sc9ToXJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 871,
+          "like_count": 7184,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/1aQOKqN89K",
+        "username": "WuCanObject",
+        "verified": true
+      }
+    ]
+  }
+}

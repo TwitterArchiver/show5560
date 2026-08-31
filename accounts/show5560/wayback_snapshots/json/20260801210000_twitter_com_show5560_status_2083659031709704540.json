@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083186939839324160"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083659031709704540",
+    "created_at": "2026-08-01T21:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083659031709704540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NZl7PNeewz",
+          "end": 26,
+          "expanded_url": "https://x.com/show5560/status/2083659031709704540/photo/1",
+          "media_key": "3_2083186939839324160",
+          "start": 3,
+          "url": "https://t.co/NZl7PNeewz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083659031709704540",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🥰🥰 https://t.co/NZl7PNeewz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2083186939839324160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj3fA3bIAArB-9.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083186939839324160"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083659031709704540",
+        "created_at": "2026-08-01T21:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083659031709704540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZl7PNeewz",
+              "end": 26,
+              "expanded_url": "https://x.com/show5560/status/2083659031709704540/photo/1",
+              "media_key": "3_2083186939839324160",
+              "start": 3,
+              "url": "https://t.co/NZl7PNeewz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083659031709704540",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥰🥰 https://t.co/NZl7PNeewz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5528,
+          "following_count": 1734,
+          "like_count": 33331,
+          "listed_count": 14,
+          "media_count": 2704,
+          "tweet_count": 12506
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

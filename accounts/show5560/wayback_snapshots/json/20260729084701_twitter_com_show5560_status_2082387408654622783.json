@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2082317723179343881",
+    "created_at": "2026-07-29T08:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082387408654622783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082387408654622783",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082317723179343881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 会在里面洗澡吧？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2082317714044133376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXg7acaoAAQH83.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2082317723179343881",
+        "created_at": "2026-07-29T08:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082387408654622783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082387408654622783",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082317723179343881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 会在里面洗澡吧？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082317714044133376"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2082317723179343881",
+        "created_at": "2026-07-29T04:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082317723179343881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XcvFDNZm6",
+              "end": 36,
+              "expanded_url": "https://x.com/codyhunk/status/2082317723179343881/photo/1",
+              "media_key": "3_2082317714044133376",
+              "start": 13,
+              "url": "https://t.co/7XcvFDNZm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082317723179343881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4315,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么大车司机禁止使用？ https://t.co/7XcvFDNZm6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5405,
+          "following_count": 1733,
+          "like_count": 32840,
+          "listed_count": 14,
+          "media_count": 2619,
+          "tweet_count": 12118
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15031,
+          "following_count": 1123,
+          "like_count": 25137,
+          "listed_count": 46,
+          "media_count": 7114,
+          "tweet_count": 10596
+        },
+        "url": "",
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2093921632331108771",
+    "created_at": "2026-08-30T05:10:02.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093929212768133479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093929212768133479",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093921632331108771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093921611506499585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8anJFbwAEwIO7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093921611514814464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8anJHaoAASBhf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093921611514847232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8anJHbIAA-Gk4.jpg",
+        "width": 943
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093921611527417856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8anJKa8AAKlFY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2093921632331108771",
+        "created_at": "2026-08-30T05:10:02.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093929212768133479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093929212768133479",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921632331108771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093921611506499585",
+            "3_2093921611514814464",
+            "3_2093921611514847232",
+            "3_2093921611527417856"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093921632331108771",
+        "created_at": "2026-08-30T04:39:54.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093921632331108771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jldePzkyf",
+              "end": 30,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093921632331108771/photo/1",
+              "media_key": "3_2093921611506499585",
+              "start": 7,
+              "url": "https://t.co/3jldePzkyf"
+            },
+            {
+              "display_url": "pic.x.com/3jldePzkyf",
+              "end": 30,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093921632331108771/photo/1",
+              "media_key": "3_2093921611514814464",
+              "start": 7,
+              "url": "https://t.co/3jldePzkyf"
+            },
+            {
+              "display_url": "pic.x.com/3jldePzkyf",
+              "end": 30,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093921632331108771/photo/1",
+              "media_key": "3_2093921611514847232",
+              "start": 7,
+              "url": "https://t.co/3jldePzkyf"
+            },
+            {
+              "display_url": "pic.x.com/3jldePzkyf",
+              "end": 30,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2093921632331108771/photo/1",
+              "media_key": "3_2093921611527417856",
+              "start": 7,
+              "url": "https://t.co/3jldePzkyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093921632331108771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093921611506499585"
+          },
+          {
+            "media_key": "3_2093921611514814464"
+          },
+          {
+            "media_key": "3_2093921611514847232"
+          },
+          {
+            "media_key": "3_2093921611527417856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来博物馆玩吗 https://t.co/3jldePzkyf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093929212768133479",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6821,
+          "following_count": 1722,
+          "like_count": 36925,
+          "listed_count": 17,
+          "media_count": 3378,
+          "tweet_count": 15467
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2093921632331108771",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4776,
+          "following_count": 1308,
+          "like_count": 8150,
+          "listed_count": 6,
+          "media_count": 765,
+          "tweet_count": 1988
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

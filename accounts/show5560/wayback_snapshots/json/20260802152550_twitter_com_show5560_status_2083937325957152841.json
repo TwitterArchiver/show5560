@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2083821123364643170",
+    "created_at": "2026-08-02T15:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083937325957152841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417020458801799170",
+          "start": 0,
+          "username": "UmiNeko11101010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083937325957152841",
+    "in_reply_to_user_id": "1417020458801799170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083821123364643170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UmiNeko11101010 偷偷拿走一个吃掉😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2083821088551972864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs4PU6bsAA6ACk.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2083821107099074560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs4QaAaAAAv7Nj.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2083821123364643170",
+        "created_at": "2026-08-02T15:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083937325957152841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417020458801799170",
+              "start": 0,
+              "username": "UmiNeko11101010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083937325957152841",
+        "in_reply_to_user_id": "1417020458801799170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083821123364643170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UmiNeko11101010 偷偷拿走一个吃掉😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083821088551972864",
+            "3_2083821107099074560"
+          ]
+        },
+        "author_id": "1417020458801799170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083821123364643170",
+        "created_at": "2026-08-02T07:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083821123364643170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkJ9IAySCe",
+              "end": 28,
+              "expanded_url": "https://x.com/UmiNeko11101010/status/2083821123364643170/photo/1",
+              "media_key": "3_2083821088551972864",
+              "start": 5,
+              "url": "https://t.co/pkJ9IAySCe"
+            },
+            {
+              "display_url": "pic.x.com/pkJ9IAySCe",
+              "end": 28,
+              "expanded_url": "https://x.com/UmiNeko11101010/status/2083821123364643170/photo/1",
+              "media_key": "3_2083821107099074560",
+              "start": 5,
+              "url": "https://t.co/pkJ9IAySCe"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "f32ffab5e32c689b"
+        },
+        "id": "2083821123364643170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃个豆包 https://t.co/pkJ9IAySCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5829,
+          "following_count": 1735,
+          "like_count": 33425,
+          "listed_count": 14,
+          "media_count": 2722,
+          "tweet_count": 12587
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T07:16:28.000Z",
+        "description": "平平无奇的开卡店的。\n同时也是小说作者，个人投资者，旅行者。\n卡店在 https://t.co/G738UDU6DM\n随机回关。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maps.app.goo.gl/wBuqVyeLPG4y3C…",
+                "end": 58,
+                "expanded_url": "https://maps.app.goo.gl/wBuqVyeLPG4y3C9ZA",
+                "start": 35,
+                "url": "https://t.co/G738UDU6DM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellacards.base.shop",
+                "end": 23,
+                "expanded_url": "https://stellacards.base.shop/",
+                "start": 0,
+                "url": "https://t.co/f8oz3UFVI4"
+              }
+            ]
+          }
+        },
+        "id": "1417020458801799170",
+        "location": "大阪市北区天神桥三丁目5-9 スタートレカ",
+        "name": "浮世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813055870504476674/e3JN8Yi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6777,
+          "following_count": 966,
+          "like_count": 250409,
+          "listed_count": 38,
+          "media_count": 5310,
+          "tweet_count": 28461
+        },
+        "url": "https://t.co/f8oz3UFVI4",
+        "username": "UmiNeko11101010",
+        "verified": true
+      }
+    ]
+  }
+}

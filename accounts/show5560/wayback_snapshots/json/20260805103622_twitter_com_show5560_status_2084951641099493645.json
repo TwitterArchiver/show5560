@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2084927401272983559",
+    "created_at": "2026-08-05T10:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084951641099493645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004949131450867712",
+          "start": 0,
+          "username": "xersy37737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084951641099493645",
+    "in_reply_to_user_id": "2004949131450867712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084941923555365314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xersy37737 还真是）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2084927401272983559",
+        "created_at": "2026-08-05T10:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084951641099493645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004949131450867712",
+              "start": 0,
+              "username": "xersy37737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084951641099493645",
+        "in_reply_to_user_id": "2004949131450867712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084941923555365314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xersy37737 还真是）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004949131450867712",
+        "conversation_id": "2084927401272983559",
+        "created_at": "2026-08-05T09:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084941923555365314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084941923555365314",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084927401272983559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 败在太有文化了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5964,
+          "following_count": 1735,
+          "like_count": 33731,
+          "listed_count": 16,
+          "media_count": 2789,
+          "tweet_count": 12879
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "只是一个苦逼的CS学生……\n早知道不学计算机了喵",
+        "id": "2004949131450867712",
+        "location": "数据层",
+        "name": "Xersy​",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668106528681985/cTBHzgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 50,
+          "like_count": 2893,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 1773
+        },
+        "url": "",
+        "username": "xersy37737",
+        "verified": true
+      }
+    ]
+  }
+}

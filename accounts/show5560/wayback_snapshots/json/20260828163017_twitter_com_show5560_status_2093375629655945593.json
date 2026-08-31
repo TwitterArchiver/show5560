@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2093068848983605709",
+    "created_at": "2026-08-28T16:30:17.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T17:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093375629655945593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093375629655945593",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093068848983605709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimao 现在一堆刺客🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093068836887269376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwTBIEbEAAkTkD.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2093068836614676480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwTBHDboAAjgeo.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2093068848983605709",
+        "created_at": "2026-08-28T16:30:17.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T17:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093375629655945593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093375629655945593",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093068848983605709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 现在一堆刺客🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093068836887269376",
+            "3_2093068836614676480"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093068848983605709",
+        "created_at": "2026-08-27T20:11:15.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093068848983605709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jzptusoVl0",
+              "end": 28,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2093068848983605709/photo/1",
+              "media_key": "3_2093068836887269376",
+              "start": 5,
+              "url": "https://t.co/jzptusoVl0"
+            },
+            {
+              "display_url": "pic.x.com/jzptusoVl0",
+              "end": 28,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2093068848983605709/photo/1",
+              "media_key": "3_2093068836614676480",
+              "start": 5,
+              "url": "https://t.co/jzptusoVl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093068848983605709",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093068836887269376"
+          },
+          {
+            "media_key": "3_2093068836614676480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冰棍好贵 https://t.co/jzptusoVl0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093375629655945593",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6765,
+          "following_count": 1719,
+          "like_count": 36725,
+          "listed_count": 17,
+          "media_count": 3343,
+          "tweet_count": 15311
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2093373505719119896",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 994,
+          "like_count": 274,
+          "listed_count": 25,
+          "media_count": 3641,
+          "tweet_count": 16584
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

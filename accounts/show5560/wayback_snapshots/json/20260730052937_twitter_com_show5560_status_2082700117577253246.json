@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2082610354048450836",
+    "created_at": "2026-07-30T05:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082700117577253246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082700117577253246",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082610354048450836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 还真是这样，说的很有道理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2082610343445204992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObrEr6bEAArTCT.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2082610354048450836",
+        "created_at": "2026-07-30T05:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082700117577253246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082700117577253246",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082610354048450836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 还真是这样，说的很有道理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082610343445204992"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2082610354048450836",
+        "created_at": "2026-07-29T23:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T00:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082610354048450836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wU7uQLOznx",
+              "end": 40,
+              "expanded_url": "https://x.com/jianlvup/status/2082610354048450836/photo/1",
+              "media_key": "3_2082610343445204992",
+              "start": 17,
+              "url": "https://t.co/wU7uQLOznx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082610354048450836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 683,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坚持油车的原因是什么？你赞同吗？ https://t.co/wU7uQLOznx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5412,
+          "following_count": 1732,
+          "like_count": 32963,
+          "listed_count": 14,
+          "media_count": 2640,
+          "tweet_count": 12203
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2081222486172299747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19605,
+          "following_count": 1586,
+          "like_count": 88204,
+          "listed_count": 67,
+          "media_count": 3928,
+          "tweet_count": 7596
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

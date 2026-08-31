@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091218531312635904"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2091299378426527900",
+    "created_at": "2026-08-22T23:00:00.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T00:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091299378426527900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DYRuOhJPF7",
+          "end": 43,
+          "expanded_url": "https://x.com/show5560/status/2091299378426527900/photo/1",
+          "media_key": "3_2091218531312635904",
+          "start": 20,
+          "url": "https://t.co/DYRuOhJPF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091299378426527900",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091218531312635904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么，欧洲人祖宗也收钱拍拼多多广告了😰 https://t.co/DYRuOhJPF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_2091218531312635904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWALKqakAAQLw4.png",
+        "width": 489
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091218531312635904"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2091299378426527900",
+        "created_at": "2026-08-22T23:00:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091299378426527900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYRuOhJPF7",
+              "end": 43,
+              "expanded_url": "https://x.com/show5560/status/2091299378426527900/photo/1",
+              "media_key": "3_2091218531312635904",
+              "start": 20,
+              "url": "https://t.co/DYRuOhJPF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091299378426527900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091218531312635904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么，欧洲人祖宗也收钱拍拼多多广告了😰 https://t.co/DYRuOhJPF7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091299378426527900",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6660,
+          "following_count": 1723,
+          "like_count": 35909,
+          "listed_count": 17,
+          "media_count": 3201,
+          "tweet_count": 14691
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

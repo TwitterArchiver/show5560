@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2092435207429472525",
+    "created_at": "2026-08-26T08:01:32.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092522821456990299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821415705159647232",
+          "start": 0,
+          "username": "tradingnekko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092522821456990299",
+    "in_reply_to_user_id": "1821415705159647232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092435207429472525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tradingnekko 不是看不起🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2092435207429472525",
+        "created_at": "2026-08-26T08:01:32.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092522821456990299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821415705159647232",
+              "start": 0,
+              "username": "tradingnekko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092522821456990299",
+        "in_reply_to_user_id": "1821415705159647232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092435207429472525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tradingnekko 不是看不起🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821415705159647232",
+        "conversation_id": "2092435207429472525",
+        "created_at": "2026-08-26T02:13:23.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092435207429472525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/show5560/status/2092356347454972270",
+              "start": 22,
+              "url": "https://t.co/M9adYn1aZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092435207429472525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092356347454972270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每个人家里情况不同，不要看不起人家开宝马的 https://t.co/M9adYn1aZd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092522821456990299",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6701,
+          "following_count": 1720,
+          "like_count": 36317,
+          "listed_count": 17,
+          "media_count": 3284,
+          "tweet_count": 15019
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-08T05:18:52.000Z",
+        "description": "混乱中立 | 交易界的小学生 | stay young stay simple (and sometimes naive)",
+        "id": "1821415705159647232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092435207429472525",
+        "name": "猫猫的trading时间(chaotic ver",
+        "pinned_tweet_id": "1998313620338590114",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078259580262588417/E4b8yYBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 305,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "tradingnekko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

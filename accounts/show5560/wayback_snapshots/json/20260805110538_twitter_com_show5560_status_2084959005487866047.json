@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2084946367693078667",
+    "created_at": "2026-08-05T11:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084959005487866047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542148580143763456",
+          "start": 0,
+          "username": "migemi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084959005487866047",
+    "in_reply_to_user_id": "1542148580143763456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084946367693078667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@migemi5 可爱捏🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17024,
+        "height": 720,
+        "media_key": "13_2084946273749049344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084946273749049344/img/NJzTx5K4OVcQs13Q.jpg",
+        "public_metrics": {
+          "view_count": 50
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084946273749049344/vid/avc1/480x270/_jSC5_iQSXVlNsdI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084946273749049344/vid/avc1/640x360/89SGbDfNbVFIScuV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084946273749049344/vid/avc1/1280x720/9Gtbf6RiR_l-Wh-h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084946273749049344/pl/w4Ojg4PvRfeW1SUA.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2084946367693078667",
+        "created_at": "2026-08-05T11:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084959005487866047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542148580143763456",
+              "start": 0,
+              "username": "migemi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084959005487866047",
+        "in_reply_to_user_id": "1542148580143763456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084946367693078667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@migemi5 可爱捏🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084946273749049344"
+          ]
+        },
+        "author_id": "1542148580143763456",
+        "conversation_id": "2084946367693078667",
+        "created_at": "2026-08-05T10:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084946367693078667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QE0bb2iGq8",
+              "end": 32,
+              "expanded_url": "https://x.com/migemi5/status/2084946367693078667/video/1",
+              "media_key": "13_2084946273749049344",
+              "start": 9,
+              "url": "https://t.co/QE0bb2iGq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084946367693078667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "库存😚😚 #伪娘 https://t.co/QE0bb2iGq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 1735,
+          "like_count": 33785,
+          "listed_count": 16,
+          "media_count": 2790,
+          "tweet_count": 12928
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-29T14:11:07.000Z",
+        "description": "04男娘喵😘清水（大概吧🤔）不网恋不喜欢文爱拒绝聊🔥  \n一般出c的时候会在上海刷新\n不接圆椒不出○卫",
+        "id": "1542148580143763456",
+        "name": "migemi",
+        "pinned_tweet_id": "2026145035629351184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851289597374083072/G2hkeqBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 193,
+          "like_count": 34,
+          "listed_count": 6,
+          "media_count": 169,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "migemi5",
+        "verified": false
+      }
+    ]
+  }
+}

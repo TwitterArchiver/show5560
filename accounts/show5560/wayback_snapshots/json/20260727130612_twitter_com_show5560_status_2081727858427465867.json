@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2081624536873685502",
+    "created_at": "2026-07-27T13:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081727858427465867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081727858427465867",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081624536873685502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3084,
+        "media_key": "3_2081624521065500672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONqeRXaEAAQZ2E.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2081624536873685502",
+        "created_at": "2026-07-27T13:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081727858427465867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081727858427465867",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081624536873685502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081624521065500672"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "conversation_id": "2081624536873685502",
+        "created_at": "2026-07-27T06:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081624536873685502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ghac81JXEh",
+              "end": 70,
+              "expanded_url": "https://x.com/tangeorange/status/2081624536873685502/photo/1",
+              "media_key": "3_2081624521065500672",
+              "start": 47,
+              "url": "https://t.co/Ghac81JXEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081624536873685502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1624,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我花了两个小时坐地铁坐公交来你这个位置那么偏的派出所还告诉我我手机电脑我还暂时领不到？wtf https://t.co/Ghac81JXEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5329,
+          "following_count": 1734,
+          "like_count": 32664,
+          "listed_count": 14,
+          "media_count": 2576,
+          "tweet_count": 11936
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "ai, and life.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2080144271894876640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3362,
+          "following_count": 2891,
+          "like_count": 9256,
+          "listed_count": 5,
+          "media_count": 1453,
+          "tweet_count": 9291
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

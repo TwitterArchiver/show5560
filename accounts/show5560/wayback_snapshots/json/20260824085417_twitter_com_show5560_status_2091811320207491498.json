@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2091580484077904373",
+    "created_at": "2026-08-24T08:54:17.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T09:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091811320207491498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091811320207491498",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091580484077904373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 我也想吃🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2091580464981286912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQbJWepbIAA-j5j.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091580465018986497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQbJWeyaYAEY3_S.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2091580484077904373",
+        "created_at": "2026-08-24T08:54:17.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091811320207491498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091811320207491498",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091580484077904373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 我也想吃🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091580464981286912",
+            "3_2091580465018986497"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091580484077904373",
+        "created_at": "2026-08-23T17:37:01.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091580484077904373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vBzY7yOLfW",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2091580484077904373/photo/1",
+              "media_key": "3_2091580464981286912",
+              "start": 10,
+              "url": "https://t.co/vBzY7yOLfW"
+            },
+            {
+              "display_url": "pic.x.com/vBzY7yOLfW",
+              "end": 33,
+              "expanded_url": "https://x.com/qianxunchan/status/2091580484077904373/photo/1",
+              "media_key": "3_2091580465018986497",
+              "start": 10,
+              "url": "https://t.co/vBzY7yOLfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091580484077904373",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091580464981286912"
+          },
+          {
+            "media_key": "3_2091580465018986497"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是热狗早餐咪😋 https://t.co/vBzY7yOLfW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091811320207491498",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6666,
+          "following_count": 1722,
+          "like_count": 36052,
+          "listed_count": 17,
+          "media_count": 3236,
+          "tweet_count": 14826
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2091796523197907030",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 1206,
+          "like_count": 8711,
+          "listed_count": 10,
+          "media_count": 1025,
+          "tweet_count": 4069
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

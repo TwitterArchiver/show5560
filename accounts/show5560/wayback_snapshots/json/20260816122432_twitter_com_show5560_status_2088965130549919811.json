@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2088768122433978376",
+    "created_at": "2026-08-16T12:24:32.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088965130549919811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088965130549919811",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088768122433978376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 已经有代入感了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088768117384118272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzLiTbXgAA28nO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088768117535039488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzLiT_WYAArs-K.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2088768122433978376",
+        "created_at": "2026-08-16T12:24:32.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088965130549919811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088965130549919811",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088768122433978376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 已经有代入感了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088768117384118272",
+            "3_2088768117535039488"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2088768122433978376",
+        "created_at": "2026-08-15T23:21:42.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T00:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088768122433978376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/smQUvYpdJV",
+              "end": 33,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2088768122433978376/photo/1",
+              "media_key": "3_2088768117384118272",
+              "start": 10,
+              "url": "https://t.co/smQUvYpdJV"
+            },
+            {
+              "display_url": "pic.x.com/smQUvYpdJV",
+              "end": 33,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2088768122433978376/photo/1",
+              "media_key": "3_2088768117535039488",
+              "start": 10,
+              "url": "https://t.co/smQUvYpdJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088768122433978376",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088768117384118272"
+          },
+          {
+            "media_key": "3_2088768117535039488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2249,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "像不像发火的班主任 https://t.co/smQUvYpdJV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088965130549919811",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6396,
+          "following_count": 1725,
+          "like_count": 35038,
+          "listed_count": 18,
+          "media_count": 3040,
+          "tweet_count": 14018
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088861001542218094",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8118,
+          "following_count": 1203,
+          "like_count": 7614,
+          "listed_count": 12,
+          "media_count": 364,
+          "tweet_count": 4244
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

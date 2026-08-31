@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2086456638622556254",
+    "created_at": "2026-08-09T14:19:07.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086457248751247713"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086457248751247713",
+    "in_reply_to_user_id": "1465701247021838341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086456638622556254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "丸辣，字打反了，是grok🥺\n我没文化，不要怪我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_2086456612915752960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSVPCQbsAAyYM-.jpg",
+        "width": 864
+      },
+      {
+        "height": 2164,
+        "media_key": "3_2086456621165957120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSVPg_b0AA1C6n.jpg",
+        "width": 1712
+      },
+      {
+        "height": 2168,
+        "media_key": "3_2086456630594654208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSVQEHaUAAZNV6.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2086456638622556254",
+        "created_at": "2026-08-09T14:19:07.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086457248751247713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086457248751247713",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086456638622556254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "丸辣，字打反了，是grok🥺\n我没文化，不要怪我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086456612915752960",
+            "3_2086456621165957120",
+            "3_2086456630594654208"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086456638622556254",
+        "created_at": "2026-08-09T14:16:41.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086456638622556254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPir1ynkVM",
+              "end": 103,
+              "expanded_url": "https://x.com/show5560/status/2086456638622556254/photo/1",
+              "media_key": "3_2086456612915752960",
+              "start": 80,
+              "url": "https://t.co/uPir1ynkVM"
+            },
+            {
+              "display_url": "pic.x.com/uPir1ynkVM",
+              "end": 103,
+              "expanded_url": "https://x.com/show5560/status/2086456638622556254/photo/1",
+              "media_key": "3_2086456621165957120",
+              "start": 80,
+              "url": "https://t.co/uPir1ynkVM"
+            },
+            {
+              "display_url": "pic.x.com/uPir1ynkVM",
+              "end": 103,
+              "expanded_url": "https://x.com/show5560/status/2086456638622556254/photo/1",
+              "media_key": "3_2086456630594654208",
+              "start": 80,
+              "url": "https://t.co/uPir1ynkVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086456638622556254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086456612915752960"
+          },
+          {
+            "media_key": "3_2086456621165957120"
+          },
+          {
+            "media_key": "3_2086456630594654208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结束了一天的cd，好累\n我去了两天呐🥺\n给你们看看我的自拍\n角色:食指唐\n游戏:边狱巴士\n希望大家喜欢🥰\nps:我一定要把gork给我说的什么自称男娘给改掉😠 https://t.co/uPir1ynkVM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086457248751247713",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2086456638622556254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6086,
+          "following_count": 1730,
+          "like_count": 34227,
+          "listed_count": 16,
+          "media_count": 2891,
+          "tweet_count": 13309
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

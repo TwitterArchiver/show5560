@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2089892919817990312",
+    "created_at": "2026-08-19T16:00:11.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090106563633770591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090106563633770591",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090100993178648983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 化妆都挺难的😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090100993178648983].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090100993178648983",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090100993178648983"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2089892919817990312",
+        "created_at": "2026-08-19T16:00:11.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090106563633770591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090106563633770591",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090100993178648983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 化妆都挺难的😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090106563633770591",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6499,
+          "following_count": 1721,
+          "like_count": 35468,
+          "listed_count": 17,
+          "media_count": 3121,
+          "tweet_count": 14326
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "🚪岁月教人沉静自爱。",
+        "id": "1739391734491086848",
+        "is_identity_verified": false,
+        "location": "辽宁省",
+        "most_recent_tweet_id": "2090063405675868372",
+        "name": "𝑳𝒂",
+        "pinned_tweet_id": "2090070899143979157",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739391734491086848/1785752941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7849,
+          "following_count": 4510,
+          "like_count": 44601,
+          "listed_count": 19,
+          "media_count": 3281,
+          "tweet_count": 44221
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086299752057184424",
+    "created_at": "2026-08-09T18:13:33.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086516246011662438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "Ayano_Nya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086516246011662438",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086299752057184424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayano_Nya_ 羡慕哩，老大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086299752057184424",
+        "created_at": "2026-08-09T18:13:33.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086516246011662438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "Ayano_Nya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086516246011662438",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086299752057184424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayano_Nya_ 羡慕哩，老大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "2086299752057184424",
+        "created_at": "2026-08-09T03:53:17.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086299752057184424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kisaragi_momoe…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kisaragi_momoe/status/2086299656552939982",
+              "start": 3,
+              "url": "https://t.co/cO1qvJH5Ta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086299752057184424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 775,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086299656552939982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯呐 https://t.co/cO1qvJH5Ta"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086516246011662438",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2086456638622556254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6092,
+          "following_count": 1729,
+          "like_count": 34276,
+          "listed_count": 16,
+          "media_count": 2895,
+          "tweet_count": 13361
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️| 2010.5 | 跨圈老资历😇 | 欢迎互fo! | 粘人 | xp是如月桃枝😋 | 全世界最可爱之人&唯一最爱最喜欢的姐姐老婆大人♥️@Kisaragi_Momoe | 负能里推@Yumo_1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5YyzgB"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "is_identity_verified": false,
+        "location": "姐姐腿上",
+        "most_recent_tweet_id": "2086471551533375719",
+        "name": "想去参宿四的绫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693935285577670656/1785082481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085817931502698496/I8EWzB1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 2433,
+          "like_count": 8848,
+          "listed_count": 7,
+          "media_count": 795,
+          "tweet_count": 9027
+        },
+        "url": "https://t.co/1HZl5YyzgB",
+        "username": "Ayano_Nya_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

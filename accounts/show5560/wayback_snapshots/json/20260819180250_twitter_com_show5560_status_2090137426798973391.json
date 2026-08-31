@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2090127060270449098",
+    "created_at": "2026-08-19T18:02:50.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090137426798973391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090137426798973391",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090127060270449098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 这么贵？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2090127054188793856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGfe1hbUAAXH4y.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2090127060270449098",
+        "created_at": "2026-08-19T18:02:50.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090137426798973391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090137426798973391",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090127060270449098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 这么贵？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090127054188793856"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090127060270449098",
+        "created_at": "2026-08-19T17:21:38.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090127060270449098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEabhWvH3W",
+              "end": 82,
+              "expanded_url": "https://x.com/qianxunchan/status/2090127060270449098/photo/1",
+              "media_key": "3_2090127054188793856",
+              "start": 59,
+              "url": "https://t.co/hEabhWvH3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090127060270449098",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090127054188793856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "外面卖应该要 20 刀起步了\n在千寻酱这里，不要 10，不要 5 刀😝\n\n你可以免费吃喵😋\n只需要说一声谢谢千寻酱🥺 https://t.co/hEabhWvH3W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090137426798973391",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6505,
+          "following_count": 1721,
+          "like_count": 35508,
+          "listed_count": 17,
+          "media_count": 3123,
+          "tweet_count": 14354
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2090131296823681169",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 1195,
+          "like_count": 8636,
+          "listed_count": 9,
+          "media_count": 1009,
+          "tweet_count": 3948
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

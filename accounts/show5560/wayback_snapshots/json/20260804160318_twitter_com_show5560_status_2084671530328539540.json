@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2084293214622601317",
+    "created_at": "2026-08-04T16:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084671530328539540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1476558860278444035",
+          "start": 0,
+          "username": "KBayeah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084671530328539540",
+    "in_reply_to_user_id": "1476558860278444035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084670301829509189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBayeah 不懂🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2084293214622601317",
+        "created_at": "2026-08-04T16:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084671530328539540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1476558860278444035",
+              "start": 0,
+              "username": "KBayeah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084671530328539540",
+        "in_reply_to_user_id": "1476558860278444035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084670301829509189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBayeah 不懂🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476558860278444035",
+        "conversation_id": "2084293214622601317",
+        "created_at": "2026-08-04T15:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084670301829509189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084670301829509189",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084293214622601317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 每天看完啥？ 裸體嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 1736,
+          "like_count": 33667,
+          "listed_count": 14,
+          "media_count": 2771,
+          "tweet_count": 12819
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T14:21:17.000Z",
+        "description": "∞",
+        "id": "1476558860278444035",
+        "name": "Cowbayeah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476559018957361153/heBjeiS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 139,
+          "like_count": 13610,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1621
+        },
+        "url": "",
+        "username": "KBayeah",
+        "verified": true
+      }
+    ]
+  }
+}

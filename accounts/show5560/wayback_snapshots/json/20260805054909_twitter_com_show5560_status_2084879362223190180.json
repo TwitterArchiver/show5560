@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2084857818260316576",
+    "created_at": "2026-08-05T05:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084879362223190180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1039728538482606085",
+          "start": 0,
+          "username": "imnotrealray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084879362223190180",
+    "in_reply_to_user_id": "1039728538482606085",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084857818260316576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotrealray 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2084857818260316576",
+        "created_at": "2026-08-05T05:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084879362223190180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1039728538482606085",
+              "start": 0,
+              "username": "imnotrealray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084879362223190180",
+        "in_reply_to_user_id": "1039728538482606085",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084857818260316576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotrealray 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1039728538482606085",
+        "conversation_id": "2084857818260316576",
+        "created_at": "2026-08-05T04:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084857818260316576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/show5560/status/2084534802175111290",
+              "start": 10,
+              "url": "https://t.co/DSAGxUtAI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084857818260316576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084534802175111290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你不许讲计算机笑话 https://t.co/DSAGxUtAI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5961,
+          "following_count": 1735,
+          "like_count": 33693,
+          "listed_count": 16,
+          "media_count": 2784,
+          "tweet_count": 12852
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-12T04:12:55.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈 | she/her if needed | 其实是一只兔兔 | 分享一些生活 | daily life",
+        "id": "1039728538482606085",
+        "location": "Rabbit Lake, Saskatchewan",
+        "name": "Ray_the_Rabbit🎐💐",
+        "pinned_tweet_id": "2008365279672496608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058817471768109056/MsNPyrxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 333,
+          "like_count": 58856,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 1606
+        },
+        "url": "",
+        "username": "imnotrealray",
+        "verified": true
+      }
+    ]
+  }
+}

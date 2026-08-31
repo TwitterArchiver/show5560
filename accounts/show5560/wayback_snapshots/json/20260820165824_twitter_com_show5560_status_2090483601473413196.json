@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2090281692640805074",
+    "created_at": "2026-08-20T16:58:24.000Z",
+    "display_text_range": [
+      22,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090483601473413196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        },
+        {
+          "end": 21,
+          "id": "1915622690653954048",
+          "start": 12,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090483601473413196",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090281692640805074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@LanziiLove @dexy0306 好诶，99！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090281683211919360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIsHbhaIAAucMK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2090281692640805074",
+        "created_at": "2026-08-20T16:58:24.000Z",
+        "display_text_range": [
+          22,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090483601473413196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090483601473413196",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090281692640805074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove @dexy0306 好诶，99！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090281683211919360"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090281692640805074",
+        "created_at": "2026-08-20T03:36:05.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T04:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090281692640805074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1915622690653954048",
+              "start": 8,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJi0mOMlrD",
+              "end": 41,
+              "expanded_url": "https://x.com/LanziiLove/status/2090281692640805074/photo/1",
+              "media_key": "3_2090281683211919360",
+              "start": 18,
+              "url": "https://t.co/WJi0mOMlrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090281692640805074",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090281683211919360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7358,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我们七夕的礼物🎁@dexy0306 https://t.co/WJi0mOMlrD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090483601473413196",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6534,
+          "following_count": 1720,
+          "like_count": 35627,
+          "listed_count": 17,
+          "media_count": 3145,
+          "tweet_count": 14438
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时结婚｜常驻成都 大三计科 摆烂老登｜高P丑逼 ｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 108,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 85,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2090364575044751667",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30450,
+          "following_count": 1633,
+          "like_count": 3863,
+          "listed_count": 88,
+          "media_count": 537,
+          "tweet_count": 3458
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "is_identity_verified": false,
+        "location": "小雫的心里",
+        "most_recent_tweet_id": "2090291099458011496",
+        "name": "Dexy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915622690653954048/1745556774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087901715089838080/_V-Qqhsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 9,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

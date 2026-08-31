@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2088838250526093350",
+    "created_at": "2026-08-16T14:30:32.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088996838582185997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088996838582185997",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088838250526093350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko 依旧秃头fufu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088838243202850817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0LUKdbYAEbhDo.jpg",
+        "width": 1404
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088838243194392576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0LUKbaUAANPc-.jpg",
+        "width": 1404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2088838250526093350",
+        "created_at": "2026-08-16T14:30:32.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088996838582185997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088996838582185997",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088838250526093350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko 依旧秃头fufu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088838243202850817",
+            "3_2088838243194392576"
+          ]
+        },
+        "author_id": "1356940397956620288",
+        "conversation_id": "2088838250526093350",
+        "created_at": "2026-08-16T04:00:22.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088838250526093350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onTKRSgRuQ",
+              "end": 28,
+              "expanded_url": "https://x.com/NyaCookieNeko/status/2088838250526093350/photo/1",
+              "media_key": "3_2088838243202850817",
+              "start": 5,
+              "url": "https://t.co/onTKRSgRuQ"
+            },
+            {
+              "display_url": "pic.x.com/onTKRSgRuQ",
+              "end": 28,
+              "expanded_url": "https://x.com/NyaCookieNeko/status/2088838250526093350/photo/1",
+              "media_key": "3_2088838243194392576",
+              "start": 5,
+              "url": "https://t.co/onTKRSgRuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088838250526093350",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088838243202850817"
+          },
+          {
+            "media_key": "3_2088838243194392576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧掀开 https://t.co/onTKRSgRuQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088996838582185997",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6399,
+          "following_count": 1725,
+          "like_count": 35125,
+          "listed_count": 18,
+          "media_count": 3043,
+          "tweet_count": 14066
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜有两只小黑猫，一只叫多多，一只叫@CatherinaMeow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "CatherinaMeow"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "is_identity_verified": false,
+        "location": "Shijiazhuang/Beijing/Suzhou",
+        "most_recent_tweet_id": "2088941220185952558",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "2042983254421340219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356940397956620288/1756009514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018637275614363648/vW4y4RPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9418,
+          "following_count": 2922,
+          "like_count": 17949,
+          "listed_count": 15,
+          "media_count": 991,
+          "tweet_count": 9984
+        },
+        "url": "",
+        "username": "NyaCookieNeko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

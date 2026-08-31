@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085386767549767680"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2085848465758679215",
+    "created_at": "2026-08-07T22:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T23:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085848465758679215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dsPipNdbAU",
+          "end": 29,
+          "expanded_url": "https://x.com/show5560/status/2085848465758679215/photo/1",
+          "media_key": "3_2085386767549767680",
+          "start": 6,
+          "url": "https://t.co/dsPipNdbAU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085848465758679215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有道理啊😋 https://t.co/dsPipNdbAU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_2085386767549767680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDIN1saoAArvv9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085386767549767680"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2085848465758679215",
+        "created_at": "2026-08-07T22:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T23:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085848465758679215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsPipNdbAU",
+              "end": 29,
+              "expanded_url": "https://x.com/show5560/status/2085848465758679215/photo/1",
+              "media_key": "3_2085386767549767680",
+              "start": 6,
+              "url": "https://t.co/dsPipNdbAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085848465758679215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有道理啊😋 https://t.co/dsPipNdbAU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6018,
+          "following_count": 1732,
+          "like_count": 34041,
+          "listed_count": 16,
+          "media_count": 2849,
+          "tweet_count": 13147
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

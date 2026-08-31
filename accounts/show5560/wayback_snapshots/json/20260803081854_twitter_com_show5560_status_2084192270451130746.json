@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2084089211792326929",
+    "created_at": "2026-08-03T08:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084192270451130746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084192270451130746",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084089211792326929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2084089211792326929",
+        "created_at": "2026-08-03T08:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084192270451130746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084192270451130746",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084089211792326929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 早"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2084089211792326929",
+        "created_at": "2026-08-03T01:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084089211792326929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084089211792326929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 878,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安，对我说早安喵w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5881,
+          "following_count": 1735,
+          "like_count": 33514,
+          "listed_count": 14,
+          "media_count": 2739,
+          "tweet_count": 12661
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083394810401153196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12299,
+          "following_count": 5336,
+          "like_count": 98756,
+          "listed_count": 22,
+          "media_count": 2477,
+          "tweet_count": 21351
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

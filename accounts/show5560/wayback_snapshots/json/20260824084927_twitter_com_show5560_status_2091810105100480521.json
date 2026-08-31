@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2091389973073158410",
+    "created_at": "2026-08-24T08:49:27.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T09:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091810105100480521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644994553135652865",
+          "start": 0,
+          "username": "okdajob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091810105100480521",
+    "in_reply_to_user_id": "1644994553135652865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091693906245378349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okdajob 哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2091389973073158410",
+        "created_at": "2026-08-24T08:49:27.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091810105100480521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644994553135652865",
+              "start": 0,
+              "username": "okdajob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091810105100480521",
+        "in_reply_to_user_id": "1644994553135652865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091693906245378349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okdajob 哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644994553135652865",
+        "conversation_id": "2091389973073158410",
+        "created_at": "2026-08-24T01:07:43.000Z",
+        "display_text_range": [
+          10,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T02:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091693906245378349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091693906245378349",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091389973073158410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这些哪是计算机基础问题哦，都是应用问题，真正大学计算机专业是不学这些的（各人自己体会）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091810105100480521",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6666,
+          "following_count": 1722,
+          "like_count": 36037,
+          "listed_count": 17,
+          "media_count": 3236,
+          "tweet_count": 14814
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-09T09:25:06.000Z",
+        "description": "速寫詩意，嬉評世情 | I sketch the verse in grace, with poetic brush; I jest at mortal ways, with candor hush.",
+        "id": "1644994553135652865",
+        "is_identity_verified": false,
+        "location": "Svalbard, Norge",
+        "most_recent_tweet_id": "2091810041099960713",
+        "name": "吹笛子",
+        "pinned_tweet_id": "1666625917622386694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1644994553135652865/1699361092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726796449890091008/KH-gS-uX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 322,
+          "like_count": 15453,
+          "listed_count": 4,
+          "media_count": 993,
+          "tweet_count": 43498
+        },
+        "url": "",
+        "username": "okdajob",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2088918129066000766",
+    "created_at": "2026-08-16T14:25:57.000Z",
+    "display_text_range": [
+      28,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088995684301332948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        },
+        {
+          "end": 27,
+          "id": "1918274202580467713",
+          "start": 12,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088995684301332948",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088918129066000766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ @CyberKanjousen 羡慕🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2522,
+        "media_key": "3_2088918118148308992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1T9f0bgAAR8aH.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2088918129066000766",
+        "created_at": "2026-08-16T14:25:57.000Z",
+        "display_text_range": [
+          28,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088995684301332948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            },
+            {
+              "end": 27,
+              "id": "1918274202580467713",
+              "start": 12,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088995684301332948",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088918129066000766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ @CyberKanjousen 羡慕🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088918118148308992"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2088918129066000766",
+        "created_at": "2026-08-16T09:17:46.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088918129066000766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c512vNTpVA",
+              "end": 49,
+              "expanded_url": "https://x.com/__fanqie__/status/2088918129066000766/photo/1",
+              "media_key": "3_2088918118148308992",
+              "start": 26,
+              "url": "https://t.co/c512vNTpVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088918129066000766",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088918118148308992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2025,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 啥时候我俩出一期😈 https://t.co/c512vNTpVA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088995684301332948",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6399,
+          "following_count": 1725,
+          "like_count": 35110,
+          "listed_count": 18,
+          "media_count": 3043,
+          "tweet_count": 14057
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅梗图号/生活号@bcfqdtfqz/随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "bcfqdtfqz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuNuE0"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "is_identity_verified": false,
+        "location": "番茄树上",
+        "most_recent_tweet_id": "2088988101851164674",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2088928458567217357",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756909109788753920/1768587768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12806,
+          "following_count": 2774,
+          "like_count": 1623,
+          "listed_count": 26,
+          "media_count": 2693,
+          "tweet_count": 11638
+        },
+        "url": "https://t.co/ndOwWuNuE0",
+        "username": "__fanqie__",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLo50A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 65,
+                "url": "https://t.co/NMKeNLo50A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088989205586415861",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15458,
+          "following_count": 881,
+          "like_count": 33725,
+          "listed_count": 27,
+          "media_count": 2667,
+          "tweet_count": 12318
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

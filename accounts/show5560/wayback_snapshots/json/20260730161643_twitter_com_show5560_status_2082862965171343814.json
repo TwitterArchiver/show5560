@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2082757006902124803",
+    "created_at": "2026-07-30T16:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082862965171343814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796929111996456960",
+          "start": 0,
+          "username": "nbrkfst0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082862965171343814",
+    "in_reply_to_user_id": "1796929111996456960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082757006902124803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbrkfst0721 看起来好吃！😋\n（馋）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082756990162644992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdwcpgbMAAMZL8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2082757006902124803",
+        "created_at": "2026-07-30T16:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082862965171343814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796929111996456960",
+              "start": 0,
+              "username": "nbrkfst0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082862965171343814",
+        "in_reply_to_user_id": "1796929111996456960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082757006902124803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbrkfst0721 看起来好吃！😋\n（馋）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082756990162644992"
+          ]
+        },
+        "author_id": "1796929111996456960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082757006902124803",
+        "created_at": "2026-07-30T09:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082757006902124803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Elohomdq4q",
+              "end": 32,
+              "expanded_url": "https://x.com/nbrkfst0721/status/2082757006902124803/photo/1",
+              "media_key": "3_2082756990162644992",
+              "start": 9,
+              "url": "https://t.co/Elohomdq4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082757006902124803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三文鱼or鮭魚🤔 https://t.co/Elohomdq4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5444,
+          "following_count": 1732,
+          "like_count": 33039,
+          "listed_count": 14,
+          "media_count": 2651,
+          "tweet_count": 12270
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T15:38:51.000Z",
+        "description": "Main：｜東方｜秘封｜\n简/繁中文｜Eng｜機翻日本語|成分复杂｜\n無言フォロー失礼いたしまし",
+        "id": "1796929111996456960",
+        "location": "霧ノ湖",
+        "name": "グリニッジ鎮魂曲 ╭ᰩ ᭄╮",
+        "pinned_tweet_id": "2080909556591513886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066891890453356544/V5sDHkwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1520,
+          "like_count": 20788,
+          "listed_count": 0,
+          "media_count": 774,
+          "tweet_count": 2937
+        },
+        "url": "",
+        "username": "nbrkfst0721",
+        "verified": false
+      }
+    ]
+  }
+}

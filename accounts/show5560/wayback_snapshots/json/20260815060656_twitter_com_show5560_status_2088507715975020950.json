@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2088445574135812258",
+    "created_at": "2026-08-15T06:06:56.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088507715975020950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1871521849781460994",
+          "start": 0,
+          "username": "Silas_KCEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088507715975020950",
+    "in_reply_to_user_id": "1871521849781460994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088487110265508158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Silas_KCEX 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2088487095367258112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvL8q1aUAAhzGm.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2088445574135812258",
+        "created_at": "2026-08-15T06:06:56.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088507715975020950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1871521849781460994",
+              "start": 0,
+              "username": "Silas_KCEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088507715975020950",
+        "in_reply_to_user_id": "1871521849781460994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088487110265508158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Silas_KCEX 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088487095367258112"
+          ]
+        },
+        "author_id": "1871521849781460994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2088445574135812258",
+        "created_at": "2026-08-15T04:45:03.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088487110265508158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7eer2QKjCj",
+              "end": 47,
+              "expanded_url": "https://x.com/Silas_KCEX/status/2088487110265508158/photo/1",
+              "media_key": "3_2088487095367258112",
+              "start": 24,
+              "url": "https://t.co/7eer2QKjCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088487110265508158",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088487095367258112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1092,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088445574135812258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 送你个grok帮你，不用谢 https://t.co/7eer2QKjCj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088507715975020950",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6242,
+          "following_count": 1728,
+          "like_count": 34883,
+          "listed_count": 18,
+          "media_count": 3010,
+          "tweet_count": 13870
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008740325024571392/XY7whLKk_bigger.jpg",
+          "description": "KCEX",
+          "url": "https://twitter.com/KCEX_Official",
+          "user_id": [
+            "1693907743265157120"
+          ]
+        },
+        "created_at": "2024-12-24T11:43:05.000Z",
+        "description": "BD @KCEX_official\nTPM @GravityAmber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "KCEX_official"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "GravityAmber"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ink1ing",
+                "end": 23,
+                "expanded_url": "http://github.com/ink1ing",
+                "start": 0,
+                "url": "https://t.co/UkcOZ3m7dw"
+              }
+            ]
+          }
+        },
+        "id": "1871521849781460994",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088487610666926254",
+        "name": "𝓢𝓲𝓵𝓪𝓼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871521849781460994/1764262711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065820636963127296/GTkhnWq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 21,
+          "like_count": 478,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/UkcOZ3m7dw",
+        "username": "Silas_KCEX",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

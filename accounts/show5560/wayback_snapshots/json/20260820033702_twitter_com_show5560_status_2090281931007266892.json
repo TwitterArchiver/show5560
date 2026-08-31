@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2090031028475998416",
+    "created_at": "2026-08-20T03:37:02.000Z",
+    "display_text_range": [
+      7,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T04:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090281931007266892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1501715560861925376",
+          "start": 0,
+          "username": "Rf060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090281931007266892",
+    "in_reply_to_user_id": "1501715560861925376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090208035738370146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rf060 如果他们说话算数的话，长大后就不会那么着急弥补童年了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2090031028475998416",
+        "created_at": "2026-08-20T03:37:02.000Z",
+        "display_text_range": [
+          7,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T04:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090281931007266892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1501715560861925376",
+              "start": 0,
+              "username": "Rf060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090281931007266892",
+        "in_reply_to_user_id": "1501715560861925376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090208035738370146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rf060 如果他们说话算数的话，长大后就不会那么着急弥补童年了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501715560861925376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2090031028475998416",
+        "created_at": "2026-08-19T22:43:24.000Z",
+        "display_text_range": [
+          10,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T23:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090208035738370146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090208035738370146",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3229,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090031028475998416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 😭我小升初的时候被承诺考得好就买xbox，然后上了本地最好的初中，他们说话不算数。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090281931007266892",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6512,
+          "following_count": 1721,
+          "like_count": 35544,
+          "listed_count": 17,
+          "media_count": 3132,
+          "tweet_count": 14374
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-10T00:24:38.000Z",
+        "description": "?速通人生?/前物流仓库体验型选手/暂停go，开始php/懈怠人生入门",
+        "id": "1501715560861925376",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2090260005526372607",
+        "name": "TuTu",
+        "pinned_tweet_id": "2045606877556523111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1501715560861925376/1668880128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842932894018461696/qrZiPw5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 213,
+          "like_count": 15310,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 4211
+        },
+        "url": "",
+        "username": "Rf060",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

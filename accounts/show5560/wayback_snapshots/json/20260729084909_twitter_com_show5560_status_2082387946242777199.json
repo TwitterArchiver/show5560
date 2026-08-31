@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2082365749386227868",
+    "created_at": "2026-07-29T08:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082387946242777199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560570561960374272",
+          "start": 0,
+          "username": "ChinaDDLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082387946242777199",
+    "in_reply_to_user_id": "1560570561960374272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082365749386227868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChinaDDLS 这个好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7766,
+        "height": 1920,
+        "media_key": "13_2082365693371330560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082365693371330560/img/1LvlNng8jobpL6mC.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082365693371330560/vid/avc1/480x852/H7nY-bv4C8Z8cQk_.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082365693371330560/vid/avc1/320x568/Bk8anagmCu0tcx-K.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082365693371330560/vid/avc1/1080x1920/f6HGHB3rTzzwbnWv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082365693371330560/pl/_P5z2D4V2MBhCVsS.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082365693371330560/vid/avc1/720x1280/nEpIBcbVQDLLIG1A.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2082365749386227868",
+        "created_at": "2026-07-29T08:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082387946242777199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560570561960374272",
+              "start": 0,
+              "username": "ChinaDDLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082387946242777199",
+        "in_reply_to_user_id": "1560570561960374272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082365749386227868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinaDDLS 这个好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082365693371330560"
+          ]
+        },
+        "author_id": "1560570561960374272",
+        "conversation_id": "2082365749386227868",
+        "created_at": "2026-07-29T07:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082365749386227868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHytD9pYm4",
+              "end": 33,
+              "expanded_url": "https://x.com/ChinaDDLS/status/2082365749386227868/video/1",
+              "media_key": "13_2082365693371330560",
+              "start": 10,
+              "url": "https://t.co/dHytD9pYm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082365749386227868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菌儿rikushi https://t.co/dHytD9pYm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5404,
+          "following_count": 1733,
+          "like_count": 32847,
+          "listed_count": 14,
+          "media_count": 2619,
+          "tweet_count": 12126
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T10:13:30.000Z",
+        "description": "一个来自中国🇨🇳的coser，08 很高兴认识你们，希望和你们交朋友！！！✌︎ ॑꒳ ॑✌︎\n168cm 54kg 三围：73 60 80\n语言🇨🇳🇯🇵",
+        "id": "1560570561960374272",
+        "location": "0.01km",
+        "name": "ChinaDD老师🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069720309515886593/UirEmi_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 854,
+          "like_count": 3369,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "ChinaDDLS",
+        "verified": true
+      }
+    ]
+  }
+}

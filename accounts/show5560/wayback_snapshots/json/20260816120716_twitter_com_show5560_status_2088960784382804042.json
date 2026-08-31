@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2088921130254098777",
+    "created_at": "2026-08-16T12:07:16.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088960784382804042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1083701450381905920",
+          "start": 0,
+          "username": "Jcx_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088960784382804042",
+    "in_reply_to_user_id": "1083701450381905920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088921130254098777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jcx_05 好诶！看着就好吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088921077322027008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1WpvmbEAAO7K9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088921077049376768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1WpulawAA_fMO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088921077095489536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1WpuwaYAAWUmd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2088921077099704321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1WpuxasAExCoY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2088921130254098777",
+        "created_at": "2026-08-16T12:07:16.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088960784382804042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1083701450381905920",
+              "start": 0,
+              "username": "Jcx_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088960784382804042",
+        "in_reply_to_user_id": "1083701450381905920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088921130254098777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jcx_05 好诶！看着就好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088921077322027008",
+            "3_2088921077049376768",
+            "3_2088921077095489536",
+            "3_2088921077099704321"
+          ]
+        },
+        "author_id": "1083701450381905920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088921130254098777",
+        "created_at": "2026-08-16T09:29:42.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088921130254098777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHtFIIO7Jj",
+              "end": 34,
+              "expanded_url": "https://x.com/Jcx_05/status/2088921130254098777/photo/1",
+              "media_key": "3_2088921077322027008",
+              "start": 11,
+              "url": "https://t.co/SHtFIIO7Jj"
+            },
+            {
+              "display_url": "pic.x.com/SHtFIIO7Jj",
+              "end": 34,
+              "expanded_url": "https://x.com/Jcx_05/status/2088921130254098777/photo/1",
+              "media_key": "3_2088921077049376768",
+              "start": 11,
+              "url": "https://t.co/SHtFIIO7Jj"
+            },
+            {
+              "display_url": "pic.x.com/SHtFIIO7Jj",
+              "end": 34,
+              "expanded_url": "https://x.com/Jcx_05/status/2088921130254098777/photo/1",
+              "media_key": "3_2088921077095489536",
+              "start": 11,
+              "url": "https://t.co/SHtFIIO7Jj"
+            },
+            {
+              "display_url": "pic.x.com/SHtFIIO7Jj",
+              "end": 34,
+              "expanded_url": "https://x.com/Jcx_05/status/2088921130254098777/photo/1",
+              "media_key": "3_2088921077099704321",
+              "start": 11,
+              "url": "https://t.co/SHtFIIO7Jj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088921130254098777",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088921077322027008"
+          },
+          {
+            "media_key": "3_2088921077049376768"
+          },
+          {
+            "media_key": "3_2088921077095489536"
+          },
+          {
+            "media_key": "3_2088921077099704321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家乡菜 五蚂蚁😋🇦🇹 https://t.co/SHtFIIO7Jj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088960784382804042",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6398,
+          "following_count": 1726,
+          "like_count": 35007,
+          "listed_count": 18,
+          "media_count": 3040,
+          "tweet_count": 13999
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-11T12:25:34.000Z",
+        "description": "常驻维也纳 不定期往返 成都 上海 东京 \n欢迎线下喵\n爱车BMW F20 喜欢旅游 下厨 耍废 睡大觉\n我在维也纳好无聊😭\n🧅🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/jcx05zwiebel?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/jcx05zwiebel?s=11",
+                "start": 0,
+                "url": "https://t.co/EaPXw5JqxN"
+              }
+            ]
+          }
+        },
+        "id": "1083701450381905920",
+        "is_identity_verified": false,
+        "location": "Vienna ",
+        "most_recent_tweet_id": "2088921130254098777",
+        "name": "Zwiebel🧅",
+        "pinned_tweet_id": "2082843023205929416",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083701450381905920/1763335807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761409002636787712/gZipJuaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 5960,
+          "like_count": 113398,
+          "listed_count": 10,
+          "media_count": 228,
+          "tweet_count": 8646
+        },
+        "url": "https://t.co/EaPXw5JqxN",
+        "username": "Jcx_05",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

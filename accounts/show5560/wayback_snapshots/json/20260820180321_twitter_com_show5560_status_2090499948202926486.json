@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2090218344469463065",
+    "created_at": "2026-08-20T18:03:21.000Z",
+    "display_text_range": [
+      10,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T19:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090499948202926486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090499948202926486",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090218344469463065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 其实在那些大商圈挺热闹的吧🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2078,
+        "media_key": "3_2090218328568860672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHyftFbkAAOPJU.jpg",
+        "width": 960
+      },
+      {
+        "height": 2078,
+        "media_key": "3_2090218336558940160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHygK2agAAhfbQ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2090218344469463065",
+        "created_at": "2026-08-20T18:03:21.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090499948202926486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090499948202926486",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090218344469463065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 其实在那些大商圈挺热闹的吧🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090218328568860672",
+            "3_2090218336558940160"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2090218344469463065",
+        "created_at": "2026-08-19T23:24:22.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T00:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090218344469463065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66iAzhkc1c",
+              "end": 40,
+              "expanded_url": "https://x.com/jianlvup/status/2090218344469463065/photo/1",
+              "media_key": "3_2090218328568860672",
+              "start": 17,
+              "url": "https://t.co/66iAzhkc1c"
+            },
+            {
+              "display_url": "pic.x.com/66iAzhkc1c",
+              "end": 40,
+              "expanded_url": "https://x.com/jianlvup/status/2090218344469463065/photo/1",
+              "media_key": "3_2090218336558940160",
+              "start": 17,
+              "url": "https://t.co/66iAzhkc1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090218344469463065",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090218328568860672"
+          },
+          {
+            "media_key": "3_2090218336558940160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8610,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以今年七夕到底是热闹还是冷清啊 https://t.co/66iAzhkc1c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090499948202926486",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6539,
+          "following_count": 1720,
+          "like_count": 35653,
+          "listed_count": 17,
+          "media_count": 3147,
+          "tweet_count": 14455
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "is_identity_verified": false,
+        "location": "为爱发电",
+        "most_recent_tweet_id": "2090447416076255479",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2090356780857729376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589809419822329857/1744989387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20430,
+          "following_count": 1612,
+          "like_count": 91001,
+          "listed_count": 68,
+          "media_count": 4154,
+          "tweet_count": 7973
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2091877094569787892",
+    "created_at": "2026-08-24T15:02:45.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T16:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091904046793978304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990582437282525187",
+          "start": 0,
+          "username": "YeChuan1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091904046793978304",
+    "in_reply_to_user_id": "1990582437282525187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091877094569787892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeChuan1123 好帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2091877085245747200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfXIDPaMAAB1kM.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2091877084994191360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfXICTbwAAuiWW.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_2091877085065428992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfXICkawAAUTXF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2091877094569787892",
+        "created_at": "2026-08-24T15:02:45.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091904046793978304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990582437282525187",
+              "start": 0,
+              "username": "YeChuan1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091904046793978304",
+        "in_reply_to_user_id": "1990582437282525187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091877094569787892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeChuan1123 好帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091877085245747200",
+            "3_2091877084994191360",
+            "3_2091877085065428992"
+          ]
+        },
+        "author_id": "1990582437282525187",
+        "conversation_id": "2091877094569787892",
+        "created_at": "2026-08-24T13:15:39.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091877094569787892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eI9jxGVh0q",
+              "end": 60,
+              "expanded_url": "https://x.com/YeChuan1123/status/2091877094569787892/photo/1",
+              "media_key": "3_2091877085245747200",
+              "start": 37,
+              "url": "https://t.co/eI9jxGVh0q"
+            },
+            {
+              "display_url": "pic.x.com/eI9jxGVh0q",
+              "end": 60,
+              "expanded_url": "https://x.com/YeChuan1123/status/2091877094569787892/photo/1",
+              "media_key": "3_2091877084994191360",
+              "start": 37,
+              "url": "https://t.co/eI9jxGVh0q"
+            },
+            {
+              "display_url": "pic.x.com/eI9jxGVh0q",
+              "end": 60,
+              "expanded_url": "https://x.com/YeChuan1123/status/2091877094569787892/photo/1",
+              "media_key": "3_2091877085065428992",
+              "start": 37,
+              "url": "https://t.co/eI9jxGVh0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091877094569787892",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091877085245747200"
+          },
+          {
+            "media_key": "3_2091877084994191360"
+          },
+          {
+            "media_key": "3_2091877085065428992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈的床头/我的床头\n有人得到了一份只属于80后的快乐\n但是我的钱包炸了 https://t.co/eI9jxGVh0q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091904046793978304",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6672,
+          "following_count": 1723,
+          "like_count": 36173,
+          "listed_count": 17,
+          "media_count": 3244,
+          "tweet_count": 14896
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT🇨🇦 同类互fo🏳️‍⚧️MTF 中文/Eng/日本語\n🎀Love mizuki & Sylveon🎀\n精神不好…焦虑/重抑/自毁倾向/精神分裂症/病娇\n*💝此生唯一的挚爱！伴侣: @blingbling712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "blingbling712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/ebZ9R1hZ2I"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "is_identity_verified": false,
+        "location": "布林的怀里",
+        "most_recent_tweet_id": "2091877094569787892",
+        "name": "YeChuan",
+        "pinned_tweet_id": "2088632136907784469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990582437282525187/1782582424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076302592901001216/YAdpUpUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 418,
+          "like_count": 1945,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/ebZ9R1hZ2I",
+        "username": "YeChuan1123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

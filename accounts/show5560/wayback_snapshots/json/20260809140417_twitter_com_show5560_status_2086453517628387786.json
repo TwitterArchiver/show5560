@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086379519271936096",
+    "created_at": "2026-08-09T14:04:17.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086453517628387786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492414871031459842",
+          "start": 0,
+          "username": "x_com_jonny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086453517628387786",
+    "in_reply_to_user_id": "1492414871031459842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086379519271936096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_com_jonny 有道理🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086379519271936096",
+        "created_at": "2026-08-09T14:04:17.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086453517628387786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492414871031459842",
+              "start": 0,
+              "username": "x_com_jonny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086453517628387786",
+        "in_reply_to_user_id": "1492414871031459842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086379519271936096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_com_jonny 有道理🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492414871031459842",
+        "conversation_id": "2086379519271936096",
+        "created_at": "2026-08-09T09:10:15.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086379519271936096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/show5560/status/2086090055701909620",
+              "start": 20,
+              "url": "https://t.co/smYvNzLV0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086379519271936096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086090055701909620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以很多时候和事实无关，看你怎么说😄😄 https://t.co/smYvNzLV0N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086453517628387786",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6085,
+          "following_count": 1730,
+          "like_count": 34205,
+          "listed_count": 16,
+          "media_count": 2890,
+          "tweet_count": 13294
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-12T08:27:22.000Z",
+        "description": "An old coder.",
+        "id": "1492414871031459842",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086407377805541501",
+        "name": "Jonny",
+        "pinned_tweet_id": "2084589486181404908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492414871031459842/1692022626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022389083725807616/fI9V35Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 951,
+          "like_count": 80316,
+          "listed_count": 7,
+          "media_count": 1443,
+          "tweet_count": 26870
+        },
+        "url": "",
+        "username": "x_com_jonny",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

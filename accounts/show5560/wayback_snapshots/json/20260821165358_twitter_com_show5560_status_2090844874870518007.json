@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2090837305334362216",
+    "created_at": "2026-08-21T16:53:58.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090844874870518007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1338481970762825730",
+          "start": 0,
+          "username": "Wendy42751621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090844874870518007",
+    "in_reply_to_user_id": "1338481970762825730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090837305334362216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy42751621 那很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2090837305334362216",
+        "created_at": "2026-08-21T16:53:58.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090844874870518007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1338481970762825730",
+              "start": 0,
+              "username": "Wendy42751621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090844874870518007",
+        "in_reply_to_user_id": "1338481970762825730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090837305334362216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy42751621 那很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1338481970762825730",
+        "conversation_id": "2090837305334362216",
+        "created_at": "2026-08-21T16:23:54.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090837305334362216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/show5560/status/2090589701115941348",
+              "start": 12,
+              "url": "https://t.co/hLxA9GLMVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090837305334362216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090589701115941348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伏地魔之重返地球？？？ https://t.co/hLxA9GLMVE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090844874870518007",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6586,
+          "following_count": 1720,
+          "like_count": 35774,
+          "listed_count": 17,
+          "media_count": 3170,
+          "tweet_count": 14565
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-14T13:52:41.000Z",
+        "description": "王八不吃秤砣，智者不堕爱河",
+        "id": "1338481970762825730",
+        "is_identity_verified": false,
+        "location": "风吹过的地方",
+        "most_recent_tweet_id": "2090837305334362216",
+        "name": "好好睡觉",
+        "pinned_tweet_id": "1868341965756248278",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1338481970762825730/1622017741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840053400077283328/-GgdIJba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 731,
+          "like_count": 39607,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 45278
+        },
+        "url": "",
+        "username": "Wendy42751621",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

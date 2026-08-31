@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2088550648472375492",
+    "created_at": "2026-08-15T11:46:39.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088593205625548920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060032916189773824",
+          "start": 0,
+          "username": "WuCanObject"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088593205625548920",
+    "in_reply_to_user_id": "2060032916189773824",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088550648472375492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WuCanObject （）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2088550648472375492",
+        "created_at": "2026-08-15T11:46:39.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088593205625548920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060032916189773824",
+              "start": 0,
+              "username": "WuCanObject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088593205625548920",
+        "in_reply_to_user_id": "2060032916189773824",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088550648472375492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WuCanObject （）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060032916189773824",
+        "conversation_id": "2088550648472375492",
+        "created_at": "2026-08-15T08:57:32.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088550648472375492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/show5560/status/2088324775315698003",
+              "start": 8,
+              "url": "https://t.co/qdM277TFzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088550648472375492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088324775315698003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀骇死我力！ https://t.co/qdM277TFzd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088593205625548920",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6296,
+          "following_count": 1727,
+          "like_count": 34909,
+          "listed_count": 18,
+          "media_count": 3015,
+          "tweet_count": 13897
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T16:18:44.000Z",
+        "description": "互联网流浪中 男生 快成年了～\n你对我好，我会偷偷开心很久！\n我不太会说话\n但我可以陪你，只要你不嫌我烦…TWT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/1aQOKqN89K"
+              }
+            ]
+          }
+        },
+        "id": "2060032916189773824",
+        "is_identity_verified": false,
+        "location": "初次见面之时",
+        "most_recent_tweet_id": "2088560384370442579",
+        "name": "残物",
+        "pinned_tweet_id": "2073083150629273965",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060032916189773824/1782017319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068370798197542912/sc9ToXJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 875,
+          "like_count": 7510,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/1aQOKqN89K",
+        "username": "WuCanObject",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2081605500060213331",
+    "created_at": "2026-07-28T03:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081942517357085097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2036095725717823488",
+          "start": 0,
+          "username": "wmzttfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081942517357085097",
+    "in_reply_to_user_id": "2036095725717823488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081906691684348032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmzttfc 粉丝没国外多他还能竞选的过市长吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2081605500060213331",
+        "created_at": "2026-07-28T03:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081942517357085097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2036095725717823488",
+              "start": 0,
+              "username": "wmzttfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081942517357085097",
+        "in_reply_to_user_id": "2036095725717823488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081906691684348032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmzttfc 粉丝没国外多他还能竞选的过市长吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036095725717823488",
+        "conversation_id": "2081605500060213331",
+        "created_at": "2026-07-28T00:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T01:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081906691684348032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081906691684348032",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081605500060213331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 国内平台粉丝多说明你更接地气，大家都能感受到你的魅力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5377,
+          "following_count": 1734,
+          "like_count": 32723,
+          "listed_count": 14,
+          "media_count": 2590,
+          "tweet_count": 12001
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T15:00:44.000Z",
+        "description": "一个没什么正经才艺、只会疯狂输出搞笑内容的梗图博主，全网搜罗各类沙雕神图、阴间搞笑图与趣味表情包，主打一个轻松解压、无脑乐呵，关注我，快乐永远不打烊！",
+        "id": "2036095725717823488",
+        "location": "乐子中心",
+        "name": "逗逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036098419648036864/mosfnwoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 38,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "wmzttfc",
+        "verified": true
+      }
+    ]
+  }
+}

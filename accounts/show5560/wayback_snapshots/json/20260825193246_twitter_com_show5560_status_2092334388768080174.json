@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2092285149094523195",
+    "created_at": "2026-08-25T19:32:46.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T20:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092334388768080174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1055268207542575105",
+          "start": 0,
+          "username": "RT_OnlyWill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092334388768080174",
+    "in_reply_to_user_id": "1055268207542575105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092285149094523195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RT_OnlyWill 不会的，我一定不会这样的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2092285149094523195",
+        "created_at": "2026-08-25T19:32:46.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092334388768080174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1055268207542575105",
+              "start": 0,
+              "username": "RT_OnlyWill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092334388768080174",
+        "in_reply_to_user_id": "1055268207542575105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092285149094523195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RT_OnlyWill 不会的，我一定不会这样的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1055268207542575105",
+        "conversation_id": "2092285149094523195",
+        "created_at": "2026-08-25T16:17:06.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092285149094523195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/show5560/status/2091963757404594482",
+              "start": 40,
+              "url": "https://t.co/xO8d2ydSwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092285149094523195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091963757404594482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典中典之到了年龄就一定要变成父辈老登的样子，不仅引以为豪还要把每个人都变成这样 https://t.co/xO8d2ydSwh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092334388768080174",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6683,
+          "following_count": 1721,
+          "like_count": 36236,
+          "listed_count": 17,
+          "media_count": 3271,
+          "tweet_count": 14957
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-25T01:22:01.000Z",
+        "description": "Horse🐴 Line Fur Pie🥧",
+        "id": "1055268207542575105",
+        "is_identity_verified": false,
+        "location": "量子弹弓，前往未知",
+        "most_recent_tweet_id": "2092285149094523195",
+        "name": "RT",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055268207542575105/1740247090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930306248161013766/GYQMQagQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6700,
+          "following_count": 773,
+          "like_count": 97322,
+          "listed_count": 41,
+          "media_count": 3061,
+          "tweet_count": 41059
+        },
+        "url": "",
+        "username": "RT_OnlyWill",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

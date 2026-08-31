@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091870354545504256"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2092039251571745237",
+    "created_at": "2026-08-25T00:00:00.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092039251571745237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wIDM1onKGF",
+          "end": 41,
+          "expanded_url": "https://x.com/show5560/status/2092039251571745237/photo/1",
+          "media_key": "3_2091870354545504256",
+          "start": 18,
+          "url": "https://t.co/wIDM1onKGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092039251571745237",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091870354545504256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拒绝不健康的减肥，这都没有肉了吧😨 https://t.co/wIDM1onKGF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1727,
+        "media_key": "3_2091870354545504256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfRARba8AASY8K.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091870354545504256"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2092039251571745237",
+        "created_at": "2026-08-25T00:00:00.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092039251571745237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wIDM1onKGF",
+              "end": 41,
+              "expanded_url": "https://x.com/show5560/status/2092039251571745237/photo/1",
+              "media_key": "3_2091870354545504256",
+              "start": 18,
+              "url": "https://t.co/wIDM1onKGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092039251571745237",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091870354545504256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拒绝不健康的减肥，这都没有肉了吧😨 https://t.co/wIDM1onKGF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092039251571745237",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6665,
+          "following_count": 1723,
+          "like_count": 36159,
+          "listed_count": 17,
+          "media_count": 3254,
+          "tweet_count": 14910
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

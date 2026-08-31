@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086059850799403198",
+    "created_at": "2026-08-10T05:14:29.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086682577587552536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "818840570307047425",
+          "start": 0,
+          "username": "y1022349714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086682577587552536",
+    "in_reply_to_user_id": "818840570307047425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086672036005650527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y1022349714 啊？？甚至不如鲸鱼娘是吧😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086059850799403198",
+        "created_at": "2026-08-10T05:14:29.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086682577587552536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "818840570307047425",
+              "start": 0,
+              "username": "y1022349714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086682577587552536",
+        "in_reply_to_user_id": "818840570307047425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086672036005650527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y1022349714 啊？？甚至不如鲸鱼娘是吧😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "818840570307047425",
+        "conversation_id": "2086059850799403198",
+        "created_at": "2026-08-10T04:32:36.000Z",
+        "display_text_range": [
+          10,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086672036005650527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086672036005650527",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086059850799403198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 24年还好，现在有可能只是提示词写的不错的鲸鱼娘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086682577587552536",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6104,
+          "following_count": 1728,
+          "like_count": 34321,
+          "listed_count": 16,
+          "media_count": 2909,
+          "tweet_count": 13395
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-10T15:23:00.000Z",
+        "description": "",
+        "id": "818840570307047425",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086672731567992924",
+        "name": "Hohenheimp",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983896120716931072/Mu_QZvgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 494,
+          "like_count": 19600,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 859
+        },
+        "url": "",
+        "username": "y1022349714",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

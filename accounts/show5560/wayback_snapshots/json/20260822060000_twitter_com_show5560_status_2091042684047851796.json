@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090864946292858880"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2091042684047851796",
+    "created_at": "2026-08-22T06:00:00.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091042684047851796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MUF3lNPbMx",
+          "end": 49,
+          "expanded_url": "https://x.com/show5560/status/2091042684047851796/photo/1",
+          "media_key": "3_2090864946292858880",
+          "start": 26,
+          "url": "https://t.co/MUF3lNPbMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091042684047851796",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090864946292858880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么半夜会自己升级bios？这是不是算电脑问题🤔 https://t.co/MUF3lNPbMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2090864946292858880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQ-lz0aIAAEkH0.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090864946292858880"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2091042684047851796",
+        "created_at": "2026-08-22T06:00:00.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091042684047851796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUF3lNPbMx",
+              "end": 49,
+              "expanded_url": "https://x.com/show5560/status/2091042684047851796/photo/1",
+              "media_key": "3_2090864946292858880",
+              "start": 26,
+              "url": "https://t.co/MUF3lNPbMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091042684047851796",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090864946292858880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么半夜会自己升级bios？这是不是算电脑问题🤔 https://t.co/MUF3lNPbMx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091042684047851796",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6607,
+          "following_count": 1723,
+          "like_count": 35786,
+          "listed_count": 17,
+          "media_count": 3184,
+          "tweet_count": 14590
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

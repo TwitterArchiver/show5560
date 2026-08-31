@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2083177808042311693",
+    "created_at": "2026-08-01T05:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083424231770173445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083424231770173445",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083177808042311693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 猪猪，弄成烤乳猪一定会很香吧🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2083177808042311693",
+        "created_at": "2026-08-01T05:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083424231770173445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083424231770173445",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083177808042311693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 猪猪，弄成烤乳猪一定会很香吧🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2083177808042311693",
+        "created_at": "2026-07-31T13:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083177808042311693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sasgume/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/sasgume/status/2082850093053747216",
+              "start": 8,
+              "url": "https://t.co/nlrifdm0iw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083177808042311693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 575,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082850093053747216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我照片/我本人 https://t.co/nlrifdm0iw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5487,
+          "following_count": 1733,
+          "like_count": 33218,
+          "listed_count": 14,
+          "media_count": 2688,
+          "tweet_count": 12420
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "小学4年级",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2082283531112415687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7529,
+          "following_count": 4532,
+          "like_count": 43693,
+          "listed_count": 17,
+          "media_count": 3211,
+          "tweet_count": 43299
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

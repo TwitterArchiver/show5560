@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2082350228758491305",
+    "created_at": "2026-07-29T15:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082494070887464981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082494070887464981",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082350228758491305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2086,
+        "media_key": "3_2082350221779148800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOX-fnMaIAAvfT7.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2082350228758491305",
+        "created_at": "2026-07-29T15:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082494070887464981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082494070887464981",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082350228758491305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082350221779148800"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2082350228758491305",
+        "created_at": "2026-07-29T06:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082350228758491305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7wioWnVJG",
+              "end": 62,
+              "expanded_url": "https://x.com/jianlvup/status/2082350228758491305/photo/1",
+              "media_key": "3_2082350221779148800",
+              "start": 39,
+              "url": "https://t.co/l7wioWnVJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082350228758491305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 996,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女朋友只考了大专怎么办\n瞬间就感觉不合适了。\n我一直以为我没有学历歧视的，。 https://t.co/l7wioWnVJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5407,
+          "following_count": 1732,
+          "like_count": 32899,
+          "listed_count": 14,
+          "media_count": 2626,
+          "tweet_count": 12149
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2081524826167197735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19603,
+          "following_count": 1587,
+          "like_count": 88194,
+          "listed_count": 67,
+          "media_count": 3921,
+          "tweet_count": 7588
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

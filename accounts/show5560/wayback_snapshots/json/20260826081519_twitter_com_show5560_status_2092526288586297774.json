@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2092473992187941218",
+    "created_at": "2026-08-26T08:15:19.000Z",
+    "display_text_range": [
+      27,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092526288586297774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        },
+        {
+          "end": 26,
+          "id": "1577962866182799360",
+          "start": 13,
+          "username": "gasguzzler11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092526288586297774",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092473992187941218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan @gasguzzler11 宝宝，你好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2092473988564107265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQn2AZYbwAE-zo6.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2092473992187941218",
+        "created_at": "2026-08-26T08:15:19.000Z",
+        "display_text_range": [
+          27,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092526288586297774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 26,
+              "id": "1577962866182799360",
+              "start": 13,
+              "username": "gasguzzler11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092526288586297774",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092473992187941218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan @gasguzzler11 宝宝，你好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092473988564107265"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2092473992187941218",
+        "created_at": "2026-08-26T04:47:30.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092473992187941218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1577962866182799360",
+              "start": 2,
+              "username": "gasguzzler11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbCcSTFC4z",
+              "end": 49,
+              "expanded_url": "https://x.com/qianxunchan/status/2092473992187941218/photo/1",
+              "media_key": "3_2092473988564107265",
+              "start": 26,
+              "url": "https://t.co/ZbCcSTFC4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092473992187941218",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092473988564107265"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1122,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚在@gasguzzler11 指导下搞完卷发棒🥵 https://t.co/ZbCcSTFC4z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092526288586297774",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6701,
+          "following_count": 1720,
+          "like_count": 36369,
+          "listed_count": 17,
+          "media_count": 3284,
+          "tweet_count": 15042
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2092523393375666333",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 1208,
+          "like_count": 8788,
+          "listed_count": 10,
+          "media_count": 1041,
+          "tweet_count": 4136
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-06T10:04:18.000Z",
+        "description": "这天命，我信；但我不认",
+        "id": "1577962866182799360",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2092390980809003438",
+        "name": "白毛夏Rorschach",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577962866182799360/1676204746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852281427372695552/1pYlSXnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 777,
+          "like_count": 9000,
+          "listed_count": 5,
+          "media_count": 104,
+          "tweet_count": 9685
+        },
+        "url": "",
+        "username": "gasguzzler11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

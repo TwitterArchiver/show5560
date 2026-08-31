@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2082586970677526535",
+    "created_at": "2026-07-30T16:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082863078589567203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "899823312343257088",
+          "start": 0,
+          "username": "ryut127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082863078589567203",
+    "in_reply_to_user_id": "899823312343257088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082849383171973362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryut127 我去，这么爽？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2082586970677526535",
+        "created_at": "2026-07-30T16:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082863078589567203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "899823312343257088",
+              "start": 0,
+              "username": "ryut127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082863078589567203",
+        "in_reply_to_user_id": "899823312343257088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082849383171973362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryut127 我去，这么爽？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899823312343257088",
+        "conversation_id": "2082586970677526535",
+        "created_at": "2026-07-30T15:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082849383171973362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082849383171973362",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082586970677526535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 澳门出生的早还能拿真正的T0 葡萄牙护照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5444,
+          "following_count": 1732,
+          "like_count": 33040,
+          "listed_count": 14,
+          "media_count": 2651,
+          "tweet_count": 12271
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-22T02:39:30.000Z",
+        "description": "🇺🇸Causal shitposter. NIH researcher. Conservative Libertarian. I support people of Israel/Ukraine and Taiwan, but fuck their government。 小号防失联@ryus77x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 142,
+                "username": "ryus77x"
+              }
+            ]
+          }
+        },
+        "id": "899823312343257088",
+        "location": "R+21 State",
+        "name": "LibertyForAll",
+        "pinned_tweet_id": "1881132754315940267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077162660182073344/fqeECZsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 1282,
+          "like_count": 270343,
+          "listed_count": 1,
+          "media_count": 1667,
+          "tweet_count": 18363
+        },
+        "url": "",
+        "username": "ryut127",
+        "verified": true
+      }
+    ]
+  }
+}

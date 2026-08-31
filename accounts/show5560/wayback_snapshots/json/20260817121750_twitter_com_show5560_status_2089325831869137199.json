@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2089276044662689808",
+    "created_at": "2026-08-17T12:17:50.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089325831869137199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692047356034953216",
+          "start": 0,
+          "username": "Acriley_zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089325831869137199",
+    "in_reply_to_user_id": "1692047356034953216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089293861923553476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acriley_zc 真的假的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2089276044662689808",
+        "created_at": "2026-08-17T12:17:50.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089325831869137199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692047356034953216",
+              "start": 0,
+              "username": "Acriley_zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089325831869137199",
+        "in_reply_to_user_id": "1692047356034953216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089293861923553476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acriley_zc 真的假的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692047356034953216",
+        "conversation_id": "2089276044662689808",
+        "created_at": "2026-08-17T10:10:48.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T11:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089293861923553476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089293861923553476",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089276044662689808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 其实杯子也是要用套的（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089325831869137199",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6412,
+          "following_count": 1726,
+          "like_count": 35158,
+          "listed_count": 17,
+          "media_count": 3067,
+          "tweet_count": 14111
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T05:35:11.000Z",
+        "description": "雨は気まぐれ。/性别♂，取向女，东方project，galgame萌新，单机游戏爱好者，喜欢摇滚乐，软工在读，轻度cosplay，目前修行中......（不接受涩涩谢谢）",
+        "id": "1692047356034953216",
+        "is_identity_verified": false,
+        "location": "飞八分钱",
+        "most_recent_tweet_id": "2089294730555203955",
+        "name": "無主物",
+        "pinned_tweet_id": "2084907482410099098",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692047356034953216/1779720820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070421514869166080/pSfnOVfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 274,
+          "like_count": 11675,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2645
+        },
+        "url": "",
+        "username": "Acriley_zc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

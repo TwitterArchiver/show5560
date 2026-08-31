@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085797113867456512"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086105156429504691",
+    "created_at": "2026-08-08T15:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T16:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086105156429504691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ag8c28KplT",
+          "end": 31,
+          "expanded_url": "https://x.com/show5560/status/2086105156429504691/photo/1",
+          "media_key": "3_2085797113867456512",
+          "start": 8,
+          "url": "https://t.co/Ag8c28KplT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086105156429504691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别骂了别骂了😭 https://t.co/Ag8c28KplT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2085797113867456512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI9bI2a0AAlvEs.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085797113867456512"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086105156429504691",
+        "created_at": "2026-08-08T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086105156429504691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ag8c28KplT",
+              "end": 31,
+              "expanded_url": "https://x.com/show5560/status/2086105156429504691/photo/1",
+              "media_key": "3_2085797113867456512",
+              "start": 8,
+              "url": "https://t.co/Ag8c28KplT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086105156429504691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别骂了别骂了😭 https://t.co/Ag8c28KplT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6038,
+          "following_count": 1731,
+          "like_count": 34171,
+          "listed_count": 16,
+          "media_count": 2867,
+          "tweet_count": 13253
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

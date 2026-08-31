@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2081524663738679805",
+    "created_at": "2026-07-27T14:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081746911019823277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081746911019823277",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081524663738679805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 基因编程又出来了？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2081,
+        "media_key": "3_2081524656847360000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMPpaKakAADNu4.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2081524663738679805",
+        "created_at": "2026-07-27T14:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081746911019823277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081746911019823277",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081524663738679805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 基因编程又出来了？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081524656847360000"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2081524663738679805",
+        "created_at": "2026-07-26T23:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081524663738679805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHfOWPPkji",
+              "end": 69,
+              "expanded_url": "https://x.com/jianlvup/status/2081524663738679805/photo/1",
+              "media_key": "3_2081524656847360000",
+              "start": 46,
+              "url": "https://t.co/OHfOWPPkji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081524663738679805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5110,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不是？这帮人疯了？\n？？？？？什么叫「基因编辑」?\n基因研究最不能碰的这么快就忘了？？？? https://t.co/OHfOWPPkji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2081258412785181123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5333,
+          "following_count": 1734,
+          "like_count": 32700,
+          "listed_count": 14,
+          "media_count": 2577,
+          "tweet_count": 11971
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2081524826167197735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19577,
+          "following_count": 1586,
+          "like_count": 88107,
+          "listed_count": 67,
+          "media_count": 3903,
+          "tweet_count": 7565
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

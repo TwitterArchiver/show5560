@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086341751934177323",
+    "created_at": "2026-08-09T18:13:13.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086516163484557547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1511574513967722505",
+          "start": 0,
+          "username": "_Genshin_Ganyu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086516163484557547",
+    "in_reply_to_user_id": "1511574513967722505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086341751934177323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@_Genshin_Ganyu_ 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086341741783957504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQswp8aQAAkNHj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086341741742047232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQswpyawAAPSWW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086341741783998464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQswp8a4AAxOad.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086341751934177323",
+        "created_at": "2026-08-09T18:13:13.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086516163484557547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511574513967722505",
+              "start": 0,
+              "username": "_Genshin_Ganyu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086516163484557547",
+        "in_reply_to_user_id": "1511574513967722505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086341751934177323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@_Genshin_Ganyu_ 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086341741783957504",
+            "3_2086341741742047232",
+            "3_2086341741783998464"
+          ]
+        },
+        "author_id": "1511574513967722505",
+        "conversation_id": "2086341751934177323",
+        "created_at": "2026-08-09T06:40:10.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086341751934177323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VeKyNNbEJ9",
+              "end": 41,
+              "expanded_url": "https://x.com/_Genshin_Ganyu_/status/2086341751934177323/photo/1",
+              "media_key": "3_2086341741783957504",
+              "start": 18,
+              "url": "https://t.co/VeKyNNbEJ9"
+            },
+            {
+              "display_url": "pic.x.com/VeKyNNbEJ9",
+              "end": 41,
+              "expanded_url": "https://x.com/_Genshin_Ganyu_/status/2086341751934177323/photo/1",
+              "media_key": "3_2086341741742047232",
+              "start": 18,
+              "url": "https://t.co/VeKyNNbEJ9"
+            },
+            {
+              "display_url": "pic.x.com/VeKyNNbEJ9",
+              "end": 41,
+              "expanded_url": "https://x.com/_Genshin_Ganyu_/status/2086341751934177323/photo/1",
+              "media_key": "3_2086341741783998464",
+              "start": 18,
+              "url": "https://t.co/VeKyNNbEJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086341751934177323",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086341741783957504"
+          },
+          {
+            "media_key": "3_2086341741742047232"
+          },
+          {
+            "media_key": "3_2086341741783998464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "今日难绷：被泰国边检发小无料了……\n入境的时候检查官问我我几个人来，我说一个人，然后看了看我又看了看我的护照走出柜台叫了另外一个人来，这时候我以为我进了什么黑名单呢然后那个人就给我拉到旁边的一个谈话处单独聊。然后给我看图二的内容，我说我看过了，然后给了我一份表格让我写我的个人信息、来回程机票、酒店地址什么的。我填完了他就问我你自己一个人来泰国吗，我父母知道我来吗……之类的问题，然后跟我说可能会有图谋不轨的人对我有想法之类的让我注意安全玩的开心……说完了就给了我一个反诈中心小册子然后拉我到旁边重新办了入境手续就放我走了……\n所以，入境的时候别打扮的太漂亮……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 17494,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "今日难绷：被泰国边检发小无料了…… https://t.co/VeKyNNbEJ9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086516163484557547",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2086456638622556254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6092,
+          "following_count": 1729,
+          "like_count": 34276,
+          "listed_count": 16,
+          "media_count": 2895,
+          "tweet_count": 13359
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "青丝白发一瞬间，年华老去向谁言。春风若有怜花意，可否许我再少年？\n椰羊老师 ｜ 业余电台BD7PVQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApycSp"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "is_identity_verified": false,
+        "location": "我於萬物之中",
+        "most_recent_tweet_id": "2086406656154636415",
+        "name": "研究员王小美🥥🐑",
+        "pinned_tweet_id": "2078151776960950317",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511574513967722505/1777114318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4292,
+          "following_count": 1355,
+          "like_count": 4512,
+          "listed_count": 9,
+          "media_count": 413,
+          "tweet_count": 2874
+        },
+        "url": "https://t.co/aXUuApycSp",
+        "username": "_Genshin_Ganyu_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

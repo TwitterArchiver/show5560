@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2093696265662103992",
+    "created_at": "2026-08-30T01:48:32.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093878503498449323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093878503498449323",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093696265662103992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 那很好吃了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2093696265662103992",
+        "created_at": "2026-08-30T01:48:32.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093878503498449323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093878503498449323",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093696265662103992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 那很好吃了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2093696265662103992",
+        "created_at": "2026-08-29T13:44:23.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093696265662103992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093696265662103992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的本体是AAA广西砂糖橘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093878503498449323",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6813,
+          "following_count": 1722,
+          "like_count": 36876,
+          "listed_count": 17,
+          "media_count": 3374,
+          "tweet_count": 15443
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093766060411609526",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2093736919452852657",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12308,
+          "following_count": 5357,
+          "like_count": 101909,
+          "listed_count": 23,
+          "media_count": 2582,
+          "tweet_count": 21889
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

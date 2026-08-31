@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086709134922281323",
+    "created_at": "2026-08-10T14:22:20.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086820447522607482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552137826913120256",
+          "start": 0,
+          "username": "BZaychlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086820447522607482",
+    "in_reply_to_user_id": "1552137826913120256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086726785753104768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BZaychlk 那就又会多一个变量😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086709134922281323",
+        "created_at": "2026-08-10T14:22:20.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086820447522607482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552137826913120256",
+              "start": 0,
+              "username": "BZaychlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086820447522607482",
+        "in_reply_to_user_id": "1552137826913120256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086726785753104768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BZaychlk 那就又会多一个变量😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552137826913120256",
+        "conversation_id": "2086709134922281323",
+        "created_at": "2026-08-10T08:10:09.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086726785753104768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086726785753104768",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086709134922281323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 正在放置一个变量"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086820447522607482",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6111,
+          "following_count": 1727,
+          "like_count": 34381,
+          "listed_count": 16,
+          "media_count": 2918,
+          "tweet_count": 13447
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T03:44:42.000Z",
+        "description": "会中，英，双语，但是日语苦手😭 一点烂塑料怎么倒狗还能炒起来？ / hrt from Oct.19.2025 /",
+        "id": "1552137826913120256",
+        "is_identity_verified": false,
+        "location": "Side 6 殖民卫星",
+        "most_recent_tweet_id": "2086726785753104768",
+        "name": "王牌N代目",
+        "pinned_tweet_id": "1977297611930669419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552137826913120256/1778341125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053137246237450240/xWL_ZhYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 636,
+          "like_count": 17656,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 4901
+        },
+        "url": "",
+        "username": "BZaychlk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

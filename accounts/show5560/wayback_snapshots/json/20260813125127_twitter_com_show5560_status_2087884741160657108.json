@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2087675504589459486",
+    "created_at": "2026-08-13T12:51:27.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087884741160657108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "958502055357792257",
+          "start": 0,
+          "username": "wxy20167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087884741160657108",
+    "in_reply_to_user_id": "958502055357792257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087873774763086224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxy20167 帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087873741300871168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmeGw4asAAAgm0.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2087675504589459486",
+        "created_at": "2026-08-13T12:51:27.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087884741160657108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "958502055357792257",
+              "start": 0,
+              "username": "wxy20167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087884741160657108",
+        "in_reply_to_user_id": "958502055357792257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087873774763086224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxy20167 帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087873741300871168"
+          ]
+        },
+        "author_id": "958502055357792257",
+        "conversation_id": "2087675504589459486",
+        "created_at": "2026-08-13T12:07:53.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087873774763086224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMLFRGti2R",
+              "end": 42,
+              "expanded_url": "https://x.com/wxy20167/status/2087873774763086224/photo/1",
+              "media_key": "3_2087873741300871168",
+              "start": 19,
+              "url": "https://t.co/fMLFRGti2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087873774763086224",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087873741300871168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087675504589459486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 AI还是太好用了 https://t.co/fMLFRGti2R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087884741160657108",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6210,
+          "following_count": 1728,
+          "like_count": 34770,
+          "listed_count": 18,
+          "media_count": 2981,
+          "tweet_count": 13759
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-31T00:47:52.000Z",
+        "description": "",
+        "id": "958502055357792257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087873774763086224",
+        "name": "CompletedPower",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446886731022622720/kPinIdeL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 521,
+          "like_count": 4964,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "wxy20167",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

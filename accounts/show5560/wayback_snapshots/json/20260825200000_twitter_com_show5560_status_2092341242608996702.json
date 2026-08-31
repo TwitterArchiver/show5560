@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092282614199795712"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2092341242608996702",
+    "created_at": "2026-08-25T20:00:00.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T21:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092341242608996702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/73MvkTYm4c",
+          "end": 43,
+          "expanded_url": "https://x.com/show5560/status/2092341242608996702/photo/1",
+          "media_key": "3_2092282614199795712",
+          "start": 20,
+          "url": "https://t.co/73MvkTYm4c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092341242608996702",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092282614199795712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是不是？？什么叫你老婆是上面的那个🤯 https://t.co/73MvkTYm4c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2092282614199795712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlH88UawAAelBZ.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092282614199795712"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2092341242608996702",
+        "created_at": "2026-08-25T20:00:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092341242608996702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73MvkTYm4c",
+              "end": 43,
+              "expanded_url": "https://x.com/show5560/status/2092341242608996702/photo/1",
+              "media_key": "3_2092282614199795712",
+              "start": 20,
+              "url": "https://t.co/73MvkTYm4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092341242608996702",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092282614199795712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是不是？？什么叫你老婆是上面的那个🤯 https://t.co/73MvkTYm4c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092341242608996702",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6683,
+          "following_count": 1721,
+          "like_count": 36260,
+          "listed_count": 17,
+          "media_count": 3272,
+          "tweet_count": 14968
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

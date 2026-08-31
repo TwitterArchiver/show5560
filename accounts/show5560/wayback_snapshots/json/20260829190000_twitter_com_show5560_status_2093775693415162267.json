@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093338960345059328"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2093775693415162267",
+    "created_at": "2026-08-29T19:00:00.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T20:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093775693415162267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QVpXF5MW0V",
+          "end": 62,
+          "expanded_url": "https://x.com/show5560/status/2093775693415162267/photo/1",
+          "media_key": "3_2093338960345059328",
+          "start": 39,
+          "url": "https://t.co/QVpXF5MW0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093775693415162267",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093338960345059328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买电脑吗？\n老有人说现在为什么网上xxs这么多\n笑死 你看看以前电脑什么价格 https://t.co/QVpXF5MW0V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2093338960345059328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0IsYXaUAAh1N9.png",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093338960345059328"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2093775693415162267",
+        "created_at": "2026-08-29T19:00:00.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093775693415162267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVpXF5MW0V",
+              "end": 62,
+              "expanded_url": "https://x.com/show5560/status/2093775693415162267/photo/1",
+              "media_key": "3_2093338960345059328",
+              "start": 39,
+              "url": "https://t.co/QVpXF5MW0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093775693415162267",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093338960345059328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买电脑吗？\n老有人说现在为什么网上xxs这么多\n笑死 你看看以前电脑什么价格 https://t.co/QVpXF5MW0V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093775693415162267",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6810,
+          "following_count": 1721,
+          "like_count": 36786,
+          "listed_count": 17,
+          "media_count": 3370,
+          "tweet_count": 15387
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

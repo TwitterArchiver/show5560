@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086497325300744192"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2086678931369849266",
+    "created_at": "2026-08-10T05:00:00.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086678931369849266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DenKsBZNIE",
+          "end": 40,
+          "expanded_url": "https://x.com/show5560/status/2086678931369849266/photo/1",
+          "media_key": "3_2086497325300744192",
+          "start": 17,
+          "url": "https://t.co/DenKsBZNIE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086678931369849266",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086497325300744192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "机箱里怕是运行Python吧？🤔 https://t.co/DenKsBZNIE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_2086497325300744192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPS6QztagAAEfP2.png",
+        "width": 586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086497325300744192"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2086678931369849266",
+        "created_at": "2026-08-10T05:00:00.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086678931369849266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DenKsBZNIE",
+              "end": 40,
+              "expanded_url": "https://x.com/show5560/status/2086678931369849266/photo/1",
+              "media_key": "3_2086497325300744192",
+              "start": 17,
+              "url": "https://t.co/DenKsBZNIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086678931369849266",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086497325300744192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "机箱里怕是运行Python吧？🤔 https://t.co/DenKsBZNIE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删 //推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086678931369849266",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2086456638622556254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6104,
+          "following_count": 1728,
+          "like_count": 34318,
+          "listed_count": 16,
+          "media_count": 2909,
+          "tweet_count": 13394
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

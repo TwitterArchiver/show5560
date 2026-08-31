@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2087830849807118778",
+    "created_at": "2026-08-13T09:24:26.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087832639717941589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495271567554936833",
+          "start": 0,
+          "username": "y17817s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087832639717941589",
+    "in_reply_to_user_id": "1495271567554936833",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087830849807118778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y17817s 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2087830849807118778",
+        "created_at": "2026-08-13T09:24:26.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087832639717941589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495271567554936833",
+              "start": 0,
+              "username": "y17817s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087832639717941589",
+        "in_reply_to_user_id": "1495271567554936833",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087830849807118778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y17817s 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495271567554936833",
+        "conversation_id": "2087830849807118778",
+        "created_at": "2026-08-13T09:17:19.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:16:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087830703635681765",
+          "2087830849807118778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/show5560/status/2087388612639801486",
+              "start": 16,
+              "url": "https://t.co/0TIDgkmvfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087830849807118778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087388612639801486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉追时团的都有那个ltp.. https://t.co/0TIDgkmvfK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087832639717941589",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6193,
+          "following_count": 1728,
+          "like_count": 34778,
+          "listed_count": 18,
+          "media_count": 2977,
+          "tweet_count": 13754
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-20T05:38:25.000Z",
+        "description": "作息不正常 想发什么就发什么 反正没人认识我\n呃 无聊时候的口嗨别当真 不网恋",
+        "id": "1495271567554936833",
+        "is_identity_verified": false,
+        "location": "马来西亚",
+        "most_recent_tweet_id": "2087830849807118778",
+        "name": "韫yun",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086161805186039808/LFaNLCfL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 49,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "y17817s",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

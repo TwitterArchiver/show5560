@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2088252648667635982",
+    "created_at": "2026-08-14T16:57:31.000Z",
+    "display_text_range": [
+      14,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088309050656367006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1167850695103434753",
+          "start": 0,
+          "username": "Wainwainread"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088309050656367006",
+    "in_reply_to_user_id": "1167850695103434753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088252648667635982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wainwainread 大自然这人体画的真比我好的不止一点半点😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2088252648667635982",
+        "created_at": "2026-08-14T16:57:31.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088309050656367006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1167850695103434753",
+              "start": 0,
+              "username": "Wainwainread"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088309050656367006",
+        "in_reply_to_user_id": "1167850695103434753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088252648667635982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wainwainread 大自然这人体画的真比我好的不止一点半点😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167850695103434753",
+        "conversation_id": "2088252648667635982",
+        "created_at": "2026-08-14T13:13:23.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088252648667635982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/show5560/status/2087675504589459486",
+              "start": 8,
+              "url": "https://t.co/hixh1B8X4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088252648667635982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087675504589459486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這也太動感了😱 https://t.co/hixh1B8X4C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088309050656367006",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6234,
+          "following_count": 1728,
+          "like_count": 34802,
+          "listed_count": 18,
+          "media_count": 2996,
+          "tweet_count": 13811
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-31T17:24:57.000Z",
+        "description": "低調溫和佛教徒📿\n愛好自然植物控🌿\n靜靜的補+默默的坦🔋\n無知無畏🏂\n縫紉中級🧵\nmeshtastic📡\n台灣獨立❤️",
+        "id": "1167850695103434753",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088257133892792567",
+        "name": "🐝麻糬Wain🐝",
+        "pinned_tweet_id": "2021602448352178343",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167850695103434753/1574773346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1167850838838038528/K-wzA8Gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 5561,
+          "like_count": 383828,
+          "listed_count": 6,
+          "media_count": 1955,
+          "tweet_count": 76130
+        },
+        "url": "",
+        "username": "Wainwainread",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
