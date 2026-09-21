@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2097721456310604190",
+    "created_at": "2026-09-13T14:24:37.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099142209186767132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1594240329158463495",
+          "start": 0,
+          "username": "Y_77671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099142209186767132",
+    "in_reply_to_user_id": "1594240329158463495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097721456310604190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_77671 你这是专送还是？🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097721439269126147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyaiOlbgAMTGb6.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2097721439264878592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyaiOkasAAu-4q.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2097721439277457408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyaiOnaoAAPVoB.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2097721456310604190",
+        "created_at": "2026-09-13T14:24:37.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099142209186767132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1594240329158463495",
+              "start": 0,
+              "username": "Y_77671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099142209186767132",
+        "in_reply_to_user_id": "1594240329158463495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097721456310604190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_77671 你这是专送还是？🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097721439269126147",
+            "3_2097721439264878592",
+            "3_2097721439277457408"
+          ]
+        },
+        "author_id": "1594240329158463495",
+        "conversation_id": "2097721456310604190",
+        "created_at": "2026-09-09T16:19:03.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097721456310604190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPzTrxGMFt",
+              "end": 27,
+              "expanded_url": "https://x.com/Y_77671/status/2097721456310604190/photo/1",
+              "media_key": "3_2097721439269126147",
+              "start": 4,
+              "url": "https://t.co/PPzTrxGMFt"
+            },
+            {
+              "display_url": "pic.x.com/PPzTrxGMFt",
+              "end": 27,
+              "expanded_url": "https://x.com/Y_77671/status/2097721456310604190/photo/1",
+              "media_key": "3_2097721439264878592",
+              "start": 4,
+              "url": "https://t.co/PPzTrxGMFt"
+            },
+            {
+              "display_url": "pic.x.com/PPzTrxGMFt",
+              "end": 27,
+              "expanded_url": "https://x.com/Y_77671/status/2097721456310604190/photo/1",
+              "media_key": "3_2097721439277457408",
+              "start": 4,
+              "url": "https://t.co/PPzTrxGMFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097721456310604190",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097721439269126147"
+          },
+          {
+            "media_key": "3_2097721439264878592"
+          },
+          {
+            "media_key": "3_2097721439277457408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1681,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日收入 https://t.co/PPzTrxGMFt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099142209186767132",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7670,
+          "following_count": 1726,
+          "like_count": 37951,
+          "listed_count": 17,
+          "media_count": 3572,
+          "tweet_count": 16386
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-20T08:05:04.000Z",
+        "description": "不接受任何药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y77671",
+                "end": 23,
+                "expanded_url": "https://t.me/Y77671",
+                "start": 0,
+                "url": "https://t.co/HO8g4XQY7A"
+              }
+            ]
+          }
+        },
+        "id": "1594240329158463495",
+        "is_identity_verified": false,
+        "location": "维寒迪",
+        "most_recent_tweet_id": "2099128170725478569",
+        "name": "zako⭐️（辽宁版）",
+        "pinned_tweet_id": "1901282084871905491",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594240329158463495/1748791546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872512946783535104/cq9gZcdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6445,
+          "following_count": 1329,
+          "like_count": 17515,
+          "listed_count": 10,
+          "media_count": 1046,
+          "tweet_count": 5345
+        },
+        "url": "https://t.co/HO8g4XQY7A",
+        "username": "Y_77671",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

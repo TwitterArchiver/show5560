@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2096252338193506743",
+    "created_at": "2026-09-07T11:46:15.000Z",
+    "display_text_range": [
+      24,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096928028446310623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        },
+        {
+          "end": 23,
+          "id": "918716499254132736",
+          "start": 10,
+          "username": "gengzishunli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096928028446310623",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096590276882317783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir @gengzishunli 蓝v不是有钱就行（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2096252338193506743",
+        "created_at": "2026-09-07T11:46:15.000Z",
+        "display_text_range": [
+          24,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096928028446310623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            },
+            {
+              "end": 23,
+              "id": "918716499254132736",
+              "start": 10,
+              "username": "gengzishunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096928028446310623",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096590276882317783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir @gengzishunli 蓝v不是有钱就行（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026283442259017729",
+        "conversation_id": "2096252338193506743",
+        "created_at": "2026-09-06T13:24:09.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096590276882317783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "918716499254132736",
+              "start": 0,
+              "username": "gengzishunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096590276882317783",
+        "in_reply_to_user_id": "918716499254132736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6143,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096590005787591048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengzishunli 这种认知，蓝V怎么开的？简直让我大开眼界"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096928028446310623",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7586,
+          "following_count": 1725,
+          "like_count": 37856,
+          "listed_count": 17,
+          "media_count": 3575,
+          "tweet_count": 16175
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "内容创作者，二次元爱好者，时政评论",
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096909669776474592",
+        "name": "jusir",
+        "pinned_tweet_id": "2087100350092181848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5934,
+          "following_count": 4429,
+          "like_count": 8804,
+          "listed_count": 13,
+          "media_count": 1205,
+          "tweet_count": 4761
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-13T05:54:17.000Z",
+        "description": "有啥发啥 | 美股韭菜日记 | 科技圈吃瓜群众 | 段子搬运工 | 日常碎碎念 | 突发奇想专业户 | 养生理智但管不住嘴 | AI工具探索中 | 好看的剧/电影/纪录片 | 偶尔怀旧金曲 | meme收藏家 | 热点慢半拍但一定要唠!",
+        "id": "918716499254132736",
+        "is_identity_verified": false,
+        "location": "Canada",
+        "most_recent_tweet_id": "2096809550120980597",
+        "name": "阿离啊哩哩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918716499254132736/1589036668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049935213028048896/cOC68CPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9606,
+          "following_count": 8876,
+          "like_count": 7524,
+          "listed_count": 15,
+          "media_count": 675,
+          "tweet_count": 8978
+        },
+        "url": "",
+        "username": "gengzishunli",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

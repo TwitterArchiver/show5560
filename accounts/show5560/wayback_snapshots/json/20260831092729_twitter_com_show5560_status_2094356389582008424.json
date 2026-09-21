@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2094301688937300342",
+    "created_at": "2026-08-31T09:27:29.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094356389582008424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2204715996",
+          "start": 0,
+          "username": "shouqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094356389582008424",
+    "in_reply_to_user_id": "2204715996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094301688937300342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shouqu 那不是一般的难了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2094301688937300342",
+        "created_at": "2026-08-31T09:27:29.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094356389582008424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2204715996",
+              "start": 0,
+              "username": "shouqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094356389582008424",
+        "in_reply_to_user_id": "2204715996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094301688937300342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shouqu 那不是一般的难了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2204715996",
+        "conversation_id": "2094301688937300342",
+        "created_at": "2026-08-31T05:50:07.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094301688937300342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/show5560/status/2094017288743883205",
+              "start": 27,
+              "url": "https://t.co/dhIi01Mbvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094301688937300342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094017288743883205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这哪有“陨石为什么总是刚好落在陨石坑里”这个问题难。 https://t.co/dhIi01Mbvd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094356389582008424",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7299,
+          "following_count": 1721,
+          "like_count": 37026,
+          "listed_count": 17,
+          "media_count": 3408,
+          "tweet_count": 15560
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-11-20T11:09:19.000Z",
+        "description": "",
+        "id": "2204715996",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094306055362871702",
+        "name": "basicholic",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323837673782484993/Ra_NNs_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 69,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 3627
+        },
+        "url": "",
+        "username": "shouqu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

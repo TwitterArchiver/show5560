@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2095115435976872377",
+    "created_at": "2026-09-02T14:46:48.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095161524340113800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646829104078143494",
+          "start": 0,
+          "username": "8EY3rZMN2k78200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095161524340113800",
+    "in_reply_to_user_id": "1646829104078143494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095115435976872377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8EY3rZMN2k78200 那很有意思了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2095115357799542784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNYUUkbcAA97YV.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2095115435976872377",
+        "created_at": "2026-09-02T14:46:48.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095161524340113800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646829104078143494",
+              "start": 0,
+              "username": "8EY3rZMN2k78200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095161524340113800",
+        "in_reply_to_user_id": "1646829104078143494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095115435976872377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8EY3rZMN2k78200 那很有意思了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095115357799542784"
+          ]
+        },
+        "author_id": "1646829104078143494",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095115435976872377",
+        "created_at": "2026-09-02T11:43:39.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095115435976872377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U5QnVYWsjT",
+              "end": 69,
+              "expanded_url": "https://x.com/8EY3rZMN2k78200/status/2095115435976872377/photo/1",
+              "media_key": "3_2095115357799542784",
+              "start": 46,
+              "url": "https://t.co/U5QnVYWsjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095115435976872377",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095115357799542784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 649,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "太震驚我了，一個中國的遊戲被中國人用中國的AI模型做成中國的迷因，然後出現在日本的伴手禮店 https://t.co/U5QnVYWsjT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095161524340113800",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7385,
+          "following_count": 1722,
+          "like_count": 37385,
+          "listed_count": 18,
+          "media_count": 3462,
+          "tweet_count": 15830
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-14T10:54:50.000Z",
+        "description": "資工（computer science）大學生，喜歡梗圖、小說、幻想、女裝，喜歡和各種有趣的人聊天，蘿莉控+百合控，intp，不約不線下，都會回跟，會聊政治，但僅限回覆，盡量不吵到不聊政治的人，青鳥眼中的中共同路人，粉紅眼中的台獨，私信會回，但不會秒回，不太會聊天\n(我不是beautifulsoup作者，只拿來當暱稱)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BeautifulSoup8",
+                "end": 23,
+                "expanded_url": "http://t.me/BeautifulSoup8",
+                "start": 0,
+                "url": "https://t.co/07s4Q6MMpG"
+              }
+            ]
+          }
+        },
+        "id": "1646829104078143494",
+        "is_identity_verified": false,
+        "location": "台灣 台北 Taiwan Taipei ",
+        "most_recent_tweet_id": "2095158560477127046",
+        "name": "湯湯 beautiful soup（求互fo!!）",
+        "pinned_tweet_id": "1864690737667035216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646829104078143494/1692586321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693455888768745472/P3GUay9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 4287,
+          "like_count": 147318,
+          "listed_count": 10,
+          "media_count": 971,
+          "tweet_count": 12912
+        },
+        "url": "https://t.co/07s4Q6MMpG",
+        "username": "8EY3rZMN2k78200",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

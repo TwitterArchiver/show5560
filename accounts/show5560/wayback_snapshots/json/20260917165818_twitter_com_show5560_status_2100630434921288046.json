@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2100613585357689181",
+    "created_at": "2026-09-17T16:58:18.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T17:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100630434921288046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1531882275591180288",
+          "start": 0,
+          "username": "dogdog461892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100630434921288046",
+    "in_reply_to_user_id": "1531882275591180288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100613585357689181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogdog461892 大狗叫不叫（bushi）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2100613575597498369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbg6t_aIAE9Jff.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2100613575610155008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbg6uCbQAAHbpy.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2100613585357689181",
+        "created_at": "2026-09-17T16:58:18.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100630434921288046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1531882275591180288",
+              "start": 0,
+              "username": "dogdog461892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100630434921288046",
+        "in_reply_to_user_id": "1531882275591180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100613585357689181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogdog461892 大狗叫不叫（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100613575597498369",
+            "3_2100613575610155008"
+          ]
+        },
+        "author_id": "1531882275591180288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2100613585357689181",
+        "created_at": "2026-09-17T15:51:20.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100613585357689181"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "cosplay"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "arknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aj6tMOi7Lw",
+              "end": 70,
+              "expanded_url": "https://x.com/dogdog461892/status/2100613585357689181/photo/1",
+              "media_key": "3_2100613575597498369",
+              "start": 47,
+              "url": "https://t.co/aj6tMOi7Lw"
+            },
+            {
+              "display_url": "pic.x.com/aj6tMOi7Lw",
+              "end": 70,
+              "expanded_url": "https://x.com/dogdog461892/status/2100613585357689181/photo/1",
+              "media_key": "3_2100613575610155008",
+              "start": 47,
+              "url": "https://t.co/aj6tMOi7Lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100613585357689181",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100613575597498369"
+          },
+          {
+            "media_key": "3_2100613575610155008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 780,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的爱是我生命中的点缀，\n你像是栀子花盛开在我心中。\n#cosplay #arknights https://t.co/aj6tMOi7Lw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100630434921288046",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7794,
+          "following_count": 1722,
+          "like_count": 38089,
+          "listed_count": 17,
+          "media_count": 3632,
+          "tweet_count": 16624
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-01T06:16:27.000Z",
+        "description": "所以我会收拾好我的东西 然后逃到很远的地方\n04生理男心理男烟鬼【已有老婆不约不线下勿扰 线下方式只支持线下八角笼以武会友】",
+        "id": "1531882275591180288",
+        "is_identity_verified": false,
+        "location": "福州十六中",
+        "most_recent_tweet_id": "2100620567707812233",
+        "name": "海绵宝宝犬犬儿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531882275591180288/1764727638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993960389730816001/87xS6zNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8221,
+          "following_count": 665,
+          "like_count": 5990,
+          "listed_count": 23,
+          "media_count": 134,
+          "tweet_count": 1525
+        },
+        "url": "",
+        "username": "dogdog461892",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

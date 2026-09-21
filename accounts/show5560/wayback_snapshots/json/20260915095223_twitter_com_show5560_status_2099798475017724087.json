@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2099743264249356545",
+    "created_at": "2026-09-15T09:52:23.000Z",
+    "display_text_range": [
+      15,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T10:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099798475017724087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2017603877936500742",
+          "start": 0,
+          "username": "hongtuweiye82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099798475017724087",
+    "in_reply_to_user_id": "2017603877936500742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099752748636066066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongtuweiye82 在厨房上班炒菜有泡沫水意味着可以下班了，不用炒菜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2099743264249356545",
+        "created_at": "2026-09-15T09:52:23.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099798475017724087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2017603877936500742",
+              "start": 0,
+              "username": "hongtuweiye82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099798475017724087",
+        "in_reply_to_user_id": "2017603877936500742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099752748636066066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongtuweiye82 在厨房上班炒菜有泡沫水意味着可以下班了，不用炒菜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017603877936500742",
+        "conversation_id": "2099743264249356545",
+        "created_at": "2026-09-15T06:50:41.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099752748636066066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099752748636066066",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099743264249356545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这是用了多少"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099798475017724087",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7737,
+          "following_count": 1723,
+          "like_count": 37937,
+          "listed_count": 17,
+          "media_count": 3591,
+          "tweet_count": 16488
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-31T14:20:36.000Z",
+        "description": "中年失业，油腻得刚刚好。🥑\n\n一名在自媒体泥潭里摸爬滚打的迷茫创作者。 ♂️\n搞钱、亏钱、再搞钱。 📉\n这里只聊俗人热爱的一切：\n#趣味生活 🥤 | #军事 📸 | #游戏 🎮  | #投资 💸\n关注我，看一个中年男人如何折腾生活。👇\n免责声明：部分素材源自网络，侵权请联系删除",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 65,
+                "tag": "趣味生活"
+              },
+              {
+                "end": 78,
+                "start": 75,
+                "tag": "军事"
+              },
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "游戏"
+              },
+              {
+                "end": 95,
+                "start": 92,
+                "tag": "投资"
+              }
+            ]
+          }
+        },
+        "id": "2017603877936500742",
+        "is_identity_verified": false,
+        "location": "韩国",
+        "most_recent_tweet_id": "2099786847618814290",
+        "name": "82年八戒",
+        "pinned_tweet_id": "2094403261680005441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017603877936500742/1771551197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070094068970139648/KLK3Vsil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4224,
+          "following_count": 4737,
+          "like_count": 19256,
+          "listed_count": 7,
+          "media_count": 2094,
+          "tweet_count": 16615
+        },
+        "url": "",
+        "username": "hongtuweiye82",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

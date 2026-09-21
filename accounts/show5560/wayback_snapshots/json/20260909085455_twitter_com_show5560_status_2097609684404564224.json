@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097609643384291328"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2097223347994321027",
+    "created_at": "2026-09-09T08:54:55.000Z",
+    "display_text_range": [
+      15,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T09:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097609684404564224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ldsOyoQyDq",
+          "end": 59,
+          "expanded_url": "https://x.com/show5560/status/2097609684404564224/video/1",
+          "media_key": "13_2097609643384291328",
+          "start": 36,
+          "url": "https://t.co/ldsOyoQyDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097609684404564224",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2097609643384291328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097223347994321027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 那我这就不得不祭出这个给你们品鉴品鉴了😋 https://t.co/ldsOyoQyDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86981,
+        "height": 1280,
+        "media_key": "13_2097609643384291328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097609643384291328/img/czhEWTYEdENEJ3q9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097609643384291328/vid/avc1/320x568/kgElMYrXPPuotRcr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097609643384291328/vid/avc1/480x852/7-kTEwoIyGlh17JP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097609643384291328/vid/avc1/720x1280/QZUYIOIY4UrGUFnO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097609643384291328/pl/AThZ2JELko9cxxZo.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1679,
+        "media_key": "3_2097223335461765121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrVgxTbwAE7Pya.jpg",
+        "width": 755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097609643384291328"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2097223347994321027",
+        "created_at": "2026-09-09T08:54:55.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097609684404564224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ldsOyoQyDq",
+              "end": 59,
+              "expanded_url": "https://x.com/show5560/status/2097609684404564224/video/1",
+              "media_key": "13_2097609643384291328",
+              "start": 36,
+              "url": "https://t.co/ldsOyoQyDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097609684404564224",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097609643384291328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097223347994321027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 那我这就不得不祭出这个给你们品鉴品鉴了😋 https://t.co/ldsOyoQyDq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097223335461765121"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2097223347994321027",
+        "created_at": "2026-09-08T07:19:45.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097223347994321027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXEHBk0sN8",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2097223347994321027/photo/1",
+              "media_key": "3_2097223335461765121",
+              "start": 17,
+              "url": "https://t.co/xXEHBk0sN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097223347994321027",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097223335461765121"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 172991,
+          "like_count": 1066,
+          "quote_count": 7,
+          "reply_count": 268,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "这是你的同学的自我介绍，你怎么看 https://t.co/xXEHBk0sN8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//目前就这样，有需要在加★目前已被一个叫酥墨漓的人格夺舍了本账号，简单来说，就是换运营了~o( =∩ω∩= )m",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097609684404564224",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7645,
+          "following_count": 1725,
+          "like_count": 37978,
+          "listed_count": 17,
+          "media_count": 3505,
+          "tweet_count": 16182
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2097607186713337885",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10479,
+          "following_count": 1205,
+          "like_count": 20813,
+          "listed_count": 21,
+          "media_count": 2958,
+          "tweet_count": 6716
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

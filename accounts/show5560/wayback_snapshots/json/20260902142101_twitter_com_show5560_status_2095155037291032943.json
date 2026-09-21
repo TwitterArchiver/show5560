@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2095144872412078439",
+    "created_at": "2026-09-02T14:21:01.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095155037291032943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1758149527234891777",
+          "start": 0,
+          "username": "StarOfficial_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095155037291032943",
+    "in_reply_to_user_id": "1758149527234891777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095144872412078439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarOfficial_A 这真不会被电吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1377,
+        "media_key": "3_2095144861750231040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNzJrWbgAATofN.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2095144872412078439",
+        "created_at": "2026-09-02T14:21:01.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095155037291032943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095155037291032943",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095144872412078439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 这真不会被电吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095144861750231040"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2095144872412078439",
+        "created_at": "2026-09-02T13:40:38.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095144872412078439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxiWR7R0qi",
+              "end": 48,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2095144872412078439/photo/1",
+              "media_key": "3_2095144861750231040",
+              "start": 25,
+              "url": "https://t.co/PxiWR7R0qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095144872412078439",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095144861750231040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你不要上学了好不好\n你去上学了  谁来上我呀 https://t.co/PxiWR7R0qi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095155037291032943",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7385,
+          "following_count": 1722,
+          "like_count": 37359,
+          "listed_count": 18,
+          "media_count": 3462,
+          "tweet_count": 15814
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆ 投喂可以加快产出\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2095144872412078439",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3496,
+          "following_count": 331,
+          "like_count": 1766,
+          "listed_count": 11,
+          "media_count": 99,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

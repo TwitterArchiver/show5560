@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2100978151212130410",
+    "created_at": "2026-09-19T12:28:29.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T13:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101287311430603215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2003436092046131200",
+          "start": 0,
+          "username": "OpheliaLiBaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101287311430603215",
+    "in_reply_to_user_id": "2003436092046131200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101244047180648820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OpheliaLiBaka 这样吗🤔\n米虫真的干净吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2100978151212130410",
+        "created_at": "2026-09-19T12:28:29.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101287311430603215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2003436092046131200",
+              "start": 0,
+              "username": "OpheliaLiBaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101287311430603215",
+        "in_reply_to_user_id": "2003436092046131200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101244047180648820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpheliaLiBaka 这样吗🤔\n米虫真的干净吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003436092046131200",
+        "conversation_id": "2100978151212130410",
+        "created_at": "2026-09-19T09:36:34.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101244047180648820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101244047180648820",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100978151212130410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 米虫的话其实无所谓煮熟了就是蛋白质，要是看着不够吃的话换一份就好了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101287311430603215",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7793,
+          "following_count": 1723,
+          "like_count": 38160,
+          "listed_count": 17,
+          "media_count": 3623,
+          "tweet_count": 16662
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-23T12:03:04.000Z",
+        "description": "我是古希臘掌管🍟的神。\n(➕qq or wx🚪10rmb)只是聊天的话直接私聊就行\n可以找我談談心 ╰(´︶`)╯，只要我在的話都可以陪你聊聊～\n（主要是沒什麼人陪我說話，也不太會聊天，如果不小心說錯話的話請別太在意，阿巴阿巴 (｡•́︿•̀｡)傻逼台獨死一邊\n如果有幫助到你的話歡迎關注我！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/88768743",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/88768743",
+                "start": 0,
+                "url": "https://t.co/Mvnt5vDvnw"
+              }
+            ]
+          }
+        },
+        "id": "2003436092046131200",
+        "is_identity_verified": false,
+        "location": "Cyberstan",
+        "most_recent_tweet_id": "2101284665411911688",
+        "name": "马桶里的土豆地雷",
+        "pinned_tweet_id": "2098262529244106839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2003436092046131200/1789574258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100139555173351424/3br6BwW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1802,
+          "like_count": 6222,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/Mvnt5vDvnw",
+        "username": "OpheliaLiBaka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

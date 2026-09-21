@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2097701569705672871",
+    "created_at": "2026-09-10T02:54:07.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097881277592739867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948951472718446592",
+          "start": 0,
+          "username": "OTO901722859494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097881277592739867",
+    "in_reply_to_user_id": "1948951472718446592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097880396403016053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTO901722859494 还真是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2097701569705672871",
+        "created_at": "2026-09-10T02:54:07.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097881277592739867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948951472718446592",
+              "start": 0,
+              "username": "OTO901722859494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097881277592739867",
+        "in_reply_to_user_id": "1948951472718446592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097880396403016053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTO901722859494 还真是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948951472718446592",
+        "conversation_id": "2097701569705672871",
+        "created_at": "2026-09-10T02:50:37.000Z",
+        "display_text_range": [
+          10,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097880396403016053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097880396403016053",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097701569705672871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 但是帅哥配普女基本不存在，男女在生产审美符号这一块的压力还是不一样的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//目前就这样，有需要在加★目前已被一个叫酥墨漓的人格夺舍了本账号，简单来说，就是换运营了~o( =∩ω∩= )m",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097881277592739867",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7662,
+          "following_count": 1724,
+          "like_count": 38022,
+          "listed_count": 17,
+          "media_count": 3523,
+          "tweet_count": 16218
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-26T03:40:27.000Z",
+        "description": "一般来说都在哭。背景是达州凉虾，很好吃的哦",
+        "id": "1948951472718446592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097880396403016053",
+        "name": "O∧O..",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948951472718446592/1788709390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096623598500995072/kd2zwY2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 277,
+          "like_count": 5385,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 983
+        },
+        "url": "",
+        "username": "OTO901722859494",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585783622123954176",
+          "name": "Coming of age"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2099803662574919895",
+    "created_at": "2026-09-15T10:13:00.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099803662574919895"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099803662574919895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我的青春太过于安静了\n以至于到它结束一时都没反应过来， 自己已经是一个成年人了。 \n没有遇到小时候幻想的白净少女， 没有激情洋溢的校园时光，没有偷偷藏起的脸红心跳，没有恣意而为的潇洒，没有漫画里憧憬的许多美好，只有一些旧旧的回忆。\n黄昏时站在窗前看树影，我曾以为青春的开场会像一场盛大的典礼，最终却发现它只是一次无人注意的漠然退场。 我仿佛一个站在热闹橱窗外的人， 看着里面灯火辉煌，却从未被邀请入内，他来过吗？\n或许只有我自己知道，那一段模糊又充满遗憾的时光就那样结束了。\n像一本留白的故事集,合上时连一丝风都不曾惊起。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的青春太过于安静了\n以至于到它结束一时都没反应过来， 自己已经是一个成年人了。 \n没有遇到小时候幻想的白净少女， 没有激情洋溢的校园时光，没有偷偷藏起的脸红心跳，没有恣意而为的潇洒，没有漫画里憧憬的许多美好，只有一些旧旧的回忆。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585783622123954176",
+              "name": "Coming of age"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2099803662574919895",
+        "created_at": "2026-09-15T10:13:00.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099803662574919895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099803662574919895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我的青春太过于安静了\n以至于到它结束一时都没反应过来， 自己已经是一个成年人了。 \n没有遇到小时候幻想的白净少女， 没有激情洋溢的校园时光，没有偷偷藏起的脸红心跳，没有恣意而为的潇洒，没有漫画里憧憬的许多美好，只有一些旧旧的回忆。\n黄昏时站在窗前看树影，我曾以为青春的开场会像一场盛大的典礼，最终却发现它只是一次无人注意的漠然退场。 我仿佛一个站在热闹橱窗外的人， 看着里面灯火辉煌，却从未被邀请入内，他来过吗？\n或许只有我自己知道，那一段模糊又充满遗憾的时光就那样结束了。\n像一本留白的故事集,合上时连一丝风都不曾惊起。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的青春太过于安静了\n以至于到它结束一时都没反应过来， 自己已经是一个成年人了。 \n没有遇到小时候幻想的白净少女， 没有激情洋溢的校园时光，没有偷偷藏起的脸红心跳，没有恣意而为的潇洒，没有漫画里憧憬的许多美好，只有一些旧旧的回忆。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099803662574919895",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7737,
+          "following_count": 1723,
+          "like_count": 37941,
+          "listed_count": 17,
+          "media_count": 3591,
+          "tweet_count": 16491
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

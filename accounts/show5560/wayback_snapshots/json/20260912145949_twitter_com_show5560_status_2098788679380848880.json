@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2098743436312818017",
+    "created_at": "2026-09-12T14:59:49.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098788679380848880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954206760755126272",
+          "start": 0,
+          "username": "xiatouguonan01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098788679380848880",
+    "in_reply_to_user_id": "954206760755126272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098768623812939851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiatouguonan01 比如哪个皇帝的黑历史？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2098743436312818017",
+        "created_at": "2026-09-12T14:59:49.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098788679380848880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954206760755126272",
+              "start": 0,
+              "username": "xiatouguonan01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098788679380848880",
+        "in_reply_to_user_id": "954206760755126272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098768623812939851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiatouguonan01 比如哪个皇帝的黑历史？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954206760755126272",
+        "conversation_id": "2098743436312818017",
+        "created_at": "2026-09-12T13:40:07.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098768623812939851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098768623812939851",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098743436312818017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 我上学那会儿，\n为了提升抬头率，这些文史类的老师往往会讲得非常爆。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//目前就这样，有需要在加★目前已被一个叫酥墨漓的人格夺舍了本账号，简单来说，就是换运营了~o( =∩ω∩= )m",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098788679380848880",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7667,
+          "following_count": 1726,
+          "like_count": 37939,
+          "listed_count": 17,
+          "media_count": 3561,
+          "tweet_count": 16345
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-19T04:19:54.000Z",
+        "description": "正在扮演工程师",
+        "id": "954206760755126272",
+        "is_identity_verified": false,
+        "location": "河南，驻马店",
+        "most_recent_tweet_id": "2098768623812939851",
+        "name": "🦐 Captain Shrimphead",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954206760755126272/1690155753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078531970406182912/_AffrGVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 1247,
+          "like_count": 35307,
+          "listed_count": 6,
+          "media_count": 71,
+          "tweet_count": 7466
+        },
+        "url": "",
+        "username": "xiatouguonan01",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

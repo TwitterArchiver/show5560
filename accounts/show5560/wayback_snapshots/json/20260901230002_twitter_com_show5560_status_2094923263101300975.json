@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094615473753333760"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2094923263101300975",
+    "created_at": "2026-09-01T23:00:02.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T00:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094923263101300975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4L7zITplbO",
+          "end": 32,
+          "expanded_url": "https://x.com/show5560/status/2094923263101300975/photo/1",
+          "media_key": "3_2094615473753333760",
+          "start": 9,
+          "url": "https://t.co/4L7zITplbO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094923263101300975",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094615473753333760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“医者有六不治” https://t.co/4L7zITplbO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_2094615473753333760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGRrPYaoAAFzMC.jpg",
+        "width": 845
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094615473753333760"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2094923263101300975",
+        "created_at": "2026-09-01T23:00:02.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094923263101300975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4L7zITplbO",
+              "end": 32,
+              "expanded_url": "https://x.com/show5560/status/2094923263101300975/photo/1",
+              "media_key": "3_2094615473753333760",
+              "start": 9,
+              "url": "https://t.co/4L7zITplbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094923263101300975",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094615473753333760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“医者有六不治” https://t.co/4L7zITplbO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094923263101300975",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7383,
+          "following_count": 1720,
+          "like_count": 37234,
+          "listed_count": 18,
+          "media_count": 3447,
+          "tweet_count": 15737
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

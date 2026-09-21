@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099951803953807360"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2100135851112165774",
+    "created_at": "2026-09-16T08:13:00.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T09:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100135851112165774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZsVLnS8Nje",
+          "end": 31,
+          "expanded_url": "https://x.com/show5560/status/2100135851112165774/photo/1",
+          "media_key": "3_2099951803953807360",
+          "start": 8,
+          "url": "https://t.co/ZsVLnS8Nje"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100135851112165774",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099951803953807360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请选择你的英雄 https://t.co/ZsVLnS8Nje"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2099951803953807360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSHCigbgAAQF0l.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099951803953807360"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2100135851112165774",
+        "created_at": "2026-09-16T08:13:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100135851112165774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsVLnS8Nje",
+              "end": 31,
+              "expanded_url": "https://x.com/show5560/status/2100135851112165774/photo/1",
+              "media_key": "3_2099951803953807360",
+              "start": 8,
+              "url": "https://t.co/ZsVLnS8Nje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100135851112165774",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099951803953807360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的英雄 https://t.co/ZsVLnS8Nje"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100135851112165774",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7748,
+          "following_count": 1724,
+          "like_count": 37981,
+          "listed_count": 17,
+          "media_count": 3608,
+          "tweet_count": 16537
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

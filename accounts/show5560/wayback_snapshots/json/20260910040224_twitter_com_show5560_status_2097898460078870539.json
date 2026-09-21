@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087827328210460672",
+    "conversation_id": "2097716660472025257",
+    "created_at": "2026-09-10T04:02:24.000Z",
+    "display_text_range": [
+      10,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097898460078870539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465701247021838341",
+          "start": 0,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097898460078870539",
+    "in_reply_to_user_id": "1465701247021838341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097716660472025257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@show5560 应该没人比我玩的开了吧😋🥝我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2087827328210460672].",
+      "parameter": "author_id",
+      "resource_id": "2087827328210460672",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2087827328210460672"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_2097711806206902272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyRxgobAAAmWrj.png",
+        "width": 330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087827328210460672",
+        "conversation_id": "2097716660472025257",
+        "created_at": "2026-09-10T04:02:24.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097898460078870539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097898460078870539",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097716660472025257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 应该没人比我玩的开了吧😋🥝我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097711806206902272"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2097716660472025257",
+        "created_at": "2026-09-09T16:00:00.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097716660472025257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlIHO49kI7",
+              "end": 52,
+              "expanded_url": "https://x.com/show5560/status/2097716660472025257/photo/1",
+              "media_key": "3_2097711806206902272",
+              "start": 29,
+              "url": "https://t.co/NlIHO49kI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097716660472025257",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097711806206902272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2506,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪里？？？\n你是怎么上起点中文网的？\n审核冲昏了？（雾） https://t.co/NlIHO49kI7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//目前就这样，有需要在加★目前已被一个叫酥墨漓的人格夺舍了本账号，简单来说，就是换运营了~o( =∩ω∩= )m",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097897862583754862",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7661,
+          "following_count": 1724,
+          "like_count": 38035,
+          "listed_count": 17,
+          "media_count": 3525,
+          "tweet_count": 16223
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

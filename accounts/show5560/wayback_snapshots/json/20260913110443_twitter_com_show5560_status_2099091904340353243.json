@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2099076876530758060",
+    "created_at": "2026-09-13T11:04:43.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T12:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099091904340353243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "197007388",
+          "start": 0,
+          "username": "Hitomi_Ayanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099091904340353243",
+    "in_reply_to_user_id": "197007388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099076876530758060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hitomi_Ayanami 对啊！！很有用的，不知道为什么要淘汰😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2099076876530758060",
+        "created_at": "2026-09-13T11:04:43.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T12:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099091904340353243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "197007388",
+              "start": 0,
+              "username": "Hitomi_Ayanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099091904340353243",
+        "in_reply_to_user_id": "197007388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099076876530758060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hitomi_Ayanami 对啊！！很有用的，不知道为什么要淘汰😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "197007388",
+        "conversation_id": "2099076876530758060",
+        "created_at": "2026-09-13T10:05:00.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099076876530758060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/show5560/status/2099003389002895701",
+              "start": 23,
+              "url": "https://t.co/veRUJPgazX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099076876530758060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099003389002895701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呼吸灯和3.5mm耳机 真的很有必要啊！！！ https://t.co/veRUJPgazX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099091904340353243",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7664,
+          "following_count": 1726,
+          "like_count": 37934,
+          "listed_count": 17,
+          "media_count": 3571,
+          "tweet_count": 16371
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-30T12:48:30.000Z",
+        "description": "姬家难民 不会说英语的新西兰留学生 不辨菽麦的伪植物学家 不识六畜的伪分子生物学家 自认是会做饭的大叔 现在是一般会社員 My brain has two sides, the left side has nothing left and the right has nothing right!",
+        "id": "197007388",
+        "is_identity_verified": false,
+        "location": "Hamilton City, New Zealand",
+        "most_recent_tweet_id": "2099087884779467051",
+        "name": "Hitomi Ayanami",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/197007388/1398234217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1051304524579659776/ZVXfWKmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1057,
+          "like_count": 2364,
+          "listed_count": 25,
+          "media_count": 2738,
+          "tweet_count": 64984
+        },
+        "url": "",
+        "username": "Hitomi_Ayanami",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

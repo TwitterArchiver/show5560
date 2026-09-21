@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099553881802096640"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2099969756732223748",
+    "created_at": "2026-09-15T21:13:00.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T22:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099969756732223748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oJ3CXuobp1",
+          "end": 37,
+          "expanded_url": "https://x.com/show5560/status/2099969756732223748/photo/1",
+          "media_key": "3_2099553881802096640",
+          "start": 14,
+          "url": "https://t.co/oJ3CXuobp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099969756732223748",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099553881802096640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精准蹲守一扇永久封闭的车门 https://t.co/oJ3CXuobp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2099553881802096640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMdIa-bQAAn7x_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099553881802096640"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2099969756732223748",
+        "created_at": "2026-09-15T21:13:00.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T22:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099969756732223748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJ3CXuobp1",
+              "end": 37,
+              "expanded_url": "https://x.com/show5560/status/2099969756732223748/photo/1",
+              "media_key": "3_2099553881802096640",
+              "start": 14,
+              "url": "https://t.co/oJ3CXuobp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099969756732223748",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099553881802096640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精准蹲守一扇永久封闭的车门 https://t.co/oJ3CXuobp1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099969756732223748",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7746,
+          "following_count": 1724,
+          "like_count": 37965,
+          "listed_count": 17,
+          "media_count": 3599,
+          "tweet_count": 16514
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

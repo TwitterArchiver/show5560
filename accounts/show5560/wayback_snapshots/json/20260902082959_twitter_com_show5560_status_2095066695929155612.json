@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2094707009459523720",
+    "created_at": "2026-09-02T08:29:59.000Z",
+    "display_text_range": [
+      38,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T09:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095066695929155612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin0908"
+        },
+        {
+          "end": 22,
+          "id": "1285045131758809091",
+          "start": 14,
+          "username": "CnDiode"
+        },
+        {
+          "end": 37,
+          "id": "1271539831479263232",
+          "start": 23,
+          "username": "ShinoKanameta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095066695929155612",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094707009459523720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin0908 @CnDiode @ShinoKanameta 好诶，都好可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2303,
+        "media_key": "3_2094706955906584576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHk4M9aEAA3JtD.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2094707009459523720",
+        "created_at": "2026-09-02T08:29:59.000Z",
+        "display_text_range": [
+          38,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095066695929155612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin0908"
+            },
+            {
+              "end": 22,
+              "id": "1285045131758809091",
+              "start": 14,
+              "username": "CnDiode"
+            },
+            {
+              "end": 37,
+              "id": "1271539831479263232",
+              "start": 23,
+              "username": "ShinoKanameta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095066695929155612",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094707009459523720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin0908 @CnDiode @ShinoKanameta 好诶，都好可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094706955906584576"
+          ]
+        },
+        "author_id": "3032768018",
+        "conversation_id": "2094707009459523720",
+        "created_at": "2026-09-01T08:40:43.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094707009459523720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1285045131758809091",
+              "start": 12,
+              "username": "CnDiode"
+            },
+            {
+              "end": 49,
+              "id": "1271539831479263232",
+              "start": 35,
+              "username": "ShinoKanameta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWdpw9gCvt",
+              "end": 73,
+              "expanded_url": "https://x.com/Chiyorin0908/status/2094707009459523720/photo/1",
+              "media_key": "3_2094706955906584576",
+              "start": 50,
+              "url": "https://t.co/zWdpw9gCvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094707009459523720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094706955906584576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2752,
+          "like_count": 96,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一辈子好姐妹\nwith @CnDiode \n感谢摄影&amp;后期妈妈@ShinoKanameta https://t.co/zWdpw9gCvt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095066695929155612",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7386,
+          "following_count": 1722,
+          "like_count": 37267,
+          "listed_count": 18,
+          "media_count": 3456,
+          "tweet_count": 15763
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream/女装 早稲田大学 M1 同好扩列\n😘：@DurantRaym93677 ｜妈妈：@CnDiode\n里：@cccy0037 （🚪48.8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "username": "CnDiode"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "cccy0037"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 0,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "is_identity_verified": false,
+        "location": "埼玉県 所沢市",
+        "most_recent_tweet_id": "2094722993838793156",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2078345669824438597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3032768018/1784720508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071420961686208513/BNhEveFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3622,
+          "following_count": 1800,
+          "like_count": 9899,
+          "listed_count": 10,
+          "media_count": 1254,
+          "tweet_count": 4985
+        },
+        "url": "https://t.co/Es5shIbjtN",
+        "username": "Chiyorin0908",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-20T02:53:42.000Z",
+        "description": "⭐︎本日の運転は終了しました⭐︎｜廣東/関西｜想要被爱拯救｜私联回关/放行粉丝群｜🍼@hirasawataffy @Chiyorin0908 @DrSunan2022422｜色色/负能@tsukiha_niko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "hirasawataffy"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Chiyorin0908"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "DrSunan2022422"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "tsukiha_niko"
+              }
+            ]
+          }
+        },
+        "id": "1285045131758809091",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094999948953780428",
+        "name": "ElmCose榆法糖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285045131758809091/1773419419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798288378498342912/eT-pml4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 284,
+          "like_count": 5068,
+          "listed_count": 7,
+          "media_count": 87,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "CnDiode",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T20:28:21.000Z",
+        "description": "バンドリ/🚪58🟩/R18 @Hamomochan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Hamomochan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jetphotos.com/photographer/2…",
+                "end": 23,
+                "expanded_url": "https://www.jetphotos.com/photographer/258082",
+                "start": 0,
+                "url": "https://t.co/VEEByKgA8G"
+              }
+            ]
+          }
+        },
+        "id": "1271539831479263232",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2094711078148292791",
+        "name": "竹田羽桃",
+        "pinned_tweet_id": "2056796816403022214",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271539831479263232/1651711041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907047000585220096/DnabOhIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 1184,
+          "like_count": 27864,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 3566
+        },
+        "url": "https://t.co/VEEByKgA8G",
+        "username": "ShinoKanameta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

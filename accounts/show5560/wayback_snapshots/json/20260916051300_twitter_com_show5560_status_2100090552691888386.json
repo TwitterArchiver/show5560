@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099951447018471424"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2100090552691888386",
+    "created_at": "2026-09-16T05:13:00.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T06:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100090552691888386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kt01YjmUE2",
+          "end": 34,
+          "expanded_url": "https://x.com/show5560/status/2100090552691888386/photo/1",
+          "media_key": "3_2099951447018471424",
+          "start": 11,
+          "url": "https://t.co/kt01YjmUE2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100090552691888386",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099951447018471424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这帮大学生瘾是真大啊 https://t.co/kt01YjmUE2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 897,
+        "media_key": "3_2099951447018471424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSGtw0agAABEI4.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099951447018471424"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2100090552691888386",
+        "created_at": "2026-09-16T05:13:00.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100090552691888386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kt01YjmUE2",
+              "end": 34,
+              "expanded_url": "https://x.com/show5560/status/2100090552691888386/photo/1",
+              "media_key": "3_2099951447018471424",
+              "start": 11,
+              "url": "https://t.co/kt01YjmUE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100090552691888386",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099951447018471424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这帮大学生瘾是真大啊 https://t.co/kt01YjmUE2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100090552691888386",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7748,
+          "following_count": 1724,
+          "like_count": 37967,
+          "listed_count": 17,
+          "media_count": 3605,
+          "tweet_count": 16522
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

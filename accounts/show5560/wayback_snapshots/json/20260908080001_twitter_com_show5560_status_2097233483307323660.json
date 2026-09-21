@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097045182646751232"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2097233483307323660",
+    "created_at": "2026-09-08T08:00:01.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097233483307323660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vXniJV0eNo",
+          "end": 89,
+          "expanded_url": "https://x.com/show5560/status/2097233483307323660/photo/1",
+          "media_key": "3_2097045182646751232",
+          "start": 66,
+          "url": "https://t.co/vXniJV0eNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097233483307323660",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097045182646751232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "励志小故事\n高中辛苦三年考了分，还好国家政策好，又给加了60分，父母觉得太辛苦了让她别继续上学了，人家觉得还是学习重要，坚持上学。 https://t.co/vXniJV0eNo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2097045182646751232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRoze6WakAA5BX4.png",
+        "width": 364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097045182646751232"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2097233483307323660",
+        "created_at": "2026-09-08T08:00:01.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097233483307323660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXniJV0eNo",
+              "end": 89,
+              "expanded_url": "https://x.com/show5560/status/2097233483307323660/photo/1",
+              "media_key": "3_2097045182646751232",
+              "start": 66,
+              "url": "https://t.co/vXniJV0eNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097233483307323660",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097045182646751232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "励志小故事\n高中辛苦三年考了分，还好国家政策好，又给加了60分，父母觉得太辛苦了让她别继续上学了，人家觉得还是学习重要，坚持上学。 https://t.co/vXniJV0eNo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097233483307323660",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7615,
+          "following_count": 1725,
+          "like_count": 37948,
+          "listed_count": 17,
+          "media_count": 3593,
+          "tweet_count": 16232
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

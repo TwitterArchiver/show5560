@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099545912725143552"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2099607368787263577",
+    "created_at": "2026-09-14T21:13:00.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T22:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099607368787263577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dr8MIfUdRp",
+          "end": 45,
+          "expanded_url": "https://x.com/show5560/status/2099607368787263577/photo/1",
+          "media_key": "3_2099545912725143552",
+          "start": 22,
+          "url": "https://t.co/dr8MIfUdRp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099607368787263577",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099545912725143552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么其他门店都撤了，就星巴克还在照常营业 https://t.co/dr8MIfUdRp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2099545912725143552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMV4j2bAAAzE5R.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099545912725143552"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2099607368787263577",
+        "created_at": "2026-09-14T21:13:00.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T22:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099607368787263577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dr8MIfUdRp",
+              "end": 45,
+              "expanded_url": "https://x.com/show5560/status/2099607368787263577/photo/1",
+              "media_key": "3_2099545912725143552",
+              "start": 22,
+              "url": "https://t.co/dr8MIfUdRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099607368787263577",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099545912725143552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么其他门店都撤了，就星巴克还在照常营业 https://t.co/dr8MIfUdRp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099607368787263577",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7728,
+          "following_count": 1724,
+          "like_count": 37991,
+          "listed_count": 17,
+          "media_count": 3590,
+          "tweet_count": 16465
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

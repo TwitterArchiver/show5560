@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096844930249531393"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2097037184247418903",
+    "created_at": "2026-09-07T19:00:00.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T20:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097037184247418903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0DF8ryHxeF",
+          "end": 59,
+          "expanded_url": "https://x.com/show5560/status/2097037184247418903/photo/1",
+          "media_key": "3_2096844930249531393",
+          "start": 36,
+          "url": "https://t.co/0DF8ryHxeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097037184247418903",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096844930249531393"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "商家是真的很怕门店被查啊）\n话说现在的社会还有这种荤的敢直接挂美团吗😁 https://t.co/0DF8ryHxeF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2096844930249531393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRl9WsCaIAEudkG.jpg",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096844930249531393"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2097037184247418903",
+        "created_at": "2026-09-07T19:00:00.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097037184247418903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DF8ryHxeF",
+              "end": 59,
+              "expanded_url": "https://x.com/show5560/status/2097037184247418903/photo/1",
+              "media_key": "3_2096844930249531393",
+              "start": 36,
+              "url": "https://t.co/0DF8ryHxeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097037184247418903",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096844930249531393"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "商家是真的很怕门店被查啊）\n话说现在的社会还有这种荤的敢直接挂美团吗😁 https://t.co/0DF8ryHxeF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097037184247418903",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7587,
+          "following_count": 1725,
+          "like_count": 37921,
+          "listed_count": 17,
+          "media_count": 3582,
+          "tweet_count": 16208
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

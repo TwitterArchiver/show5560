@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101385596992393216"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2101615601617609111",
+    "created_at": "2026-09-20T10:13:00.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101615601617609111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3c0nLgVn58",
+          "end": 56,
+          "expanded_url": "https://x.com/show5560/status/2101615601617609111/photo/1",
+          "media_key": "3_2101385596992393216",
+          "start": 33,
+          "url": "https://t.co/3c0nLgVn58"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101615601617609111",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101385596992393216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天津，你还是太超前了\n这个超长蛋挞火了之后还专门开了一个门店来卖 https://t.co/3c0nLgVn58"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_2101385596992393216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmfERzakAAmTEz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101385596992393216"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2101615601617609111",
+        "created_at": "2026-09-20T10:13:00.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101615601617609111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3c0nLgVn58",
+              "end": 56,
+              "expanded_url": "https://x.com/show5560/status/2101615601617609111/photo/1",
+              "media_key": "3_2101385596992393216",
+              "start": 33,
+              "url": "https://t.co/3c0nLgVn58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101615601617609111",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101385596992393216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天津，你还是太超前了\n这个超长蛋挞火了之后还专门开了一个门店来卖 https://t.co/3c0nLgVn58"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101615601617609111",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7802,
+          "following_count": 1722,
+          "like_count": 38223,
+          "listed_count": 17,
+          "media_count": 3640,
+          "tweet_count": 16722
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094427794323513344"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2094455172722205055",
+    "created_at": "2026-08-31T16:00:00.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094455172722205055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SfLHkjv8PY",
+          "end": 52,
+          "expanded_url": "https://x.com/show5560/status/2094455172722205055/photo/1",
+          "media_key": "3_2094427794323513344",
+          "start": 29,
+          "url": "https://t.co/SfLHkjv8PY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094455172722205055",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094427794323513344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你不能看对方是残疾人就看不起对方，对方也是很有攻击力的😠 https://t.co/SfLHkjv8PY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 541,
+        "media_key": "3_2094427794323513344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDm-3BboAAK15l.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094427794323513344"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2094455172722205055",
+        "created_at": "2026-08-31T16:00:00.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094455172722205055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfLHkjv8PY",
+              "end": 52,
+              "expanded_url": "https://x.com/show5560/status/2094455172722205055/photo/1",
+              "media_key": "3_2094427794323513344",
+              "start": 29,
+              "url": "https://t.co/SfLHkjv8PY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094455172722205055",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094427794323513344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不能看对方是残疾人就看不起对方，对方也是很有攻击力的😠 https://t.co/SfLHkjv8PY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094455172722205055",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7356,
+          "following_count": 1721,
+          "like_count": 37089,
+          "listed_count": 17,
+          "media_count": 3415,
+          "tweet_count": 15612
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

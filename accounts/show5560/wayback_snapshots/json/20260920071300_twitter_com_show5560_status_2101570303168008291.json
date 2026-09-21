@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101385382311129088"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2101570303168008291",
+    "created_at": "2026-09-20T07:13:00.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T08:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101570303168008291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H39i6LTNg9",
+          "end": 66,
+          "expanded_url": "https://x.com/show5560/status/2101570303168008291/photo/1",
+          "media_key": "3_2101385382311129088",
+          "start": 43,
+          "url": "https://t.co/H39i6LTNg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101570303168008291",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101385382311129088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这应该是深圳后海最矮的建筑了，这么贵的地方小米建这么矮嘛 一楼是小米之家，二楼是展览 https://t.co/H39i6LTNg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2101385382311129088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSme3yDacAAMWHH.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101385382311129088"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2101570303168008291",
+        "created_at": "2026-09-20T07:13:00.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101570303168008291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H39i6LTNg9",
+              "end": 66,
+              "expanded_url": "https://x.com/show5560/status/2101570303168008291/photo/1",
+              "media_key": "3_2101385382311129088",
+              "start": 43,
+              "url": "https://t.co/H39i6LTNg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101570303168008291",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101385382311129088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这应该是深圳后海最矮的建筑了，这么贵的地方小米建这么矮嘛 一楼是小米之家，二楼是展览 https://t.co/H39i6LTNg9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101570303168008291",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7804,
+          "following_count": 1723,
+          "like_count": 38223,
+          "listed_count": 17,
+          "media_count": 3636,
+          "tweet_count": 16717
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

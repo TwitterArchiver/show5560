@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2094228059734110524",
+    "created_at": "2026-08-31T09:11:17.000Z",
+    "display_text_range": [
+      17,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094352313230242160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417020458801799170",
+          "start": 0,
+          "username": "UmiNeko11101010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094352313230242160",
+    "in_reply_to_user_id": "1417020458801799170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094228059734110524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UmiNeko11101010 我其实是很好奇是怎么建成这样的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2094228059734110524",
+        "created_at": "2026-08-31T09:11:17.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094352313230242160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417020458801799170",
+              "start": 0,
+              "username": "UmiNeko11101010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094352313230242160",
+        "in_reply_to_user_id": "1417020458801799170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094228059734110524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UmiNeko11101010 我其实是很好奇是怎么建成这样的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417020458801799170",
+        "conversation_id": "2094228059734110524",
+        "created_at": "2026-08-31T00:57:32.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094228059734110524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/show5560/status/2094213582456230222",
+              "start": 16,
+              "url": "https://t.co/5isGqoocfG"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "74fad2166ae8b8e6"
+        },
+        "id": "2094228059734110524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1828,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094213582456230222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来很危险，其实一点也不安全 https://t.co/5isGqoocfG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094352313230242160",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7296,
+          "following_count": 1721,
+          "like_count": 37002,
+          "listed_count": 17,
+          "media_count": 3408,
+          "tweet_count": 15549
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T07:16:28.000Z",
+        "description": "平平无奇的开卡店的。\n同时也是小说作者，个人投资者，旅行者。\n卡店在 https://t.co/G738UDU6DM\n随机回关。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maps.app.goo.gl/wBuqVyeLPG4y3C…",
+                "end": 58,
+                "expanded_url": "https://maps.app.goo.gl/wBuqVyeLPG4y3C9ZA",
+                "start": 35,
+                "url": "https://t.co/G738UDU6DM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellacards.base.shop",
+                "end": 23,
+                "expanded_url": "https://stellacards.base.shop/",
+                "start": 0,
+                "url": "https://t.co/f8oz3UFVI4"
+              }
+            ]
+          }
+        },
+        "id": "1417020458801799170",
+        "is_identity_verified": true,
+        "location": "大阪市北区天神桥三丁目5-9 スタートレカ",
+        "most_recent_tweet_id": "2094340906526924885",
+        "name": "浮世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417020458801799170/1721059376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813055870504476674/e3JN8Yi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6760,
+          "following_count": 974,
+          "like_count": 257974,
+          "listed_count": 39,
+          "media_count": 5425,
+          "tweet_count": 29078
+        },
+        "url": "https://t.co/f8oz3UFVI4",
+        "username": "UmiNeko11101010",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

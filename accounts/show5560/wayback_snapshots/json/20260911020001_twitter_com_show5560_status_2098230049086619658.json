@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098073946839257088"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2098230049086619658",
+    "created_at": "2026-09-11T02:00:01.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T03:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098230049086619658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFMJUGtnEM",
+          "end": 169,
+          "expanded_url": "https://x.com/show5560/status/2098230049086619658/photo/1",
+          "media_key": "3_2098073946839257088",
+          "start": 146,
+          "url": "https://t.co/cFMJUGtnEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098230049086619658",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098073946839257088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "苦难真的是文学的温床吗？\n“我时常万念俱灰，也时常死灰复燃。\n生活给了我多少积雪，我就能遇到多少个春天。”\n这是视频里王老师写的诗词，真的很容易看哭...\n我觉得苦难就是苦难，苦难并不值得被歌颂\n文学是来源于生活的，而往往是最基层的工作人员更能接触到生活，而从苦难中迸发的思想才是文学的温床\n其实还有有很多人觉得他配不上这个奖——\n可是，他真的是配不上这个奖项吗？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "苦难真的是文学的温床吗？\n“我时常万念俱灰，也时常死灰复燃。\n生活给了我多少积雪，我就能遇到多少个春天。”\n这是视频里王老师写的诗词，真的很容易看哭...\n我觉得苦难就是苦难，苦难并不值得被歌颂\n文学是来源于生活的，而往往是最基层的工作人员更能接触到生活，而从苦难中迸发的思想才是文学的温床 https://t.co/cFMJUGtnEM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 585,
+        "media_key": "3_2098073946839257088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3bI3nbEAAd-o5.png",
+        "width": 635
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098073946839257088"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2098230049086619658",
+        "created_at": "2026-09-11T02:00:01.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098230049086619658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFMJUGtnEM",
+              "end": 169,
+              "expanded_url": "https://x.com/show5560/status/2098230049086619658/photo/1",
+              "media_key": "3_2098073946839257088",
+              "start": 146,
+              "url": "https://t.co/cFMJUGtnEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098230049086619658",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098073946839257088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "苦难真的是文学的温床吗？\n“我时常万念俱灰，也时常死灰复燃。\n生活给了我多少积雪，我就能遇到多少个春天。”\n这是视频里王老师写的诗词，真的很容易看哭...\n我觉得苦难就是苦难，苦难并不值得被歌颂\n文学是来源于生活的，而往往是最基层的工作人员更能接触到生活，而从苦难中迸发的思想才是文学的温床\n其实还有有很多人觉得他配不上这个奖——\n可是，他真的是配不上这个奖项吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苦难真的是文学的温床吗？\n“我时常万念俱灰，也时常死灰复燃。\n生活给了我多少积雪，我就能遇到多少个春天。”\n这是视频里王老师写的诗词，真的很容易看哭...\n我觉得苦难就是苦难，苦难并不值得被歌颂\n文学是来源于生活的，而往往是最基层的工作人员更能接触到生活，而从苦难中迸发的思想才是文学的温床 https://t.co/cFMJUGtnEM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//目前就这样，有需要在加★目前已被一个叫酥墨漓的人格夺舍了本账号，简单来说，就是换运营了~o( =∩ω∩= )m",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098230049086619658",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7670,
+          "following_count": 1724,
+          "like_count": 38047,
+          "listed_count": 17,
+          "media_count": 3528,
+          "tweet_count": 16266
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

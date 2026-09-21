@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2096930732077982190",
+    "created_at": "2026-09-07T11:59:05.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096931257766826234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096931257766826234",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096930732077982190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 好的））我看不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2096930732077982190",
+        "created_at": "2026-09-07T11:59:05.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096931257766826234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096931257766826234",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096930732077982190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 好的））我看不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2096930732077982190",
+        "created_at": "2026-09-07T11:57:00.000Z",
+        "display_text_range": [
+          0,
+          249
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096930732077982190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "http://www.w3.org/2000/svg is an XML namespace, first defined in the Scalable Vector Graphics (SVG) 1.0 Specification and subsequently added to by SVG 1.1, SVG 1.2 and SVG 2. The SVG namespace is mutable; names may be added over time by the W3C SVG Working Group by publication in W3C Technical",
+              "display_url": "w3.org/2000/svg",
+              "end": 91,
+              "expanded_url": "https://www.w3.org/2000/svg",
+              "start": 68,
+              "status": 200,
+              "title": "SVG namespace",
+              "unwound_url": "https://www.w3.org/2000/svg",
+              "url": "https://t.co/bJXegaUYHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096930732077982190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "w3.org/2000/svg",
+                "end": 88,
+                "expanded_url": "http://www.w3.org/2000/svg",
+                "start": 65,
+                "url": "https://t.co/W7RTpX6z3V"
+              }
+            ]
+          },
+          "text": "如果你手边有电脑的话，请跟我做：\n\n1. 新建一个文本文件；\n\n2. 在这个文本文件中，写入以下代码：\n\n<svg xmlns=\"https://t.co/W7RTpX6z3V\"\nwidth=\"690\" height=\"565\" viewBox=\"340 100 690 565\">\n<g fill=\"none\" stroke=\"#000\" stroke-width=\"3.5\"\nstroke-linecap=\"round\" stroke-linejoin=\"round\">\n<path d=\"M 371 333\nC 389 307, 383 254, 405 214\nC 450 143, 522 117, 590 120\nC 698 115, 768 185, 809 289\nC 855 408, 965 514, 1009 643\"/>\n<path d=\"M 371 333\nC 418 366, 441 415, 438 470\nC 438 536, 402 592, 359 644\"/>\n<path d=\"M 405 214 C 373 218, 362 262, 384 285\"/>\n<path d=\"M 375 247 C 378.651798 235.131657, 388.971409 232.431558, 395.305925 237.377858\"/>\n<ellipse cx=\"535\" cy=\"230\" rx=\"58\" ry=\"55\"/>\n<circle cx=\"555\" cy=\"232\" r=\"27\" stroke-width=\"5.5\"/>\n<path d=\"M 382.756998 342 H 493\"/>\n</g>\n</svg>\n\n（你的文件内容应该以「<svg」开头，以「</svg>」结尾。）\n\n3. 保存，然后把这个文本文件的扩展名改成「.svg」；\n\n4. 用浏览器打开这个文件，你将会看到一个惊喜！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你手边有电脑的话，请跟我做：\n\n1. 新建一个文本文件；\n\n2. 在这个文本文件中，写入以下代码：\n\n&lt;svg xmlns=\"https://t.co/bJXegaUYHp\"\nwidth=\"690\" height=\"565\" viewBox=\"340 100 690 565\"&gt;\n&lt;g fill=\"none\" stroke=\"#000\" stroke-width=\"3.5\"\nstroke-linecap=\"round\" stroke-linejoin=\"round\"&gt;"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096931257766826234",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7587,
+          "following_count": 1725,
+          "like_count": 37906,
+          "listed_count": 17,
+          "media_count": 3575,
+          "tweet_count": 16194
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096930732077982190",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19327,
+          "following_count": 891,
+          "like_count": 35424,
+          "listed_count": 32,
+          "media_count": 2987,
+          "tweet_count": 13379
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
