@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2103714431259824423",
+    "created_at": "2026-09-27T06:07:11.000Z",
+    "display_text_range": [
+      17,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T07:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104090456179282403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064870849493237760",
+          "start": 0,
+          "username": "HsiaoChiLaowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104090456179282403",
+    "in_reply_to_user_id": "2064870849493237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103940941954592988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HsiaoChiLaowang （悲）\n这些药的副作用真的太可怕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2103714431259824423",
+        "created_at": "2026-09-27T06:07:11.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104090456179282403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064870849493237760",
+              "start": 0,
+              "username": "HsiaoChiLaowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104090456179282403",
+        "in_reply_to_user_id": "2064870849493237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103940941954592988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HsiaoChiLaowang （悲）\n这些药的副作用真的太可怕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064870849493237760",
+        "conversation_id": "2103714431259824423",
+        "created_at": "2026-09-26T20:13:04.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103940941954592988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103940941954592988",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103714431259824423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 奧氮平傻吃猛長150斤🫠熟悉的托魯地文拉法辛🫠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104090456179282403",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8296,
+          "following_count": 1720,
+          "like_count": 38586,
+          "listed_count": 16,
+          "media_count": 3800,
+          "tweet_count": 17074
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T00:55:21.000Z",
+        "description": "喵嗚？關注老王喵關注老王謝謝喵⋯線上原皮，線下高p！嗚⋯老王的日常？hrt1k+days的老必登mtf，一切捲土重來吧qwq老王是一隻可（圓）愛（頭）貓（耄）貓（耋）喔，時不時喵嗚（哈氣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/SHLxd7n-wz",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/SHLxd7n-wz",
+                "start": 0,
+                "url": "https://t.co/qGzMwCRMdQ"
+              }
+            ]
+          }
+        },
+        "id": "2064870849493237760",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2103944078249648244",
+        "name": "⁺✞ʚ老王重度依賴ɞ✟₊🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2065005195013329252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064870849493237760/1783201511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079498709621260288/VAFB4ghu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 171,
+          "like_count": 1275,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/qGzMwCRMdQ",
+        "username": "HsiaoChiLaowang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102101393465380864"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2102249780286197776",
+    "created_at": "2026-09-22T04:13:00.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T05:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102249780286197776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TeWiSteiYL",
+          "end": 87,
+          "expanded_url": "https://x.com/show5560/status/2102249780286197776/photo/1",
+          "media_key": "3_2102101393465380864",
+          "start": 64,
+          "url": "https://t.co/TeWiSteiYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102249780286197776",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102101393465380864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊？春秋航空我记得票不是挺便宜的嘛(°ー°〃) \n竟然都盈利了，还盈利了那么多（虽然我不喜欢坐春秋航空就是了，坐着太难受了）🤔 https://t.co/TeWiSteiYL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1413,
+        "media_key": "3_2102101393465380864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwqFHdbkAAE3Ko.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102101393465380864"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2102249780286197776",
+        "created_at": "2026-09-22T04:13:00.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102249780286197776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TeWiSteiYL",
+              "end": 87,
+              "expanded_url": "https://x.com/show5560/status/2102249780286197776/photo/1",
+              "media_key": "3_2102101393465380864",
+              "start": 64,
+              "url": "https://t.co/TeWiSteiYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102249780286197776",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102101393465380864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？春秋航空我记得票不是挺便宜的嘛(°ー°〃) \n竟然都盈利了，还盈利了那么多（虽然我不喜欢坐春秋航空就是了，坐着太难受了）🤔 https://t.co/TeWiSteiYL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102249780286197776",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7808,
+          "following_count": 1721,
+          "like_count": 38255,
+          "listed_count": 17,
+          "media_count": 3679,
+          "tweet_count": 16779
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

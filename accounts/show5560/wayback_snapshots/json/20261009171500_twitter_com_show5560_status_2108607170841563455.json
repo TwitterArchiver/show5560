@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108486378300579840"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2108607170841563455",
+    "created_at": "2026-10-09T17:15:00.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T18:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108607170841563455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qmKr2zMCqS",
+          "end": 86,
+          "expanded_url": "https://x.com/show5560/status/2108607170841563455/photo/1",
+          "media_key": "3_2108486378300579840",
+          "start": 63,
+          "url": "https://t.co/qmKr2zMCqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108607170841563455",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108486378300579840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在那个年代，朝九晚五是辛苦的代名词！ \n现在呢.....朝九晚五叫做轻松工作，这已经不是什么能不能吃苦的问题了，这是压榨啊😭 https://t.co/qmKr2zMCqS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2108486378300579840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HULZMJhbIAAIDvT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108486378300579840"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2108607170841563455",
+        "created_at": "2026-10-09T17:15:00.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T18:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108607170841563455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmKr2zMCqS",
+              "end": 86,
+              "expanded_url": "https://x.com/show5560/status/2108607170841563455/photo/1",
+              "media_key": "3_2108486378300579840",
+              "start": 63,
+              "url": "https://t.co/qmKr2zMCqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108607170841563455",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108486378300579840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在那个年代，朝九晚五是辛苦的代名词！ \n现在呢.....朝九晚五叫做轻松工作，这已经不是什么能不能吃苦的问题了，这是压榨啊😭 https://t.co/qmKr2zMCqS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108607170841563455",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8905,
+          "following_count": 1722,
+          "like_count": 39384,
+          "listed_count": 20,
+          "media_count": 4206,
+          "tweet_count": 17877
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

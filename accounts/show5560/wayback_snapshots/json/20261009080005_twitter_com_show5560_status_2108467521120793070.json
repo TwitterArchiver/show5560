@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2108395274716733804",
+    "created_at": "2026-10-09T08:00:05.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T09:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108467521120793070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1534960200116908032",
+          "start": 0,
+          "username": "kotomi0km"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108467521120793070",
+    "in_reply_to_user_id": "1534960200116908032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108409201378873820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotomi0km 就真不能是兄弟变妻子吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2108395274716733804",
+        "created_at": "2026-10-09T08:00:05.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T09:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108467521120793070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1534960200116908032",
+              "start": 0,
+              "username": "kotomi0km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108467521120793070",
+        "in_reply_to_user_id": "1534960200116908032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108409201378873820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotomi0km 就真不能是兄弟变妻子吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534960200116908032",
+        "conversation_id": "2108395274716733804",
+        "created_at": "2026-10-09T04:08:20.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108409201378873820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108409201378873820",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108395274716733804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 也有可能是有了妻就忘了兄弟（x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108467521120793070",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8902,
+          "following_count": 1722,
+          "like_count": 39348,
+          "listed_count": 20,
+          "media_count": 4187,
+          "tweet_count": 17845
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-09T18:07:06.000Z",
+        "description": "from ■■ to ■■\nchunithm/arcaea player\nbuilding myself without reality\nwish for more connection\nNO POLITICAL PARTICIPATION!!!",
+        "id": "1534960200116908032",
+        "is_identity_verified": false,
+        "location": "an unreachable non-existance",
+        "most_recent_tweet_id": "2108451319803728234",
+        "name": "空明kotomi",
+        "pinned_tweet_id": "2107148118412390680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534960200116908032/1786259653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086350317063684096/Fmn9vu_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 265,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "kotomi0km",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

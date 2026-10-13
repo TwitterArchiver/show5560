@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2105405574678511686",
+    "created_at": "2026-10-01T07:28:21.000Z",
+    "display_text_range": [
+      15,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T08:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105560432115368273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "343101286",
+          "start": 0,
+          "username": "char297171636"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105560432115368273",
+    "in_reply_to_user_id": "343101286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105464957160862195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@char297171636 就很搞笑，然后还一大堆要求的来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2105405574678511686",
+        "created_at": "2026-10-01T07:28:21.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105560432115368273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "343101286",
+              "start": 0,
+              "username": "char297171636"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105560432115368273",
+        "in_reply_to_user_id": "343101286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105464957160862195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@char297171636 就很搞笑，然后还一大堆要求的来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343101286",
+        "conversation_id": "2105405574678511686",
+        "created_at": "2026-10-01T01:08:58.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T02:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105464957160862195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105464957160862195",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105405574678511686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 孕妇都吃金拱门了。笑了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105560432115368273",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8570,
+          "following_count": 1724,
+          "like_count": 38774,
+          "listed_count": 19,
+          "media_count": 3906,
+          "tweet_count": 17291
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-27T02:05:05.000Z",
+        "description": "リン廃/鏡音リン/IDOLM@STER/765Pro/やよい担当 /春香担当/mugen/第六駆逐隊/電浆/P.C.S/佐城雪美P/ユメノ堕ち",
+        "id": "343101286",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2105517067944562838",
+        "name": "char_as",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1462856065/_001_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 2970,
+          "like_count": 9610,
+          "listed_count": 9,
+          "media_count": 424,
+          "tweet_count": 6079
+        },
+        "url": "",
+        "username": "char297171636",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

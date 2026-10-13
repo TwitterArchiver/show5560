@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106029187333271552"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2106029195789021410",
+    "created_at": "2026-10-02T14:31:03.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T15:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106029195789021410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HyN3ANfIVs",
+          "end": 51,
+          "expanded_url": "https://x.com/show5560/status/2106029195789021410/photo/1",
+          "media_key": "3_2106029187333271552",
+          "start": 28,
+          "url": "https://t.co/HyN3ANfIVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106029195789021410",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106029187333271552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小同志\n是胜利飞燕号的声音太响\n还是你听不见我迪迦说话 https://t.co/HyN3ANfIVs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_2106029187333271552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToeYz2asAApG24.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106029187333271552"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2106029195789021410",
+        "created_at": "2026-10-02T14:31:03.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106029195789021410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyN3ANfIVs",
+              "end": 51,
+              "expanded_url": "https://x.com/show5560/status/2106029195789021410/photo/1",
+              "media_key": "3_2106029187333271552",
+              "start": 28,
+              "url": "https://t.co/HyN3ANfIVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106029195789021410",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106029187333271552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小同志\n是胜利飞燕号的声音太响\n还是你听不见我迪迦说话 https://t.co/HyN3ANfIVs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106029195789021410",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8644,
+          "following_count": 1723,
+          "like_count": 38908,
+          "listed_count": 20,
+          "media_count": 3953,
+          "tweet_count": 17395
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

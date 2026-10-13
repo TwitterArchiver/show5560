@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104640907752652800"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2104846893402771470",
+    "created_at": "2026-09-29T08:13:00.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T09:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104846893402771470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4WaFRD8C2e",
+          "end": 93,
+          "expanded_url": "https://x.com/show5560/status/2104846893402771470/photo/1",
+          "media_key": "3_2104640907752652800",
+          "start": 70,
+          "url": "https://t.co/4WaFRD8C2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104846893402771470",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104640907752652800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类用了400多万年，才走到今天\n计算机，只用了80年。\n我们总在讨论AI现在有多强， 却很少有人意识到一个更可怕的问题——\n它才刚刚出生 https://t.co/4WaFRD8C2e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1479,
+        "media_key": "3_2104640907752652800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUvwTZaQAAJ0JG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104640907752652800"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2104846893402771470",
+        "created_at": "2026-09-29T08:13:00.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104846893402771470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4WaFRD8C2e",
+              "end": 93,
+              "expanded_url": "https://x.com/show5560/status/2104846893402771470/photo/1",
+              "media_key": "3_2104640907752652800",
+              "start": 70,
+              "url": "https://t.co/4WaFRD8C2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104846893402771470",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104640907752652800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类用了400多万年，才走到今天\n计算机，只用了80年。\n我们总在讨论AI现在有多强， 却很少有人意识到一个更可怕的问题——\n它才刚刚出生 https://t.co/4WaFRD8C2e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104846893402771470",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8556,
+          "following_count": 1720,
+          "like_count": 38677,
+          "listed_count": 18,
+          "media_count": 3857,
+          "tweet_count": 17188
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

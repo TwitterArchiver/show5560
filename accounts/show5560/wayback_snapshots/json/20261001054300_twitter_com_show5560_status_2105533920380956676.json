@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105340623691878400"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2105533920380956676",
+    "created_at": "2026-10-01T05:43:00.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T06:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105533920380956676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0u81UOSsbD",
+          "end": 71,
+          "expanded_url": "https://x.com/show5560/status/2105533920380956676/photo/1",
+          "media_key": "3_2105340623691878400",
+          "start": 48,
+          "url": "https://t.co/0u81UOSsbD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105533920380956676",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105340623691878400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是想不明白，为什么都不愿意签劳动合同？\n而且，我不问福利我怎么才能决定要不要入职你们公司？！ https://t.co/0u81UOSsbD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_2105340623691878400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTesJIZakAAlCuo.png",
+        "width": 509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105340623691878400"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2105533920380956676",
+        "created_at": "2026-10-01T05:43:00.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105533920380956676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0u81UOSsbD",
+              "end": 71,
+              "expanded_url": "https://x.com/show5560/status/2105533920380956676/photo/1",
+              "media_key": "3_2105340623691878400",
+              "start": 48,
+              "url": "https://t.co/0u81UOSsbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105533920380956676",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105340623691878400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是想不明白，为什么都不愿意签劳动合同？\n而且，我不问福利我怎么才能决定要不要入职你们公司？！ https://t.co/0u81UOSsbD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105533920380956676",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8571,
+          "following_count": 1724,
+          "like_count": 38759,
+          "listed_count": 19,
+          "media_count": 3904,
+          "tweet_count": 17279
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

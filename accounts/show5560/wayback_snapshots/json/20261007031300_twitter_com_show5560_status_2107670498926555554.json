@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107484254892666880"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2107670498926555554",
+    "created_at": "2026-10-07T03:13:00.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T04:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107670498926555554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zvIfTZR2Fi",
+          "end": 82,
+          "expanded_url": "https://x.com/show5560/status/2107670498926555554/photo/1",
+          "media_key": "3_2107484254892666880",
+          "start": 59,
+          "url": "https://t.co/zvIfTZR2Fi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107670498926555554",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107484254892666880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有这样的学校吗? \n为什么要压榨我们的艺术课? \n压榨我们的双休，把我们当成免费劳动力，教出来的某些人道德就没好过🥺 https://t.co/zvIfTZR2Fi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_2107484254892666880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9Jw46bMAAAgjV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107484254892666880"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2107670498926555554",
+        "created_at": "2026-10-07T03:13:00.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107670498926555554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvIfTZR2Fi",
+              "end": 82,
+              "expanded_url": "https://x.com/show5560/status/2107670498926555554/photo/1",
+              "media_key": "3_2107484254892666880",
+              "start": 59,
+              "url": "https://t.co/zvIfTZR2Fi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107670498926555554",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107484254892666880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有这样的学校吗? \n为什么要压榨我们的艺术课? \n压榨我们的双休，把我们当成免费劳动力，教出来的某些人道德就没好过🥺 https://t.co/zvIfTZR2Fi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107670498926555554",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8826,
+          "following_count": 1723,
+          "like_count": 39189,
+          "listed_count": 20,
+          "media_count": 4105,
+          "tweet_count": 17678
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

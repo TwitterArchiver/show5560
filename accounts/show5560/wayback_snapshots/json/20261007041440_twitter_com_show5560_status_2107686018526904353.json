@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2107661845565932022",
+    "created_at": "2026-10-07T04:14:40.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T05:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107686018526904353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1269442820580016129",
+          "start": 0,
+          "username": "Hikari_Ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107686018526904353",
+    "in_reply_to_user_id": "1269442820580016129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107661845565932022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari_Ciallo 好久不见🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8166,
+        "height": 1280,
+        "media_key": "13_2107661729639583744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107661729639583744/img/wlz3Cb0iotSc6BHg.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107661729639583744/vid/avc1/320x568/ETBHS2ZP5NmdRfpx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107661729639583744/vid/avc1/480x852/8DsD0rKOCfEzJbQJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107661729639583744/vid/avc1/720x1280/wZ8h7rwxeYzmS9_e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107661729639583744/pl/4x6bT6yyD956drnr.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2107661729622847488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT_rLRza8AAft1-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2107661845565932022",
+        "created_at": "2026-10-07T04:14:40.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107686018526904353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1269442820580016129",
+              "start": 0,
+              "username": "Hikari_Ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107686018526904353",
+        "in_reply_to_user_id": "1269442820580016129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107661845565932022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari_Ciallo 好久不见🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107661729639583744",
+            "3_2107661729622847488"
+          ]
+        },
+        "author_id": "1269442820580016129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107661845565932022",
+        "created_at": "2026-10-07T02:38:37.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T03:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107661845565932022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReXfC4Bwgr",
+              "end": 45,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/2107661845565932022/video/1",
+              "media_key": "13_2107661729639583744",
+              "start": 22,
+              "url": "https://t.co/ReXfC4Bwgr"
+            },
+            {
+              "display_url": "pic.x.com/ReXfC4Bwgr",
+              "end": 45,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/2107661845565932022/video/1",
+              "media_key": "3_2107661729622847488",
+              "start": 22,
+              "url": "https://t.co/ReXfC4Bwgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107661845565932022",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107661729639583744"
+          },
+          {
+            "media_key": "3_2107661729622847488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫大币圈全黄但是星星留尾了于是寸了。。 https://t.co/ReXfC4Bwgr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107686018526904353",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8831,
+          "following_count": 1723,
+          "like_count": 39210,
+          "listed_count": 20,
+          "media_count": 4110,
+          "tweet_count": 17695
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-07T01:35:53.000Z",
+        "description": "这里是Hikari-QAQ 喜欢玩音游、碧蓝档案-国际服、听歌、看番、推gal｜互联网重度依赖｜社恐，不太会说话，但希望和大家交朋友，如果说错什么非常抱歉qwq｜会回fo对得上电波的人｜黄推/无推文/bio/长期锁推/粉丝极少且关注多的会b｜想要变可爱｜友跨｜欢迎贴贴｜请和我交流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikariqaq.montaigne.io/hikari",
+                "end": 23,
+                "expanded_url": "https://hikariqaq.montaigne.io/hikari",
+                "start": 0,
+                "url": "https://t.co/YZa16a7Nl4"
+              }
+            ]
+          }
+        },
+        "id": "1269442820580016129",
+        "is_identity_verified": false,
+        "location": "奏坂学园",
+        "most_recent_tweet_id": "2107665289093763118",
+        "name": " Hikari低浮上版",
+        "pinned_tweet_id": "1775437822209691813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1269442820580016129/1734159382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636665337042341889/sZKJv1ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 680,
+          "like_count": 299124,
+          "listed_count": 8,
+          "media_count": 2457,
+          "tweet_count": 61690
+        },
+        "url": "https://t.co/YZa16a7Nl4",
+        "username": "Hikari_Ciallo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

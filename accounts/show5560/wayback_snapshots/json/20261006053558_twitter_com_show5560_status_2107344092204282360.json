@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2107262812468781531",
+    "created_at": "2026-10-06T05:35:58.000Z",
+    "display_text_range": [
+      17,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T06:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107344092204282360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644914881668448265",
+          "start": 0,
+          "username": "xiaoyaodez51072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107344092204282360",
+    "in_reply_to_user_id": "1644914881668448265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107279012871721402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyaodez51072 这孩子打小就适合互联网这个行业😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2107262812468781531",
+        "created_at": "2026-10-06T05:35:58.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107344092204282360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644914881668448265",
+              "start": 0,
+              "username": "xiaoyaodez51072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107344092204282360",
+        "in_reply_to_user_id": "1644914881668448265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107279012871721402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyaodez51072 这孩子打小就适合互联网这个行业😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644914881668448265",
+        "conversation_id": "2107262812468781531",
+        "created_at": "2026-10-06T01:17:22.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T02:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107279012871721402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107279012871721402",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107262812468781531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这孩子打小就抽象"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107344092204282360",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8716,
+          "following_count": 1721,
+          "like_count": 39124,
+          "listed_count": 20,
+          "media_count": 4070,
+          "tweet_count": 17610
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-09T04:07:51.000Z",
+        "description": "AI 辅助二创｜有趣作品分享\n记录自己的 AI 使用体验，也聊日常里留下来的好用东西。\n这里是秋水的兴趣小角落。",
+        "id": "1644914881668448265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107343847072178183",
+        "name": "天宮 秋水",
+        "pinned_tweet_id": "2106326564963275077",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1644914881668448265/1790658521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103021826406518784/SIsAC7i9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 427,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "xiaoyaodez51072",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

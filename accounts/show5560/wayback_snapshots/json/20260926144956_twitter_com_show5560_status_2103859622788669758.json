@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2103743680121377090",
+    "created_at": "2026-09-26T14:49:56.000Z",
+    "display_text_range": [
+      14,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103859622788669758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1531882275591180288",
+          "start": 0,
+          "username": "dogdog461892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103859622788669758",
+    "in_reply_to_user_id": "1531882275591180288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103743680121377090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogdog461892 我的傻狗呢🥺\n我还我修狗（bushi）\n你真的好可爱😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2103743671288176640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTH_uRGboAAWyQP.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2103743670629646336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTH_uOpbQAAppBE.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2103743680121377090",
+        "created_at": "2026-09-26T14:49:56.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103859622788669758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1531882275591180288",
+              "start": 0,
+              "username": "dogdog461892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103859622788669758",
+        "in_reply_to_user_id": "1531882275591180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103743680121377090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogdog461892 我的傻狗呢🥺\n我还我修狗（bushi）\n你真的好可爱😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103743671288176640",
+            "3_2103743670629646336"
+          ]
+        },
+        "author_id": "1531882275591180288",
+        "conversation_id": "2103743680121377090",
+        "created_at": "2026-09-26T07:09:13.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103743680121377090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9w0egTDSrq",
+              "end": 72,
+              "expanded_url": "https://x.com/dogdog461892/status/2103743680121377090/photo/1",
+              "media_key": "3_2103743671288176640",
+              "start": 49,
+              "url": "https://t.co/9w0egTDSrq"
+            },
+            {
+              "display_url": "pic.x.com/9w0egTDSrq",
+              "end": 72,
+              "expanded_url": "https://x.com/dogdog461892/status/2103743680121377090/photo/1",
+              "media_key": "3_2103743670629646336",
+              "start": 49,
+              "url": "https://t.co/9w0egTDSrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103743680121377090",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103743671288176640"
+          },
+          {
+            "media_key": "3_2103743670629646336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 4948,
+          "like_count": 292,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "全都是借口，是我想亲手了解了羂索，这个局面全都是我造成的，都是因为我，所以\n领域展开【真赝相爱】 https://t.co/9w0egTDSrq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103859622788669758",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8278,
+          "following_count": 1720,
+          "like_count": 38552,
+          "listed_count": 16,
+          "media_count": 3782,
+          "tweet_count": 17041
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-01T06:16:27.000Z",
+        "description": "所以我会收拾好我的东西 然后逃到很远的地方\n04生理男心理男烟鬼【已有老婆不约不线下勿扰 线下方式只支持线下八角笼以武会友】",
+        "id": "1531882275591180288",
+        "is_identity_verified": false,
+        "location": "福州十六中",
+        "most_recent_tweet_id": "2103817897617592615",
+        "name": "海绵宝宝犬犬儿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531882275591180288/1764727638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993960389730816001/87xS6zNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8402,
+          "following_count": 676,
+          "like_count": 6101,
+          "listed_count": 24,
+          "media_count": 140,
+          "tweet_count": 1563
+        },
+        "url": "",
+        "username": "dogdog461892",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

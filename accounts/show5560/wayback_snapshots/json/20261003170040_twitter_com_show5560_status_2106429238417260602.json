@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2106205847907143697",
+    "created_at": "2026-10-03T17:00:40.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106429238417260602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067577976703844352",
+          "start": 0,
+          "username": "AccountFQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106429238417260602",
+    "in_reply_to_user_id": "2067577976703844352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106399056230838486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AccountFQ 我去？！真的假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2106205847907143697",
+        "created_at": "2026-10-03T17:00:40.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106429238417260602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067577976703844352",
+              "start": 0,
+              "username": "AccountFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106429238417260602",
+        "in_reply_to_user_id": "2067577976703844352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106399056230838486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AccountFQ 我去？！真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067577976703844352",
+        "conversation_id": "2106205847907143697",
+        "created_at": "2026-10-03T15:00:44.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106399056230838486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106399056230838486",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106205847907143697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 骗你的，省重点重点班也在打"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106429238417260602",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8682,
+          "following_count": 1722,
+          "like_count": 38984,
+          "listed_count": 20,
+          "media_count": 3992,
+          "tweet_count": 17470
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T12:01:42.000Z",
+        "description": "欢迎互fo~|东南大学|MTF🏳️‍⚧️|HRT 2025.02|生产日期:08年05月|前数学竞赛生|C++|💕@yue_li0712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yue_li0712"
+              }
+            ]
+          }
+        },
+        "id": "2067577976703844352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106399056230838486",
+        "name": "雾叶晴🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067577976703844352/1783779813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067578734098657280/SyoIPar0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 190,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "AccountFQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2107474205516484839",
+    "created_at": "2026-10-06T18:01:52.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T19:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107531804580389023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107531804580389023",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107523057221075356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 还真是）\n直接羡慕哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2107474205516484839",
+        "created_at": "2026-10-06T18:01:52.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T19:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107531804580389023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107531804580389023",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107523057221075356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 还真是）\n直接羡慕哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989517742127652866",
+        "conversation_id": "2107474205516484839",
+        "created_at": "2026-10-06T17:27:07.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T18:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107523057221075356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107523057221075356",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107474205516484839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 深中依旧超模什么社团都有 隔壁馋哭了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107531804580389023",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8794,
+          "following_count": 1722,
+          "like_count": 39191,
+          "listed_count": 20,
+          "media_count": 4094,
+          "tweet_count": 17666
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "求回fo喵wwww\n一般路过 553/Ag/any\n09.12\n音ゲー/Minecraft/VRC/DTM/FPV\n含大量负能量\n喵就是心情好\nCN/EN 欢迎私信www\n查成分通过/回fo\n粉红/卖的/看黄男勿扰\n旧账@femo114 2023-2025.11\n备用@agsg_553",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 110,
+                "username": "femo114"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spiffy-language-ee5.notion.site/SPACE-59554394…",
+                "end": 23,
+                "expanded_url": "https://spiffy-language-ee5.notion.site/SPACE-59554394c10e47ac905b694114b99809?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/HlwYDFjUul"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "is_identity_verified": false,
+        "location": "日记/捐赠🫱",
+        "most_recent_tweet_id": "2107525514999312644",
+        "name": "AG553",
+        "pinned_tweet_id": "2101682773534912586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989517742127652866/1781934414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074846041879511040/MyFS7zss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 1691,
+          "like_count": 48454,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 4441
+        },
+        "url": "https://t.co/HlwYDFjUul",
+        "username": "AGNK_553",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

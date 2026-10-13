@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2105392739940712788",
+    "created_at": "2026-10-01T14:35:12.000Z",
+    "display_text_range": [
+      8,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T15:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105667853156577691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045513838850641921",
+          "start": 0,
+          "username": "intqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105667853156577691",
+    "in_reply_to_user_id": "2045513838850641921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105392739940712788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intqwq 丸辣，这个儿子没救了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_2105362700964667393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfAOMpbIAEFtGW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2105392739940712788",
+        "created_at": "2026-10-01T14:35:12.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105667853156577691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "intqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105667853156577691",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105392739940712788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intqwq 丸辣，这个儿子没救了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105362700964667393"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2105392739940712788",
+        "created_at": "2026-09-30T20:22:00.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T21:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105392739940712788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yt5tkPmI0g",
+              "end": 28,
+              "expanded_url": "https://x.com/intqwq/status/2105392739940712788/photo/1",
+              "media_key": "3_2105362700964667393",
+              "start": 5,
+              "url": "https://t.co/Yt5tkPmI0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105392739940712788",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105362700964667393"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 103585,
+          "like_count": 1164,
+          "quote_count": 1,
+          "reply_count": 85,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "开小号吧 https://t.co/Yt5tkPmI0g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105667853156577691",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8579,
+          "following_count": 1724,
+          "like_count": 38829,
+          "listed_count": 19,
+          "media_count": 3922,
+          "tweet_count": 17331
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜交易员｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Entia non sunt multiplicanda praeter necessitatem",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2105629299797610794",
+        "name": "数原律",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3449,
+          "following_count": 783,
+          "like_count": 5101,
+          "listed_count": 5,
+          "media_count": 1106,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "intqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

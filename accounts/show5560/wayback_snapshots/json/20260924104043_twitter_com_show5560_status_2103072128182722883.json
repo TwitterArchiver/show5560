@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2103043258922242057",
+    "created_at": "2026-09-24T10:40:43.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T11:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103072128182722883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945314547126185984",
+          "start": 0,
+          "username": "pysimpom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103072128182722883",
+    "in_reply_to_user_id": "1945314547126185984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103050853460455699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pysimpom 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2103043258922242057",
+        "created_at": "2026-09-24T10:40:43.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103072128182722883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945314547126185984",
+              "start": 0,
+              "username": "pysimpom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103072128182722883",
+        "in_reply_to_user_id": "1945314547126185984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103050853460455699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pysimpom 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945314547126185984",
+        "conversation_id": "2103043258922242057",
+        "created_at": "2026-09-24T09:16:10.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103050853460455699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103050853460455699",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103043258922242057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 有氯化钠晶体的话，一切都好说"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103072128182722883",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8247,
+          "following_count": 1719,
+          "like_count": 38390,
+          "listed_count": 17,
+          "media_count": 3731,
+          "tweet_count": 16910
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T02:48:34.000Z",
+        "description": "AI严重依赖症 计算机视觉|深度学习|控制|航天方向 \n特摄厨，BA厨，美漫厨 | blender和绘画在学 | 现在南京 | vibe，古法两手抓中\ngithub:https://t.co/GbsMIU43kQ|\npixiv: https://t.co/uBOpnioxoi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/evilmordy",
+                "end": 106,
+                "expanded_url": "http://github.com/evilmordy",
+                "start": 83,
+                "url": "https://t.co/GbsMIU43kQ"
+              },
+              {
+                "display_url": "pixiv.net/users/124402039",
+                "end": 138,
+                "expanded_url": "https://www.pixiv.net/users/124402039",
+                "start": 115,
+                "url": "https://t.co/uBOpnioxoi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evilmordy.github.io",
+                "end": 23,
+                "expanded_url": "https://evilmordy.github.io/",
+                "start": 0,
+                "url": "https://t.co/FSqpXOQBRV"
+              }
+            ]
+          }
+        },
+        "id": "1945314547126185984",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103067321900404977",
+        "name": "fake sensei",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945314547126185984/1756868477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051128729565626368/v82xhxsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1351,
+          "like_count": 10748,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 2838
+        },
+        "url": "https://t.co/FSqpXOQBRV",
+        "username": "pysimpom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

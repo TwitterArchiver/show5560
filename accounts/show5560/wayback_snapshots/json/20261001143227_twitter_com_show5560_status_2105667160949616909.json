@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2105525436663132329",
+    "created_at": "2026-10-01T14:32:27.000Z",
+    "display_text_range": [
+      15,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T15:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105667160949616909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672761170040692739",
+          "start": 0,
+          "username": "FrankkkkkkLau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105667160949616909",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105525436663132329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@FrankkkkkkLau 是滨寿司！好耶\n可惜海南这边滨寿司和寿司郎都没有😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2105525395496087552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThUMRAbsAASfHt.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2105525436663132329",
+        "created_at": "2026-10-01T14:32:27.000Z",
+        "display_text_range": [
+          15,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105667160949616909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105667160949616909",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105525436663132329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FrankkkkkkLau 是滨寿司！好耶\n可惜海南这边滨寿司和寿司郎都没有😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105525395496087552"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105525436663132329",
+        "created_at": "2026-10-01T05:09:17.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105525436663132329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGWrDl9vCQ",
+              "end": 31,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2105525436663132329/photo/1",
+              "media_key": "3_2105525395496087552",
+              "start": 8,
+              "url": "https://t.co/LGWrDl9vCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105525436663132329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105525395496087552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 578,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "滨寿司好吃咪😺 https://t.co/LGWrDl9vCQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105667160949616909",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8579,
+          "following_count": 1724,
+          "like_count": 38817,
+          "listed_count": 19,
+          "media_count": 3922,
+          "tweet_count": 17325
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Likes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2105666147890892939",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1789053960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 1113,
+          "like_count": 14706,
+          "listed_count": 1,
+          "media_count": 649,
+          "tweet_count": 2682
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104932983052619777"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2105224381144183195",
+    "created_at": "2026-09-30T09:13:00.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T10:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105224381144183195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pqlp6g5KQ8",
+          "end": 51,
+          "expanded_url": "https://x.com/show5560/status/2105224381144183195/photo/1",
+          "media_key": "3_2104932983052619777",
+          "start": 28,
+          "url": "https://t.co/Pqlp6g5KQ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105224381144183195",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104932983052619777"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直以为青梅竹马是从小到大的好朋友呢\n原来不是的嘛🤔 https://t.co/Pqlp6g5KQ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_2104932983052619777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTY5ZUra0AEgeoh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104932983052619777"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2105224381144183195",
+        "created_at": "2026-09-30T09:13:00.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105224381144183195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pqlp6g5KQ8",
+              "end": 51,
+              "expanded_url": "https://x.com/show5560/status/2105224381144183195/photo/1",
+              "media_key": "3_2104932983052619777",
+              "start": 28,
+              "url": "https://t.co/Pqlp6g5KQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105224381144183195",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104932983052619777"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直以为青梅竹马是从小到大的好朋友呢\n原来不是的嘛🤔 https://t.co/Pqlp6g5KQ8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105224381144183195",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8557,
+          "following_count": 1721,
+          "like_count": 38747,
+          "listed_count": 19,
+          "media_count": 3882,
+          "tweet_count": 17245
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106040614769057792"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2106387042338848892",
+    "created_at": "2026-10-03T14:13:00.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106387042338848892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R8d5tDKzKw",
+          "end": 60,
+          "expanded_url": "https://x.com/show5560/status/2106387042338848892/photo/1",
+          "media_key": "3_2106040614769057792",
+          "start": 37,
+          "url": "https://t.co/R8d5tDKzKw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106387042338848892",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106040614769057792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈从小教育我别人，睡觉的时候要保持安静\n长大后才发现不是每个人都有妈妈 https://t.co/R8d5tDKzKw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 785,
+        "media_key": "3_2106040614769057792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToox-Xa4AAVF_R.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106040614769057792"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2106387042338848892",
+        "created_at": "2026-10-03T14:13:00.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106387042338848892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8d5tDKzKw",
+              "end": 60,
+              "expanded_url": "https://x.com/show5560/status/2106387042338848892/photo/1",
+              "media_key": "3_2106040614769057792",
+              "start": 37,
+              "url": "https://t.co/R8d5tDKzKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106387042338848892",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106040614769057792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈从小教育我别人，睡觉的时候要保持安静\n长大后才发现不是每个人都有妈妈 https://t.co/R8d5tDKzKw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106387042338848892",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8681,
+          "following_count": 1722,
+          "like_count": 38975,
+          "listed_count": 20,
+          "media_count": 3990,
+          "tweet_count": 17461
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

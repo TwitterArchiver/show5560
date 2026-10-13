@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2104973453392478354",
+    "created_at": "2026-09-29T18:07:31.000Z",
+    "display_text_range": [
+      32,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T19:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104996510593339768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 31,
+          "id": "1657588281163517952",
+          "start": 16,
+          "username": "NihonKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104996510593339768",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104973453392478354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @NihonKanjousen 哇哇！！好诶🥰\n好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2104968927298060288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZaFjbWAAAb-1b.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2104973453392478354",
+        "created_at": "2026-09-29T18:07:31.000Z",
+        "display_text_range": [
+          32,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T19:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104996510593339768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 31,
+              "id": "1657588281163517952",
+              "start": 16,
+              "username": "NihonKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104996510593339768",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104973453392478354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @NihonKanjousen 哇哇！！好诶🥰\n好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104968927298060288"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2104973453392478354",
+        "created_at": "2026-09-29T16:35:54.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104973453392478354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 93,
+              "id": "1918274202580467713",
+              "start": 78,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 125,
+              "id": "1657588281163517952",
+              "start": 110,
+              "username": "NihonKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVtOkqbFiC",
+              "end": 185,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2104973453392478354/photo/1",
+              "media_key": "3_2104968927298060288",
+              "start": 162,
+              "url": "https://t.co/OVtOkqbFiC"
+            },
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 209,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2101657566631575839",
+              "start": 186,
+              "url": "https://t.co/RaC1dogQ5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104973453392478354",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104968927298060288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 93,
+                "id": "1918274202580467713",
+                "start": 78,
+                "username": "CyberKanjousen"
+              },
+              {
+                "end": 125,
+                "id": "1657588281163517952",
+                "start": 110,
+                "username": "NihonKanjousen"
+              }
+            ]
+          },
+          "text": "[OC 自设公开] \n猫本環状線（Nekomoto Kanjousen）\n\n今后还将约两张猫本環状線的稿子作为環状線两个推特账号的头像。\n在新头像交付之前，@CyberKanjousen 将暂时使用環状線的立绘作为头像；@NihonKanjousen 将暂时使用原头像。\n---\n10 月初的女装准备 cos 猫本環状線。\n不过由于裙子的发货时间比環状線预料中晚了 3 天，所以……環状線这次的女装只好从 10 月 1 日推迟到 4 日了喵😭😭😭"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2260,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101657566631575839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "[OC 自设公开] \n猫本環状線（Nekomoto Kanjousen）\n\n今后还将约两张猫本環状線的稿子作为環状線两个推特账号的头像。\n在新头像交付之前，@CyberKanjousen 将暂时使用環状線的立绘作为头像；@NihonKanjousen 将暂时使用原头像。\n---\n10 月初的女装准备 cos 猫本環状線。 https://t.co/OVtOkqbFiC https://t.co/RaC1dogQ5d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104996510593339768",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8558,
+          "following_count": 1719,
+          "like_count": 38704,
+          "listed_count": 19,
+          "media_count": 3865,
+          "tweet_count": 17219
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104986086456136026",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104975397016219648/zuGLMOkY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21402,
+          "following_count": 891,
+          "like_count": 36973,
+          "listed_count": 33,
+          "media_count": 3357,
+          "tweet_count": 14339
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-05-14T03:29:58.000Z",
+        "description": "中国人 | CN/JP/EN | まのさば好き | トランスの方に優しい | ねこになりたい\n本垢: @CyberKanjousen\nお金くれ: https://t.co/6rYVS0LFEN\nＥメール: cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "CyberKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 96,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 73,
+                "url": "https://t.co/6rYVS0LFEN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/tqkdDK5wbB"
+              }
+            ]
+          }
+        },
+        "id": "1657588281163517952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104870335980130465",
+        "name": "サイバー環状線🇯🇵",
+        "pinned_tweet_id": "2085034326446813256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657588281163517952/1772186457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429349288148992/lArIhLA5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 26,
+          "like_count": 388,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/tqkdDK5wbB",
+        "username": "NihonKanjousen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

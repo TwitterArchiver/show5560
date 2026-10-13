@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "1841012513380712876",
+    "created_at": "2024-10-02T02:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T03:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841305518897615217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1519673257552936961",
+          "start": 0,
+          "username": "canger_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841305518897615217",
+    "in_reply_to_user_id": "1519673257552936961",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841012513380712876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canger_6 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "1841012513380712876",
+        "created_at": "2024-10-02T02:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T03:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841305518897615217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1519673257552936961",
+              "start": 0,
+              "username": "canger_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841305518897615217",
+        "in_reply_to_user_id": "1519673257552936961",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841012513380712876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canger_6 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841012502748131328"
+          ]
+        },
+        "author_id": "1519673257552936961",
+        "conversation_id": "1841012513380712876",
+        "created_at": "2024-10-01T07:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T08:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841012513380712876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJHRun4Jf4",
+              "end": 29,
+              "expanded_url": "https://x.com/canger_6/status/1841012513380712876/photo/1",
+              "media_key": "3_1841012502748131328",
+              "start": 6,
+              "url": "https://t.co/NJHRun4Jf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841012513380712876",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1160,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蝈蝻证件照 https://t.co/NJHRun4Jf4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★06Mtf一只🍥☆ 笨蛋一个 △想成为一个大魔法师△ ♡想要被独爱（如果有就好了）♡ 消失的里世界₍˄·͈༝·͈˄*₎◞ ̑̑｜突然就没有什么生活的兴趣了",
+        "id": "1465701247021838341",
+        "location": "即将死亡",
+        "name": "☆暮暮★",
+        "pinned_tweet_id": "1835518582966632454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835284829782552576/Hm1IWadl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 1163,
+          "like_count": 24199,
+          "listed_count": 3,
+          "tweet_count": 5259
+        },
+        "username": "show5560",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T13:42:02.000Z",
+        "description": "",
+        "id": "1519673257552936961",
+        "name": "苍耳🍥",
+        "pinned_tweet_id": "1832831327558914169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818239516098121729/sg7qoAlS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1262,
+          "like_count": 20582,
+          "listed_count": 4,
+          "tweet_count": 4479
+        },
+        "username": "canger_6",
+        "verified": false
+      }
+    ]
+  }
+}

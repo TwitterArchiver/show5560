@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2106991021682721037",
+    "created_at": "2026-10-05T15:51:44.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T16:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107136666565738510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662686494312771584",
+          "start": 0,
+          "username": "0xCherryX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107136666565738510",
+    "in_reply_to_user_id": "1662686494312771584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107111158776049670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xCherryX 朗朗上口是唱出来的吧😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2106991021682721037",
+        "created_at": "2026-10-05T15:51:44.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107136666565738510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662686494312771584",
+              "start": 0,
+              "username": "0xCherryX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107136666565738510",
+        "in_reply_to_user_id": "1662686494312771584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107111158776049670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xCherryX 朗朗上口是唱出来的吧😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662686494312771584",
+        "conversation_id": "2106991021682721037",
+        "created_at": "2026-10-05T14:10:23.000Z",
+        "display_text_range": [
+          10,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T15:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107111158776049670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107111158776049670",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106991021682721037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 很好背，韵律感强，朗朗上口。直到现在我都觉得背这个是一种享受。可以听一下那首改编的歌辅助理解。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107136666565738510",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8700,
+          "following_count": 1720,
+          "like_count": 39107,
+          "listed_count": 20,
+          "media_count": 4056,
+          "tweet_count": 17584
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-28T05:05:39.000Z",
+        "description": "Cross-Industry Strategic Partner for Apple, McDonald’s & OpenAI\n0x8499979b198c97a7c1cc67a8303532f4b8da0059",
+        "id": "1662686494312771584",
+        "is_identity_verified": true,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2107126642938372389",
+        "name": "CherryZ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662686494312771584/1780894218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107081577448767488/YRLuHyNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 275,
+          "like_count": 9972,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "0xCherryX",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

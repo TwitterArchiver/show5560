@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2106988137344012442",
+    "created_at": "2026-10-06T05:45:36.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T06:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107346514574266782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700935161301655552",
+          "start": 0,
+          "username": "qingshixiang258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107346514574266782",
+    "in_reply_to_user_id": "1700935161301655552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106988137344012442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingshixiang258 根本没有这样的兔兔！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 314,
+        "media_key": "16_2106987745914789888",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HT2GMQ1aIAA6Cm0.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HT2GMQ1aIAA6Cm0.mp4"
+          }
+        ],
+        "width": 560
+      },
+      {
+        "height": 314,
+        "media_key": "16_2106987745784795136",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HT2GMQWakAABS3f.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HT2GMQWakAABS3f.mp4"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2106988137344012442",
+        "created_at": "2026-10-06T05:45:36.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107346514574266782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107346514574266782",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106988137344012442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 根本没有这样的兔兔！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106987745914789888",
+            "16_2106987745784795136"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2106988137344012442",
+        "created_at": "2026-10-05T06:01:32.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106988137344012442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxxYo07lM1",
+              "end": 23,
+              "expanded_url": "https://x.com/qingshixiang258/status/2106988137344012442/photo/1",
+              "media_key": "16_2106987745914789888",
+              "start": 0,
+              "url": "https://t.co/oxxYo07lM1"
+            },
+            {
+              "display_url": "pic.x.com/oxxYo07lM1",
+              "end": 23,
+              "expanded_url": "https://x.com/qingshixiang258/status/2106988137344012442/photo/1",
+              "media_key": "16_2106987745784795136",
+              "start": 0,
+              "url": "https://t.co/oxxYo07lM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106988137344012442",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2106987745914789888"
+          },
+          {
+            "media_key": "16_2106987745784795136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 36016,
+          "like_count": 3177,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 284
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oxxYo07lM1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107346514574266782",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8719,
+          "following_count": 1721,
+          "like_count": 39142,
+          "listed_count": 20,
+          "media_count": 4070,
+          "tweet_count": 17622
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "is_identity_verified": false,
+        "location": "风起地",
+        "most_recent_tweet_id": "2107315986231935112",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700935161301655552/1785071301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104658724950540288/io-K0FEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 1669,
+          "like_count": 47076,
+          "listed_count": 7,
+          "media_count": 1451,
+          "tweet_count": 22150
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

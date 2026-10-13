@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097048537154682880"
+      ]
+    },
+    "author_id": "1465701247021838341",
+    "conversation_id": "2097293888839107031",
+    "created_at": "2026-09-08T12:00:03.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097293888839107031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C1z2iGBZPT",
+          "end": 53,
+          "expanded_url": "https://x.com/show5560/status/2097293888839107031/photo/1",
+          "media_key": "3_2097048537154682880",
+          "start": 30,
+          "url": "https://t.co/C1z2iGBZPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097293888839107031",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097048537154682880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人道主义养殖的牛，只是偶尔遭受到语言暴力😂\n莫名的有点好笑 https://t.co/C1z2iGBZPT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2097048537154682880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRo2iK3bgAA8kC6.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097048537154682880"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2097293888839107031",
+        "created_at": "2026-09-08T12:00:03.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097293888839107031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1z2iGBZPT",
+              "end": 53,
+              "expanded_url": "https://x.com/show5560/status/2097293888839107031/photo/1",
+              "media_key": "3_2097048537154682880",
+              "start": 30,
+              "url": "https://t.co/C1z2iGBZPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097293888839107031",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097048537154682880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人道主义养殖的牛，只是偶尔遭受到语言暴力😂\n莫名的有点好笑 https://t.co/C1z2iGBZPT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097293888839107031",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7624,
+          "following_count": 1725,
+          "like_count": 37982,
+          "listed_count": 17,
+          "media_count": 3597,
+          "tweet_count": 16245
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

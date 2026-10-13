@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2102702765231485419",
+    "created_at": "2026-09-23T13:45:23.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T14:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102756214333644890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1020653511871205376",
+          "start": 0,
+          "username": "HikaricoPho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102756214333644890",
+    "in_reply_to_user_id": "1020653511871205376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102754672524345762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HikaricoPho 原来是这样🤔\n长知识了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2102702765231485419",
+        "created_at": "2026-09-23T13:45:23.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102756214333644890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1020653511871205376",
+              "start": 0,
+              "username": "HikaricoPho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102756214333644890",
+        "in_reply_to_user_id": "1020653511871205376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102754672524345762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HikaricoPho 原来是这样🤔\n长知识了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1020653511871205376",
+        "conversation_id": "2102702765231485419",
+        "created_at": "2026-09-23T13:39:15.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102754672524345762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102754672524345762",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102702765231485419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 赌场赚钱是通过手续费的，如果钱输光了以后不来了就赚不到钱了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102756214333644890",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8061,
+          "following_count": 1719,
+          "like_count": 38354,
+          "listed_count": 17,
+          "media_count": 3712,
+          "tweet_count": 16866
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-21T12:55:34.000Z",
+        "description": "嫌いな、こんな毎日。\nzh,en,wuu OK,ja basically ok,amateur translator and poet,Japanese learner(JLPT N2,実際はN114514),MDD patient, Icon from:shinukamo_don, Bannerfrom:SCA_DI",
+        "id": "1020653511871205376",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2102754672524345762",
+        "name": "HikaricoPho",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1020653511871205376/1613370070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982658373712506880/K28x8j_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 385,
+          "like_count": 26752,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 4207
+        },
+        "url": "",
+        "username": "HikaricoPho",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

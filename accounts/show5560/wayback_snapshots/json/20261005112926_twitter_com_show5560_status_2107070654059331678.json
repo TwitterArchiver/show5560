@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2107048123205919034",
+    "created_at": "2026-10-05T11:29:26.000Z",
+    "display_text_range": [
+      21,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107070654059331678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943561677762646016",
+          "start": 0,
+          "username": "qusuunmd"
+        },
+        {
+          "end": 20,
+          "id": "1368897611672018953",
+          "start": 10,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107070654059331678",
+    "in_reply_to_user_id": "1943561677762646016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107048123205919034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qusuunmd @XUEQIUxka owo\n有蓝v了好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2107048117199941632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT29GVZbsAAoPlt.jpg",
+        "width": 1887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2107048123205919034",
+        "created_at": "2026-10-05T11:29:26.000Z",
+        "display_text_range": [
+          21,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107070654059331678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 20,
+              "id": "1368897611672018953",
+              "start": 10,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107070654059331678",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107048123205919034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd @XUEQIUxka owo\n有蓝v了好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107048117199941632"
+          ]
+        },
+        "author_id": "1943561677762646016",
+        "conversation_id": "2107048123205919034",
+        "created_at": "2026-10-05T09:59:54.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107048123205919034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1368897611672018953",
+              "start": 2,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ff6l8ayILE",
+              "end": 44,
+              "expanded_url": "https://x.com/qusuunmd/status/2107048123205919034/photo/1",
+              "media_key": "3_2107048117199941632",
+              "start": 21,
+              "url": "https://t.co/Ff6l8ayILE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107048123205919034",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107048117199941632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢@XUEQIUxka 送的蓝v 嘻嘻 https://t.co/Ff6l8ayILE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107070654059331678",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8690,
+          "following_count": 1720,
+          "like_count": 39089,
+          "listed_count": 20,
+          "media_count": 4049,
+          "tweet_count": 17572
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高二牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/摄影📹（Canon r8）（偶尔飞飞老的不行的air3）/偶尔玩玩cos/已炸柜/家暴党",
+        "id": "1943561677762646016",
+        "is_identity_verified": false,
+        "location": "Hachinohe-shi, Aomori",
+        "most_recent_tweet_id": "2107063262739366297",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943561677762646016/1772934743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 507,
+          "like_count": 3081,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 1370
+        },
+        "url": "",
+        "username": "qusuunmd",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2107066770918154739",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10015,
+          "following_count": 2321,
+          "like_count": 33611,
+          "listed_count": 27,
+          "media_count": 2165,
+          "tweet_count": 6649
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

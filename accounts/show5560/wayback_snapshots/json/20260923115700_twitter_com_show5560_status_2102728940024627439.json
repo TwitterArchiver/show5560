@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2102476272840663319",
+    "created_at": "2026-09-23T11:57:00.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102728940024627439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787043136646361089",
+          "start": 0,
+          "username": "lzln196064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102728940024627439",
+    "in_reply_to_user_id": "1787043136646361089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102714102930178219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzln196064 这样吗🤔\n那也和现在团购差不多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2102476272840663319",
+        "created_at": "2026-09-23T11:57:00.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102728940024627439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787043136646361089",
+              "start": 0,
+              "username": "lzln196064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102728940024627439",
+        "in_reply_to_user_id": "1787043136646361089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102714102930178219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzln196064 这样吗🤔\n那也和现在团购差不多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787043136646361089",
+        "conversation_id": "2102476272840663319",
+        "created_at": "2026-09-23T10:58:03.000Z",
+        "display_text_range": [
+          10,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102714102930178219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102714102930178219",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102476272840663319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 这是优惠券价格 以前有个姐姐在那打工大把大把拿优惠券"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102728940024627439",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8021,
+          "following_count": 1719,
+          "like_count": 38332,
+          "listed_count": 17,
+          "media_count": 3710,
+          "tweet_count": 16851
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-05T08:54:43.000Z",
+        "description": "",
+        "id": "1787043136646361089",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2102715180979515512",
+        "name": "腌过的咸鱼3.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787043136646361089/1787522911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090664008181559296/KDh3uQSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 111,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "lzln196064",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

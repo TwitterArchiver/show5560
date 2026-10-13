@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2105994455199392151",
+    "created_at": "2026-10-03T02:58:55.000Z",
+    "display_text_range": [
+      10,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106217403751559386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840708439544352768",
+          "start": 0,
+          "username": "seiunn04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106217403751559386",
+    "in_reply_to_user_id": "1840708439544352768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106179574769823909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiunn04 那这题出的）对不对都得看老师心情（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2105994455199392151",
+        "created_at": "2026-10-03T02:58:55.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106217403751559386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840708439544352768",
+              "start": 0,
+              "username": "seiunn04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106217403751559386",
+        "in_reply_to_user_id": "1840708439544352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106179574769823909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiunn04 那这题出的）对不对都得看老师心情（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840708439544352768",
+        "conversation_id": "2105994455199392151",
+        "created_at": "2026-10-03T00:28:36.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T01:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106179574769823909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106179574769823909",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105994455199392151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 其实理论上这几个答案都不对\n老美有夏令时（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106217403751559386",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8672,
+          "following_count": 1721,
+          "like_count": 38944,
+          "listed_count": 20,
+          "media_count": 3967,
+          "tweet_count": 17423
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "雨上がりの一番星",
+        "id": "1840708439544352768",
+        "is_identity_verified": false,
+        "location": "Atlanta, GA",
+        "most_recent_tweet_id": "2106200209307111652",
+        "name": "测地线上的魔法使",
+        "pinned_tweet_id": "2088444177163993598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840708439544352768/1749275719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087958218798452736/Kp1e6fc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 1526,
+          "like_count": 20770,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 4046
+        },
+        "url": "",
+        "username": "seiunn04",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

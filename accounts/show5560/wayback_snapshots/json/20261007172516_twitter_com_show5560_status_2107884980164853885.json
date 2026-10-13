@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1465701247021838341",
+    "conversation_id": "2107798293761970679",
+    "created_at": "2026-10-07T17:25:16.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T18:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107884980164853885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1531882275591180288",
+          "start": 0,
+          "username": "dogdog461892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107884980164853885",
+    "in_reply_to_user_id": "1531882275591180288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107798293761970679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogdog461892 可爱捏ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5766,
+        "height": 1280,
+        "media_key": "13_2107798265400074241",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107798265400074241/img/yaurx4AxxcYndcO1.jpg",
+        "public_metrics": {
+          "view_count": 307
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107798265400074241/vid/avc1/320x568/8NEL95mWbGGMHt9k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107798265400074241/vid/avc1/480x852/Pvm_16MjUD7SsmI6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107798265400074241/vid/avc1/720x1280/eUigHMv3lGDNziyV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107798265400074241/pl/M8PcorxazipkFrPj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2107798293761970679",
+        "created_at": "2026-10-07T17:25:16.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T18:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107884980164853885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1531882275591180288",
+              "start": 0,
+              "username": "dogdog461892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107884980164853885",
+        "in_reply_to_user_id": "1531882275591180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107798293761970679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogdog461892 可爱捏ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107798265400074241"
+          ]
+        },
+        "author_id": "1531882275591180288",
+        "conversation_id": "2107798293761970679",
+        "created_at": "2026-10-07T11:40:48.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T12:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107798293761970679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86xxRu1Agi",
+              "end": 31,
+              "expanded_url": "https://x.com/dogdog461892/status/2107798293761970679/video/1",
+              "media_key": "13_2107798265400074241",
+              "start": 8,
+              "url": "https://t.co/86xxRu1Agi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107798293761970679",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107798265400074241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1120,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这期有点可爱了 https://t.co/86xxRu1Agi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107884980164853885",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8876,
+          "following_count": 1724,
+          "like_count": 39259,
+          "listed_count": 20,
+          "media_count": 4133,
+          "tweet_count": 17742
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-01T06:16:27.000Z",
+        "description": "所以我会收拾好我的东西 然后逃到很远的地方\n04生理男心理男烟鬼【已有老婆不约不线下勿扰 线下方式只支持线下八角笼以武会友】",
+        "id": "1531882275591180288",
+        "is_identity_verified": false,
+        "location": "福州十六中",
+        "most_recent_tweet_id": "2107846387169996984",
+        "name": "海绵宝宝犬犬儿",
+        "pinned_tweet_id": "2107377389902913985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531882275591180288/1764727638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993960389730816001/87xS6zNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8441,
+          "following_count": 678,
+          "like_count": 6146,
+          "listed_count": 24,
+          "media_count": 144,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "dogdog461892",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
